@@ -1,0 +1,152 @@
+{
+ "idioma": "en",
+ "nome": "Inglês",
+ "nome_nativo": "English",
+ "voz": "en-US",
+ "niveis": {
+  "A1": {
+   "nome": "Iniciante", "grupo": "Usuário básico",
+   "descricao": "Você compreende e usa expressões familiares do dia a dia e frases muito simples: apresentar-se, perguntar e responder sobre detalhes pessoais.",
+   "metas": ["Apresentar-se e falar de onde é", "Contar números, horas e preços", "Pedir comida e informações simples", "Usar os 300 verbos mais frequentes"],
+   "gramatica": [
+    {"id": "verb-to-be", "titulo": "Verbo to be (ser/estar)", "explicacao": "To be é o verbo mais usado do inglês e significa ser ou estar. No presente ele muda conforme a pessoa: I am, you are, he/she/it is, we/they are. Na fala, quase sempre se usa a forma contraída: I'm, you're, she's.",
+     "exemplos": [["I am a teacher.", "Eu sou professor."], ["She's tired today.", "Ela está cansada hoje."], ["We aren't late.", "Nós não estamos atrasados."]],
+     "exercicios": [{"p": "They ___ my friends.", "o": ["is", "am", "are"], "r": "are"}, {"p": "I ___ from Brazil.", "o": ["am", "is", "are"], "r": "am"}, {"p": "He ___ at home now.", "o": ["are", "is", "am"], "r": "is"}]},
+    {"id": "present-simple", "titulo": "Presente simples", "explicacao": "Use para rotinas, fatos e gostos. A forma é o infinitivo sem 'to'. Atenção: com he, she e it acrescente -s ou -es (she works, he goes). Para negar e perguntar, use do/does.",
+     "exemplos": [["I work every day.", "Eu trabalho todo dia."], ["She lives in Recife.", "Ela mora em Recife."], ["Do you like coffee?", "Você gosta de café?"]],
+     "exercicios": [{"p": "My brother ___ football on Sundays.", "o": ["play", "plays", "playing"], "r": "plays"}, {"p": "___ you speak English?", "o": ["Does", "Do", "Are"], "r": "Do"}, {"p": "She doesn't ___ meat.", "o": ["eats", "eat", "eating"], "r": "eat"}]},
+    {"id": "pronomes", "titulo": "Pronomes pessoais e possessivos", "explicacao": "Pronomes sujeito vêm antes do verbo (I, you, he, she, it, we, they). Possessivos indicam posse e vêm antes do substantivo (my, your, his, her, its, our, their). Em inglês, o possessivo concorda com o dono, não com a coisa.",
+     "exemplos": [["This is my car.", "Este é o meu carro."], ["Her name is Ana.", "O nome dela é Ana."], ["They love their dog.", "Eles amam o cachorro deles."]],
+     "exercicios": [{"p": "João loves ___ mother.", "o": ["her", "his", "their"], "r": "his"}, {"p": "___ are students.", "o": ["Us", "We", "Our"], "r": "We"}, {"p": "Maria and I visited ___ grandma.", "o": ["our", "my", "their"], "r": "our"}]},
+    {"id": "imperativo", "titulo": "Imperativo: dar instruções", "explicacao": "Para ordens, pedidos e instruções, use o verbo no infinitivo sem sujeito: Open the door. Para negar, coloque don't na frente. Acrescente please para soar educado.",
+     "exemplos": [["Sit down, please.", "Sente-se, por favor."], ["Don't touch that!", "Não toque nisso!"], ["Call me later.", "Me ligue mais tarde."]],
+     "exercicios": [{"p": "___ the window, please.", "o": ["Opens", "Open", "Opening"], "r": "Open"}, {"p": "___ worry. Everything is fine.", "o": ["Not", "Don't", "No"], "r": "Don't"}, {"p": "Please ___ quiet.", "o": ["be", "is", "are"], "r": "be"}]},
+    {"id": "can", "titulo": "Can: poder e saber fazer", "explicacao": "Can expressa habilidade (saber fazer), possibilidade e permissão. Ele não muda com a pessoa e o verbo seguinte fica no infinitivo sem 'to'. A negativa é can't (cannot).",
+     "exemplos": [["I can swim.", "Eu sei nadar."], ["Can I help you?", "Posso ajudar você?"], ["She can't come today.", "Ela não pode vir hoje."]],
+     "exercicios": [{"p": "He can ___ the guitar.", "o": ["plays", "to play", "play"], "r": "play"}, {"p": "___ you speak Spanish?", "o": ["Do can", "Can", "Cans"], "r": "Can"}, {"p": "I ___ find my keys.", "o": ["can't", "don't can", "not can"], "r": "can't"}]}
+   ]
+  },
+  "A2": {
+   "nome": "Elementar", "grupo": "Usuário básico",
+   "descricao": "Você se comunica em tarefas simples que exigem troca direta de informações sobre assuntos familiares: compras, trabalho, família e passado recente.",
+   "metas": ["Contar o que fez ontem", "Fazer planos e combinar horários", "Comparar coisas e pessoas", "Dominar os 800 verbos mais usados"],
+   "gramatica": [
+    {"id": "past-simple", "titulo": "Passado simples", "explicacao": "Use para ações terminadas em um momento do passado. Verbos regulares ganham -ed (worked, played). Os irregulares têm forma própria (go → went, see → saw) e precisam ser memorizados. Para negar e perguntar, use did + infinitivo.",
+     "exemplos": [["I watched a movie yesterday.", "Eu assisti a um filme ontem."], ["We went to the beach.", "Nós fomos à praia."], ["Did you call her?", "Você ligou para ela?"]],
+     "exercicios": [{"p": "She ___ to Paris last year.", "o": ["goes", "went", "gone"], "r": "went"}, {"p": "I didn't ___ the email.", "o": ["saw", "see", "seen"], "r": "see"}, {"p": "They ___ a new house in 2020.", "o": ["buyed", "bought", "buy"], "r": "bought"}]},
+    {"id": "present-continuous", "titulo": "Presente contínuo", "explicacao": "Use am/is/are + verbo com -ing para ações acontecendo agora ou planos já combinados para o futuro próximo. Equivale ao nosso 'estou fazendo'.",
+     "exemplos": [["I'm studying right now.", "Estou estudando agora."], ["She's working from home today.", "Ela está trabalhando de casa hoje."], ["We're meeting at 7.", "Vamos nos encontrar às 7."]],
+     "exercicios": [{"p": "Listen! The baby ___.", "o": ["cries", "is crying", "cry"], "r": "is crying"}, {"p": "What ___ you doing?", "o": ["are", "do", "is"], "r": "are"}, {"p": "He ___ dinner at the moment.", "o": ["cooks", "is cooking", "cooking"], "r": "is cooking"}]},
+    {"id": "going-to", "titulo": "Futuro com going to", "explicacao": "Use am/is/are going to + infinitivo para planos e intenções já decididos, ou previsões baseadas em evidências. Na fala informal vira gonna.",
+     "exemplos": [["I'm going to learn English.", "Vou aprender inglês."], ["It's going to rain.", "Vai chover."], ["Are you going to travel?", "Você vai viajar?"]],
+     "exercicios": [{"p": "We ___ going to visit Grandma.", "o": ["is", "are", "am"], "r": "are"}, {"p": "She's going ___ a new job.", "o": ["start", "to start", "starting"], "r": "to start"}, {"p": "Look at the clouds. It ___ rain.", "o": ["is going to", "goes to", "go to"], "r": "is going to"}]},
+    {"id": "comparativos", "titulo": "Comparativos e superlativos", "explicacao": "Adjetivos curtos ganham -er e -est (cheap, cheaper, the cheapest). Adjetivos longos usam more e the most (more expensive, the most expensive). Irregulares: good → better → the best; bad → worse → the worst.",
+     "exemplos": [["My car is faster than yours.", "Meu carro é mais rápido que o seu."], ["This is the best day ever.", "Este é o melhor dia de todos."], ["English is easier than I thought.", "Inglês é mais fácil do que eu pensava."]],
+     "exercicios": [{"p": "Rio is ___ than Curitiba.", "o": ["hotter", "more hot", "hottest"], "r": "hotter"}, {"p": "She is the ___ student in class.", "o": ["more intelligent", "most intelligent", "intelligenter"], "r": "most intelligent"}, {"p": "Today is ___ than yesterday.", "o": ["gooder", "better", "best"], "r": "better"}]},
+    {"id": "countable", "titulo": "Contáveis, incontáveis e quantidades", "explicacao": "Substantivos contáveis têm plural (apples) e usam many / a few. Incontáveis não têm plural (water, money, information) e usam much / a little. Some aparece em afirmações; any em negativas e perguntas.",
+     "exemplos": [["I don't have much time.", "Não tenho muito tempo."], ["There are a few problems.", "Há alguns problemas."], ["Do you have any questions?", "Você tem alguma pergunta?"]],
+     "exercicios": [{"p": "How ___ money do you need?", "o": ["many", "much", "few"], "r": "much"}, {"p": "There aren't ___ eggs left.", "o": ["some", "any", "much"], "r": "any"}, {"p": "I need some ___.", "o": ["informations", "information", "an information"], "r": "information"}]}
+   ]
+  },
+  "B1": {
+   "nome": "Intermediário", "grupo": "Usuário independente",
+   "descricao": "Você lida com a maioria das situações de viagem e produz textos simples e coesos sobre assuntos do seu interesse, descrevendo experiências, sonhos e planos.",
+   "metas": ["Contar experiências de vida", "Dar opiniões e justificar", "Resolver problemas em viagens", "Usar 1.600 verbos com confiança"],
+   "gramatica": [
+    {"id": "present-perfect", "titulo": "Present perfect", "explicacao": "Formado por have/has + particípio, liga o passado ao presente: experiências de vida (sem data), ações recentes com efeito agora e situações que continuam. Não use com tempo terminado (yesterday, in 2019): aí entra o passado simples.",
+     "exemplos": [["I have been to Chile.", "Já estive no Chile."], ["She has just arrived.", "Ela acabou de chegar."], ["We've lived here for ten years.", "Moramos aqui há dez anos."]],
+     "exercicios": [{"p": "Have you ever ___ sushi?", "o": ["ate", "eaten", "eat"], "r": "eaten"}, {"p": "He ___ finished his homework.", "o": ["have", "has", "had"], "r": "has"}, {"p": "I ___ him yesterday.", "o": ["have seen", "saw", "seen"], "r": "saw"}]},
+    {"id": "past-continuous", "titulo": "Passado contínuo", "explicacao": "Was/were + -ing descreve uma ação em andamento no passado, muitas vezes interrompida por outra no passado simples. Muito usado para contar histórias e criar cenário.",
+     "exemplos": [["I was sleeping when you called.", "Eu estava dormindo quando você ligou."], ["They were watching TV.", "Eles estavam vendo TV."], ["What were you doing at 8?", "O que você estava fazendo às 8?"]],
+     "exercicios": [{"p": "She ___ cooking when the lights went out.", "o": ["was", "were", "is"], "r": "was"}, {"p": "We were ___ when it started to rain.", "o": ["walk", "walking", "walked"], "r": "walking"}, {"p": "While I ___ , my phone rang.", "o": ["was driving", "drove", "drive"], "r": "was driving"}]},
+    {"id": "first-conditional", "titulo": "Primeira condicional", "explicacao": "If + presente simples, will + infinitivo: fala de situações reais e possíveis no futuro. Atenção: depois de if não se usa will.",
+     "exemplos": [["If it rains, I'll stay home.", "Se chover, vou ficar em casa."], ["If you study, you'll pass.", "Se você estudar, vai passar."], ["What will you do if he calls?", "O que você vai fazer se ele ligar?"]],
+     "exercicios": [{"p": "If you ___ hard, you'll succeed.", "o": ["will work", "work", "worked"], "r": "work"}, {"p": "If she comes, I ___ happy.", "o": ["will be", "am", "would be"], "r": "will be"}, {"p": "We'll miss the bus if we ___ now.", "o": ["don't leave", "won't leave", "didn't leave"], "r": "don't leave"}]},
+    {"id": "modals", "titulo": "Modais de obrigação e conselho", "explicacao": "Must e have to expressam obrigação (must é mais pessoal; have to, regra externa). Should dá conselho. Don't have to significa 'não é necessário', enquanto mustn't significa 'é proibido'.",
+     "exemplos": [["You should see a doctor.", "Você deveria ir ao médico."], ["I have to work on Saturday.", "Tenho que trabalhar no sábado."], ["You mustn't smoke here.", "É proibido fumar aqui."]],
+     "exercicios": [{"p": "You look tired. You ___ rest.", "o": ["should", "mustn't", "don't have to"], "r": "should"}, {"p": "It's Sunday. I ___ get up early.", "o": ["mustn't", "don't have to", "must"], "r": "don't have to"}, {"p": "Passengers ___ wear seatbelts.", "o": ["must", "should not", "don't have"], "r": "must"}]},
+    {"id": "gerund-infinitive", "titulo": "Gerúndio ou infinitivo", "explicacao": "Alguns verbos pedem -ing depois deles (enjoy, avoid, finish, mind). Outros pedem 'to' + infinitivo (want, decide, hope, plan). Depois de preposições, use sempre -ing.",
+     "exemplos": [["I enjoy reading.", "Eu gosto de ler."], ["She decided to leave.", "Ela decidiu sair."], ["I'm good at cooking.", "Sou bom em cozinhar."]],
+     "exercicios": [{"p": "He wants ___ a doctor.", "o": ["being", "to be", "be"], "r": "to be"}, {"p": "Do you mind ___ the door?", "o": ["closing", "to close", "close"], "r": "closing"}, {"p": "Thanks for ___ me.", "o": ["help", "to help", "helping"], "r": "helping"}]}
+   ]
+  },
+  "B2": {
+   "nome": "Pós-intermediário", "grupo": "Usuário independente",
+   "descricao": "Você compreende as ideias principais de textos complexos, inclusive técnicos na sua área, e conversa com nativos com fluência e espontaneidade.",
+   "metas": ["Debater prós e contras", "Entender notícias e podcasts", "Escrever e-mails profissionais", "Dominar 3.000 verbos e os phrasal verbs essenciais"],
+   "gramatica": [
+    {"id": "second-third-conditional", "titulo": "Segunda e terceira condicionais", "explicacao": "Segunda: If + passado, would + infinitivo, para situações imaginárias no presente. Terceira: If + past perfect, would have + particípio, para arrependimentos sobre o passado.",
+     "exemplos": [["If I had more time, I would travel.", "Se eu tivesse mais tempo, viajaria."], ["If I were you, I'd accept.", "Se eu fosse você, aceitaria."], ["If she had studied, she would have passed.", "Se ela tivesse estudado, teria passado."]],
+     "exercicios": [{"p": "If I ___ rich, I'd buy a boat.", "o": ["am", "were", "will be"], "r": "were"}, {"p": "If we had left earlier, we ___ the train.", "o": ["would catch", "would have caught", "caught"], "r": "would have caught"}, {"p": "What would you do if you ___ the lottery?", "o": ["won", "win", "had won"], "r": "won"}]},
+    {"id": "passive", "titulo": "Voz passiva", "explicacao": "Use to be no tempo desejado + particípio quando a ação importa mais que quem a fez. O agente aparece com by, se for relevante. É muito comum em notícias, ciência e textos formais.",
+     "exemplos": [["The bridge was built in 1990.", "A ponte foi construída em 1990."], ["English is spoken worldwide.", "O inglês é falado no mundo todo."], ["The report will be sent tomorrow.", "O relatório será enviado amanhã."]],
+     "exercicios": [{"p": "The letter ___ yesterday.", "o": ["was sent", "sent", "is send"], "r": "was sent"}, {"p": "Coffee ___ in Brazil.", "o": ["grows", "is grown", "is grow"], "r": "is grown"}, {"p": "The results will ___ next week.", "o": ["announce", "be announced", "announced"], "r": "be announced"}]},
+    {"id": "reported-speech", "titulo": "Discurso indireto", "explicacao": "Ao relatar o que alguém disse, normalmente o tempo verbal recua um passo: presente vira passado, passado vira past perfect, will vira would. Pronomes e expressões de tempo também mudam.",
+     "exemplos": [["She said she was tired.", "Ela disse que estava cansada."], ["He told me he would call.", "Ele me disse que ligaria."], ["They asked if I had finished.", "Eles perguntaram se eu tinha terminado."]],
+     "exercicios": [{"p": "'I like it.' → She said she ___ it.", "o": ["likes", "liked", "has liked"], "r": "liked"}, {"p": "'I will help.' → He said he ___ help.", "o": ["will", "would", "can"], "r": "would"}, {"p": "'Did you go?' → She asked if I ___.", "o": ["had gone", "go", "did go"], "r": "had gone"}]},
+    {"id": "phrasal-verbs", "titulo": "Phrasal verbs essenciais", "explicacao": "Phrasal verbs combinam verbo + partícula e ganham sentido novo (give up = desistir). Alguns são separáveis (turn the TV off), outros não (look after the kids). Aprenda-os em contexto, como vocabulário próprio.",
+     "exemplos": [["Don't give up!", "Não desista!"], ["Can you pick me up at 6?", "Você pode me buscar às 6?"], ["We ran out of milk.", "Acabou o leite."]],
+     "exercicios": [{"p": "Please turn ___ the lights when you leave.", "o": ["off", "out", "down"], "r": "off"}, {"p": "I'm looking ___ my glasses.", "o": ["at", "for", "after"], "r": "for"}, {"p": "She takes ___ her mother: same smile.", "o": ["after", "off", "over"], "r": "after"}]},
+    {"id": "relative-clauses", "titulo": "Orações relativas", "explicacao": "Who (pessoas), which (coisas) e that (ambos) ligam informações. Nas orações explicativas, entre vírgulas, não se usa that. Whose indica posse e where indica lugar.",
+     "exemplos": [["The man who called is my boss.", "O homem que ligou é meu chefe."], ["This is the book that changed my life.", "Este é o livro que mudou minha vida."], ["The town where I grew up is small.", "A cidade onde cresci é pequena."]],
+     "exercicios": [{"p": "The girl ___ won is my sister.", "o": ["which", "who", "where"], "r": "who"}, {"p": "That's the restaurant ___ we met.", "o": ["where", "which", "who"], "r": "where"}, {"p": "The man ___ car was stolen called the police.", "o": ["who", "whose", "which"], "r": "whose"}]}
+   ]
+  },
+  "C1": {
+   "nome": "Avançado", "grupo": "Usuário proficiente",
+   "descricao": "Você compreende textos longos e exigentes, percebe sentidos implícitos e se expressa com fluidez, sem esforço aparente, em contextos sociais, acadêmicos e profissionais.",
+   "metas": ["Apresentar e negociar no trabalho", "Ler literatura e artigos acadêmicos", "Usar registro formal e informal", "Ampliar para 5.500 verbos"],
+   "gramatica": [
+    {"id": "inversion", "titulo": "Inversão para ênfase", "explicacao": "Depois de expressões negativas ou restritivas no início da frase (never, rarely, not only, hardly, no sooner), o auxiliar vem antes do sujeito. Dá peso e formalidade ao discurso.",
+     "exemplos": [["Never have I seen such a mess.", "Nunca vi tamanha bagunça."], ["Not only did he lie, but he also stole.", "Ele não só mentiu como também roubou."], ["Rarely does she complain.", "Raramente ela reclama."]],
+     "exercicios": [{"p": "Never ___ such a beautiful view.", "o": ["I have seen", "have I seen", "I saw"], "r": "have I seen"}, {"p": "Hardly ___ arrived when it started.", "o": ["had we", "we had", "we have"], "r": "had we"}, {"p": "Not only ___ fast, but also cheap.", "o": ["it is", "is it", "it was being"], "r": "is it"}]},
+    {"id": "mixed-conditionals", "titulo": "Condicionais mistas", "explicacao": "Misturam tempos: uma condição passada com resultado presente (If I had taken the job, I would be rich now) ou uma condição presente com resultado passado (If I were braver, I would have spoken).",
+     "exemplos": [["If I had studied medicine, I'd be a doctor now.", "Se eu tivesse estudado medicina, seria médico agora."], ["If she weren't so shy, she would have gone.", "Se ela não fosse tão tímida, teria ido."]],
+     "exercicios": [{"p": "If I had saved money, I ___ a house now.", "o": ["would have", "would have had", "had"], "r": "would have"}, {"p": "If he ___ more careful, he wouldn't have crashed.", "o": ["were", "is", "will be"], "r": "were"}, {"p": "If we had left on time, we ___ there now.", "o": ["would be", "will be", "were"], "r": "would be"}]},
+    {"id": "modals-deduction", "titulo": "Modais de dedução no passado", "explicacao": "Must have + particípio indica certeza sobre o passado; might/could have, possibilidade; can't have, impossibilidade. Should have expressa crítica ou arrependimento.",
+     "exemplos": [["She must have forgotten.", "Ela deve ter esquecido."], ["He can't have done it.", "Ele não pode ter feito isso."], ["You should have told me.", "Você deveria ter me contado."]],
+     "exercicios": [{"p": "The ground is wet. It ___ rained.", "o": ["must have", "can't have", "should"], "r": "must have"}, {"p": "He was with me all day. He ___ been there.", "o": ["must have", "can't have", "might"], "r": "can't have"}, {"p": "I failed. I ___ studied more.", "o": ["should have", "must have", "can't have"], "r": "should have"}]},
+    {"id": "cleft", "titulo": "Frases clivadas (cleft sentences)", "explicacao": "Estruturas como It was... that e What I need is... destacam uma parte da informação, como fazemos com 'foi ... que' em português.",
+     "exemplos": [["It was Ana who solved it.", "Foi a Ana que resolveu."], ["What I need is a break.", "O que eu preciso é de uma pausa."], ["All I want is peace.", "Tudo o que eu quero é paz."]],
+     "exercicios": [{"p": "___ I love about Rio is the beach.", "o": ["What", "That", "Which"], "r": "What"}, {"p": "It was in 2010 ___ we met.", "o": ["that", "what", "who"], "r": "that"}, {"p": "All I ___ is the truth.", "o": ["want", "wants", "wanting"], "r": "want"}]},
+    {"id": "hedging", "titulo": "Linguagem cautelosa (hedging)", "explicacao": "Em textos acadêmicos e profissionais, suaviza-se afirmações com verbos e advérbios: seem, appear, tend to, arguably, it could be argued that. Isso mostra precisão e cuidado.",
+     "exemplos": [["The results seem to suggest a link.", "Os resultados parecem sugerir uma ligação."], ["It could be argued that prices will rise.", "Pode-se argumentar que os preços vão subir."]],
+     "exercicios": [{"p": "The data ___ to indicate growth.", "o": ["appears", "is sure", "proves"], "r": "appears"}, {"p": "This ___ be the best option.", "o": ["may well", "must surely", "is"], "r": "may well"}, {"p": "People ___ to trust experts.", "o": ["tend", "are tending always", "do always"], "r": "tend"}]}
+   ]
+  },
+  "C2": {
+   "nome": "Fluência total", "grupo": "Usuário proficiente",
+   "descricao": "Você compreende praticamente tudo o que ouve ou lê, resume informações de várias fontes e se expressa de forma espontânea e precisa, distinguindo nuances sutis de significado.",
+   "metas": ["Captar ironia, humor e subentendidos", "Escrever com estilo próprio", "Dominar expressões idiomáticas", "Explorar todo o dicionário de verbos"],
+   "gramatica": [
+    {"id": "subjunctive", "titulo": "Subjuntivo em inglês", "explicacao": "Após verbos e expressões como suggest, insist, demand, it's essential that, usa-se o infinitivo sem flexão, mesmo com he/she: I insist that he be present. Aparece em registros formais e legais.",
+     "exemplos": [["It's vital that she attend the meeting.", "É vital que ela compareça à reunião."], ["They demanded that he resign.", "Exigiram que ele renunciasse."]],
+     "exercicios": [{"p": "I suggest that he ___ earlier.", "o": ["leaves", "leave", "left"], "r": "leave"}, {"p": "It is essential that everyone ___ informed.", "o": ["be", "is", "are"], "r": "be"}, {"p": "She insisted that he ___ the truth.", "o": ["tell", "tells", "told"], "r": "tell"}]},
+    {"id": "nuance-verbs", "titulo": "Nuances entre verbos parecidos", "explicacao": "No C2 a escolha do verbo carrega intenção: claim (alegar, com dúvida) versus state (afirmar); glance (olhar de relance) versus stare (encarar). Dominar esses pares é o que faz um texto soar nativo.",
+     "exemplos": [["He claims he was at home.", "Ele alega que estava em casa."], ["She glanced at her watch.", "Ela olhou de relance para o relógio."], ["Don't stare at people.", "Não encare as pessoas."]],
+     "exercicios": [{"p": "She ___ at the screen for hours, frozen.", "o": ["glanced", "stared", "peeked"], "r": "stared"}, {"p": "The suspect ___ he was innocent (but few believed).", "o": ["claimed", "stated", "proved"], "r": "claimed"}, {"p": "He ___ through the report in five minutes.", "o": ["skimmed", "studied", "examined"], "r": "skimmed"}]},
+    {"id": "idioms", "titulo": "Expressões idiomáticas", "explicacao": "Idioms não se traduzem palavra por palavra: break the ice (quebrar o gelo), cost an arm and a leg (custar os olhos da cara), call it a day (encerrar por hoje). Use-as com moderação e no registro certo.",
+     "exemplos": [["Let's call it a day.", "Vamos encerrar por hoje."], ["That car cost an arm and a leg.", "Aquele carro custou os olhos da cara."], ["It's a piece of cake.", "É moleza."]],
+     "exercicios": [{"p": "The exam was a piece of ___.", "o": ["cake", "pie", "bread"], "r": "cake"}, {"p": "Let's break the ___ with a game.", "o": ["ice", "glass", "silence"], "r": "ice"}, {"p": "We're tired. Let's call it a ___.", "o": ["night", "day", "time"], "r": "day"}]},
+    {"id": "ellipsis", "titulo": "Elipse e substituição", "explicacao": "Falantes avançados evitam repetição omitindo palavras ou usando substitutos (so, do so, one, neither). Exemplo: 'I hope so', 'She can swim and so can I', 'I'd like the red one'.",
+     "exemplos": [["Is it raining? I think so.", "Está chovendo? Acho que sim."], ["He didn't go, and neither did I.", "Ele não foi, e eu também não."]],
+     "exercicios": [{"p": "Will she come? I hope ___.", "o": ["so", "it", "that"], "r": "so"}, {"p": "I love jazz, and so ___ my wife.", "o": ["does", "is", "do"], "r": "does"}, {"p": "I don't like blue shirts. I prefer the white ___.", "o": ["ones", "one", "it"], "r": "ones"}]},
+    {"id": "register", "titulo": "Registro e estilo", "explicacao": "O mesmo conteúdo muda de forma conforme o contexto. Verbos latinos soam formais (obtain, commence, require); phrasal verbs soam informais (get, start, need). Saber alternar é marca de maestria.",
+     "exemplos": [["We regret to inform you... / Sorry to say...", "Lamentamos informar... / Sinto dizer..."], ["Please submit your form. / Send it in.", "Envie seu formulário. / Manda aí."]],
+     "exercicios": [{"p": "Formal de 'get': ___", "o": ["obtain", "grab", "pick up"], "r": "obtain"}, {"p": "Formal de 'start': ___", "o": ["kick off", "commence", "get going"], "r": "commence"}, {"p": "Informal de 'investigate': ___", "o": ["look into", "examine", "scrutinize"], "r": "look into"}]}
+   ]
+  }
+ },
+ "fonetica": [
+  {"som": "th surdo /θ/", "dica": "Coloque a ponta da língua entre os dentes e sopre, sem vibrar a garganta. No site ele aparece como 'f' para aproximar, mas o som correto é com a língua entre os dentes.", "palavras": ["think", "thank", "three", "through"]},
+  {"som": "th sonoro /ð/", "dica": "Mesma posição do th surdo, mas vibrando a garganta, como um 'd' suave. Aparece como 'd' na pronúncia adaptada.", "palavras": ["the", "this", "mother", "breathe"]},
+  {"som": "R inglês /ɹ/", "dica": "Enrole a língua para trás sem tocar o céu da boca. Nunca é o 'r' forte de 'rato'. No começo da palavra, também não vibra.", "palavras": ["run", "red", "right", "car"]},
+  {"som": "H aspirado /h/", "dica": "É só um sopro, como embaçar um espelho. Por isso a pronúncia adaptada usa 'r' de 'rato' (house → 'ráus'), que é o som mais próximo no português do Brasil.", "palavras": ["have", "help", "hear", "happen"]},
+  {"som": "Schwa /ə/", "dica": "A vogal mais comum do inglês: um 'a' relaxado e curtinho em sílabas sem acento. Na pronúncia adaptada aparece como 'a' em sílabas fracas.", "palavras": ["about", "happen", "banana", "remember"]},
+  {"som": "I curto x I longo", "dica": "Live (/ɪ/, curto e relaxado) não é leave (/iː/, longo e esticado). Na adaptação, o longo leva acento: 'lív'; o curto fica sem: 'liv'.", "palavras": ["live", "leave", "sit", "seat"]},
+  {"som": "Final -ed", "dica": "Tem três sons: /t/ depois de sons surdos (worked → 'uârkt'), /d/ depois de sonoros (played → 'plêid') e /ɪd/ depois de t ou d (wanted → 'uântid'). Não diga 'uorkêd'.", "palavras": ["worked", "played", "wanted", "decided"]},
+  {"som": "Consoante final", "dica": "Brasileiros costumam acrescentar um 'i' no fim (big → 'bigui'). Pare o som na consoante: big, cook, stop.", "palavras": ["big", "cook", "stop", "help"]},
+  {"som": "W semivogal", "dica": "Arredonde os lábios como para um 'u' rápido antes da vogal. Por isso 'want' vira 'uânt' na adaptação.", "palavras": ["want", "walk", "work", "wait"]},
+  {"som": "Acento tônico", "dica": "Em inglês, errar a sílaba tônica atrapalha mais que errar um som. No site, a sílaba forte aparece em MAIÚSCULAS e destacada: re-MEM-ber.", "palavras": ["remember", "develop", "understand", "photograph"]}
+ ]
+}

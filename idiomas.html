@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="pt-BR" data-raiz="./">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Idiomas disponíveis e pacotes para baixar | Teia das Línguas</title>
+<meta name="description" content="Baixe pacotes completos de verbos de cada idioma para estudar online ou offline. Inglês disponível; espanhol, francês, alemão, italiano e japonês em produção.">
+<link rel="canonical" href="https://jahckx999.github.io/teia-das-linguas/idiomas.html">
+
+<meta property="og:title" content="Idiomas disponíveis e pacotes para baixar | Teia das Línguas"><meta property="og:description" content="Baixe pacotes completos de verbos de cada idioma para estudar online ou offline. Inglês disponível; espanhol, francês, alemão, italiano e japonês em produção."><meta property="og:type" content="website"><meta property="og:url" content="https://jahckx999.github.io/teia-das-linguas/idiomas.html">
+<meta name="theme-color" content="#0E7C86">
+<link rel="icon" href="./assets/icone.svg" type="image/svg+xml">
+<link rel="manifest" href="./manifest.webmanifest">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Bricolage+Grotesque:opsz,wght@12..96,500..800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./assets/estilo.css">
+
+<script src="./assets/config.js"></script>
+<script src="./assets/nucleo.js" defer></script>
+</head>
+<body data-idioma="en">
+<a class="sr" href="#principal">Pular para o conteúdo</a>
+<div class="aviso-topo" role="note"></div>
+<header class="topo"><div class="pagina">
+<a class="marca" href="./index.html"><svg viewBox="0 0 32 32" aria-hidden="true"><g fill="none" stroke="var(--fio)" stroke-width="2" stroke-linecap="round"><path d="M6 8 L16 4 L26 8 L26 22 L16 28 L6 22 Z"/><path d="M6 8 L26 22 M26 8 L6 22 M16 4 L16 28"/></g><circle cx="16" cy="16" r="4.2" fill="var(--acafrao)"/></svg><span>Teia das Línguas</span></a>
+<button class="btn-menu" aria-expanded="false" aria-controls="menu">Menu</button>
+<nav class="menu" id="menu" aria-label="Principal"><a href="./dicionario.html">Dicionário</a><a href="./niveis.html">Níveis A1–C2</a><a href="./praticar.html">Praticar</a><a href="./fonetica.html">Fonética</a><a href="./metodos.html">Métodos</a><a href="./idiomas.html" aria-current="page">Idiomas</a><a class="conta-link" href="./conta.html">Entrar</a>
+<button class="btn sec peq" data-acao="tema" type="button" aria-label="Alternar tema claro ou escuro">◐</button></nav>
+</div></header>
+<main id="principal">
+<div class="pagina"><section><h1>Idiomas</h1>
+<p>Cada idioma é um pacote completo: todos os verbos no infinitivo, significado, pronúncia adaptada à sua língua materna, sílabas, áudio e trilhas do A1 ao C2.</p>
+<div class="grade" style="grid-template-columns:repeat(auto-fit,minmax(300px,1fr))">
+<article class="bloco"><span class="selo" style="--cor:var(--ok)">Disponível</span><h2 style="margin-top:8px">Inglês</h2>
+<p>11.592 verbos · 3.000 com significado em português · 9.313 com pronúncia adaptada. Atualizado todos os dias.</p>
+<div style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="dicionario.html">Estudar no site</a><button class="btn sec" id="offline">Baixar para usar offline</button><a class="btn sec" href="dados/en/pacote.csv" download="teia-das-linguas-verbos-ingles.csv">Baixar planilha (CSV)</a></div>
+<p class="form-msg" id="off-msg"></p></article>
+<article class="bloco"><span class="selo" style="--cor:var(--acafrao)">Em produção</span><h2 style="margin-top:8px">Espanhol</h2><p>Na fila da automação. Peça prioridade e avisaremos quando chegar.</p><button class="btn sec" data-acao="sugerir" data-tipo="idioma" type="button">Quero este idioma</button></article><article class="bloco"><span class="selo" style="--cor:var(--acafrao)">Em produção</span><h2 style="margin-top:8px">Francês</h2><p>Na fila da automação. Peça prioridade e avisaremos quando chegar.</p><button class="btn sec" data-acao="sugerir" data-tipo="idioma" type="button">Quero este idioma</button></article><article class="bloco"><span class="selo" style="--cor:var(--acafrao)">Em produção</span><h2 style="margin-top:8px">Alemão</h2><p>Na fila da automação. Peça prioridade e avisaremos quando chegar.</p><button class="btn sec" data-acao="sugerir" data-tipo="idioma" type="button">Quero este idioma</button></article><article class="bloco"><span class="selo" style="--cor:var(--acafrao)">Em produção</span><h2 style="margin-top:8px">Italiano</h2><p>Na fila da automação. Peça prioridade e avisaremos quando chegar.</p><button class="btn sec" data-acao="sugerir" data-tipo="idioma" type="button">Quero este idioma</button></article><article class="bloco"><span class="selo" style="--cor:var(--acafrao)">Em produção</span><h2 style="margin-top:8px">Japonês</h2><p>Na fila da automação. Peça prioridade e avisaremos quando chegar.</p><button class="btn sec" data-acao="sugerir" data-tipo="idioma" type="button">Quero este idioma</button></article>
+</div></section></div>
+<script>document.addEventListener('DOMContentLoaded',()=>{const b=document.getElementById('offline'),m=document.getElementById('off-msg');
+b.onclick=async()=>{if(!('caches' in window)){m.className='form-msg erro';m.textContent='Seu navegador não permite uso offline.';return;}
+m.className='form-msg';m.textContent='Baixando o pacote de inglês…';const r=TDL.raiz;
+const arqs=['index.html','dicionario.html','praticar.html','fonetica.html','metodos.html','niveis.html','dados/en/indice.json','dados/en/status.json','assets/estilo.css','assets/nucleo.js','assets/config.js','assets/dicionario.js','assets/praticar.js'].concat('abcdefghijklmnopqrstuvwxyz'.split('').map(l=>'dados/en/detalhes/'+l+'.json'));
+try{const c=await caches.open('tdl-pacote-en');await c.addAll(arqs.map(a=>r+a));TDL.LS.set('tdl_offline_en',Date.now());m.className='form-msg ok';m.textContent='Pronto! O inglês está disponível offline neste aparelho.';}
+catch(e){m.className='form-msg erro';m.textContent='Não foi possível baixar agora. Verifique a conexão e tente de novo.';}};});</script>
+</main>
+<footer class="rodape"><div class="pagina">
+<div><b>Teia das Línguas</b><br>Aprenda idiomas com ciência, voz e prática. © 2026</div>
+<nav aria-label="Institucional"><a href="./sobre.html">Sobre</a><a href="./licoes.html">Lições</a><a href="./privacidade.html">Privacidade</a><a href="./termos.html">Termos</a><a href="./contato.html">Contato</a><button class="btn sec peq" type="button" data-acao="sugerir" data-tipo="ideia">Sugerir melhoria</button></nav>
+</div></footer>
+</body>
+</html>

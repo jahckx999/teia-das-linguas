@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /painel/
+Disallow: /tools/
+Sitemap: https://jahckx999.github.io/teia-das-linguas/sitemap.xml
