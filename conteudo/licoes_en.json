@@ -1,0 +1,123 @@
+[
+  {
+    "id": "pedindo-no-cafe",
+    "nivel": "A1",
+    "titulo": "Pedindo no café: can I have, I'd like e please",
+    "resumo": "Aprenda a pedir comida e bebida em inglês com educação, perguntar o preço e pagar a conta, usando os verbos have, want, like, get e pay.",
+    "data": "2026-10-21",
+    "blocos": [
+      {
+        "titulo": "Três jeitos de pedir",
+        "paragrafos": [
+          "Em inglês, pedir algo de forma direta demais (\"I want a coffee\") pode soar um pouco rude, como \"eu quero um café\" dito sem sorriso. Os nativos preferem fórmulas mais suaves.",
+          "As três mais usadas são: Can I have...? (Posso pegar...?), I'd like... (Eu gostaria de...) e Could I get...? (Poderia me trazer...?). I'd é a contração de I would. Pronuncie \"aid laik\", com o d bem leve."
+        ],
+        "exemplos": [
+          ["Can I have a coffee, please?", "Pode me ver um café, por favor?"],
+          ["I'd like a cheese sandwich.", "Eu gostaria de um sanduíche de queijo."],
+          ["Could I get some water?", "Poderia me trazer um pouco de água?"]
+        ]
+      },
+      {
+        "titulo": "Tamanho, quantidade e para viagem",
+        "paragrafos": [
+          "Em cafés de países de língua inglesa, o atendente costuma perguntar o tamanho (small, medium, large) e se é para comer ali ou levar.",
+          "Para comer no local, diga for here. Para levar, diga to go (EUA) ou to take away (Reino Unido)."
+        ],
+        "exemplos": [
+          ["A large tea, please.", "Um chá grande, por favor."],
+          ["Is that for here or to go?", "É para comer aqui ou para levar?"],
+          ["To go, please.", "Para levar, por favor."],
+          ["Two orange juices, please.", "Dois sucos de laranja, por favor."]
+        ]
+      },
+      {
+        "titulo": "Perguntando o preço e pagando",
+        "paragrafos": [
+          "Para perguntar o preço, use How much is it? (Quanto custa?) ou How much is the muffin? Para vários itens, How much are they?",
+          "Na hora de pagar, os verbos pay (pagar) e take (aceitar) aparecem muito. Can I pay by card? significa \"Posso pagar no cartão?\"."
+        ],
+        "exemplos": [
+          ["How much is it?", "Quanto é?"],
+          ["Can I pay by card?", "Posso pagar no cartão?"],
+          ["Do you take cash?", "Vocês aceitam dinheiro?"],
+          ["Keep the change.", "Pode ficar com o troco."]
+        ]
+      },
+      {
+        "titulo": "Diálogo completo",
+        "paragrafos": [
+          "Leia em voz alta, alternando os papéis. Repita até conseguir dizer cada fala sem olhar. Esse é o método de shadowing: ouvir (ou ler) e repetir no mesmo ritmo."
+        ],
+        "exemplos": [
+          ["Hi! What can I get you?", "Oi! O que vai ser?"],
+          ["Hi. Can I have a small coffee and a muffin, please?", "Oi. Pode me ver um café pequeno e um muffin, por favor?"],
+          ["Sure. For here or to go?", "Claro. Para comer aqui ou levar?"],
+          ["For here. How much is it?", "Aqui. Quanto é?"],
+          ["That's six dollars.", "São seis dólares."],
+          ["Here you are. Thank you!", "Aqui está. Obrigado!"]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "meu-fim-de-semana-passado-simples",
+    "nivel": "A2",
+    "titulo": "Contando o fim de semana: o passado simples na prática",
+    "resumo": "Use o past simple para contar o que você fez no fim de semana: verbos regulares com -ed, os irregulares mais comuns e perguntas com did.",
+    "data": "2026-10-21",
+    "blocos": [
+      {
+        "titulo": "Regulares: só acrescentar -ed",
+        "paragrafos": [
+          "A maioria dos verbos forma o passado com -ed: watch → watched, visit → visited, play → played. A mesma forma serve para todas as pessoas: I watched, she watched, they watched.",
+          "Atenção à pronúncia do -ed: depois de t ou d ele vira uma sílaba (\"visit-id\", \"need-id\"); nos outros casos é só um som de t ou d no final (\"watcht\", \"playd\"). Não diga \"plei-ed\"."
+        ],
+        "exemplos": [
+          ["I watched a movie on Saturday.", "Eu assisti a um filme no sábado."],
+          ["We visited my grandmother.", "Nós visitamos minha avó."],
+          ["She cleaned the whole house.", "Ela limpou a casa inteira."]
+        ]
+      },
+      {
+        "titulo": "Os irregulares que você mais vai usar",
+        "paragrafos": [
+          "Alguns verbos muito frequentes têm passado próprio, que precisa ser decorado. Os campeões do fim de semana: go → went, have → had, eat → ate, see → saw, make → made, get → got, buy → bought, sleep → slept.",
+          "Dica de estudo: pratique esses oito no modo de repetição espaçada até sair sem pensar. Eles cobrem boa parte do que se conta sobre um fim de semana."
+        ],
+        "exemplos": [
+          ["I went to the beach.", "Eu fui à praia."],
+          ["We had lunch at a new restaurant.", "Nós almoçamos num restaurante novo."],
+          ["They saw a great show.", "Eles viram um show ótimo."],
+          ["I slept until ten.", "Eu dormi até as dez."]
+        ]
+      },
+      {
+        "titulo": "Negativas e perguntas com did",
+        "paragrafos": [
+          "Para negar ou perguntar, o inglês usa o auxiliar did, e o verbo principal volta para a forma básica. Por isso o certo é I didn't go, e não I didn't went.",
+          "A pergunta mais natural na segunda-feira é: What did you do on the weekend? (EUA) ou at the weekend (Reino Unido)."
+        ],
+        "exemplos": [
+          ["I didn't go out on Sunday.", "Eu não saí no domingo."],
+          ["What did you do on the weekend?", "O que você fez no fim de semana?"],
+          ["Did you have a good time?", "Você se divertiu?"],
+          ["Yes, I did. / No, I didn't.", "Sim. / Não."]
+        ]
+      },
+      {
+        "titulo": "Agora é sua vez",
+        "paragrafos": [
+          "Escreva cinco frases sobre o seu último fim de semana: duas com verbos regulares, duas com irregulares e uma negativa. Depois leia em voz alta, prestando atenção ao som do -ed.",
+          "Ligue as frases com conectores simples de sequência: first (primeiro), then (depois), after that (depois disso) e finally (por fim)."
+        ],
+        "exemplos": [
+          ["First, I got up late.", "Primeiro, eu acordei tarde."],
+          ["Then I made pancakes for breakfast.", "Depois eu fiz panquecas no café da manhã."],
+          ["After that, we walked in the park.", "Depois disso, caminhamos no parque."],
+          ["Finally, I didn't do my homework!", "Por fim, eu não fiz a lição de casa!"]
+        ]
+      }
+    ]
+  }
+]
