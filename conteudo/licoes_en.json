@@ -333,5 +333,115 @@
     ]
    }
   ]
+ },
+ {
+  "id": "condicionais-hipoteses-arrependimentos",
+  "nivel": "B2",
+  "titulo": "Condicionais além do básico: hipóteses, arrependimentos e misturas",
+  "resumo": "Domine o second, o third e o mixed conditional para falar de situações imaginárias, de arrependimentos e de como o passado afeta o presente — com wish e if only de bônus.",
+  "data": "2026-10-23",
+  "blocos": [
+   {
+    "titulo": "Second conditional: o presente imaginário",
+    "paragrafos": [
+     "Use if + passado simples, would + verbo para falar de algo irreal ou pouco provável agora: \"If I had more time, I would learn Japanese\". O passado aqui não indica tempo passado, e sim distância da realidade.",
+     "Com o verbo be, o inglês formal prefere were para todas as pessoas: \"If I were you, I would accept the offer\" — a forma clássica de dar conselhos. Em português equivale ao nosso \"se eu tivesse... eu faria\"."
+    ],
+    "exemplos": [
+     [
+      "If I lived closer to the beach, I would surf every weekend.",
+      "Se eu morasse mais perto da praia, surfaria todo fim de semana."
+     ],
+     [
+      "If I were you, I wouldn't sign that contract.",
+      "Se eu fosse você, não assinaria esse contrato."
+     ],
+     [
+      "What would you do if you won the lottery?",
+      "O que você faria se ganhasse na loteria?"
+     ]
+    ]
+   },
+   {
+    "titulo": "Third conditional: o passado que não aconteceu",
+    "paragrafos": [
+     "Para imaginar um passado diferente, use if + had + particípio, would have + particípio: \"If we had left earlier, we would have caught the train\". É a estrutura dos arrependimentos e das críticas.",
+     "Na fala, would have vira would've (pronuncia-se \"wúdâv\"), e had e would se contraem em 'd — o contexto mostra qual é: \"If I'd known, I'd have called you\"."
+    ],
+    "exemplos": [
+     [
+      "If she had studied harder, she would have passed the exam.",
+      "Se ela tivesse estudado mais, teria passado na prova."
+     ],
+     [
+      "We wouldn't have got lost if we had taken a map.",
+      "Não teríamos nos perdido se tivéssemos levado um mapa."
+     ],
+     [
+      "If I'd known you were in town, I'd have invited you.",
+      "Se eu soubesse que você estava na cidade, teria te convidado."
+     ]
+    ]
+   },
+   {
+    "titulo": "Mixed conditionals: quando passado e presente se cruzam",
+    "paragrafos": [
+     "Às vezes a causa está no passado e a consequência no presente: if + had + particípio, would + verbo. \"If I had accepted that job, I would live in London now\".",
+     "O caminho inverso também existe — uma característica permanente que explica um fato passado: if + passado simples, would have + particípio. \"If he weren't so stubborn, he would have apologised\"."
+    ],
+    "exemplos": [
+     [
+      "If I had saved money last year, I wouldn't be broke now.",
+      "Se eu tivesse economizado no ano passado, não estaria sem dinheiro agora."
+     ],
+     [
+      "If she spoke French, she would have understood the guide.",
+      "Se ela falasse francês, teria entendido o guia."
+     ],
+     [
+      "If we hadn't missed the flight, we would be in Rome right now.",
+      "Se não tivéssemos perdido o voo, estaríamos em Roma agora."
+     ]
+    ]
+   },
+   {
+    "titulo": "Wish e if only: desejos e lamentos",
+    "paragrafos": [
+     "Wish segue a mesma lógica de distância: wish + passado para o presente (\"I wish I knew the answer\") e wish + had + particípio para o passado (\"I wish I had listened to you\").",
+     "If only é a versão mais emotiva: \"If only I had more time!\". Para reclamar de um comportamento alheio que irrita, use wish + would: \"I wish you would stop interrupting me\"."
+    ],
+    "exemplos": [
+     [
+      "I wish I could speak English fluently.",
+      "Quem me dera falar inglês fluentemente."
+     ],
+     [
+      "She wishes she hadn't sold her old car.",
+      "Ela se arrepende de ter vendido o carro antigo."
+     ],
+     [
+      "If only they had told us the truth!",
+      "Se ao menos eles tivessem nos contado a verdade!"
+     ]
+    ]
+   },
+   {
+    "titulo": "Erros comuns do brasileiro",
+    "paragrafos": [
+     "Nunca coloque would na oração com if: diga \"If I had known\", e não \"If I would have known\". Também evite traduzir \"se eu soubesse\" sempre como passado simples: se a referência é ao passado, o inglês pede had known.",
+     "Dica de prática: escreva três frases sobre decisões reais da sua vida — uma com second, uma com third e uma mista. Falar de si mesmo fixa a estrutura muito mais rápido."
+    ],
+    "exemplos": [
+     [
+      "If I had known about the meeting, I would have attended.",
+      "Se eu soubesse da reunião, teria comparecido."
+     ],
+     [
+      "If it rained tomorrow, we would cancel the picnic.",
+      "Se chovesse amanhã, cancelaríamos o piquenique."
+     ]
+    ]
+   }
+  ]
  }
 ]
