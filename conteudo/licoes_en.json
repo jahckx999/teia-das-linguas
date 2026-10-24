@@ -443,5 +443,115 @@
     ]
    }
   ]
+ },
+ {
+  "id": "inversao-enfase",
+  "nivel": "C1",
+  "titulo": "Inversão para dar ênfase: never have I, not only, hardly had",
+  "resumo": "Aprenda a inverter sujeito e auxiliar depois de expressões negativas e restritivas para soar mais enfático, formal e elegante — como em discursos, artigos e e-mails importantes.",
+  "data": "2026-10-24",
+  "blocos": [
+   {
+    "titulo": "O que é a inversão e por que ela impressiona",
+    "paragrafos": [
+     "Em inglês, a ordem normal é sujeito + verbo: \"I have never seen such chaos\". Quando uma expressão negativa ou restritiva vai para o início da frase, o auxiliar passa para antes do sujeito, como numa pergunta: \"Never have I seen such chaos\".",
+     "O efeito é de ênfase e formalidade. Em português fazemos algo parecido com \"Nunca vi tamanho caos\", mas em inglês a troca de posição é obrigatória — dizer \"Never I have seen\" é erro. Se a frase não tem auxiliar, use do, does ou did: \"Rarely does she complain\"."
+    ],
+    "exemplos": [
+     [
+      "Never have I witnessed such a blunder in a meeting.",
+      "Nunca presenciei uma gafe dessas numa reunião."
+     ],
+     [
+      "Rarely does the manager disregard a good argument.",
+      "Raramente o gerente ignora um bom argumento."
+     ],
+     [
+      "Seldom did they confer before making big decisions.",
+      "Raramente eles trocavam ideias antes de tomar grandes decisões."
+     ]
+    ]
+   },
+   {
+    "titulo": "Not only... but also: somar com força",
+    "paragrafos": [
+     "\"Not only\" no início pede inversão na primeira parte; a segunda parte segue normal, geralmente com but (also): \"Not only did the app revolutionize the market, but it also changed how we work\".",
+     "É uma estrutura ótima para redações, apresentações e cartas de motivação, porque valoriza duas qualidades ou consequências de uma só vez."
+    ],
+    "exemplos": [
+     [
+      "Not only did she grasp the concept quickly, but she also explained it to the whole team.",
+      "Ela não só captou o conceito rápido, como também o explicou para a equipe toda."
+     ],
+     [
+      "Not only will the new law legalize the practice, but it will also regulate it.",
+      "A nova lei não só vai legalizar a prática, como também vai regulamentá-la."
+     ],
+     [
+      "Not only was the theory weak, but it didn't hold water at all.",
+      "A teoria não só era fraca, como não se sustentava de jeito nenhum."
+     ]
+    ]
+   },
+   {
+    "titulo": "Hardly, scarcely, no sooner: uma coisa logo depois da outra",
+    "paragrafos": [
+     "Para dizer que algo aconteceu imediatamente após outra coisa, usamos past perfect com inversão: \"Hardly had I arrived when the phone rang\" (mal eu tinha chegado e o telefone tocou).",
+     "Atenção às combinações fixas: hardly/scarcely... when e no sooner... than. Trocar por \"no sooner... when\" é um deslize comum até entre falantes avançados."
+    ],
+    "exemplos": [
+     [
+      "Hardly had we unplugged the router when the connection came back.",
+      "Mal tínhamos desligado o roteador da tomada e a conexão voltou."
+     ],
+     [
+      "No sooner had the product been patented than competitors tried to copy it.",
+      "Assim que o produto foi patenteado, os concorrentes tentaram copiá-lo."
+     ],
+     [
+      "Scarcely had he recanted his statement when new evidence appeared.",
+      "Mal ele tinha se retratado da declaração e surgiram novas provas."
+     ]
+    ]
+   },
+   {
+    "titulo": "Only, under no circumstances, little: restrições e avisos",
+    "paragrafos": [
+     "Expressões com only (only then, only after, only when, only by) também provocam inversão — mas na oração principal, não na que vem logo depois de only: \"Only after the files were authenticated did the court accept them\".",
+     "\"Under no circumstances\", \"at no time\" e \"on no account\" servem para proibições firmes, comuns em regras e contratos. Já \"little\" no início indica que alguém não fazia ideia de algo: \"Little did they know...\"."
+    ],
+    "exemplos": [
+     [
+      "Only after the documents were authenticated did the bank release the money.",
+      "Só depois que os documentos foram autenticados o banco liberou o dinheiro."
+     ],
+     [
+      "Under no circumstances should you part with your password.",
+      "Em hipótese alguma você deve abrir mão da sua senha."
+     ],
+     [
+      "Little did they know that the plan would wind up in court.",
+      "Mal sabiam eles que o plano acabaria no tribunal."
+     ]
+    ]
+   },
+   {
+    "titulo": "Quando (não) usar e como praticar",
+    "paragrafos": [
+     "A inversão é marca de registro formal ou de narração dramática. Numa conversa casual, a ordem normal soa mais natural: \"I've never seen that\" funciona melhor no bar do que \"Never have I seen that\".",
+     "Para fixar, pegue cinco frases comuns do seu dia e reescreva cada uma começando com never, rarely, not only, hardly ou only after. Leia em voz alta, marcando a ênfase na expressão inicial — assim a estrutura vira reflexo, e não regra decorada."
+    ],
+    "exemplos": [
+     [
+      "I rarely stoop to that level. → Rarely do I stoop to that level.",
+      "Raramente me rebaixo a esse nível."
+     ],
+     [
+      "They didn't follow up until Monday. → Not until Monday did they follow up.",
+      "Só na segunda-feira eles deram retorno."
+     ]
+    ]
+   }
+  ]
  }
 ]
