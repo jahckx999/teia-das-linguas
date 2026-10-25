@@ -553,5 +553,98 @@
     ]
    }
   ]
+ },
+ {
+  "id": "hedging-verbos-de-reporte",
+  "nivel": "C2",
+  "titulo": "Hedging e verbos de reporte: precisão, cautela e diplomacia",
+  "resumo": "Domine a arte de suavizar afirmações e escolher o verbo de reporte exato (concur, contend, refute, concede) para escrever e falar como um profissional fluente em contextos acadêmicos, jurídicos e corporativos.",
+  "data": "2026-10-25",
+  "blocos": [
+   {
+    "titulo": "O que é hedging e por que nativos o usam o tempo todo",
+    "paragrafos": [
+     "Hedging é a técnica de dosar a certeza de uma afirmação. Em vez de \"This policy hinders growth\", um falante experiente diz \"This policy may well hinder growth\" ou \"There is some evidence that this policy hinders growth\". Não é fraqueza: é precisão — você afirma exatamente o quanto os dados permitem.",
+     "As ferramentas principais são verbos modais (may, might, could), verbos de aparência (seem, appear, tend to), advérbios (arguably, presumably, largely) e expressões como \"to some extent\" ou \"it would appear that\". Em português usamos \"tudo indica que\" e \"ao que parece\"; em inglês formal, o recurso é ainda mais frequente e esperado."
+    ],
+    "exemplos": [
+     [
+      "The new regulation appears to impede small businesses more than large ones.",
+      "A nova regulamentação parece atrapalhar mais as pequenas empresas do que as grandes."
+     ],
+     [
+      "These findings arguably impart a more nuanced view of the crisis.",
+      "Esses resultados, pode-se argumentar, transmitem uma visão mais matizada da crise."
+     ],
+     [
+      "It would appear that the strategy has backfired, at least in the short term.",
+      "Ao que tudo indica, a estratégia saiu pela culatra, pelo menos no curto prazo."
+     ]
+    ]
+   },
+   {
+    "titulo": "Verbos de reporte: cada um carrega uma atitude",
+    "paragrafos": [
+     "Dizer \"he said\" é neutro; os verbos de reporte revelam o que você pensa da afirmação alheia. \"Claim\" e \"allege\" sugerem dúvida; \"demonstrate\" e \"establish\" indicam que você aceita a prova; \"contend\" e \"maintain\" mostram alguém defendendo uma posição contestada.",
+     "Para concordar e discordar, o leque é refinado: \"concur\" (concordar formalmente), \"concede\" (admitir um ponto a contragosto), \"refute\" (provar que algo é falso) e \"dispute\" ou \"challenge\" (contestar sem necessariamente provar). Cuidado: muitos nativos usam \"refute\" como mero \"negar\", mas em texto cuidadoso ele implica refutação com provas."
+    ],
+    "exemplos": [
+     [
+      "The board concurred with the auditor's recommendation to rescind the contract.",
+      "O conselho concordou com a recomendação do auditor de rescindir o contrato."
+     ],
+     [
+      "She conceded that the figures had been fudged, but denied any personal involvement.",
+      "Ela admitiu que os números tinham sido maquiados, mas negou qualquer envolvimento pessoal."
+     ],
+     [
+      "The author contends that austerity impoverished the regions it was meant to rescue.",
+      "O autor sustenta que a austeridade empobreceu as regiões que pretendia socorrer."
+     ]
+    ]
+   },
+   {
+    "titulo": "Distanciamento: o passivo impessoal e o it-clause",
+    "paragrafos": [
+     "Quando você quer relatar uma ideia sem assumir autoria, use estruturas impessoais: \"It is widely believed that...\", \"It has been suggested that...\" ou o passivo com infinitivo: \"The minister is said to have misinformed Parliament\". Repare no infinitivo perfeito (to have + particípio) para fatos anteriores ao relato.",
+     "Essas estruturas são comuns no jornalismo, principalmente quando há risco jurídico: \"The suspect is alleged to have burgled three homes\" protege o veículo de afirmar a culpa como fato."
+    ],
+    "exemplos": [
+     [
+      "The minister is reported to have misinformed the committee about the costs.",
+      "Consta que o ministro teria informado mal a comissão sobre os custos."
+     ],
+     [
+      "It has been suggested that the merger was brokered behind closed doors.",
+      "Há quem sugira que a fusão foi intermediada a portas fechadas."
+     ],
+     [
+      "The company is thought to have spurned two earlier offers.",
+      "Acredita-se que a empresa tenha rejeitado duas ofertas anteriores."
+     ]
+    ]
+   },
+   {
+    "titulo": "O equilíbrio: nem vago demais, nem categórico demais",
+    "paragrafos": [
+     "O erro do aluno avançado é acumular cautelas: \"It might possibly perhaps suggest...\" soa inseguro e confuso. Use uma marca de hedging por afirmação e reserve a certeza total para o que é inegável: \"The data clearly show\" quando o dado de fato mostra.",
+     "Um bom exercício: pegue um parágrafo que você escreveu, marque cada afirmação forte e pergunte \"posso provar isso?\". Se sim, mantenha; se em parte, suavize com um único recurso; se não, reformule com um verbo de reporte que atribua a ideia a alguém."
+    ],
+    "exemplos": [
+     [
+      "The data clearly show that the campaign prompted a surge in sign-ups.",
+      "Os dados mostram claramente que a campanha provocou um pico de inscrições."
+     ],
+     [
+      "To some extent, the delay may have hindered the negotiations.",
+      "Até certo ponto, o atraso pode ter atrapalhado as negociações."
+     ],
+     [
+      "Critics maintain that the reform will do little to help people cope with rising costs.",
+      "Os críticos sustentam que a reforma pouco ajudará as pessoas a lidar com o aumento dos custos."
+     ]
+    ]
+   }
+  ]
  }
 ]
