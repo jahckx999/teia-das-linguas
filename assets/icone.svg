@@ -1,1 +1,135 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="8" fill="#10162A"/><g fill="none" stroke="#3CC1CB" stroke-width="2" stroke-linecap="round"><path d="M6 8 L16 4 L26 8 L26 22 L16 28 L6 22 Z"/><path d="M6 8 L26 22 M26 8 L6 22 M16 4 L16 28"/></g><circle cx="16" cy="16" r="4.2" fill="#F2B65A"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-500 -500 1000 1000" width="1000" height="1000">
+<title>KAELENVASH — Mandala de Geometria Sagrada</title>
+<defs>
+<linearGradient id="gold" gradientUnits="userSpaceOnUse" x1="-500" y1="-500" x2="500" y2="500">
+<stop offset="0" stop-color="#FFF2C2"/>
+<stop offset="0.45" stop-color="#E4BE55"/>
+<stop offset="1" stop-color="#A8781B"/>
+</linearGradient>
+<radialGradient id="disk" cx="0" cy="0" r="490" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#3A1468"/>
+<stop offset="0.7" stop-color="#22093F"/>
+<stop offset="1" stop-color="#13042A"/>
+</radialGradient>
+<radialGradient id="glow" cx="0" cy="0" r="300" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FFE7A3" stop-opacity="0.5"/>
+<stop offset="0.4" stop-color="#C9982C" stop-opacity="0.16"/>
+<stop offset="1" stop-color="#7B3FBF" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="core" cx="0" cy="0" r="115" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#4A1C84"/>
+<stop offset="1" stop-color="#1C0736"/>
+</radialGradient>
+<radialGradient id="seed" cx="0" cy="0" r="30" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FFF6D6" stop-opacity="1"/>
+<stop offset="1" stop-color="#E4BE55" stop-opacity="0"/>
+</radialGradient>
+<path id="petalBack" d="M0 -262 C52 -290 60 -340 0 -374 C-60 -340 -52 -290 0 -262 Z"/>
+<path id="petal" d="M0 -258 C62 -282 74 -350 0 -392 C-74 -350 -62 -282 0 -258 Z"/>
+<path id="petalIn" d="M0 -280 C34 -298 40 -340 0 -366 C-40 -340 -34 -298 0 -280 Z"/>
+<path id="meta" d="M0 -190L164.54 -95M0 -190L164.54 95M0 -190L0 190M0 -190L-164.54 95M0 -190L-164.54 -95M0 -190L82.27 -47.5M0 -190L82.27 47.5M0 -190L-82.27 47.5M0 -190L-82.27 -47.5M0 -95L82.27 -47.5M0 -95L82.27 47.5M0 -95L0 95M0 -95L-82.27 47.5M0 -95L-82.27 -47.5M0 -95L164.54 -95M0 -95L164.54 95M0 -95L-164.54 95M0 -95L-164.54 -95"/>
+</defs>
+<circle r="490" fill="url(#disk)"/>
+<circle r="300" fill="url(#glow)"/>
+<circle r="484" fill="none" stroke="url(#gold)" stroke-width="4"/>
+<circle r="476" fill="none" stroke="url(#gold)" stroke-width="6" stroke-linecap="round" stroke-dasharray="0.001 41.538"/>
+<circle r="467" fill="none" stroke="url(#gold)" stroke-width="1.5"/>
+<circle r="456" fill="none" stroke="url(#gold)" stroke-width="1"/>
+<circle r="428" fill="none" stroke="url(#gold)" stroke-width="52" stroke-dasharray="2.4 72.3"/>
+<circle r="428" fill="none" stroke="url(#gold)" stroke-width="26" stroke-dasharray="1.6 73.1" stroke-dashoffset="37.35" stroke-opacity="0.8"/>
+<circle r="400" fill="none" stroke="url(#gold)" stroke-width="1.5"/>
+<g fill="#5A2496" fill-opacity="0.55" stroke="url(#gold)" stroke-width="0.9" stroke-opacity="0.8">
+<use href="#petalBack" transform="rotate(15)"/>
+<use href="#petalBack" transform="rotate(45)"/>
+<use href="#petalBack" transform="rotate(75)"/>
+<use href="#petalBack" transform="rotate(105)"/>
+<use href="#petalBack" transform="rotate(135)"/>
+<use href="#petalBack" transform="rotate(165)"/>
+<use href="#petalBack" transform="rotate(195)"/>
+<use href="#petalBack" transform="rotate(225)"/>
+<use href="#petalBack" transform="rotate(255)"/>
+<use href="#petalBack" transform="rotate(285)"/>
+<use href="#petalBack" transform="rotate(315)"/>
+<use href="#petalBack" transform="rotate(345)"/>
+</g>
+<g fill="#2A0B4E" stroke="url(#gold)" stroke-width="2.2">
+<use href="#petal"/>
+<use href="#petal" transform="rotate(30)"/>
+<use href="#petal" transform="rotate(60)"/>
+<use href="#petal" transform="rotate(90)"/>
+<use href="#petal" transform="rotate(120)"/>
+<use href="#petal" transform="rotate(150)"/>
+<use href="#petal" transform="rotate(180)"/>
+<use href="#petal" transform="rotate(210)"/>
+<use href="#petal" transform="rotate(240)"/>
+<use href="#petal" transform="rotate(270)"/>
+<use href="#petal" transform="rotate(300)"/>
+<use href="#petal" transform="rotate(330)"/>
+</g>
+<g fill="none" stroke="url(#gold)" stroke-width="1" stroke-opacity="0.7">
+<use href="#petalIn"/>
+<use href="#petalIn" transform="rotate(30)"/>
+<use href="#petalIn" transform="rotate(60)"/>
+<use href="#petalIn" transform="rotate(90)"/>
+<use href="#petalIn" transform="rotate(120)"/>
+<use href="#petalIn" transform="rotate(150)"/>
+<use href="#petalIn" transform="rotate(180)"/>
+<use href="#petalIn" transform="rotate(210)"/>
+<use href="#petalIn" transform="rotate(240)"/>
+<use href="#petalIn" transform="rotate(270)"/>
+<use href="#petalIn" transform="rotate(300)"/>
+<use href="#petalIn" transform="rotate(330)"/>
+</g>
+<circle r="397" fill="none" stroke="#FFF2C2" stroke-width="7" stroke-linecap="round" stroke-dasharray="0.001 207.83"/>
+<circle r="252" fill="#1E0839" stroke="url(#gold)" stroke-width="2"/>
+<g fill="#7B3FBF" fill-opacity="0.16" stroke="url(#gold)" stroke-width="1.8" stroke-linejoin="round">
+<path d="M0 -245 L245 0 L0 245 L-245 0 Z"/>
+<path d="M173.24 -173.24 L173.24 173.24 L-173.24 173.24 L-173.24 -173.24 Z"/>
+</g>
+<g fill="none" stroke="#C49A3C" stroke-width="1.1">
+<use href="#meta"/>
+<use href="#meta" transform="rotate(60)"/>
+<use href="#meta" transform="rotate(120)"/>
+<use href="#meta" transform="rotate(180)"/>
+<use href="#meta" transform="rotate(240)"/>
+<use href="#meta" transform="rotate(300)"/>
+</g>
+<g fill="none" stroke="url(#gold)" stroke-width="1.4">
+<path d="M0 -190 L164.54 -95 L164.54 95 L0 190 L-164.54 95 L-164.54 -95 Z"/>
+<circle cx="0" cy="-190" r="47.5"/>
+<circle cx="164.54" cy="-95" r="47.5"/>
+<circle cx="164.54" cy="95" r="47.5"/>
+<circle cx="0" cy="190" r="47.5"/>
+<circle cx="-164.54" cy="95" r="47.5"/>
+<circle cx="-164.54" cy="-95" r="47.5"/>
+</g>
+<g fill="none" stroke="url(#gold)" stroke-width="3" stroke-linejoin="round">
+<path d="M0 -190 L164.54 95 L-164.54 95 Z"/>
+<path d="M0 190 L-164.54 -95 L164.54 -95 Z"/>
+</g>
+<circle r="112" fill="url(#core)" stroke="url(#gold)" stroke-width="2.5"/>
+<g fill="none" stroke="url(#gold)" stroke-width="1.6" transform="rotate(30)">
+<circle r="34"/>
+<circle cx="34" cy="0" r="34"/>
+<circle cx="17" cy="29.445" r="34"/>
+<circle cx="-17" cy="29.445" r="34"/>
+<circle cx="-34" cy="0" r="34"/>
+<circle cx="-17" cy="-29.445" r="34"/>
+<circle cx="17" cy="-29.445" r="34"/>
+<circle cx="68" cy="0" r="34"/>
+<circle cx="34" cy="58.89" r="34"/>
+<circle cx="-34" cy="58.89" r="34"/>
+<circle cx="-68" cy="0" r="34"/>
+<circle cx="-34" cy="-58.89" r="34"/>
+<circle cx="34" cy="-58.89" r="34"/>
+<circle cx="51" cy="29.445" r="34"/>
+<circle cx="0" cy="58.89" r="34"/>
+<circle cx="-51" cy="29.445" r="34"/>
+<circle cx="-51" cy="-29.445" r="34"/>
+<circle cx="0" cy="-58.89" r="34"/>
+<circle cx="51" cy="-29.445" r="34"/>
+<circle r="102" stroke-width="2"/>
+</g>
+<circle r="30" fill="url(#seed)"/>
+<circle r="6" fill="#FFF6D6"/>
+</svg>
