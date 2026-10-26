@@ -43,7 +43,7 @@ def pagina(caminho, titulo, descricao, corpo, raiz, atual="", scripts=(), extra_
 <meta name="description" content="{H(descricao)}">
 <link rel="canonical" href="{H(canon)}">
 {'<meta name="robots" content="noindex,nofollow">' if noindex else ''}
-<meta property="og:title" content="{H(titulo)}"><meta property="og:description" content="{H(descricao)}"><meta property="og:type" content="website"><meta property="og:url" content="{H(canon)}">
+<meta property="og:title" content="{H(titulo)}"><meta property="og:description" content="{H(descricao)}"><meta property="og:type" content="website"><meta property="og:url" content="{H(canon)}"><meta property="og:image" content="{BASE}/assets/og.png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:site_name" content="Teia das Línguas"><meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#0E7C86">
 <link rel="icon" href="{raiz}assets/icone.svg" type="image/svg+xml">
 <link rel="manifest" href="{raiz}manifest.webmanifest">
