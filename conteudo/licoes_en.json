@@ -646,5 +646,110 @@
     ]
    }
   ]
+ },
+ {
+  "id": "minha-rotina-present-simple",
+  "nivel": "A1",
+  "titulo": "Minha rotina: o present simple no dia a dia",
+  "resumo": "Descreva seu dia em inglês com get up, have, go, work e watch, aprenda o -s da terceira pessoa e as palavras de frequência always, usually e never.",
+  "data": "2026-10-26",
+  "blocos": [
+   {
+    "titulo": "O tempo verbal da rotina",
+    "paragrafos": [
+     "Para falar de hábitos e coisas que se repetem, o inglês usa o present simple. A forma é simples: o verbo no infinitivo, sem o to. I work, you work, we work, they work.",
+     "Pense nele como o nosso presente do indicativo quando dizemos \"eu trabalho de segunda a sexta\": não é o que você está fazendo agora, é o que costuma fazer."
+    ],
+    "exemplos": [
+     [
+      "I get up at seven.",
+      "Eu me levanto às sete."
+     ],
+     [
+      "I have breakfast at home.",
+      "Eu tomo café da manhã em casa."
+     ],
+     [
+      "We go to work by bus.",
+      "Nós vamos para o trabalho de ônibus."
+     ]
+    ]
+   },
+   {
+    "titulo": "O -s de he, she e it",
+    "paragrafos": [
+     "A única pegadinha do present simple está na terceira pessoa do singular (he, she, it): o verbo ganha um -s no final. She works, he plays, it rains.",
+     "Alguns verbos mudam um pouco: go vira goes, do vira does, watch vira watches (verbos terminados em -ch, -sh, -s, -x e -o ganham -es). E have vira has, que é irregular."
+    ],
+    "exemplos": [
+     [
+      "She works in a hospital.",
+      "Ela trabalha num hospital."
+     ],
+     [
+      "He goes to the gym on Mondays.",
+      "Ele vai à academia às segundas."
+     ],
+     [
+      "My father watches the news at night.",
+      "Meu pai assiste ao jornal à noite."
+     ],
+     [
+      "She has lunch at noon.",
+      "Ela almoça ao meio-dia."
+     ]
+    ]
+   },
+   {
+    "titulo": "Com que frequência?",
+    "paragrafos": [
+     "Para dizer com que frequência algo acontece, use os advérbios always (sempre), usually (geralmente), sometimes (às vezes) e never (nunca).",
+     "Eles ficam antes do verbo principal: I always drink coffee. Mas ficam depois do verbo be: I am never late."
+    ],
+    "exemplos": [
+     [
+      "I always brush my teeth before bed.",
+      "Eu sempre escovo os dentes antes de dormir."
+     ],
+     [
+      "We usually cook at home.",
+      "Nós geralmente cozinhamos em casa."
+     ],
+     [
+      "He sometimes walks to school.",
+      "Ele às vezes vai a pé para a escola."
+     ],
+     [
+      "I am never late for class.",
+      "Eu nunca me atraso para a aula."
+     ]
+    ]
+   },
+   {
+    "titulo": "Perguntas e negativas com do e does",
+    "paragrafos": [
+     "Para perguntar ou negar, o present simple usa o auxiliar do (ou does com he, she, it). Atenção: quando does aparece, o -s sai do verbo principal. She works → Does she work? → She doesn't work.",
+     "Na fala, use as contrações don't (do not) e doesn't (does not). Pronuncie \"dount\" e \"dázent\"."
+    ],
+    "exemplos": [
+     [
+      "Do you work on Saturdays?",
+      "Você trabalha aos sábados?"
+     ],
+     [
+      "What time does she get up?",
+      "A que horas ela se levanta?"
+     ],
+     [
+      "I don't drink coffee at night.",
+      "Eu não tomo café à noite."
+     ],
+     [
+      "He doesn't like Mondays.",
+      "Ele não gosta de segundas-feiras."
+     ]
+    ]
+   }
+  ]
  }
 ]
