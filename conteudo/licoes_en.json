@@ -865,5 +865,183 @@
     ]
    }
   ]
+ },
+ {
+  "id": "used-to-would-habitos-passado",
+  "nivel": "B1",
+  "titulo": "Used to e would: hábitos e estados do passado",
+  "resumo": "Fale de como as coisas eram antes: used to para hábitos e estados que acabaram, would para lembranças repetidas, e a diferença para be used to e get used to.",
+  "data": "2026-10-29",
+  "blocos": [
+   {
+    "titulo": "Used to: o que acontecia e não acontece mais",
+    "paragrafos": [
+     "Used to + verbo no infinitivo mostra um hábito ou situação do passado que já terminou. É o nosso \"eu costumava\" ou o imperfeito: I used to play football = Eu jogava futebol (e hoje não jogo mais).",
+     "A forma é a mesma para todas as pessoas: I used to, she used to, they used to. Na pronúncia, o \"d\" some: soa como \"iússtu\"."
+    ],
+    "exemplos": [
+     [
+      "I used to live near the beach.",
+      "Eu morava perto da praia."
+     ],
+     [
+      "She used to drink coffee every morning, but now she prefers tea.",
+      "Ela tomava café toda manhã, mas agora prefere chá."
+     ],
+     [
+      "There used to be a cinema on this street.",
+      "Havia um cinema nesta rua."
+     ]
+    ]
+   },
+   {
+    "titulo": "Negativa e pergunta: use to com did",
+    "paragrafos": [
+     "Quando aparece did ou didn't, o verbo volta à forma base: did you use to, I didn't use to. É um erro muito comum escrever \"did you used to\".",
+     "Na conversa, também é natural dizer I never used to para reforçar a negativa."
+    ],
+    "exemplos": [
+     [
+      "Did you use to wear glasses?",
+      "Você usava óculos?"
+     ],
+     [
+      "I didn't use to like vegetables.",
+      "Eu não gostava de legumes."
+     ],
+     [
+      "He never used to call me on weekends.",
+      "Ele nunca me ligava nos fins de semana."
+     ]
+    ]
+   },
+   {
+    "titulo": "Would: lembranças que se repetiam",
+    "paragrafos": [
+     "Would também descreve ações repetidas no passado, com um tom de memória ou narração: Every summer we would go to the countryside.",
+     "Atenção: would só funciona com ações, não com estados. Dá para dizer I used to have a dog, mas não \"I would have a dog\" com esse sentido. Verbos como have, be, know e like ficam com used to."
+    ],
+    "exemplos": [
+     [
+      "When I was a kid, my grandfather would tell us stories every night.",
+      "Quando eu era criança, meu avô nos contava histórias toda noite."
+     ],
+     [
+      "On Sundays we would wake up late and cook together.",
+      "Aos domingos a gente acordava tarde e cozinhava junto."
+     ]
+    ]
+   },
+   {
+    "titulo": "Não confunda: be used to e get used to",
+    "paragrafos": [
+     "Be used to + substantivo ou verbo com -ing significa estar acostumado: I'm used to working late. Get used to significa ir se acostumando: You'll get used to the cold.",
+     "Resumo: used to + infinitivo fala do passado; be/get used to + -ing fala de costume, em qualquer tempo verbal."
+    ],
+    "exemplos": [
+     [
+      "I'm used to waking up early.",
+      "Estou acostumado a acordar cedo."
+     ],
+     [
+      "It took me months to get used to driving on the left.",
+      "Levei meses para me acostumar a dirigir pela esquerda."
+     ],
+     [
+      "I used to wake up early, but now I work from home.",
+      "Eu acordava cedo, mas agora trabalho de casa."
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "causativo-have-get-something-done",
+  "nivel": "B2",
+  "titulo": "Causativo: have something done e get something done",
+  "resumo": "Diga que alguém fez um serviço para você, como cortar o cabelo ou consertar o carro, e use o causativo para contar imprevistos, dar ordens e pedir favores com have, get e make.",
+  "data": "2026-10-29",
+  "blocos": [
+   {
+    "titulo": "A estrutura: have + objeto + particípio",
+    "paragrafos": [
+     "Em português dizemos \"cortei o cabelo\" mesmo quando foi o cabeleireiro que cortou. Em inglês, I cut my hair significa que você mesmo pegou a tesoura. Para dizer que outra pessoa fez o serviço, use have + objeto + particípio passado: I had my hair cut.",
+     "O verbo have muda de tempo normalmente: I'm having my car repaired, I'll have the house painted, I've just had my eyes tested."
+    ],
+    "exemplos": [
+     [
+      "I had my hair cut yesterday.",
+      "Cortei o cabelo ontem (no salão)."
+     ],
+     [
+      "We're having the kitchen renovated next month.",
+      "Vamos reformar a cozinha no mês que vem (uma empresa vai fazer)."
+     ],
+     [
+      "You should have your blood pressure checked.",
+      "Você deveria medir a pressão."
+     ]
+    ]
+   },
+   {
+    "titulo": "Get something done: mais informal e com ideia de esforço",
+    "paragrafos": [
+     "Get + objeto + particípio tem o mesmo sentido, mas é mais comum na fala e às vezes sugere que foi preciso se esforçar ou resolver algo: I finally got the printer fixed.",
+     "Get também aparece em ordens e prazos: Get this report finished by Friday."
+    ],
+    "exemplos": [
+     [
+      "I need to get my passport renewed before the trip.",
+      "Preciso renovar o passaporte antes da viagem."
+     ],
+     [
+      "She finally got the leak fixed.",
+      "Ela finalmente conseguiu consertar o vazamento."
+     ],
+     [
+      "Get your homework done before dinner.",
+      "Termine a lição de casa antes do jantar."
+     ]
+    ]
+   },
+   {
+    "titulo": "Quando algo ruim acontece com você",
+    "paragrafos": [
+     "O mesmo formato serve para contar experiências desagradáveis causadas por outra pessoa: He had his wallet stolen on the subway. Aqui ninguém pediu o serviço, claro; a estrutura só mostra que a ação recaiu sobre o sujeito.",
+     "É uma forma natural e econômica de narrar imprevistos sem precisar dizer quem foi o responsável."
+    ],
+    "exemplos": [
+     [
+      "He had his wallet stolen on the subway.",
+      "Roubaram a carteira dele no metrô."
+     ],
+     [
+      "They had their flight cancelled at the last minute.",
+      "O voo deles foi cancelado em cima da hora."
+     ]
+    ]
+   },
+   {
+    "titulo": "Have, get e make alguém fazer algo",
+    "paragrafos": [
+     "Com uma pessoa como objeto, o padrão muda. Have someone do (infinitivo sem to) é pedir ou encarregar: I'll have my assistant send you the file. Get someone to do é convencer: I got my brother to help me move. Make someone do é obrigar: The teacher made us rewrite the essay.",
+     "Repare no to: ele só aparece com get. Com have e make, o verbo vem direto."
+    ],
+    "exemplos": [
+     [
+      "I'll have the technician call you back.",
+      "Vou pedir para o técnico te ligar de volta."
+     ],
+     [
+      "I finally got my dad to try sushi.",
+      "Finalmente convenci meu pai a experimentar sushi."
+     ],
+     [
+      "The coach made us run ten laps.",
+      "O treinador nos fez correr dez voltas."
+     ]
+    ]
+   }
+  ]
  }
 ]
