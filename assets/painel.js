@@ -27,10 +27,44 @@
   async function getConfig() { const { data } = await c.from("config").select("chave,valor"); const o = {}; (data || []).forEach(l => o[l.chave] = l.valor); return o; }
   async function setConfig(chave, valor) { const { error } = await c.from("config").upsert({ chave, valor, atualizado_em: new Date().toISOString() }); try { sessionStorage.removeItem("tdl_cfg"); } catch (e) {} return error; }
   async function comando(texto, tipo = "livre") { const { error } = await c.from("comandos").insert({ texto, tipo }); T.toast(error ? "Erro: " + error.message : "Comando enviado para a fila. A automação executa na próxima rodada."); return !error; }
+  /* ---------- registro da automação (tools/registro.json no GitHub) ----------
+     O editor noturno não grava no banco (o conector pede aprovação manual); ele grava neste arquivo público.
+     Sempre que o painel abre, este bloco lê o arquivo e passa para o banco sozinho, com a sessão do administrador. */
+  async function lerRegistro() { try { const r = await fetch(raiz + "tools/registro.json?t=" + Date.now(), { cache: "no-store" }); return r.ok ? await r.json() : null; } catch (e) { return null; } }
+  async function sincronizarRegistro() {
+    const reg = await lerRegistro(); if (!reg) return { ok: false, motivo: "arquivo ainda não existe" };
+    let n = 0;
+    for (const [id, v] of Object.entries(reg.comandos_feitos || {})) {
+      if (!/^\d+$/.test(id) || !v) continue;
+      const resultado = String(v.resultado || "").slice(0, 500);
+      if (v.status === "feito" || v.status === "erro") {
+        const { data } = await c.from("comandos").update({ status: v.status, resultado, feito_em: v.em || new Date().toISOString() }).eq("id", +id).in("status", ["pendente", "executando"]).select("id");
+        n += (data || []).length;
+      } else if (v.status === "em_progresso") {
+        const { data } = await c.from("comandos").update({ resultado }).eq("id", +id).eq("status", "pendente").neq("resultado", resultado).select("id");
+        n += (data || []).length;
+      }
+    }
+    for (const [id, v] of Object.entries(reg.sugestoes_tratadas || {})) {
+      if (!/^\d+$/.test(id) || !v || !["aplicada", "ignorada"].includes(v.status)) continue;
+      const { data } = await c.from("sugestoes").update({ status: v.status }).eq("id", +id).eq("status", "nova").select("id");
+      n += (data || []).length;
+    }
+    if (reg.ultima_execucao) {
+      const a = (await getConfig()).automacao || {};
+      if (!a.ultima_execucao || new Date(reg.ultima_execucao) > new Date(a.ultima_execucao)) {
+        const e = await setConfig("automacao", Object.assign(a, { ultima_execucao: reg.ultima_execucao, ultimo_relatorio: String(reg.ultimo_relatorio || "").slice(0, 300) }));
+        if (!e) n++;
+      }
+    }
+    return { ok: true, n, ultima: reg.ultima_execucao };
+  }
+  const sincronia = sincronizarRegistro().then(r => { if (r.ok && r.n) T.toast("Registro da automação sincronizado do GitHub (" + r.n + " atualização" + (r.n > 1 ? "ões" : "") + ")."); return r; }).catch(e => ({ ok: false, motivo: e.message }));
   async function statusDados(idioma = "en") { try { return await (await fetch(raiz + "dados/" + idioma + "/status.json?t=" + Date.now())).json(); } catch (e) { return null; } }
 
   /* ---------- 1. Visão geral ---------- */
   async function abaGeral() {
+    await sincronia;
     const [{ data: est, error }, st, cfg] = await Promise.all([c.rpc("estatisticas_admin"), statusDados(), getConfig()]);
     const a = cfg.automacao || {};
     const pct = st ? Math.round(st.traduzidos / st.total * 100) : 0;
@@ -66,6 +100,7 @@
     ["Fazer uma auditoria de SEO e corrigir o que for preciso", "seo"]
   ];
   async function abaComandos() {
+    await sincronia;
     const { data } = await c.from("comandos").select("*").order("id", { ascending: false }).limit(40);
     alvo.innerHTML = '<div class="bloco"><h3>Peça qualquer mudança em português</h3><p>Escreva como falaria comigo. Exemplos: "adicione o espanhol", "mude a cor principal para verde", "crie uma página sobre phrasal verbs de viagem".</p>' +
       '<form id="f"><textarea id="tx" required maxlength="4000" placeholder="O que você quer que eu faça no site?"></textarea><button class="btn" style="margin-top:10px">Enviar comando</button></form></div>' +
@@ -114,6 +149,7 @@
 
   /* ---------- 4. Sugestões dos alunos ---------- */
   async function abaSugestoes() {
+    await sincronia;
     const { data } = await c.from("sugestoes").select("*").order("id", { ascending: false }).limit(60);
     alvo.innerHTML = '<div class="bloco"><h3>O que os alunos estão pedindo</h3><p>Erros relatados viram correções; pedidos de idioma entram na fila de idiomas.</p>' +
       '<div style="margin-bottom:12px"><button class="btn sec peq" id="todas">Mandar a automação revisar todas as novas</button></div>' +
@@ -205,6 +241,7 @@
     await testar("Banco de dados e login (Supabase)", async () => { const { error } = await c.from("config").select("chave").limit(1); if (error) throw error; return "conectado"; });
     await testar("Fila de comandos sem travamento", async () => { const { data } = await c.from("comandos").select("criado_em").eq("status", "pendente").order("criado_em").limit(1); if (data && data[0] && Date.now() - new Date(data[0].criado_em) > 2 * 864e5) throw new Error("há comando pendente há mais de 2 dias"); return "ok"; });
     await testar("Automação rodou nas últimas 36 horas", async () => { const cfg = await getConfig(); const u = cfg.automacao && cfg.automacao.ultima_execucao; if (!u) throw new Error("ainda não rodou"); if (Date.now() - new Date(u) > 36 * 36e5) throw new Error("última execução em " + dataBR(u)); return dataBR(u); });
+    await testar("Registro da automação lido do GitHub", async () => { const r = await sincronia; if (!r.ok) throw new Error(r.motivo || "não foi possível ler"); return "última execução " + dataBR(r.ultima) + " · sincronizado com o banco"; });
     await testar("AdSense configurado corretamente", async () => { const a = (await getConfig()).adsense || {}; if (!a.ativo) return "desligado (ligue em Monetização quando aprovado)"; if (!/^ca-pub-\d{10,}$/.test(a.publisher)) throw new Error("ID de editor inválido"); return "ativo"; });
     await testar("Voz em inglês disponível neste aparelho", async () => { const v = speechSynthesis.getVoices(); return v.some(x => x.lang.startsWith("en")) ? v.filter(x => x.lang.startsWith("en")).length + " vozes" : "carregando vozes (normal no primeiro acesso)"; });
     await testar("Voz em português disponível neste aparelho", async () => { const v = speechSynthesis.getVoices(); return v.some(x => x.lang.startsWith("pt")) ? "ok" : "carregando vozes (normal no primeiro acesso)"; });
