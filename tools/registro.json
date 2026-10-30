@@ -1,7 +1,9 @@
 {
-  "ultima_execucao": "2026-10-29T04:00:59-03:00",
-  "ultimo_relatorio": "50 verbos traduzidos (3.400 de 11.592) e 2 lições (B1 e B2); commit 1648f4f9.",
+  "ultima_execucao": "2026-10-30T04:03:00-03:00",
+  "ultimo_relatorio": "50 verbos traduzidos (3.450 de 11.592), 1 lição C1 (cleft sentences), 0 comandos e 0 sugestões.",
+  "modo_banco": "direto",
   "comandos_feitos": {},
   "sugestoes_tratadas": {},
-  "pendente_no_banco": true
+  "pendente_no_banco": false,
+  "reserva_seguidas": 0
 }

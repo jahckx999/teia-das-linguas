@@ -1043,5 +1043,119 @@
     ]
    }
   ]
+ },
+ {
+  "id": "cleft-sentences-enfase",
+  "nivel": "C1",
+  "titulo": "Cleft sentences: what I need is…, it was… that",
+  "resumo": "Aprenda a destacar a informação mais importante da frase com as estruturas it-cleft e wh-cleft, o equivalente inglês ao nosso \"foi ele que…\" e \"o que eu quero é…\".",
+  "data": "2026-10-30",
+  "blocos": [
+   {
+    "titulo": "O que é uma cleft sentence",
+    "paragrafos": [
+     "Em português, quando queremos destacar uma parte da frase, dizemos \"foi a Ana que resolveu o problema\" em vez de \"a Ana resolveu o problema\". O inglês faz o mesmo dividindo (to cleave = partir) a frase em duas partes: uma que aponta o foco e outra que traz o resto da informação.",
+     "Essas estruturas são muito comuns na fala e na escrita formal, porque permitem corrigir alguém, contrastar ideias e guiar a atenção do ouvinte sem depender só da entonação."
+    ],
+    "exemplos": [
+     [
+      "Ana solved the problem.",
+      "A Ana resolveu o problema. (neutro)"
+     ],
+     [
+      "It was Ana who solved the problem.",
+      "Foi a Ana que resolveu o problema. (foco em quem)"
+     ],
+     [
+      "What Ana did was solve the problem.",
+      "O que a Ana fez foi resolver o problema. (foco na ação)"
+     ]
+    ]
+   },
+   {
+    "titulo": "It-cleft: it + be + foco + that/who",
+    "paragrafos": [
+     "Coloque o elemento destacado depois de it is / it was e continue com that (ou who, para pessoas). Funciona com sujeito, objeto, tempo, lugar e motivo.",
+     "É a forma ideal para corrigir uma informação: It wasn't the price that worried me, it was the deadline. Repare que o verbo be fica no singular mesmo com foco plural: It's the details that matter."
+    ],
+    "exemplos": [
+     [
+      "It was in Lisbon that they first met.",
+      "Foi em Lisboa que eles se conheceram."
+     ],
+     [
+      "It's not the money that bothers me; it's the attitude.",
+      "Não é o dinheiro que me incomoda; é a atitude."
+     ],
+     [
+      "It was only when I moved abroad that I realized how much I missed my family.",
+      "Só quando me mudei para o exterior é que percebi o quanto sentia falta da minha família."
+     ]
+    ]
+   },
+   {
+    "titulo": "Wh-cleft: what + oração + be + foco",
+    "paragrafos": [
+     "Comece com uma oração introduzida por what e depois revele o foco: What I need is a long holiday. Ela cria suspense e joga a informação nova para o final, onde ela pesa mais.",
+     "Quando o foco é uma ação, use do na primeira parte e o infinitivo (com ou sem to) depois de be: What you should do is call her. What happened was (that) the system crashed."
+    ],
+    "exemplos": [
+     [
+      "What I really enjoy is cooking for friends.",
+      "O que eu gosto mesmo é de cozinhar para os amigos."
+     ],
+     [
+      "What we did was rewrite the whole report.",
+      "O que nós fizemos foi reescrever o relatório inteiro."
+     ],
+     [
+      "What surprised me most was how calm she stayed.",
+      "O que mais me surpreendeu foi o quanto ela se manteve calma."
+     ]
+    ]
+   },
+   {
+    "titulo": "Variações: all, the thing, the reason, the place",
+    "paragrafos": [
+     "All substitui what para dizer que algo é a única coisa: All I want is some peace and quiet (tudo o que eu quero é…). Também é comum usar substantivos genéricos no lugar de what: the thing (that), the reason (why), the place (where), the person (who).",
+     "A ordem pode ser invertida para fechar um argumento: A good night's sleep is what you need. Essa versão soa como conclusão."
+    ],
+    "exemplos": [
+     [
+      "All I did was ask a simple question.",
+      "Tudo o que eu fiz foi fazer uma pergunta simples."
+     ],
+     [
+      "The reason why I left was the commute.",
+      "O motivo pelo qual saí foi o trajeto até o trabalho."
+     ],
+     [
+      "The thing that annoys me is people who interrupt.",
+      "O que me irrita são as pessoas que interrompem."
+     ]
+    ]
+   },
+   {
+    "titulo": "Pratique: transforme e destaque",
+    "paragrafos": [
+     "Pegue frases simples do seu dia e reescreva cada uma de três formas: neutra, com it-cleft e com wh-cleft. Por exemplo: I need more time → It's more time that I need → What I need is more time.",
+     "Nas reuniões e e-mails, use as clefts para reformular com elegância: What I'm suggesting is…, What we need to focus on is…, It's the second point that concerns me. Soa preciso, educado e natural."
+    ],
+    "exemplos": [
+     [
+      "What I'm suggesting is that we postpone the launch.",
+      "O que estou sugerindo é que adiemos o lançamento."
+     ],
+     [
+      "It's the second point that concerns me.",
+      "É o segundo ponto que me preocupa."
+     ],
+     [
+      "What we need to focus on is customer feedback.",
+      "Aquilo em que precisamos nos concentrar é o retorno dos clientes."
+     ]
+    ]
+   }
+  ]
  }
 ]
