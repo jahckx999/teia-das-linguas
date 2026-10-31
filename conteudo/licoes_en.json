@@ -1157,5 +1157,98 @@
     ]
    }
   ]
+ },
+ {
+  "id": "subjuntivo-mandativo-formal",
+  "nivel": "C2",
+  "titulo": "Subjuntivo mandativo: “It is essential that he be…”",
+  "resumo": "Aprenda a estrutura formal que nativos usam em contratos, atas e e-mails executivos para exigir, recomendar e propor — e as fórmulas fixas do subjuntivo que sobrevivem no inglês moderno.",
+  "data": "2026-10-31",
+  "blocos": [
+   {
+    "titulo": "A forma que parece um erro (mas não é)",
+    "paragrafos": [
+     "Em frases como \"The board insists that she resign\", o verbo resign aparece sem o -s da 3ª pessoa. Não é erro: é o subjuntivo mandativo, que usa sempre a forma base do verbo, para qualquer pessoa e em qualquer tempo da oração principal.",
+     "Ele aparece depois de verbos de exigência e proposta (demand, insist, recommend, propose, request, require, urge, stipulate) e de adjetivos como essential, imperative, vital, crucial e advisable. Em português, é o nosso \"que ele renuncie\": a ideia é a mesma, só que em inglês a marca é a ausência de flexão."
+    ],
+    "exemplos": [
+     [
+      "The board insists that she resign before the merger.",
+      "O conselho insiste que ela renuncie antes da fusão."
+     ],
+     [
+      "It is imperative that every claim be verified.",
+      "É imprescindível que toda alegação seja verificada."
+     ],
+     [
+      "The contract stipulates that the tenant not sublet the flat.",
+      "O contrato estipula que o inquilino não subloque o apartamento."
+     ]
+    ]
+   },
+   {
+    "titulo": "Negativa, passiva e o verbo be",
+    "paragrafos": [
+     "A negativa é feita com not antes do verbo, sem do: \"We recommend that he not sign yet\" (e não \"doesn't sign\"). Na passiva e com o verbo be, usa-se be para todas as pessoas: \"that the data be refuted\", \"that they be informed\".",
+     "Esse detalhe é o que mais denuncia um texto de alto nível. Em relatórios jurídicos e acadêmicos, \"it is essential that the findings be disproved or confirmed\" soa natural; \"are disproved\" soa menos formal."
+    ],
+    "exemplos": [
+     [
+      "We recommend that he not sign anything until Monday.",
+      "Recomendamos que ele não assine nada até segunda-feira."
+     ],
+     [
+      "They demanded that the allegations be refuted publicly.",
+      "Eles exigiram que as acusações fossem refutadas publicamente."
+     ],
+     [
+      "It is vital that the patient be kept under observation.",
+      "É vital que o paciente seja mantido em observação."
+     ]
+    ]
+   },
+   {
+    "titulo": "Britânico x americano: a alternativa com should",
+    "paragrafos": [
+     "O inglês americano usa o subjuntivo puro com muita frequência, inclusive na fala. O inglês britânico também o usa na escrita formal, mas aceita bem a alternativa com should: \"The committee proposed that the rule should be voided\".",
+     "As duas formas são corretas. A dica prática: em provas como CPE e IELTS, e em textos formais, o subjuntivo puro mostra domínio; na conversa britânica, should soa mais leve. Evite apenas misturar com o presente comum (\"proposes that he goes\") em contexto formal."
+    ],
+    "exemplos": [
+     [
+      "The committee proposed that the agreement should be voided.",
+      "O comitê propôs que o acordo fosse anulado."
+     ],
+     [
+      "I'd urge that the team be restructured gradually.",
+      "Eu recomendaria fortemente que a equipe fosse reestruturada aos poucos."
+     ],
+     [
+      "She requested that the report be embellished with fewer adjectives.",
+      "Ela pediu que o relatório fosse enfeitado com menos adjetivos."
+     ]
+    ]
+   },
+   {
+    "titulo": "Fórmulas fixas que você já ouviu",
+    "paragrafos": [
+     "O subjuntivo antigo sobrevive em expressões congeladas, muito comuns em discursos, filmes e literatura: \"God save the King\", \"Long live…\", \"Be that as it may\", \"Suffice it to say\", \"Come what may\", \"So be it\" e \"Heaven forbid\".",
+     "Elas não seguem a regra normal de concordância e não devem ser \"corrigidas\". Usadas com moderação, dão elegância e um toque retórico ao seu inglês."
+    ],
+    "exemplos": [
+     [
+      "Be that as it may, we cannot desist now.",
+      "Seja como for, não podemos desistir agora."
+     ],
+     [
+      "Suffice it to say that the plan was shrouded in secrecy.",
+      "Basta dizer que o plano estava envolto em sigilo."
+     ],
+     [
+      "Come what may, we will inch forward.",
+      "Aconteça o que acontecer, vamos avançar pouco a pouco."
+     ]
+    ]
+   }
+  ]
  }
 ]
