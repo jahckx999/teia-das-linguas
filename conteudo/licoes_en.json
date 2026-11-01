@@ -1,1254 +1,1343 @@
 [
- {
-  "id": "pedindo-no-cafe",
-  "nivel": "A1",
-  "titulo": "Pedindo no café: can I have, I'd like e please",
-  "resumo": "Aprenda a pedir comida e bebida em inglês com educação, perguntar o preço e pagar a conta, usando os verbos have, want, like, get e pay.",
-  "data": "2026-10-21",
-  "blocos": [
-   {
-    "titulo": "Três jeitos de pedir",
-    "paragrafos": [
-     "Em inglês, pedir algo de forma direta demais (\"I want a coffee\") pode soar um pouco rude, como \"eu quero um café\" dito sem sorriso. Os nativos preferem fórmulas mais suaves.",
-     "As três mais usadas são: Can I have...? (Posso pegar...?), I'd like... (Eu gostaria de...) e Could I get...? (Poderia me trazer...?). I'd é a contração de I would. Pronuncie \"aid laik\", com o d bem leve."
-    ],
-    "exemplos": [
-     [
-      "Can I have a coffee, please?",
-      "Pode me ver um café, por favor?"
-     ],
-     [
-      "I'd like a cheese sandwich.",
-      "Eu gostaria de um sanduíche de queijo."
-     ],
-     [
-      "Could I get some water?",
-      "Poderia me trazer um pouco de água?"
-     ]
+  {
+    "id": "pedindo-no-cafe",
+    "nivel": "A1",
+    "titulo": "Pedindo no café: can I have, I'd like e please",
+    "resumo": "Aprenda a pedir comida e bebida em inglês com educação, perguntar o preço e pagar a conta, usando os verbos have, want, like, get e pay.",
+    "data": "2026-10-21",
+    "blocos": [
+      {
+        "titulo": "Três jeitos de pedir",
+        "paragrafos": [
+          "Em inglês, pedir algo de forma direta demais (\"I want a coffee\") pode soar um pouco rude, como \"eu quero um café\" dito sem sorriso. Os nativos preferem fórmulas mais suaves.",
+          "As três mais usadas são: Can I have...? (Posso pegar...?), I'd like... (Eu gostaria de...) e Could I get...? (Poderia me trazer...?). I'd é a contração de I would. Pronuncie \"aid laik\", com o d bem leve."
+        ],
+        "exemplos": [
+          [
+            "Can I have a coffee, please?",
+            "Pode me ver um café, por favor?"
+          ],
+          [
+            "I'd like a cheese sandwich.",
+            "Eu gostaria de um sanduíche de queijo."
+          ],
+          [
+            "Could I get some water?",
+            "Poderia me trazer um pouco de água?"
+          ]
+        ]
+      },
+      {
+        "titulo": "Tamanho, quantidade e para viagem",
+        "paragrafos": [
+          "Em cafés de países de língua inglesa, o atendente costuma perguntar o tamanho (small, medium, large) e se é para comer ali ou levar.",
+          "Para comer no local, diga for here. Para levar, diga to go (EUA) ou to take away (Reino Unido)."
+        ],
+        "exemplos": [
+          [
+            "A large tea, please.",
+            "Um chá grande, por favor."
+          ],
+          [
+            "Is that for here or to go?",
+            "É para comer aqui ou para levar?"
+          ],
+          [
+            "To go, please.",
+            "Para levar, por favor."
+          ],
+          [
+            "Two orange juices, please.",
+            "Dois sucos de laranja, por favor."
+          ]
+        ]
+      },
+      {
+        "titulo": "Perguntando o preço e pagando",
+        "paragrafos": [
+          "Para perguntar o preço, use How much is it? (Quanto custa?) ou How much is the muffin? Para vários itens, How much are they?",
+          "Na hora de pagar, os verbos pay (pagar) e take (aceitar) aparecem muito. Can I pay by card? significa \"Posso pagar no cartão?\"."
+        ],
+        "exemplos": [
+          [
+            "How much is it?",
+            "Quanto é?"
+          ],
+          [
+            "Can I pay by card?",
+            "Posso pagar no cartão?"
+          ],
+          [
+            "Do you take cash?",
+            "Vocês aceitam dinheiro?"
+          ],
+          [
+            "Keep the change.",
+            "Pode ficar com o troco."
+          ]
+        ]
+      },
+      {
+        "titulo": "Diálogo completo",
+        "paragrafos": [
+          "Leia em voz alta, alternando os papéis. Repita até conseguir dizer cada fala sem olhar. Esse é o método de shadowing: ouvir (ou ler) e repetir no mesmo ritmo."
+        ],
+        "exemplos": [
+          [
+            "Hi! What can I get you?",
+            "Oi! O que vai ser?"
+          ],
+          [
+            "Hi. Can I have a small coffee and a muffin, please?",
+            "Oi. Pode me ver um café pequeno e um muffin, por favor?"
+          ],
+          [
+            "Sure. For here or to go?",
+            "Claro. Para comer aqui ou levar?"
+          ],
+          [
+            "For here. How much is it?",
+            "Aqui. Quanto é?"
+          ],
+          [
+            "That's six dollars.",
+            "São seis dólares."
+          ],
+          [
+            "Here you are. Thank you!",
+            "Aqui está. Obrigado!"
+          ]
+        ]
+      }
     ]
-   },
-   {
-    "titulo": "Tamanho, quantidade e para viagem",
-    "paragrafos": [
-     "Em cafés de países de língua inglesa, o atendente costuma perguntar o tamanho (small, medium, large) e se é para comer ali ou levar.",
-     "Para comer no local, diga for here. Para levar, diga to go (EUA) ou to take away (Reino Unido)."
-    ],
-    "exemplos": [
-     [
-      "A large tea, please.",
-      "Um chá grande, por favor."
-     ],
-     [
-      "Is that for here or to go?",
-      "É para comer aqui ou para levar?"
-     ],
-     [
-      "To go, please.",
-      "Para levar, por favor."
-     ],
-     [
-      "Two orange juices, please.",
-      "Dois sucos de laranja, por favor."
-     ]
+  },
+  {
+    "id": "meu-fim-de-semana-passado-simples",
+    "nivel": "A2",
+    "titulo": "Contando o fim de semana: o passado simples na prática",
+    "resumo": "Use o past simple para contar o que você fez no fim de semana: verbos regulares com -ed, os irregulares mais comuns e perguntas com did.",
+    "data": "2026-10-21",
+    "blocos": [
+      {
+        "titulo": "Regulares: só acrescentar -ed",
+        "paragrafos": [
+          "A maioria dos verbos forma o passado com -ed: watch → watched, visit → visited, play → played. A mesma forma serve para todas as pessoas: I watched, she watched, they watched.",
+          "Atenção à pronúncia do -ed: depois de t ou d ele vira uma sílaba (\"visit-id\", \"need-id\"); nos outros casos é só um som de t ou d no final (\"watcht\", \"playd\"). Não diga \"plei-ed\"."
+        ],
+        "exemplos": [
+          [
+            "I watched a movie on Saturday.",
+            "Eu assisti a um filme no sábado."
+          ],
+          [
+            "We visited my grandmother.",
+            "Nós visitamos minha avó."
+          ],
+          [
+            "She cleaned the whole house.",
+            "Ela limpou a casa inteira."
+          ]
+        ]
+      },
+      {
+        "titulo": "Os irregulares que você mais vai usar",
+        "paragrafos": [
+          "Alguns verbos muito frequentes têm passado próprio, que precisa ser decorado. Os campeões do fim de semana: go → went, have → had, eat → ate, see → saw, make → made, get → got, buy → bought, sleep → slept.",
+          "Dica de estudo: pratique esses oito no modo de repetição espaçada até sair sem pensar. Eles cobrem boa parte do que se conta sobre um fim de semana."
+        ],
+        "exemplos": [
+          [
+            "I went to the beach.",
+            "Eu fui à praia."
+          ],
+          [
+            "We had lunch at a new restaurant.",
+            "Nós almoçamos num restaurante novo."
+          ],
+          [
+            "They saw a great show.",
+            "Eles viram um show ótimo."
+          ],
+          [
+            "I slept until ten.",
+            "Eu dormi até as dez."
+          ]
+        ]
+      },
+      {
+        "titulo": "Negativas e perguntas com did",
+        "paragrafos": [
+          "Para negar ou perguntar, o inglês usa o auxiliar did, e o verbo principal volta para a forma básica. Por isso o certo é I didn't go, e não I didn't went.",
+          "A pergunta mais natural na segunda-feira é: What did you do on the weekend? (EUA) ou at the weekend (Reino Unido)."
+        ],
+        "exemplos": [
+          [
+            "I didn't go out on Sunday.",
+            "Eu não saí no domingo."
+          ],
+          [
+            "What did you do on the weekend?",
+            "O que você fez no fim de semana?"
+          ],
+          [
+            "Did you have a good time?",
+            "Você se divertiu?"
+          ],
+          [
+            "Yes, I did. / No, I didn't.",
+            "Sim. / Não."
+          ]
+        ]
+      },
+      {
+        "titulo": "Agora é sua vez",
+        "paragrafos": [
+          "Escreva cinco frases sobre o seu último fim de semana: duas com verbos regulares, duas com irregulares e uma negativa. Depois leia em voz alta, prestando atenção ao som do -ed.",
+          "Ligue as frases com conectores simples de sequência: first (primeiro), then (depois), after that (depois disso) e finally (por fim)."
+        ],
+        "exemplos": [
+          [
+            "First, I got up late.",
+            "Primeiro, eu acordei tarde."
+          ],
+          [
+            "Then I made pancakes for breakfast.",
+            "Depois eu fiz panquecas no café da manhã."
+          ],
+          [
+            "After that, we walked in the park.",
+            "Depois disso, caminhamos no parque."
+          ],
+          [
+            "Finally, I didn't do my homework!",
+            "Por fim, eu não fiz a lição de casa!"
+          ]
+        ]
+      }
     ]
-   },
-   {
-    "titulo": "Perguntando o preço e pagando",
-    "paragrafos": [
-     "Para perguntar o preço, use How much is it? (Quanto custa?) ou How much is the muffin? Para vários itens, How much are they?",
-     "Na hora de pagar, os verbos pay (pagar) e take (aceitar) aparecem muito. Can I pay by card? significa \"Posso pagar no cartão?\"."
-    ],
-    "exemplos": [
-     [
-      "How much is it?",
-      "Quanto é?"
-     ],
-     [
-      "Can I pay by card?",
-      "Posso pagar no cartão?"
-     ],
-     [
-      "Do you take cash?",
-      "Vocês aceitam dinheiro?"
-     ],
-     [
-      "Keep the change.",
-      "Pode ficar com o troco."
-     ]
+  },
+  {
+    "id": "present-perfect-experiencias",
+    "nivel": "B1",
+    "titulo": "Present perfect: experiências, novidades e o que ainda não aconteceu",
+    "resumo": "Aprenda quando usar o present perfect (have + particípio) em vez do passado simples, e domine ever, never, just, already e yet com exemplos do dia a dia.",
+    "data": "2026-10-22",
+    "blocos": [
+      {
+        "titulo": "A ideia central: passado ligado ao agora",
+        "paragrafos": [
+          "O present perfect se forma com have/has + particípio: I have finished, she has seen, they have gone. Ele fala de algo que aconteceu antes, mas importa agora — o resultado ou a experiência continua relevante.",
+          "Compare: \"I lost my keys\" (passado simples) apenas conta um fato; \"I have lost my keys\" sugere que você ainda está sem elas. Em português costumamos usar o pretérito nos dois casos, por isso o brasileiro tende a esquecer o present perfect."
+        ],
+        "exemplos": [
+          [
+            "I have finished the report. Here it is.",
+            "Terminei o relatório. Aqui está."
+          ],
+          [
+            "She has broken her arm, so she can't drive.",
+            "Ela quebrou o braço, então não pode dirigir."
+          ],
+          [
+            "They have moved to Lisbon.",
+            "Eles se mudaram para Lisboa (e moram lá agora)."
+          ]
+        ]
+      },
+      {
+        "titulo": "Experiências de vida: ever e never",
+        "paragrafos": [
+          "Para perguntar se alguém já fez algo alguma vez na vida, use ever: \"Have you ever...?\". Para dizer que nunca fez, use never, sem outro negativo: \"I have never\", e não \"I haven't never\".",
+          "Atenção: se você citar quando aconteceu (yesterday, in 2019, last week), volte para o passado simples. O present perfect não combina com tempo terminado e específico."
+        ],
+        "exemplos": [
+          [
+            "Have you ever eaten sushi?",
+            "Você já comeu sushi?"
+          ],
+          [
+            "I have never travelled abroad.",
+            "Eu nunca viajei para o exterior."
+          ],
+          [
+            "I visited Paris in 2019.",
+            "Eu visitei Paris em 2019. (data específica → passado simples)"
+          ]
+        ]
+      },
+      {
+        "titulo": "Just, already e yet: o relógio das novidades",
+        "paragrafos": [
+          "Just = acabou de acontecer: \"I've just arrived\" (acabei de chegar). Already = já, mais cedo do que se esperava, em frases afirmativas. Yet = ainda/já, no fim de negativas e perguntas.",
+          "Posição: just e already ficam entre have e o particípio; yet vai no final. No inglês americano informal você também ouve o passado simples com essas palavras (\"Did you eat yet?\"), mas o present perfect é a forma mais segura."
+        ],
+        "exemplos": [
+          [
+            "I've just sent you the file.",
+            "Acabei de te mandar o arquivo."
+          ],
+          [
+            "We have already paid the bill.",
+            "Nós já pagamos a conta."
+          ],
+          [
+            "Has the package arrived yet?",
+            "O pacote já chegou?"
+          ],
+          [
+            "He hasn't called me yet.",
+            "Ele ainda não me ligou."
+          ]
+        ]
+      },
+      {
+        "titulo": "For e since: o que começou e continua",
+        "paragrafos": [
+          "Para algo que começou no passado e continua até agora, o português usa o presente (\"moro aqui há dez anos\"), mas o inglês usa o present perfect: \"I have lived here for ten years\". Dizer \"I live here for ten years\" é um erro clássico.",
+          "For indica a duração (for two hours, for a long time); since indica o ponto de partida (since Monday, since 2015, since I was a child)."
+        ],
+        "exemplos": [
+          [
+            "I have worked here for five years.",
+            "Trabalho aqui há cinco anos."
+          ],
+          [
+            "She has known him since school.",
+            "Ela o conhece desde a escola."
+          ],
+          [
+            "How long have you studied English?",
+            "Há quanto tempo você estuda inglês?"
+          ]
+        ]
+      },
+      {
+        "titulo": "Pratique em voz alta",
+        "paragrafos": [
+          "Monte cinco frases verdadeiras sobre você: duas com ever/never, uma com just, uma com yet e uma com for ou since. Grave-se lendo e compare com a pronúncia das páginas de verbo — repare na contração: I've, she's, haven't.",
+          "Particípios irregulares aparecem muito aqui: been, gone, seen, done, eaten, written, known. Revise-os no modo de prática até saírem sem esforço."
+        ],
+        "exemplos": [
+          [
+            "I've never seen snow.",
+            "Eu nunca vi neve."
+          ],
+          [
+            "I've just had breakfast.",
+            "Acabei de tomar café da manhã."
+          ],
+          [
+            "I haven't finished this book yet.",
+            "Ainda não terminei este livro."
+          ]
+        ]
+      }
     ]
-   },
-   {
-    "titulo": "Diálogo completo",
-    "paragrafos": [
-     "Leia em voz alta, alternando os papéis. Repita até conseguir dizer cada fala sem olhar. Esse é o método de shadowing: ouvir (ou ler) e repetir no mesmo ritmo."
-    ],
-    "exemplos": [
-     [
-      "Hi! What can I get you?",
-      "Oi! O que vai ser?"
-     ],
-     [
-      "Hi. Can I have a small coffee and a muffin, please?",
-      "Oi. Pode me ver um café pequeno e um muffin, por favor?"
-     ],
-     [
-      "Sure. For here or to go?",
-      "Claro. Para comer aqui ou levar?"
-     ],
-     [
-      "For here. How much is it?",
-      "Aqui. Quanto é?"
-     ],
-     [
-      "That's six dollars.",
-      "São seis dólares."
-     ],
-     [
-      "Here you are. Thank you!",
-      "Aqui está. Obrigado!"
-     ]
+  },
+  {
+    "id": "condicionais-hipoteses-arrependimentos",
+    "nivel": "B2",
+    "titulo": "Condicionais além do básico: hipóteses, arrependimentos e misturas",
+    "resumo": "Domine o second, o third e o mixed conditional para falar de situações imaginárias, de arrependimentos e de como o passado afeta o presente — com wish e if only de bônus.",
+    "data": "2026-10-23",
+    "blocos": [
+      {
+        "titulo": "Second conditional: o presente imaginário",
+        "paragrafos": [
+          "Use if + passado simples, would + verbo para falar de algo irreal ou pouco provável agora: \"If I had more time, I would learn Japanese\". O passado aqui não indica tempo passado, e sim distância da realidade.",
+          "Com o verbo be, o inglês formal prefere were para todas as pessoas: \"If I were you, I would accept the offer\" — a forma clássica de dar conselhos. Em português equivale ao nosso \"se eu tivesse... eu faria\"."
+        ],
+        "exemplos": [
+          [
+            "If I lived closer to the beach, I would surf every weekend.",
+            "Se eu morasse mais perto da praia, surfaria todo fim de semana."
+          ],
+          [
+            "If I were you, I wouldn't sign that contract.",
+            "Se eu fosse você, não assinaria esse contrato."
+          ],
+          [
+            "What would you do if you won the lottery?",
+            "O que você faria se ganhasse na loteria?"
+          ]
+        ]
+      },
+      {
+        "titulo": "Third conditional: o passado que não aconteceu",
+        "paragrafos": [
+          "Para imaginar um passado diferente, use if + had + particípio, would have + particípio: \"If we had left earlier, we would have caught the train\". É a estrutura dos arrependimentos e das críticas.",
+          "Na fala, would have vira would've (pronuncia-se \"wúdâv\"), e had e would se contraem em 'd — o contexto mostra qual é: \"If I'd known, I'd have called you\"."
+        ],
+        "exemplos": [
+          [
+            "If she had studied harder, she would have passed the exam.",
+            "Se ela tivesse estudado mais, teria passado na prova."
+          ],
+          [
+            "We wouldn't have got lost if we had taken a map.",
+            "Não teríamos nos perdido se tivéssemos levado um mapa."
+          ],
+          [
+            "If I'd known you were in town, I'd have invited you.",
+            "Se eu soubesse que você estava na cidade, teria te convidado."
+          ]
+        ]
+      },
+      {
+        "titulo": "Mixed conditionals: quando passado e presente se cruzam",
+        "paragrafos": [
+          "Às vezes a causa está no passado e a consequência no presente: if + had + particípio, would + verbo. \"If I had accepted that job, I would live in London now\".",
+          "O caminho inverso também existe — uma característica permanente que explica um fato passado: if + passado simples, would have + particípio. \"If he weren't so stubborn, he would have apologised\"."
+        ],
+        "exemplos": [
+          [
+            "If I had saved money last year, I wouldn't be broke now.",
+            "Se eu tivesse economizado no ano passado, não estaria sem dinheiro agora."
+          ],
+          [
+            "If she spoke French, she would have understood the guide.",
+            "Se ela falasse francês, teria entendido o guia."
+          ],
+          [
+            "If we hadn't missed the flight, we would be in Rome right now.",
+            "Se não tivéssemos perdido o voo, estaríamos em Roma agora."
+          ]
+        ]
+      },
+      {
+        "titulo": "Wish e if only: desejos e lamentos",
+        "paragrafos": [
+          "Wish segue a mesma lógica de distância: wish + passado para o presente (\"I wish I knew the answer\") e wish + had + particípio para o passado (\"I wish I had listened to you\").",
+          "If only é a versão mais emotiva: \"If only I had more time!\". Para reclamar de um comportamento alheio que irrita, use wish + would: \"I wish you would stop interrupting me\"."
+        ],
+        "exemplos": [
+          [
+            "I wish I could speak English fluently.",
+            "Quem me dera falar inglês fluentemente."
+          ],
+          [
+            "She wishes she hadn't sold her old car.",
+            "Ela se arrepende de ter vendido o carro antigo."
+          ],
+          [
+            "If only they had told us the truth!",
+            "Se ao menos eles tivessem nos contado a verdade!"
+          ]
+        ]
+      },
+      {
+        "titulo": "Erros comuns do brasileiro",
+        "paragrafos": [
+          "Nunca coloque would na oração com if: diga \"If I had known\", e não \"If I would have known\". Também evite traduzir \"se eu soubesse\" sempre como passado simples: se a referência é ao passado, o inglês pede had known.",
+          "Dica de prática: escreva três frases sobre decisões reais da sua vida — uma com second, uma com third e uma mista. Falar de si mesmo fixa a estrutura muito mais rápido."
+        ],
+        "exemplos": [
+          [
+            "If I had known about the meeting, I would have attended.",
+            "Se eu soubesse da reunião, teria comparecido."
+          ],
+          [
+            "If it rained tomorrow, we would cancel the picnic.",
+            "Se chovesse amanhã, cancelaríamos o piquenique."
+          ]
+        ]
+      }
     ]
-   }
-  ]
- },
- {
-  "id": "meu-fim-de-semana-passado-simples",
-  "nivel": "A2",
-  "titulo": "Contando o fim de semana: o passado simples na prática",
-  "resumo": "Use o past simple para contar o que você fez no fim de semana: verbos regulares com -ed, os irregulares mais comuns e perguntas com did.",
-  "data": "2026-10-21",
-  "blocos": [
-   {
-    "titulo": "Regulares: só acrescentar -ed",
-    "paragrafos": [
-     "A maioria dos verbos forma o passado com -ed: watch → watched, visit → visited, play → played. A mesma forma serve para todas as pessoas: I watched, she watched, they watched.",
-     "Atenção à pronúncia do -ed: depois de t ou d ele vira uma sílaba (\"visit-id\", \"need-id\"); nos outros casos é só um som de t ou d no final (\"watcht\", \"playd\"). Não diga \"plei-ed\"."
-    ],
-    "exemplos": [
-     [
-      "I watched a movie on Saturday.",
-      "Eu assisti a um filme no sábado."
-     ],
-     [
-      "We visited my grandmother.",
-      "Nós visitamos minha avó."
-     ],
-     [
-      "She cleaned the whole house.",
-      "Ela limpou a casa inteira."
-     ]
+  },
+  {
+    "id": "inversao-enfase",
+    "nivel": "C1",
+    "titulo": "Inversão para dar ênfase: never have I, not only, hardly had",
+    "resumo": "Aprenda a inverter sujeito e auxiliar depois de expressões negativas e restritivas para soar mais enfático, formal e elegante — como em discursos, artigos e e-mails importantes.",
+    "data": "2026-10-24",
+    "blocos": [
+      {
+        "titulo": "O que é a inversão e por que ela impressiona",
+        "paragrafos": [
+          "Em inglês, a ordem normal é sujeito + verbo: \"I have never seen such chaos\". Quando uma expressão negativa ou restritiva vai para o início da frase, o auxiliar passa para antes do sujeito, como numa pergunta: \"Never have I seen such chaos\".",
+          "O efeito é de ênfase e formalidade. Em português fazemos algo parecido com \"Nunca vi tamanho caos\", mas em inglês a troca de posição é obrigatória — dizer \"Never I have seen\" é erro. Se a frase não tem auxiliar, use do, does ou did: \"Rarely does she complain\"."
+        ],
+        "exemplos": [
+          [
+            "Never have I witnessed such a blunder in a meeting.",
+            "Nunca presenciei uma gafe dessas numa reunião."
+          ],
+          [
+            "Rarely does the manager disregard a good argument.",
+            "Raramente o gerente ignora um bom argumento."
+          ],
+          [
+            "Seldom did they confer before making big decisions.",
+            "Raramente eles trocavam ideias antes de tomar grandes decisões."
+          ]
+        ]
+      },
+      {
+        "titulo": "Not only... but also: somar com força",
+        "paragrafos": [
+          "\"Not only\" no início pede inversão na primeira parte; a segunda parte segue normal, geralmente com but (also): \"Not only did the app revolutionize the market, but it also changed how we work\".",
+          "É uma estrutura ótima para redações, apresentações e cartas de motivação, porque valoriza duas qualidades ou consequências de uma só vez."
+        ],
+        "exemplos": [
+          [
+            "Not only did she grasp the concept quickly, but she also explained it to the whole team.",
+            "Ela não só captou o conceito rápido, como também o explicou para a equipe toda."
+          ],
+          [
+            "Not only will the new law legalize the practice, but it will also regulate it.",
+            "A nova lei não só vai legalizar a prática, como também vai regulamentá-la."
+          ],
+          [
+            "Not only was the theory weak, but it didn't hold water at all.",
+            "A teoria não só era fraca, como não se sustentava de jeito nenhum."
+          ]
+        ]
+      },
+      {
+        "titulo": "Hardly, scarcely, no sooner: uma coisa logo depois da outra",
+        "paragrafos": [
+          "Para dizer que algo aconteceu imediatamente após outra coisa, usamos past perfect com inversão: \"Hardly had I arrived when the phone rang\" (mal eu tinha chegado e o telefone tocou).",
+          "Atenção às combinações fixas: hardly/scarcely... when e no sooner... than. Trocar por \"no sooner... when\" é um deslize comum até entre falantes avançados."
+        ],
+        "exemplos": [
+          [
+            "Hardly had we unplugged the router when the connection came back.",
+            "Mal tínhamos desligado o roteador da tomada e a conexão voltou."
+          ],
+          [
+            "No sooner had the product been patented than competitors tried to copy it.",
+            "Assim que o produto foi patenteado, os concorrentes tentaram copiá-lo."
+          ],
+          [
+            "Scarcely had he recanted his statement when new evidence appeared.",
+            "Mal ele tinha se retratado da declaração e surgiram novas provas."
+          ]
+        ]
+      },
+      {
+        "titulo": "Only, under no circumstances, little: restrições e avisos",
+        "paragrafos": [
+          "Expressões com only (only then, only after, only when, only by) também provocam inversão — mas na oração principal, não na que vem logo depois de only: \"Only after the files were authenticated did the court accept them\".",
+          "\"Under no circumstances\", \"at no time\" e \"on no account\" servem para proibições firmes, comuns em regras e contratos. Já \"little\" no início indica que alguém não fazia ideia de algo: \"Little did they know...\"."
+        ],
+        "exemplos": [
+          [
+            "Only after the documents were authenticated did the bank release the money.",
+            "Só depois que os documentos foram autenticados o banco liberou o dinheiro."
+          ],
+          [
+            "Under no circumstances should you part with your password.",
+            "Em hipótese alguma você deve abrir mão da sua senha."
+          ],
+          [
+            "Little did they know that the plan would wind up in court.",
+            "Mal sabiam eles que o plano acabaria no tribunal."
+          ]
+        ]
+      },
+      {
+        "titulo": "Quando (não) usar e como praticar",
+        "paragrafos": [
+          "A inversão é marca de registro formal ou de narração dramática. Numa conversa casual, a ordem normal soa mais natural: \"I've never seen that\" funciona melhor no bar do que \"Never have I seen that\".",
+          "Para fixar, pegue cinco frases comuns do seu dia e reescreva cada uma começando com never, rarely, not only, hardly ou only after. Leia em voz alta, marcando a ênfase na expressão inicial — assim a estrutura vira reflexo, e não regra decorada."
+        ],
+        "exemplos": [
+          [
+            "I rarely stoop to that level. → Rarely do I stoop to that level.",
+            "Raramente me rebaixo a esse nível."
+          ],
+          [
+            "They didn't follow up until Monday. → Not until Monday did they follow up.",
+            "Só na segunda-feira eles deram retorno."
+          ]
+        ]
+      }
     ]
-   },
-   {
-    "titulo": "Os irregulares que você mais vai usar",
-    "paragrafos": [
-     "Alguns verbos muito frequentes têm passado próprio, que precisa ser decorado. Os campeões do fim de semana: go → went, have → had, eat → ate, see → saw, make → made, get → got, buy → bought, sleep → slept.",
-     "Dica de estudo: pratique esses oito no modo de repetição espaçada até sair sem pensar. Eles cobrem boa parte do que se conta sobre um fim de semana."
-    ],
-    "exemplos": [
-     [
-      "I went to the beach.",
-      "Eu fui à praia."
-     ],
-     [
-      "We had lunch at a new restaurant.",
-      "Nós almoçamos num restaurante novo."
-     ],
-     [
-      "They saw a great show.",
-      "Eles viram um show ótimo."
-     ],
-     [
-      "I slept until ten.",
-      "Eu dormi até as dez."
-     ]
+  },
+  {
+    "id": "hedging-verbos-de-reporte",
+    "nivel": "C2",
+    "titulo": "Hedging e verbos de reporte: precisão, cautela e diplomacia",
+    "resumo": "Domine a arte de suavizar afirmações e escolher o verbo de reporte exato (concur, contend, refute, concede) para escrever e falar como um profissional fluente em contextos acadêmicos, jurídicos e corporativos.",
+    "data": "2026-10-25",
+    "blocos": [
+      {
+        "titulo": "O que é hedging e por que nativos o usam o tempo todo",
+        "paragrafos": [
+          "Hedging é a técnica de dosar a certeza de uma afirmação. Em vez de \"This policy hinders growth\", um falante experiente diz \"This policy may well hinder growth\" ou \"There is some evidence that this policy hinders growth\". Não é fraqueza: é precisão — você afirma exatamente o quanto os dados permitem.",
+          "As ferramentas principais são verbos modais (may, might, could), verbos de aparência (seem, appear, tend to), advérbios (arguably, presumably, largely) e expressões como \"to some extent\" ou \"it would appear that\". Em português usamos \"tudo indica que\" e \"ao que parece\"; em inglês formal, o recurso é ainda mais frequente e esperado."
+        ],
+        "exemplos": [
+          [
+            "The new regulation appears to impede small businesses more than large ones.",
+            "A nova regulamentação parece atrapalhar mais as pequenas empresas do que as grandes."
+          ],
+          [
+            "These findings arguably impart a more nuanced view of the crisis.",
+            "Esses resultados, pode-se argumentar, transmitem uma visão mais matizada da crise."
+          ],
+          [
+            "It would appear that the strategy has backfired, at least in the short term.",
+            "Ao que tudo indica, a estratégia saiu pela culatra, pelo menos no curto prazo."
+          ]
+        ]
+      },
+      {
+        "titulo": "Verbos de reporte: cada um carrega uma atitude",
+        "paragrafos": [
+          "Dizer \"he said\" é neutro; os verbos de reporte revelam o que você pensa da afirmação alheia. \"Claim\" e \"allege\" sugerem dúvida; \"demonstrate\" e \"establish\" indicam que você aceita a prova; \"contend\" e \"maintain\" mostram alguém defendendo uma posição contestada.",
+          "Para concordar e discordar, o leque é refinado: \"concur\" (concordar formalmente), \"concede\" (admitir um ponto a contragosto), \"refute\" (provar que algo é falso) e \"dispute\" ou \"challenge\" (contestar sem necessariamente provar). Cuidado: muitos nativos usam \"refute\" como mero \"negar\", mas em texto cuidadoso ele implica refutação com provas."
+        ],
+        "exemplos": [
+          [
+            "The board concurred with the auditor's recommendation to rescind the contract.",
+            "O conselho concordou com a recomendação do auditor de rescindir o contrato."
+          ],
+          [
+            "She conceded that the figures had been fudged, but denied any personal involvement.",
+            "Ela admitiu que os números tinham sido maquiados, mas negou qualquer envolvimento pessoal."
+          ],
+          [
+            "The author contends that austerity impoverished the regions it was meant to rescue.",
+            "O autor sustenta que a austeridade empobreceu as regiões que pretendia socorrer."
+          ]
+        ]
+      },
+      {
+        "titulo": "Distanciamento: o passivo impessoal e o it-clause",
+        "paragrafos": [
+          "Quando você quer relatar uma ideia sem assumir autoria, use estruturas impessoais: \"It is widely believed that...\", \"It has been suggested that...\" ou o passivo com infinitivo: \"The minister is said to have misinformed Parliament\". Repare no infinitivo perfeito (to have + particípio) para fatos anteriores ao relato.",
+          "Essas estruturas são comuns no jornalismo, principalmente quando há risco jurídico: \"The suspect is alleged to have burgled three homes\" protege o veículo de afirmar a culpa como fato."
+        ],
+        "exemplos": [
+          [
+            "The minister is reported to have misinformed the committee about the costs.",
+            "Consta que o ministro teria informado mal a comissão sobre os custos."
+          ],
+          [
+            "It has been suggested that the merger was brokered behind closed doors.",
+            "Há quem sugira que a fusão foi intermediada a portas fechadas."
+          ],
+          [
+            "The company is thought to have spurned two earlier offers.",
+            "Acredita-se que a empresa tenha rejeitado duas ofertas anteriores."
+          ]
+        ]
+      },
+      {
+        "titulo": "O equilíbrio: nem vago demais, nem categórico demais",
+        "paragrafos": [
+          "O erro do aluno avançado é acumular cautelas: \"It might possibly perhaps suggest...\" soa inseguro e confuso. Use uma marca de hedging por afirmação e reserve a certeza total para o que é inegável: \"The data clearly show\" quando o dado de fato mostra.",
+          "Um bom exercício: pegue um parágrafo que você escreveu, marque cada afirmação forte e pergunte \"posso provar isso?\". Se sim, mantenha; se em parte, suavize com um único recurso; se não, reformule com um verbo de reporte que atribua a ideia a alguém."
+        ],
+        "exemplos": [
+          [
+            "The data clearly show that the campaign prompted a surge in sign-ups.",
+            "Os dados mostram claramente que a campanha provocou um pico de inscrições."
+          ],
+          [
+            "To some extent, the delay may have hindered the negotiations.",
+            "Até certo ponto, o atraso pode ter atrapalhado as negociações."
+          ],
+          [
+            "Critics maintain that the reform will do little to help people cope with rising costs.",
+            "Os críticos sustentam que a reforma pouco ajudará as pessoas a lidar com o aumento dos custos."
+          ]
+        ]
+      }
     ]
-   },
-   {
-    "titulo": "Negativas e perguntas com did",
-    "paragrafos": [
-     "Para negar ou perguntar, o inglês usa o auxiliar did, e o verbo principal volta para a forma básica. Por isso o certo é I didn't go, e não I didn't went.",
-     "A pergunta mais natural na segunda-feira é: What did you do on the weekend? (EUA) ou at the weekend (Reino Unido)."
-    ],
-    "exemplos": [
-     [
-      "I didn't go out on Sunday.",
-      "Eu não saí no domingo."
-     ],
-     [
-      "What did you do on the weekend?",
-      "O que você fez no fim de semana?"
-     ],
-     [
-      "Did you have a good time?",
-      "Você se divertiu?"
-     ],
-     [
-      "Yes, I did. / No, I didn't.",
-      "Sim. / Não."
-     ]
+  },
+  {
+    "id": "minha-rotina-present-simple",
+    "nivel": "A1",
+    "titulo": "Minha rotina: o present simple no dia a dia",
+    "resumo": "Descreva seu dia em inglês com get up, have, go, work e watch, aprenda o -s da terceira pessoa e as palavras de frequência always, usually e never.",
+    "data": "2026-10-26",
+    "blocos": [
+      {
+        "titulo": "O tempo verbal da rotina",
+        "paragrafos": [
+          "Para falar de hábitos e coisas que se repetem, o inglês usa o present simple. A forma é simples: o verbo no infinitivo, sem o to. I work, you work, we work, they work.",
+          "Pense nele como o nosso presente do indicativo quando dizemos \"eu trabalho de segunda a sexta\": não é o que você está fazendo agora, é o que costuma fazer."
+        ],
+        "exemplos": [
+          [
+            "I get up at seven.",
+            "Eu me levanto às sete."
+          ],
+          [
+            "I have breakfast at home.",
+            "Eu tomo café da manhã em casa."
+          ],
+          [
+            "We go to work by bus.",
+            "Nós vamos para o trabalho de ônibus."
+          ]
+        ]
+      },
+      {
+        "titulo": "O -s de he, she e it",
+        "paragrafos": [
+          "A única pegadinha do present simple está na terceira pessoa do singular (he, she, it): o verbo ganha um -s no final. She works, he plays, it rains.",
+          "Alguns verbos mudam um pouco: go vira goes, do vira does, watch vira watches (verbos terminados em -ch, -sh, -s, -x e -o ganham -es). E have vira has, que é irregular."
+        ],
+        "exemplos": [
+          [
+            "She works in a hospital.",
+            "Ela trabalha num hospital."
+          ],
+          [
+            "He goes to the gym on Mondays.",
+            "Ele vai à academia às segundas."
+          ],
+          [
+            "My father watches the news at night.",
+            "Meu pai assiste ao jornal à noite."
+          ],
+          [
+            "She has lunch at noon.",
+            "Ela almoça ao meio-dia."
+          ]
+        ]
+      },
+      {
+        "titulo": "Com que frequência?",
+        "paragrafos": [
+          "Para dizer com que frequência algo acontece, use os advérbios always (sempre), usually (geralmente), sometimes (às vezes) e never (nunca).",
+          "Eles ficam antes do verbo principal: I always drink coffee. Mas ficam depois do verbo be: I am never late."
+        ],
+        "exemplos": [
+          [
+            "I always brush my teeth before bed.",
+            "Eu sempre escovo os dentes antes de dormir."
+          ],
+          [
+            "We usually cook at home.",
+            "Nós geralmente cozinhamos em casa."
+          ],
+          [
+            "He sometimes walks to school.",
+            "Ele às vezes vai a pé para a escola."
+          ],
+          [
+            "I am never late for class.",
+            "Eu nunca me atraso para a aula."
+          ]
+        ]
+      },
+      {
+        "titulo": "Perguntas e negativas com do e does",
+        "paragrafos": [
+          "Para perguntar ou negar, o present simple usa o auxiliar do (ou does com he, she, it). Atenção: quando does aparece, o -s sai do verbo principal. She works → Does she work? → She doesn't work.",
+          "Na fala, use as contrações don't (do not) e doesn't (does not). Pronuncie \"dount\" e \"dázent\"."
+        ],
+        "exemplos": [
+          [
+            "Do you work on Saturdays?",
+            "Você trabalha aos sábados?"
+          ],
+          [
+            "What time does she get up?",
+            "A que horas ela se levanta?"
+          ],
+          [
+            "I don't drink coffee at night.",
+            "Eu não tomo café à noite."
+          ],
+          [
+            "He doesn't like Mondays.",
+            "Ele não gosta de segundas-feiras."
+          ]
+        ]
+      }
     ]
-   },
-   {
-    "titulo": "Agora é sua vez",
-    "paragrafos": [
-     "Escreva cinco frases sobre o seu último fim de semana: duas com verbos regulares, duas com irregulares e uma negativa. Depois leia em voz alta, prestando atenção ao som do -ed.",
-     "Ligue as frases com conectores simples de sequência: first (primeiro), then (depois), after that (depois disso) e finally (por fim)."
-    ],
-    "exemplos": [
-     [
-      "First, I got up late.",
-      "Primeiro, eu acordei tarde."
-     ],
-     [
-      "Then I made pancakes for breakfast.",
-      "Depois eu fiz panquecas no café da manhã."
-     ],
-     [
-      "After that, we walked in the park.",
-      "Depois disso, caminhamos no parque."
-     ],
-     [
-      "Finally, I didn't do my homework!",
-      "Por fim, eu não fiz a lição de casa!"
-     ]
+  },
+  {
+    "id": "planos-futuro-going-to-will",
+    "nivel": "A2",
+    "titulo": "Planos e previsões: going to, will e o presente contínuo",
+    "resumo": "Aprenda a falar do futuro em inglês: planos já decididos com going to, decisões na hora e promessas com will, e compromissos marcados com o present continuous.",
+    "data": "2026-10-27",
+    "blocos": [
+      {
+        "titulo": "Going to: o que você já decidiu",
+        "paragrafos": [
+          "Quando você já tomou a decisão antes de falar, use be going to + verbo no infinitivo: I am going to travel, she is going to study. É como o nosso \"eu vou viajar\" quando o plano já existe na cabeça.",
+          "Na fala, going to quase sempre soa como \"gonna\": I'm gonna call her. Entenda quando ouvir, mas na escrita formal prefira going to."
+        ],
+        "exemplos": [
+          [
+            "I'm going to visit my grandmother this weekend.",
+            "Vou visitar minha avó neste fim de semana."
+          ],
+          [
+            "We are going to buy a new car next year.",
+            "Vamos comprar um carro novo no ano que vem."
+          ],
+          [
+            "Are you going to watch the game tonight?",
+            "Você vai assistir ao jogo hoje à noite?"
+          ]
+        ]
+      },
+      {
+        "titulo": "Will: decisões na hora, ofertas e promessas",
+        "paragrafos": [
+          "Will entra quando a decisão nasce no momento da conversa. O telefone toca e você diz: I'll get it! (Eu atendo!). Ninguém planejou isso antes.",
+          "Will também serve para oferecer ajuda e prometer. A forma não muda com he, she ou it: he will, she will. Na negativa, will not vira won't."
+        ],
+        "exemplos": [
+          [
+            "It's cold in here. I'll close the window.",
+            "Está frio aqui. Vou fechar a janela."
+          ],
+          [
+            "Don't worry, I'll help you with your homework.",
+            "Não se preocupe, eu te ajudo com a lição."
+          ],
+          [
+            "I promise I won't tell anyone.",
+            "Prometo que não vou contar a ninguém."
+          ]
+        ]
+      },
+      {
+        "titulo": "Previsões: evidência ou opinião?",
+        "paragrafos": [
+          "Para prever o futuro, os dois funcionam, com uma diferença. Use going to quando há uma evidência agora: nuvens escuras no céu, alguém correndo atrás do ônibus.",
+          "Use will quando é só a sua opinião ou crença, muitas vezes com I think, I'm sure ou probably."
+        ],
+        "exemplos": [
+          [
+            "Look at those clouds! It's going to rain.",
+            "Olha essas nuvens! Vai chover."
+          ],
+          [
+            "I think she will love the present.",
+            "Acho que ela vai adorar o presente."
+          ],
+          [
+            "Our team will probably win on Sunday.",
+            "Nosso time provavelmente vai ganhar no domingo."
+          ]
+        ]
+      },
+      {
+        "titulo": "Present continuous: compromissos marcados",
+        "paragrafos": [
+          "Para compromissos com dia, hora e outras pessoas envolvidas, o inglês usa o present continuous (be + verbo com -ing) com sentido de futuro. É o tempo da agenda.",
+          "Sempre coloque a expressão de tempo (tomorrow, on Friday, at six) para deixar claro que você fala do futuro, e não do que está acontecendo agora."
+        ],
+        "exemplos": [
+          [
+            "I'm meeting Ana for lunch tomorrow.",
+            "Vou almoçar com a Ana amanhã."
+          ],
+          [
+            "They are flying to Lisbon on Friday.",
+            "Eles vão voar para Lisboa na sexta."
+          ],
+          [
+            "What are you doing this evening?",
+            "O que você vai fazer hoje à noite?"
+          ]
+        ]
+      },
+      {
+        "titulo": "Pratique: monte sua semana",
+        "paragrafos": [
+          "Escreva três frases sobre a sua próxima semana: um plano (going to), um compromisso marcado (present continuous) e uma previsão (will). Leia em voz alta e grave no celular para comparar sua pronúncia.",
+          "Dica rápida: I will vira I'll, you will vira you'll. Pratique as contrações; elas deixam sua fala mais natural."
+        ],
+        "exemplos": [
+          [
+            "I'm going to start a new course on Monday.",
+            "Vou começar um curso novo na segunda."
+          ],
+          [
+            "I'm seeing the dentist on Wednesday.",
+            "Vou ao dentista na quarta."
+          ],
+          [
+            "I think it will be a good week.",
+            "Acho que vai ser uma boa semana."
+          ]
+        ]
+      }
     ]
-   }
-  ]
- },
- {
-  "id": "present-perfect-experiencias",
-  "nivel": "B1",
-  "titulo": "Present perfect: experiências, novidades e o que ainda não aconteceu",
-  "resumo": "Aprenda quando usar o present perfect (have + particípio) em vez do passado simples, e domine ever, never, just, already e yet com exemplos do dia a dia.",
-  "data": "2026-10-22",
-  "blocos": [
-   {
-    "titulo": "A ideia central: passado ligado ao agora",
-    "paragrafos": [
-     "O present perfect se forma com have/has + particípio: I have finished, she has seen, they have gone. Ele fala de algo que aconteceu antes, mas importa agora — o resultado ou a experiência continua relevante.",
-     "Compare: \"I lost my keys\" (passado simples) apenas conta um fato; \"I have lost my keys\" sugere que você ainda está sem elas. Em português costumamos usar o pretérito nos dois casos, por isso o brasileiro tende a esquecer o present perfect."
-    ],
-    "exemplos": [
-     [
-      "I have finished the report. Here it is.",
-      "Terminei o relatório. Aqui está."
-     ],
-     [
-      "She has broken her arm, so she can't drive.",
-      "Ela quebrou o braço, então não pode dirigir."
-     ],
-     [
-      "They have moved to Lisbon.",
-      "Eles se mudaram para Lisboa (e moram lá agora)."
-     ]
+  },
+  {
+    "id": "used-to-would-habitos-passado",
+    "nivel": "B1",
+    "titulo": "Used to e would: hábitos e estados do passado",
+    "resumo": "Fale de como as coisas eram antes: used to para hábitos e estados que acabaram, would para lembranças repetidas, e a diferença para be used to e get used to.",
+    "data": "2026-10-29",
+    "blocos": [
+      {
+        "titulo": "Used to: o que acontecia e não acontece mais",
+        "paragrafos": [
+          "Used to + verbo no infinitivo mostra um hábito ou situação do passado que já terminou. É o nosso \"eu costumava\" ou o imperfeito: I used to play football = Eu jogava futebol (e hoje não jogo mais).",
+          "A forma é a mesma para todas as pessoas: I used to, she used to, they used to. Na pronúncia, o \"d\" some: soa como \"iússtu\"."
+        ],
+        "exemplos": [
+          [
+            "I used to live near the beach.",
+            "Eu morava perto da praia."
+          ],
+          [
+            "She used to drink coffee every morning, but now she prefers tea.",
+            "Ela tomava café toda manhã, mas agora prefere chá."
+          ],
+          [
+            "There used to be a cinema on this street.",
+            "Havia um cinema nesta rua."
+          ]
+        ]
+      },
+      {
+        "titulo": "Negativa e pergunta: use to com did",
+        "paragrafos": [
+          "Quando aparece did ou didn't, o verbo volta à forma base: did you use to, I didn't use to. É um erro muito comum escrever \"did you used to\".",
+          "Na conversa, também é natural dizer I never used to para reforçar a negativa."
+        ],
+        "exemplos": [
+          [
+            "Did you use to wear glasses?",
+            "Você usava óculos?"
+          ],
+          [
+            "I didn't use to like vegetables.",
+            "Eu não gostava de legumes."
+          ],
+          [
+            "He never used to call me on weekends.",
+            "Ele nunca me ligava nos fins de semana."
+          ]
+        ]
+      },
+      {
+        "titulo": "Would: lembranças que se repetiam",
+        "paragrafos": [
+          "Would também descreve ações repetidas no passado, com um tom de memória ou narração: Every summer we would go to the countryside.",
+          "Atenção: would só funciona com ações, não com estados. Dá para dizer I used to have a dog, mas não \"I would have a dog\" com esse sentido. Verbos como have, be, know e like ficam com used to."
+        ],
+        "exemplos": [
+          [
+            "When I was a kid, my grandfather would tell us stories every night.",
+            "Quando eu era criança, meu avô nos contava histórias toda noite."
+          ],
+          [
+            "On Sundays we would wake up late and cook together.",
+            "Aos domingos a gente acordava tarde e cozinhava junto."
+          ]
+        ]
+      },
+      {
+        "titulo": "Não confunda: be used to e get used to",
+        "paragrafos": [
+          "Be used to + substantivo ou verbo com -ing significa estar acostumado: I'm used to working late. Get used to significa ir se acostumando: You'll get used to the cold.",
+          "Resumo: used to + infinitivo fala do passado; be/get used to + -ing fala de costume, em qualquer tempo verbal."
+        ],
+        "exemplos": [
+          [
+            "I'm used to waking up early.",
+            "Estou acostumado a acordar cedo."
+          ],
+          [
+            "It took me months to get used to driving on the left.",
+            "Levei meses para me acostumar a dirigir pela esquerda."
+          ],
+          [
+            "I used to wake up early, but now I work from home.",
+            "Eu acordava cedo, mas agora trabalho de casa."
+          ]
+        ]
+      }
     ]
-   },
-   {
-    "titulo": "Experiências de vida: ever e never",
-    "paragrafos": [
-     "Para perguntar se alguém já fez algo alguma vez na vida, use ever: \"Have you ever...?\". Para dizer que nunca fez, use never, sem outro negativo: \"I have never\", e não \"I haven't never\".",
-     "Atenção: se você citar quando aconteceu (yesterday, in 2019, last week), volte para o passado simples. O present perfect não combina com tempo terminado e específico."
-    ],
-    "exemplos": [
-     [
-      "Have you ever eaten sushi?",
-      "Você já comeu sushi?"
-     ],
-     [
-      "I have never travelled abroad.",
-      "Eu nunca viajei para o exterior."
-     ],
-     [
-      "I visited Paris in 2019.",
-      "Eu visitei Paris em 2019. (data específica → passado simples)"
-     ]
+  },
+  {
+    "id": "causativo-have-get-something-done",
+    "nivel": "B2",
+    "titulo": "Causativo: have something done e get something done",
+    "resumo": "Diga que alguém fez um serviço para você, como cortar o cabelo ou consertar o carro, e use o causativo para contar imprevistos, dar ordens e pedir favores com have, get e make.",
+    "data": "2026-10-29",
+    "blocos": [
+      {
+        "titulo": "A estrutura: have + objeto + particípio",
+        "paragrafos": [
+          "Em português dizemos \"cortei o cabelo\" mesmo quando foi o cabeleireiro que cortou. Em inglês, I cut my hair significa que você mesmo pegou a tesoura. Para dizer que outra pessoa fez o serviço, use have + objeto + particípio passado: I had my hair cut.",
+          "O verbo have muda de tempo normalmente: I'm having my car repaired, I'll have the house painted, I've just had my eyes tested."
+        ],
+        "exemplos": [
+          [
+            "I had my hair cut yesterday.",
+            "Cortei o cabelo ontem (no salão)."
+          ],
+          [
+            "We're having the kitchen renovated next month.",
+            "Vamos reformar a cozinha no mês que vem (uma empresa vai fazer)."
+          ],
+          [
+            "You should have your blood pressure checked.",
+            "Você deveria medir a pressão."
+          ]
+        ]
+      },
+      {
+        "titulo": "Get something done: mais informal e com ideia de esforço",
+        "paragrafos": [
+          "Get + objeto + particípio tem o mesmo sentido, mas é mais comum na fala e às vezes sugere que foi preciso se esforçar ou resolver algo: I finally got the printer fixed.",
+          "Get também aparece em ordens e prazos: Get this report finished by Friday."
+        ],
+        "exemplos": [
+          [
+            "I need to get my passport renewed before the trip.",
+            "Preciso renovar o passaporte antes da viagem."
+          ],
+          [
+            "She finally got the leak fixed.",
+            "Ela finalmente conseguiu consertar o vazamento."
+          ],
+          [
+            "Get your homework done before dinner.",
+            "Termine a lição de casa antes do jantar."
+          ]
+        ]
+      },
+      {
+        "titulo": "Quando algo ruim acontece com você",
+        "paragrafos": [
+          "O mesmo formato serve para contar experiências desagradáveis causadas por outra pessoa: He had his wallet stolen on the subway. Aqui ninguém pediu o serviço, claro; a estrutura só mostra que a ação recaiu sobre o sujeito.",
+          "É uma forma natural e econômica de narrar imprevistos sem precisar dizer quem foi o responsável."
+        ],
+        "exemplos": [
+          [
+            "He had his wallet stolen on the subway.",
+            "Roubaram a carteira dele no metrô."
+          ],
+          [
+            "They had their flight cancelled at the last minute.",
+            "O voo deles foi cancelado em cima da hora."
+          ]
+        ]
+      },
+      {
+        "titulo": "Have, get e make alguém fazer algo",
+        "paragrafos": [
+          "Com uma pessoa como objeto, o padrão muda. Have someone do (infinitivo sem to) é pedir ou encarregar: I'll have my assistant send you the file. Get someone to do é convencer: I got my brother to help me move. Make someone do é obrigar: The teacher made us rewrite the essay.",
+          "Repare no to: ele só aparece com get. Com have e make, o verbo vem direto."
+        ],
+        "exemplos": [
+          [
+            "I'll have the technician call you back.",
+            "Vou pedir para o técnico te ligar de volta."
+          ],
+          [
+            "I finally got my dad to try sushi.",
+            "Finalmente convenci meu pai a experimentar sushi."
+          ],
+          [
+            "The coach made us run ten laps.",
+            "O treinador nos fez correr dez voltas."
+          ]
+        ]
+      }
     ]
-   },
-   {
-    "titulo": "Just, already e yet: o relógio das novidades",
-    "paragrafos": [
-     "Just = acabou de acontecer: \"I've just arrived\" (acabei de chegar). Already = já, mais cedo do que se esperava, em frases afirmativas. Yet = ainda/já, no fim de negativas e perguntas.",
-     "Posição: just e already ficam entre have e o particípio; yet vai no final. No inglês americano informal você também ouve o passado simples com essas palavras (\"Did you eat yet?\"), mas o present perfect é a forma mais segura."
-    ],
-    "exemplos": [
-     [
-      "I've just sent you the file.",
-      "Acabei de te mandar o arquivo."
-     ],
-     [
-      "We have already paid the bill.",
-      "Nós já pagamos a conta."
-     ],
-     [
-      "Has the package arrived yet?",
-      "O pacote já chegou?"
-     ],
-     [
-      "He hasn't called me yet.",
-      "Ele ainda não me ligou."
-     ]
+  },
+  {
+    "id": "cleft-sentences-enfase",
+    "nivel": "C1",
+    "titulo": "Cleft sentences: what I need is…, it was… that",
+    "resumo": "Aprenda a destacar a informação mais importante da frase com as estruturas it-cleft e wh-cleft, o equivalente inglês ao nosso \"foi ele que…\" e \"o que eu quero é…\".",
+    "data": "2026-10-30",
+    "blocos": [
+      {
+        "titulo": "O que é uma cleft sentence",
+        "paragrafos": [
+          "Em português, quando queremos destacar uma parte da frase, dizemos \"foi a Ana que resolveu o problema\" em vez de \"a Ana resolveu o problema\". O inglês faz o mesmo dividindo (to cleave = partir) a frase em duas partes: uma que aponta o foco e outra que traz o resto da informação.",
+          "Essas estruturas são muito comuns na fala e na escrita formal, porque permitem corrigir alguém, contrastar ideias e guiar a atenção do ouvinte sem depender só da entonação."
+        ],
+        "exemplos": [
+          [
+            "Ana solved the problem.",
+            "A Ana resolveu o problema. (neutro)"
+          ],
+          [
+            "It was Ana who solved the problem.",
+            "Foi a Ana que resolveu o problema. (foco em quem)"
+          ],
+          [
+            "What Ana did was solve the problem.",
+            "O que a Ana fez foi resolver o problema. (foco na ação)"
+          ]
+        ]
+      },
+      {
+        "titulo": "It-cleft: it + be + foco + that/who",
+        "paragrafos": [
+          "Coloque o elemento destacado depois de it is / it was e continue com that (ou who, para pessoas). Funciona com sujeito, objeto, tempo, lugar e motivo.",
+          "É a forma ideal para corrigir uma informação: It wasn't the price that worried me, it was the deadline. Repare que o verbo be fica no singular mesmo com foco plural: It's the details that matter."
+        ],
+        "exemplos": [
+          [
+            "It was in Lisbon that they first met.",
+            "Foi em Lisboa que eles se conheceram."
+          ],
+          [
+            "It's not the money that bothers me; it's the attitude.",
+            "Não é o dinheiro que me incomoda; é a atitude."
+          ],
+          [
+            "It was only when I moved abroad that I realized how much I missed my family.",
+            "Só quando me mudei para o exterior é que percebi o quanto sentia falta da minha família."
+          ]
+        ]
+      },
+      {
+        "titulo": "Wh-cleft: what + oração + be + foco",
+        "paragrafos": [
+          "Comece com uma oração introduzida por what e depois revele o foco: What I need is a long holiday. Ela cria suspense e joga a informação nova para o final, onde ela pesa mais.",
+          "Quando o foco é uma ação, use do na primeira parte e o infinitivo (com ou sem to) depois de be: What you should do is call her. What happened was (that) the system crashed."
+        ],
+        "exemplos": [
+          [
+            "What I really enjoy is cooking for friends.",
+            "O que eu gosto mesmo é de cozinhar para os amigos."
+          ],
+          [
+            "What we did was rewrite the whole report.",
+            "O que nós fizemos foi reescrever o relatório inteiro."
+          ],
+          [
+            "What surprised me most was how calm she stayed.",
+            "O que mais me surpreendeu foi o quanto ela se manteve calma."
+          ]
+        ]
+      },
+      {
+        "titulo": "Variações: all, the thing, the reason, the place",
+        "paragrafos": [
+          "All substitui what para dizer que algo é a única coisa: All I want is some peace and quiet (tudo o que eu quero é…). Também é comum usar substantivos genéricos no lugar de what: the thing (that), the reason (why), the place (where), the person (who).",
+          "A ordem pode ser invertida para fechar um argumento: A good night's sleep is what you need. Essa versão soa como conclusão."
+        ],
+        "exemplos": [
+          [
+            "All I did was ask a simple question.",
+            "Tudo o que eu fiz foi fazer uma pergunta simples."
+          ],
+          [
+            "The reason why I left was the commute.",
+            "O motivo pelo qual saí foi o trajeto até o trabalho."
+          ],
+          [
+            "The thing that annoys me is people who interrupt.",
+            "O que me irrita são as pessoas que interrompem."
+          ]
+        ]
+      },
+      {
+        "titulo": "Pratique: transforme e destaque",
+        "paragrafos": [
+          "Pegue frases simples do seu dia e reescreva cada uma de três formas: neutra, com it-cleft e com wh-cleft. Por exemplo: I need more time → It's more time that I need → What I need is more time.",
+          "Nas reuniões e e-mails, use as clefts para reformular com elegância: What I'm suggesting is…, What we need to focus on is…, It's the second point that concerns me. Soa preciso, educado e natural."
+        ],
+        "exemplos": [
+          [
+            "What I'm suggesting is that we postpone the launch.",
+            "O que estou sugerindo é que adiemos o lançamento."
+          ],
+          [
+            "It's the second point that concerns me.",
+            "É o segundo ponto que me preocupa."
+          ],
+          [
+            "What we need to focus on is customer feedback.",
+            "Aquilo em que precisamos nos concentrar é o retorno dos clientes."
+          ]
+        ]
+      }
     ]
-   },
-   {
-    "titulo": "For e since: o que começou e continua",
-    "paragrafos": [
-     "Para algo que começou no passado e continua até agora, o português usa o presente (\"moro aqui há dez anos\"), mas o inglês usa o present perfect: \"I have lived here for ten years\". Dizer \"I live here for ten years\" é um erro clássico.",
-     "For indica a duração (for two hours, for a long time); since indica o ponto de partida (since Monday, since 2015, since I was a child)."
-    ],
-    "exemplos": [
-     [
-      "I have worked here for five years.",
-      "Trabalho aqui há cinco anos."
-     ],
-     [
-      "She has known him since school.",
-      "Ela o conhece desde a escola."
-     ],
-     [
-      "How long have you studied English?",
-      "Há quanto tempo você estuda inglês?"
-     ]
+  },
+  {
+    "id": "subjuntivo-mandativo-formal",
+    "nivel": "C2",
+    "titulo": "Subjuntivo mandativo: “It is essential that he be…”",
+    "resumo": "Aprenda a estrutura formal que nativos usam em contratos, atas e e-mails executivos para exigir, recomendar e propor — e as fórmulas fixas do subjuntivo que sobrevivem no inglês moderno.",
+    "data": "2026-10-31",
+    "blocos": [
+      {
+        "titulo": "A forma que parece um erro (mas não é)",
+        "paragrafos": [
+          "Em frases como \"The board insists that she resign\", o verbo resign aparece sem o -s da 3ª pessoa. Não é erro: é o subjuntivo mandativo, que usa sempre a forma base do verbo, para qualquer pessoa e em qualquer tempo da oração principal.",
+          "Ele aparece depois de verbos de exigência e proposta (demand, insist, recommend, propose, request, require, urge, stipulate) e de adjetivos como essential, imperative, vital, crucial e advisable. Em português, é o nosso \"que ele renuncie\": a ideia é a mesma, só que em inglês a marca é a ausência de flexão."
+        ],
+        "exemplos": [
+          [
+            "The board insists that she resign before the merger.",
+            "O conselho insiste que ela renuncie antes da fusão."
+          ],
+          [
+            "It is imperative that every claim be verified.",
+            "É imprescindível que toda alegação seja verificada."
+          ],
+          [
+            "The contract stipulates that the tenant not sublet the flat.",
+            "O contrato estipula que o inquilino não subloque o apartamento."
+          ]
+        ]
+      },
+      {
+        "titulo": "Negativa, passiva e o verbo be",
+        "paragrafos": [
+          "A negativa é feita com not antes do verbo, sem do: \"We recommend that he not sign yet\" (e não \"doesn't sign\"). Na passiva e com o verbo be, usa-se be para todas as pessoas: \"that the data be refuted\", \"that they be informed\".",
+          "Esse detalhe é o que mais denuncia um texto de alto nível. Em relatórios jurídicos e acadêmicos, \"it is essential that the findings be disproved or confirmed\" soa natural; \"are disproved\" soa menos formal."
+        ],
+        "exemplos": [
+          [
+            "We recommend that he not sign anything until Monday.",
+            "Recomendamos que ele não assine nada até segunda-feira."
+          ],
+          [
+            "They demanded that the allegations be refuted publicly.",
+            "Eles exigiram que as acusações fossem refutadas publicamente."
+          ],
+          [
+            "It is vital that the patient be kept under observation.",
+            "É vital que o paciente seja mantido em observação."
+          ]
+        ]
+      },
+      {
+        "titulo": "Britânico x americano: a alternativa com should",
+        "paragrafos": [
+          "O inglês americano usa o subjuntivo puro com muita frequência, inclusive na fala. O inglês britânico também o usa na escrita formal, mas aceita bem a alternativa com should: \"The committee proposed that the rule should be voided\".",
+          "As duas formas são corretas. A dica prática: em provas como CPE e IELTS, e em textos formais, o subjuntivo puro mostra domínio; na conversa britânica, should soa mais leve. Evite apenas misturar com o presente comum (\"proposes that he goes\") em contexto formal."
+        ],
+        "exemplos": [
+          [
+            "The committee proposed that the agreement should be voided.",
+            "O comitê propôs que o acordo fosse anulado."
+          ],
+          [
+            "I'd urge that the team be restructured gradually.",
+            "Eu recomendaria fortemente que a equipe fosse reestruturada aos poucos."
+          ],
+          [
+            "She requested that the report be embellished with fewer adjectives.",
+            "Ela pediu que o relatório fosse enfeitado com menos adjetivos."
+          ]
+        ]
+      },
+      {
+        "titulo": "Fórmulas fixas que você já ouviu",
+        "paragrafos": [
+          "O subjuntivo antigo sobrevive em expressões congeladas, muito comuns em discursos, filmes e literatura: \"God save the King\", \"Long live…\", \"Be that as it may\", \"Suffice it to say\", \"Come what may\", \"So be it\" e \"Heaven forbid\".",
+          "Elas não seguem a regra normal de concordância e não devem ser \"corrigidas\". Usadas com moderação, dão elegância e um toque retórico ao seu inglês."
+        ],
+        "exemplos": [
+          [
+            "Be that as it may, we cannot desist now.",
+            "Seja como for, não podemos desistir agora."
+          ],
+          [
+            "Suffice it to say that the plan was shrouded in secrecy.",
+            "Basta dizer que o plano estava envolto em sigilo."
+          ],
+          [
+            "Come what may, we will inch forward.",
+            "Aconteça o que acontecer, vamos avançar pouco a pouco."
+          ]
+        ]
+      }
     ]
-   },
-   {
-    "titulo": "Pratique em voz alta",
-    "paragrafos": [
-     "Monte cinco frases verdadeiras sobre você: duas com ever/never, uma com just, uma com yet e uma com for ou since. Grave-se lendo e compare com a pronúncia das páginas de verbo — repare na contração: I've, she's, haven't.",
-     "Particípios irregulares aparecem muito aqui: been, gone, seen, done, eaten, written, known. Revise-os no modo de prática até saírem sem esforço."
-    ],
-    "exemplos": [
-     [
-      "I've never seen snow.",
-      "Eu nunca vi neve."
-     ],
-     [
-      "I've just had breakfast.",
-      "Acabei de tomar café da manhã."
-     ],
-     [
-      "I haven't finished this book yet.",
-      "Ainda não terminei este livro."
-     ]
+  },
+  {
+    "id": "can-cant-habilidades",
+    "nivel": "A1",
+    "titulo": "Can e can't: o que eu sei (e não sei) fazer",
+    "resumo": "Use can para falar de habilidades, pedir permissão e oferecer ajuda — com a pronúncia certa de can e can't, que confunde muito brasileiro.",
+    "data": "2026-11-01",
+    "blocos": [
+      {
+        "titulo": "Uma forma para todo mundo",
+        "paragrafos": [
+          "Can é um verbo modal: ele não muda com a pessoa. Dizemos I can, you can, he can, she can — nunca \"he cans\". Depois de can vem o verbo na forma base, sem to: \"She can swim\", e não \"She can to swim\".",
+          "A ideia principal é habilidade: o que você consegue ou sabe fazer. Em português traduzimos por \"saber\" (sei nadar) ou \"conseguir/poder\" (consigo ouvir você)."
+        ],
+        "exemplos": [
+          [
+            "I can swim.",
+            "Eu sei nadar."
+          ],
+          [
+            "My brother can cook very well.",
+            "Meu irmão sabe cozinhar muito bem."
+          ],
+          [
+            "We can see the sea from here.",
+            "Dá para ver o mar daqui."
+          ]
+        ]
+      },
+      {
+        "titulo": "Negativa e pergunta",
+        "paragrafos": [
+          "A negativa é can't (forma curta de cannot, que se escreve junto). Não usamos don't: \"I can't drive\", e não \"I don't can drive\".",
+          "Na pergunta, basta inverter: can vem antes da pessoa. A resposta curta repete o can: \"Yes, I can\" ou \"No, I can't\"."
+        ],
+        "exemplos": [
+          [
+            "I can't drive yet.",
+            "Eu ainda não sei dirigir."
+          ],
+          [
+            "Can you speak Spanish? — Yes, I can.",
+            "Você fala espanhol? — Falo, sim."
+          ],
+          [
+            "Can he play the guitar? — No, he can't.",
+            "Ele sabe tocar violão? — Não, não sabe."
+          ]
+        ]
+      },
+      {
+        "titulo": "Pedidos, permissão e ofertas",
+        "paragrafos": [
+          "Can também serve para pedir algo de forma simples e educada (\"Can you help me?\"), para pedir permissão (\"Can I sit here?\") e para oferecer ajuda (\"Can I help you?\" — frase que você vai ouvir em toda loja).",
+          "Para soar ainda mais gentil, acrescente please no fim da frase."
+        ],
+        "exemplos": [
+          [
+            "Can you open the window, please?",
+            "Você pode abrir a janela, por favor?"
+          ],
+          [
+            "Can I use your phone?",
+            "Posso usar seu telefone?"
+          ],
+          [
+            "Can I help you?",
+            "Posso ajudar?"
+          ]
+        ]
+      },
+      {
+        "titulo": "Pronúncia: o segredo para não confundir",
+        "paragrafos": [
+          "Na frase afirmativa, can quase some: soa como \"kãn\" fraco, e a força vai para o verbo principal — \"I c'n SWIM\" (ái kãn SUÍM).",
+          "Já can't é forte e longo: \"I CAN'T swim\" (ái KÉNT suím, no inglês americano; KÁNT no britânico). O t final muitas vezes quase não se ouve, então a dica é prestar atenção na força: se o can está forte e esticado, provavelmente é negativo."
+        ],
+        "exemplos": [
+          [
+            "I can dance. / I can't dance.",
+            "Eu sei dançar. / Eu não sei dançar."
+          ],
+          [
+            "She can come tomorrow.",
+            "Ela pode vir amanhã."
+          ]
+        ]
+      }
     ]
-   }
-  ]
- },
- {
-  "id": "condicionais-hipoteses-arrependimentos",
-  "nivel": "B2",
-  "titulo": "Condicionais além do básico: hipóteses, arrependimentos e misturas",
-  "resumo": "Domine o second, o third e o mixed conditional para falar de situações imaginárias, de arrependimentos e de como o passado afeta o presente — com wish e if only de bônus.",
-  "data": "2026-10-23",
-  "blocos": [
-   {
-    "titulo": "Second conditional: o presente imaginário",
-    "paragrafos": [
-     "Use if + passado simples, would + verbo para falar de algo irreal ou pouco provável agora: \"If I had more time, I would learn Japanese\". O passado aqui não indica tempo passado, e sim distância da realidade.",
-     "Com o verbo be, o inglês formal prefere were para todas as pessoas: \"If I were you, I would accept the offer\" — a forma clássica de dar conselhos. Em português equivale ao nosso \"se eu tivesse... eu faria\"."
-    ],
-    "exemplos": [
-     [
-      "If I lived closer to the beach, I would surf every weekend.",
-      "Se eu morasse mais perto da praia, surfaria todo fim de semana."
-     ],
-     [
-      "If I were you, I wouldn't sign that contract.",
-      "Se eu fosse você, não assinaria esse contrato."
-     ],
-     [
-      "What would you do if you won the lottery?",
-      "O que você faria se ganhasse na loteria?"
-     ]
-    ]
-   },
-   {
-    "titulo": "Third conditional: o passado que não aconteceu",
-    "paragrafos": [
-     "Para imaginar um passado diferente, use if + had + particípio, would have + particípio: \"If we had left earlier, we would have caught the train\". É a estrutura dos arrependimentos e das críticas.",
-     "Na fala, would have vira would've (pronuncia-se \"wúdâv\"), e had e would se contraem em 'd — o contexto mostra qual é: \"If I'd known, I'd have called you\"."
-    ],
-    "exemplos": [
-     [
-      "If she had studied harder, she would have passed the exam.",
-      "Se ela tivesse estudado mais, teria passado na prova."
-     ],
-     [
-      "We wouldn't have got lost if we had taken a map.",
-      "Não teríamos nos perdido se tivéssemos levado um mapa."
-     ],
-     [
-      "If I'd known you were in town, I'd have invited you.",
-      "Se eu soubesse que você estava na cidade, teria te convidado."
-     ]
-    ]
-   },
-   {
-    "titulo": "Mixed conditionals: quando passado e presente se cruzam",
-    "paragrafos": [
-     "Às vezes a causa está no passado e a consequência no presente: if + had + particípio, would + verbo. \"If I had accepted that job, I would live in London now\".",
-     "O caminho inverso também existe — uma característica permanente que explica um fato passado: if + passado simples, would have + particípio. \"If he weren't so stubborn, he would have apologised\"."
-    ],
-    "exemplos": [
-     [
-      "If I had saved money last year, I wouldn't be broke now.",
-      "Se eu tivesse economizado no ano passado, não estaria sem dinheiro agora."
-     ],
-     [
-      "If she spoke French, she would have understood the guide.",
-      "Se ela falasse francês, teria entendido o guia."
-     ],
-     [
-      "If we hadn't missed the flight, we would be in Rome right now.",
-      "Se não tivéssemos perdido o voo, estaríamos em Roma agora."
-     ]
-    ]
-   },
-   {
-    "titulo": "Wish e if only: desejos e lamentos",
-    "paragrafos": [
-     "Wish segue a mesma lógica de distância: wish + passado para o presente (\"I wish I knew the answer\") e wish + had + particípio para o passado (\"I wish I had listened to you\").",
-     "If only é a versão mais emotiva: \"If only I had more time!\". Para reclamar de um comportamento alheio que irrita, use wish + would: \"I wish you would stop interrupting me\"."
-    ],
-    "exemplos": [
-     [
-      "I wish I could speak English fluently.",
-      "Quem me dera falar inglês fluentemente."
-     ],
-     [
-      "She wishes she hadn't sold her old car.",
-      "Ela se arrepende de ter vendido o carro antigo."
-     ],
-     [
-      "If only they had told us the truth!",
-      "Se ao menos eles tivessem nos contado a verdade!"
-     ]
-    ]
-   },
-   {
-    "titulo": "Erros comuns do brasileiro",
-    "paragrafos": [
-     "Nunca coloque would na oração com if: diga \"If I had known\", e não \"If I would have known\". Também evite traduzir \"se eu soubesse\" sempre como passado simples: se a referência é ao passado, o inglês pede had known.",
-     "Dica de prática: escreva três frases sobre decisões reais da sua vida — uma com second, uma com third e uma mista. Falar de si mesmo fixa a estrutura muito mais rápido."
-    ],
-    "exemplos": [
-     [
-      "If I had known about the meeting, I would have attended.",
-      "Se eu soubesse da reunião, teria comparecido."
-     ],
-     [
-      "If it rained tomorrow, we would cancel the picnic.",
-      "Se chovesse amanhã, cancelaríamos o piquenique."
-     ]
-    ]
-   }
-  ]
- },
- {
-  "id": "inversao-enfase",
-  "nivel": "C1",
-  "titulo": "Inversão para dar ênfase: never have I, not only, hardly had",
-  "resumo": "Aprenda a inverter sujeito e auxiliar depois de expressões negativas e restritivas para soar mais enfático, formal e elegante — como em discursos, artigos e e-mails importantes.",
-  "data": "2026-10-24",
-  "blocos": [
-   {
-    "titulo": "O que é a inversão e por que ela impressiona",
-    "paragrafos": [
-     "Em inglês, a ordem normal é sujeito + verbo: \"I have never seen such chaos\". Quando uma expressão negativa ou restritiva vai para o início da frase, o auxiliar passa para antes do sujeito, como numa pergunta: \"Never have I seen such chaos\".",
-     "O efeito é de ênfase e formalidade. Em português fazemos algo parecido com \"Nunca vi tamanho caos\", mas em inglês a troca de posição é obrigatória — dizer \"Never I have seen\" é erro. Se a frase não tem auxiliar, use do, does ou did: \"Rarely does she complain\"."
-    ],
-    "exemplos": [
-     [
-      "Never have I witnessed such a blunder in a meeting.",
-      "Nunca presenciei uma gafe dessas numa reunião."
-     ],
-     [
-      "Rarely does the manager disregard a good argument.",
-      "Raramente o gerente ignora um bom argumento."
-     ],
-     [
-      "Seldom did they confer before making big decisions.",
-      "Raramente eles trocavam ideias antes de tomar grandes decisões."
-     ]
-    ]
-   },
-   {
-    "titulo": "Not only... but also: somar com força",
-    "paragrafos": [
-     "\"Not only\" no início pede inversão na primeira parte; a segunda parte segue normal, geralmente com but (also): \"Not only did the app revolutionize the market, but it also changed how we work\".",
-     "É uma estrutura ótima para redações, apresentações e cartas de motivação, porque valoriza duas qualidades ou consequências de uma só vez."
-    ],
-    "exemplos": [
-     [
-      "Not only did she grasp the concept quickly, but she also explained it to the whole team.",
-      "Ela não só captou o conceito rápido, como também o explicou para a equipe toda."
-     ],
-     [
-      "Not only will the new law legalize the practice, but it will also regulate it.",
-      "A nova lei não só vai legalizar a prática, como também vai regulamentá-la."
-     ],
-     [
-      "Not only was the theory weak, but it didn't hold water at all.",
-      "A teoria não só era fraca, como não se sustentava de jeito nenhum."
-     ]
-    ]
-   },
-   {
-    "titulo": "Hardly, scarcely, no sooner: uma coisa logo depois da outra",
-    "paragrafos": [
-     "Para dizer que algo aconteceu imediatamente após outra coisa, usamos past perfect com inversão: \"Hardly had I arrived when the phone rang\" (mal eu tinha chegado e o telefone tocou).",
-     "Atenção às combinações fixas: hardly/scarcely... when e no sooner... than. Trocar por \"no sooner... when\" é um deslize comum até entre falantes avançados."
-    ],
-    "exemplos": [
-     [
-      "Hardly had we unplugged the router when the connection came back.",
-      "Mal tínhamos desligado o roteador da tomada e a conexão voltou."
-     ],
-     [
-      "No sooner had the product been patented than competitors tried to copy it.",
-      "Assim que o produto foi patenteado, os concorrentes tentaram copiá-lo."
-     ],
-     [
-      "Scarcely had he recanted his statement when new evidence appeared.",
-      "Mal ele tinha se retratado da declaração e surgiram novas provas."
-     ]
-    ]
-   },
-   {
-    "titulo": "Only, under no circumstances, little: restrições e avisos",
-    "paragrafos": [
-     "Expressões com only (only then, only after, only when, only by) também provocam inversão — mas na oração principal, não na que vem logo depois de only: \"Only after the files were authenticated did the court accept them\".",
-     "\"Under no circumstances\", \"at no time\" e \"on no account\" servem para proibições firmes, comuns em regras e contratos. Já \"little\" no início indica que alguém não fazia ideia de algo: \"Little did they know...\"."
-    ],
-    "exemplos": [
-     [
-      "Only after the documents were authenticated did the bank release the money.",
-      "Só depois que os documentos foram autenticados o banco liberou o dinheiro."
-     ],
-     [
-      "Under no circumstances should you part with your password.",
-      "Em hipótese alguma você deve abrir mão da sua senha."
-     ],
-     [
-      "Little did they know that the plan would wind up in court.",
-      "Mal sabiam eles que o plano acabaria no tribunal."
-     ]
-    ]
-   },
-   {
-    "titulo": "Quando (não) usar e como praticar",
-    "paragrafos": [
-     "A inversão é marca de registro formal ou de narração dramática. Numa conversa casual, a ordem normal soa mais natural: \"I've never seen that\" funciona melhor no bar do que \"Never have I seen that\".",
-     "Para fixar, pegue cinco frases comuns do seu dia e reescreva cada uma começando com never, rarely, not only, hardly ou only after. Leia em voz alta, marcando a ênfase na expressão inicial — assim a estrutura vira reflexo, e não regra decorada."
-    ],
-    "exemplos": [
-     [
-      "I rarely stoop to that level. → Rarely do I stoop to that level.",
-      "Raramente me rebaixo a esse nível."
-     ],
-     [
-      "They didn't follow up until Monday. → Not until Monday did they follow up.",
-      "Só na segunda-feira eles deram retorno."
-     ]
-    ]
-   }
-  ]
- },
- {
-  "id": "hedging-verbos-de-reporte",
-  "nivel": "C2",
-  "titulo": "Hedging e verbos de reporte: precisão, cautela e diplomacia",
-  "resumo": "Domine a arte de suavizar afirmações e escolher o verbo de reporte exato (concur, contend, refute, concede) para escrever e falar como um profissional fluente em contextos acadêmicos, jurídicos e corporativos.",
-  "data": "2026-10-25",
-  "blocos": [
-   {
-    "titulo": "O que é hedging e por que nativos o usam o tempo todo",
-    "paragrafos": [
-     "Hedging é a técnica de dosar a certeza de uma afirmação. Em vez de \"This policy hinders growth\", um falante experiente diz \"This policy may well hinder growth\" ou \"There is some evidence that this policy hinders growth\". Não é fraqueza: é precisão — você afirma exatamente o quanto os dados permitem.",
-     "As ferramentas principais são verbos modais (may, might, could), verbos de aparência (seem, appear, tend to), advérbios (arguably, presumably, largely) e expressões como \"to some extent\" ou \"it would appear that\". Em português usamos \"tudo indica que\" e \"ao que parece\"; em inglês formal, o recurso é ainda mais frequente e esperado."
-    ],
-    "exemplos": [
-     [
-      "The new regulation appears to impede small businesses more than large ones.",
-      "A nova regulamentação parece atrapalhar mais as pequenas empresas do que as grandes."
-     ],
-     [
-      "These findings arguably impart a more nuanced view of the crisis.",
-      "Esses resultados, pode-se argumentar, transmitem uma visão mais matizada da crise."
-     ],
-     [
-      "It would appear that the strategy has backfired, at least in the short term.",
-      "Ao que tudo indica, a estratégia saiu pela culatra, pelo menos no curto prazo."
-     ]
-    ]
-   },
-   {
-    "titulo": "Verbos de reporte: cada um carrega uma atitude",
-    "paragrafos": [
-     "Dizer \"he said\" é neutro; os verbos de reporte revelam o que você pensa da afirmação alheia. \"Claim\" e \"allege\" sugerem dúvida; \"demonstrate\" e \"establish\" indicam que você aceita a prova; \"contend\" e \"maintain\" mostram alguém defendendo uma posição contestada.",
-     "Para concordar e discordar, o leque é refinado: \"concur\" (concordar formalmente), \"concede\" (admitir um ponto a contragosto), \"refute\" (provar que algo é falso) e \"dispute\" ou \"challenge\" (contestar sem necessariamente provar). Cuidado: muitos nativos usam \"refute\" como mero \"negar\", mas em texto cuidadoso ele implica refutação com provas."
-    ],
-    "exemplos": [
-     [
-      "The board concurred with the auditor's recommendation to rescind the contract.",
-      "O conselho concordou com a recomendação do auditor de rescindir o contrato."
-     ],
-     [
-      "She conceded that the figures had been fudged, but denied any personal involvement.",
-      "Ela admitiu que os números tinham sido maquiados, mas negou qualquer envolvimento pessoal."
-     ],
-     [
-      "The author contends that austerity impoverished the regions it was meant to rescue.",
-      "O autor sustenta que a austeridade empobreceu as regiões que pretendia socorrer."
-     ]
-    ]
-   },
-   {
-    "titulo": "Distanciamento: o passivo impessoal e o it-clause",
-    "paragrafos": [
-     "Quando você quer relatar uma ideia sem assumir autoria, use estruturas impessoais: \"It is widely believed that...\", \"It has been suggested that...\" ou o passivo com infinitivo: \"The minister is said to have misinformed Parliament\". Repare no infinitivo perfeito (to have + particípio) para fatos anteriores ao relato.",
-     "Essas estruturas são comuns no jornalismo, principalmente quando há risco jurídico: \"The suspect is alleged to have burgled three homes\" protege o veículo de afirmar a culpa como fato."
-    ],
-    "exemplos": [
-     [
-      "The minister is reported to have misinformed the committee about the costs.",
-      "Consta que o ministro teria informado mal a comissão sobre os custos."
-     ],
-     [
-      "It has been suggested that the merger was brokered behind closed doors.",
-      "Há quem sugira que a fusão foi intermediada a portas fechadas."
-     ],
-     [
-      "The company is thought to have spurned two earlier offers.",
-      "Acredita-se que a empresa tenha rejeitado duas ofertas anteriores."
-     ]
-    ]
-   },
-   {
-    "titulo": "O equilíbrio: nem vago demais, nem categórico demais",
-    "paragrafos": [
-     "O erro do aluno avançado é acumular cautelas: \"It might possibly perhaps suggest...\" soa inseguro e confuso. Use uma marca de hedging por afirmação e reserve a certeza total para o que é inegável: \"The data clearly show\" quando o dado de fato mostra.",
-     "Um bom exercício: pegue um parágrafo que você escreveu, marque cada afirmação forte e pergunte \"posso provar isso?\". Se sim, mantenha; se em parte, suavize com um único recurso; se não, reformule com um verbo de reporte que atribua a ideia a alguém."
-    ],
-    "exemplos": [
-     [
-      "The data clearly show that the campaign prompted a surge in sign-ups.",
-      "Os dados mostram claramente que a campanha provocou um pico de inscrições."
-     ],
-     [
-      "To some extent, the delay may have hindered the negotiations.",
-      "Até certo ponto, o atraso pode ter atrapalhado as negociações."
-     ],
-     [
-      "Critics maintain that the reform will do little to help people cope with rising costs.",
-      "Os críticos sustentam que a reforma pouco ajudará as pessoas a lidar com o aumento dos custos."
-     ]
-    ]
-   }
-  ]
- },
- {
-  "id": "minha-rotina-present-simple",
-  "nivel": "A1",
-  "titulo": "Minha rotina: o present simple no dia a dia",
-  "resumo": "Descreva seu dia em inglês com get up, have, go, work e watch, aprenda o -s da terceira pessoa e as palavras de frequência always, usually e never.",
-  "data": "2026-10-26",
-  "blocos": [
-   {
-    "titulo": "O tempo verbal da rotina",
-    "paragrafos": [
-     "Para falar de hábitos e coisas que se repetem, o inglês usa o present simple. A forma é simples: o verbo no infinitivo, sem o to. I work, you work, we work, they work.",
-     "Pense nele como o nosso presente do indicativo quando dizemos \"eu trabalho de segunda a sexta\": não é o que você está fazendo agora, é o que costuma fazer."
-    ],
-    "exemplos": [
-     [
-      "I get up at seven.",
-      "Eu me levanto às sete."
-     ],
-     [
-      "I have breakfast at home.",
-      "Eu tomo café da manhã em casa."
-     ],
-     [
-      "We go to work by bus.",
-      "Nós vamos para o trabalho de ônibus."
-     ]
-    ]
-   },
-   {
-    "titulo": "O -s de he, she e it",
-    "paragrafos": [
-     "A única pegadinha do present simple está na terceira pessoa do singular (he, she, it): o verbo ganha um -s no final. She works, he plays, it rains.",
-     "Alguns verbos mudam um pouco: go vira goes, do vira does, watch vira watches (verbos terminados em -ch, -sh, -s, -x e -o ganham -es). E have vira has, que é irregular."
-    ],
-    "exemplos": [
-     [
-      "She works in a hospital.",
-      "Ela trabalha num hospital."
-     ],
-     [
-      "He goes to the gym on Mondays.",
-      "Ele vai à academia às segundas."
-     ],
-     [
-      "My father watches the news at night.",
-      "Meu pai assiste ao jornal à noite."
-     ],
-     [
-      "She has lunch at noon.",
-      "Ela almoça ao meio-dia."
-     ]
-    ]
-   },
-   {
-    "titulo": "Com que frequência?",
-    "paragrafos": [
-     "Para dizer com que frequência algo acontece, use os advérbios always (sempre), usually (geralmente), sometimes (às vezes) e never (nunca).",
-     "Eles ficam antes do verbo principal: I always drink coffee. Mas ficam depois do verbo be: I am never late."
-    ],
-    "exemplos": [
-     [
-      "I always brush my teeth before bed.",
-      "Eu sempre escovo os dentes antes de dormir."
-     ],
-     [
-      "We usually cook at home.",
-      "Nós geralmente cozinhamos em casa."
-     ],
-     [
-      "He sometimes walks to school.",
-      "Ele às vezes vai a pé para a escola."
-     ],
-     [
-      "I am never late for class.",
-      "Eu nunca me atraso para a aula."
-     ]
-    ]
-   },
-   {
-    "titulo": "Perguntas e negativas com do e does",
-    "paragrafos": [
-     "Para perguntar ou negar, o present simple usa o auxiliar do (ou does com he, she, it). Atenção: quando does aparece, o -s sai do verbo principal. She works → Does she work? → She doesn't work.",
-     "Na fala, use as contrações don't (do not) e doesn't (does not). Pronuncie \"dount\" e \"dázent\"."
-    ],
-    "exemplos": [
-     [
-      "Do you work on Saturdays?",
-      "Você trabalha aos sábados?"
-     ],
-     [
-      "What time does she get up?",
-      "A que horas ela se levanta?"
-     ],
-     [
-      "I don't drink coffee at night.",
-      "Eu não tomo café à noite."
-     ],
-     [
-      "He doesn't like Mondays.",
-      "Ele não gosta de segundas-feiras."
-     ]
-    ]
-   }
-  ]
- },
- {
-  "id": "planos-futuro-going-to-will",
-  "nivel": "A2",
-  "titulo": "Planos e previsões: going to, will e o presente contínuo",
-  "resumo": "Aprenda a falar do futuro em inglês: planos já decididos com going to, decisões na hora e promessas com will, e compromissos marcados com o present continuous.",
-  "data": "2026-10-27",
-  "blocos": [
-   {
-    "titulo": "Going to: o que você já decidiu",
-    "paragrafos": [
-     "Quando você já tomou a decisão antes de falar, use be going to + verbo no infinitivo: I am going to travel, she is going to study. É como o nosso \"eu vou viajar\" quando o plano já existe na cabeça.",
-     "Na fala, going to quase sempre soa como \"gonna\": I'm gonna call her. Entenda quando ouvir, mas na escrita formal prefira going to."
-    ],
-    "exemplos": [
-     [
-      "I'm going to visit my grandmother this weekend.",
-      "Vou visitar minha avó neste fim de semana."
-     ],
-     [
-      "We are going to buy a new car next year.",
-      "Vamos comprar um carro novo no ano que vem."
-     ],
-     [
-      "Are you going to watch the game tonight?",
-      "Você vai assistir ao jogo hoje à noite?"
-     ]
-    ]
-   },
-   {
-    "titulo": "Will: decisões na hora, ofertas e promessas",
-    "paragrafos": [
-     "Will entra quando a decisão nasce no momento da conversa. O telefone toca e você diz: I'll get it! (Eu atendo!). Ninguém planejou isso antes.",
-     "Will também serve para oferecer ajuda e prometer. A forma não muda com he, she ou it: he will, she will. Na negativa, will not vira won't."
-    ],
-    "exemplos": [
-     [
-      "It's cold in here. I'll close the window.",
-      "Está frio aqui. Vou fechar a janela."
-     ],
-     [
-      "Don't worry, I'll help you with your homework.",
-      "Não se preocupe, eu te ajudo com a lição."
-     ],
-     [
-      "I promise I won't tell anyone.",
-      "Prometo que não vou contar a ninguém."
-     ]
-    ]
-   },
-   {
-    "titulo": "Previsões: evidência ou opinião?",
-    "paragrafos": [
-     "Para prever o futuro, os dois funcionam, com uma diferença. Use going to quando há uma evidência agora: nuvens escuras no céu, alguém correndo atrás do ônibus.",
-     "Use will quando é só a sua opinião ou crença, muitas vezes com I think, I'm sure ou probably."
-    ],
-    "exemplos": [
-     [
-      "Look at those clouds! It's going to rain.",
-      "Olha essas nuvens! Vai chover."
-     ],
-     [
-      "I think she will love the present.",
-      "Acho que ela vai adorar o presente."
-     ],
-     [
-      "Our team will probably win on Sunday.",
-      "Nosso time provavelmente vai ganhar no domingo."
-     ]
-    ]
-   },
-   {
-    "titulo": "Present continuous: compromissos marcados",
-    "paragrafos": [
-     "Para compromissos com dia, hora e outras pessoas envolvidas, o inglês usa o present continuous (be + verbo com -ing) com sentido de futuro. É o tempo da agenda.",
-     "Sempre coloque a expressão de tempo (tomorrow, on Friday, at six) para deixar claro que você fala do futuro, e não do que está acontecendo agora."
-    ],
-    "exemplos": [
-     [
-      "I'm meeting Ana for lunch tomorrow.",
-      "Vou almoçar com a Ana amanhã."
-     ],
-     [
-      "They are flying to Lisbon on Friday.",
-      "Eles vão voar para Lisboa na sexta."
-     ],
-     [
-      "What are you doing this evening?",
-      "O que você vai fazer hoje à noite?"
-     ]
-    ]
-   },
-   {
-    "titulo": "Pratique: monte sua semana",
-    "paragrafos": [
-     "Escreva três frases sobre a sua próxima semana: um plano (going to), um compromisso marcado (present continuous) e uma previsão (will). Leia em voz alta e grave no celular para comparar sua pronúncia.",
-     "Dica rápida: I will vira I'll, you will vira you'll. Pratique as contrações; elas deixam sua fala mais natural."
-    ],
-    "exemplos": [
-     [
-      "I'm going to start a new course on Monday.",
-      "Vou começar um curso novo na segunda."
-     ],
-     [
-      "I'm seeing the dentist on Wednesday.",
-      "Vou ao dentista na quarta."
-     ],
-     [
-      "I think it will be a good week.",
-      "Acho que vai ser uma boa semana."
-     ]
-    ]
-   }
-  ]
- },
- {
-  "id": "used-to-would-habitos-passado",
-  "nivel": "B1",
-  "titulo": "Used to e would: hábitos e estados do passado",
-  "resumo": "Fale de como as coisas eram antes: used to para hábitos e estados que acabaram, would para lembranças repetidas, e a diferença para be used to e get used to.",
-  "data": "2026-10-29",
-  "blocos": [
-   {
-    "titulo": "Used to: o que acontecia e não acontece mais",
-    "paragrafos": [
-     "Used to + verbo no infinitivo mostra um hábito ou situação do passado que já terminou. É o nosso \"eu costumava\" ou o imperfeito: I used to play football = Eu jogava futebol (e hoje não jogo mais).",
-     "A forma é a mesma para todas as pessoas: I used to, she used to, they used to. Na pronúncia, o \"d\" some: soa como \"iússtu\"."
-    ],
-    "exemplos": [
-     [
-      "I used to live near the beach.",
-      "Eu morava perto da praia."
-     ],
-     [
-      "She used to drink coffee every morning, but now she prefers tea.",
-      "Ela tomava café toda manhã, mas agora prefere chá."
-     ],
-     [
-      "There used to be a cinema on this street.",
-      "Havia um cinema nesta rua."
-     ]
-    ]
-   },
-   {
-    "titulo": "Negativa e pergunta: use to com did",
-    "paragrafos": [
-     "Quando aparece did ou didn't, o verbo volta à forma base: did you use to, I didn't use to. É um erro muito comum escrever \"did you used to\".",
-     "Na conversa, também é natural dizer I never used to para reforçar a negativa."
-    ],
-    "exemplos": [
-     [
-      "Did you use to wear glasses?",
-      "Você usava óculos?"
-     ],
-     [
-      "I didn't use to like vegetables.",
-      "Eu não gostava de legumes."
-     ],
-     [
-      "He never used to call me on weekends.",
-      "Ele nunca me ligava nos fins de semana."
-     ]
-    ]
-   },
-   {
-    "titulo": "Would: lembranças que se repetiam",
-    "paragrafos": [
-     "Would também descreve ações repetidas no passado, com um tom de memória ou narração: Every summer we would go to the countryside.",
-     "Atenção: would só funciona com ações, não com estados. Dá para dizer I used to have a dog, mas não \"I would have a dog\" com esse sentido. Verbos como have, be, know e like ficam com used to."
-    ],
-    "exemplos": [
-     [
-      "When I was a kid, my grandfather would tell us stories every night.",
-      "Quando eu era criança, meu avô nos contava histórias toda noite."
-     ],
-     [
-      "On Sundays we would wake up late and cook together.",
-      "Aos domingos a gente acordava tarde e cozinhava junto."
-     ]
-    ]
-   },
-   {
-    "titulo": "Não confunda: be used to e get used to",
-    "paragrafos": [
-     "Be used to + substantivo ou verbo com -ing significa estar acostumado: I'm used to working late. Get used to significa ir se acostumando: You'll get used to the cold.",
-     "Resumo: used to + infinitivo fala do passado; be/get used to + -ing fala de costume, em qualquer tempo verbal."
-    ],
-    "exemplos": [
-     [
-      "I'm used to waking up early.",
-      "Estou acostumado a acordar cedo."
-     ],
-     [
-      "It took me months to get used to driving on the left.",
-      "Levei meses para me acostumar a dirigir pela esquerda."
-     ],
-     [
-      "I used to wake up early, but now I work from home.",
-      "Eu acordava cedo, mas agora trabalho de casa."
-     ]
-    ]
-   }
-  ]
- },
- {
-  "id": "causativo-have-get-something-done",
-  "nivel": "B2",
-  "titulo": "Causativo: have something done e get something done",
-  "resumo": "Diga que alguém fez um serviço para você, como cortar o cabelo ou consertar o carro, e use o causativo para contar imprevistos, dar ordens e pedir favores com have, get e make.",
-  "data": "2026-10-29",
-  "blocos": [
-   {
-    "titulo": "A estrutura: have + objeto + particípio",
-    "paragrafos": [
-     "Em português dizemos \"cortei o cabelo\" mesmo quando foi o cabeleireiro que cortou. Em inglês, I cut my hair significa que você mesmo pegou a tesoura. Para dizer que outra pessoa fez o serviço, use have + objeto + particípio passado: I had my hair cut.",
-     "O verbo have muda de tempo normalmente: I'm having my car repaired, I'll have the house painted, I've just had my eyes tested."
-    ],
-    "exemplos": [
-     [
-      "I had my hair cut yesterday.",
-      "Cortei o cabelo ontem (no salão)."
-     ],
-     [
-      "We're having the kitchen renovated next month.",
-      "Vamos reformar a cozinha no mês que vem (uma empresa vai fazer)."
-     ],
-     [
-      "You should have your blood pressure checked.",
-      "Você deveria medir a pressão."
-     ]
-    ]
-   },
-   {
-    "titulo": "Get something done: mais informal e com ideia de esforço",
-    "paragrafos": [
-     "Get + objeto + particípio tem o mesmo sentido, mas é mais comum na fala e às vezes sugere que foi preciso se esforçar ou resolver algo: I finally got the printer fixed.",
-     "Get também aparece em ordens e prazos: Get this report finished by Friday."
-    ],
-    "exemplos": [
-     [
-      "I need to get my passport renewed before the trip.",
-      "Preciso renovar o passaporte antes da viagem."
-     ],
-     [
-      "She finally got the leak fixed.",
-      "Ela finalmente conseguiu consertar o vazamento."
-     ],
-     [
-      "Get your homework done before dinner.",
-      "Termine a lição de casa antes do jantar."
-     ]
-    ]
-   },
-   {
-    "titulo": "Quando algo ruim acontece com você",
-    "paragrafos": [
-     "O mesmo formato serve para contar experiências desagradáveis causadas por outra pessoa: He had his wallet stolen on the subway. Aqui ninguém pediu o serviço, claro; a estrutura só mostra que a ação recaiu sobre o sujeito.",
-     "É uma forma natural e econômica de narrar imprevistos sem precisar dizer quem foi o responsável."
-    ],
-    "exemplos": [
-     [
-      "He had his wallet stolen on the subway.",
-      "Roubaram a carteira dele no metrô."
-     ],
-     [
-      "They had their flight cancelled at the last minute.",
-      "O voo deles foi cancelado em cima da hora."
-     ]
-    ]
-   },
-   {
-    "titulo": "Have, get e make alguém fazer algo",
-    "paragrafos": [
-     "Com uma pessoa como objeto, o padrão muda. Have someone do (infinitivo sem to) é pedir ou encarregar: I'll have my assistant send you the file. Get someone to do é convencer: I got my brother to help me move. Make someone do é obrigar: The teacher made us rewrite the essay.",
-     "Repare no to: ele só aparece com get. Com have e make, o verbo vem direto."
-    ],
-    "exemplos": [
-     [
-      "I'll have the technician call you back.",
-      "Vou pedir para o técnico te ligar de volta."
-     ],
-     [
-      "I finally got my dad to try sushi.",
-      "Finalmente convenci meu pai a experimentar sushi."
-     ],
-     [
-      "The coach made us run ten laps.",
-      "O treinador nos fez correr dez voltas."
-     ]
-    ]
-   }
-  ]
- },
- {
-  "id": "cleft-sentences-enfase",
-  "nivel": "C1",
-  "titulo": "Cleft sentences: what I need is…, it was… that",
-  "resumo": "Aprenda a destacar a informação mais importante da frase com as estruturas it-cleft e wh-cleft, o equivalente inglês ao nosso \"foi ele que…\" e \"o que eu quero é…\".",
-  "data": "2026-10-30",
-  "blocos": [
-   {
-    "titulo": "O que é uma cleft sentence",
-    "paragrafos": [
-     "Em português, quando queremos destacar uma parte da frase, dizemos \"foi a Ana que resolveu o problema\" em vez de \"a Ana resolveu o problema\". O inglês faz o mesmo dividindo (to cleave = partir) a frase em duas partes: uma que aponta o foco e outra que traz o resto da informação.",
-     "Essas estruturas são muito comuns na fala e na escrita formal, porque permitem corrigir alguém, contrastar ideias e guiar a atenção do ouvinte sem depender só da entonação."
-    ],
-    "exemplos": [
-     [
-      "Ana solved the problem.",
-      "A Ana resolveu o problema. (neutro)"
-     ],
-     [
-      "It was Ana who solved the problem.",
-      "Foi a Ana que resolveu o problema. (foco em quem)"
-     ],
-     [
-      "What Ana did was solve the problem.",
-      "O que a Ana fez foi resolver o problema. (foco na ação)"
-     ]
-    ]
-   },
-   {
-    "titulo": "It-cleft: it + be + foco + that/who",
-    "paragrafos": [
-     "Coloque o elemento destacado depois de it is / it was e continue com that (ou who, para pessoas). Funciona com sujeito, objeto, tempo, lugar e motivo.",
-     "É a forma ideal para corrigir uma informação: It wasn't the price that worried me, it was the deadline. Repare que o verbo be fica no singular mesmo com foco plural: It's the details that matter."
-    ],
-    "exemplos": [
-     [
-      "It was in Lisbon that they first met.",
-      "Foi em Lisboa que eles se conheceram."
-     ],
-     [
-      "It's not the money that bothers me; it's the attitude.",
-      "Não é o dinheiro que me incomoda; é a atitude."
-     ],
-     [
-      "It was only when I moved abroad that I realized how much I missed my family.",
-      "Só quando me mudei para o exterior é que percebi o quanto sentia falta da minha família."
-     ]
-    ]
-   },
-   {
-    "titulo": "Wh-cleft: what + oração + be + foco",
-    "paragrafos": [
-     "Comece com uma oração introduzida por what e depois revele o foco: What I need is a long holiday. Ela cria suspense e joga a informação nova para o final, onde ela pesa mais.",
-     "Quando o foco é uma ação, use do na primeira parte e o infinitivo (com ou sem to) depois de be: What you should do is call her. What happened was (that) the system crashed."
-    ],
-    "exemplos": [
-     [
-      "What I really enjoy is cooking for friends.",
-      "O que eu gosto mesmo é de cozinhar para os amigos."
-     ],
-     [
-      "What we did was rewrite the whole report.",
-      "O que nós fizemos foi reescrever o relatório inteiro."
-     ],
-     [
-      "What surprised me most was how calm she stayed.",
-      "O que mais me surpreendeu foi o quanto ela se manteve calma."
-     ]
-    ]
-   },
-   {
-    "titulo": "Variações: all, the thing, the reason, the place",
-    "paragrafos": [
-     "All substitui what para dizer que algo é a única coisa: All I want is some peace and quiet (tudo o que eu quero é…). Também é comum usar substantivos genéricos no lugar de what: the thing (that), the reason (why), the place (where), the person (who).",
-     "A ordem pode ser invertida para fechar um argumento: A good night's sleep is what you need. Essa versão soa como conclusão."
-    ],
-    "exemplos": [
-     [
-      "All I did was ask a simple question.",
-      "Tudo o que eu fiz foi fazer uma pergunta simples."
-     ],
-     [
-      "The reason why I left was the commute.",
-      "O motivo pelo qual saí foi o trajeto até o trabalho."
-     ],
-     [
-      "The thing that annoys me is people who interrupt.",
-      "O que me irrita são as pessoas que interrompem."
-     ]
-    ]
-   },
-   {
-    "titulo": "Pratique: transforme e destaque",
-    "paragrafos": [
-     "Pegue frases simples do seu dia e reescreva cada uma de três formas: neutra, com it-cleft e com wh-cleft. Por exemplo: I need more time → It's more time that I need → What I need is more time.",
-     "Nas reuniões e e-mails, use as clefts para reformular com elegância: What I'm suggesting is…, What we need to focus on is…, It's the second point that concerns me. Soa preciso, educado e natural."
-    ],
-    "exemplos": [
-     [
-      "What I'm suggesting is that we postpone the launch.",
-      "O que estou sugerindo é que adiemos o lançamento."
-     ],
-     [
-      "It's the second point that concerns me.",
-      "É o segundo ponto que me preocupa."
-     ],
-     [
-      "What we need to focus on is customer feedback.",
-      "Aquilo em que precisamos nos concentrar é o retorno dos clientes."
-     ]
-    ]
-   }
-  ]
- },
- {
-  "id": "subjuntivo-mandativo-formal",
-  "nivel": "C2",
-  "titulo": "Subjuntivo mandativo: “It is essential that he be…”",
-  "resumo": "Aprenda a estrutura formal que nativos usam em contratos, atas e e-mails executivos para exigir, recomendar e propor — e as fórmulas fixas do subjuntivo que sobrevivem no inglês moderno.",
-  "data": "2026-10-31",
-  "blocos": [
-   {
-    "titulo": "A forma que parece um erro (mas não é)",
-    "paragrafos": [
-     "Em frases como \"The board insists that she resign\", o verbo resign aparece sem o -s da 3ª pessoa. Não é erro: é o subjuntivo mandativo, que usa sempre a forma base do verbo, para qualquer pessoa e em qualquer tempo da oração principal.",
-     "Ele aparece depois de verbos de exigência e proposta (demand, insist, recommend, propose, request, require, urge, stipulate) e de adjetivos como essential, imperative, vital, crucial e advisable. Em português, é o nosso \"que ele renuncie\": a ideia é a mesma, só que em inglês a marca é a ausência de flexão."
-    ],
-    "exemplos": [
-     [
-      "The board insists that she resign before the merger.",
-      "O conselho insiste que ela renuncie antes da fusão."
-     ],
-     [
-      "It is imperative that every claim be verified.",
-      "É imprescindível que toda alegação seja verificada."
-     ],
-     [
-      "The contract stipulates that the tenant not sublet the flat.",
-      "O contrato estipula que o inquilino não subloque o apartamento."
-     ]
-    ]
-   },
-   {
-    "titulo": "Negativa, passiva e o verbo be",
-    "paragrafos": [
-     "A negativa é feita com not antes do verbo, sem do: \"We recommend that he not sign yet\" (e não \"doesn't sign\"). Na passiva e com o verbo be, usa-se be para todas as pessoas: \"that the data be refuted\", \"that they be informed\".",
-     "Esse detalhe é o que mais denuncia um texto de alto nível. Em relatórios jurídicos e acadêmicos, \"it is essential that the findings be disproved or confirmed\" soa natural; \"are disproved\" soa menos formal."
-    ],
-    "exemplos": [
-     [
-      "We recommend that he not sign anything until Monday.",
-      "Recomendamos que ele não assine nada até segunda-feira."
-     ],
-     [
-      "They demanded that the allegations be refuted publicly.",
-      "Eles exigiram que as acusações fossem refutadas publicamente."
-     ],
-     [
-      "It is vital that the patient be kept under observation.",
-      "É vital que o paciente seja mantido em observação."
-     ]
-    ]
-   },
-   {
-    "titulo": "Britânico x americano: a alternativa com should",
-    "paragrafos": [
-     "O inglês americano usa o subjuntivo puro com muita frequência, inclusive na fala. O inglês britânico também o usa na escrita formal, mas aceita bem a alternativa com should: \"The committee proposed that the rule should be voided\".",
-     "As duas formas são corretas. A dica prática: em provas como CPE e IELTS, e em textos formais, o subjuntivo puro mostra domínio; na conversa britânica, should soa mais leve. Evite apenas misturar com o presente comum (\"proposes that he goes\") em contexto formal."
-    ],
-    "exemplos": [
-     [
-      "The committee proposed that the agreement should be voided.",
-      "O comitê propôs que o acordo fosse anulado."
-     ],
-     [
-      "I'd urge that the team be restructured gradually.",
-      "Eu recomendaria fortemente que a equipe fosse reestruturada aos poucos."
-     ],
-     [
-      "She requested that the report be embellished with fewer adjectives.",
-      "Ela pediu que o relatório fosse enfeitado com menos adjetivos."
-     ]
-    ]
-   },
-   {
-    "titulo": "Fórmulas fixas que você já ouviu",
-    "paragrafos": [
-     "O subjuntivo antigo sobrevive em expressões congeladas, muito comuns em discursos, filmes e literatura: \"God save the King\", \"Long live…\", \"Be that as it may\", \"Suffice it to say\", \"Come what may\", \"So be it\" e \"Heaven forbid\".",
-     "Elas não seguem a regra normal de concordância e não devem ser \"corrigidas\". Usadas com moderação, dão elegância e um toque retórico ao seu inglês."
-    ],
-    "exemplos": [
-     [
-      "Be that as it may, we cannot desist now.",
-      "Seja como for, não podemos desistir agora."
-     ],
-     [
-      "Suffice it to say that the plan was shrouded in secrecy.",
-      "Basta dizer que o plano estava envolto em sigilo."
-     ],
-     [
-      "Come what may, we will inch forward.",
-      "Aconteça o que acontecer, vamos avançar pouco a pouco."
-     ]
-    ]
-   }
-  ]
- }
+  }
 ]
