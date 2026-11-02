@@ -1339,5 +1339,98 @@
         ]
       }
     ]
+  },
+  {
+    "id": "comparativos-superlativos",
+    "nivel": "A2",
+    "titulo": "Comparativos e superlativos: maior, melhor, o mais caro",
+    "resumo": "Aprenda a comparar pessoas, lugares e coisas com -er, more, -est e most, incluindo os irregulares good, bad e far e a estrutura as... as.",
+    "data": "2026-11-02",
+    "blocos": [
+      {
+        "titulo": "Palavras curtas: -er e -est",
+        "paragrafos": [
+          "Para comparar duas coisas com um adjetivo curto (uma sílaba), acrescente -er e use than, que corresponde ao nosso \"do que\": \"Pedro is taller than Lucas\". Para destacar um item dentro de um grupo, use the + -est: \"Pedro is the tallest in the family\".",
+          "Atenção à escrita. Adjetivo terminado em consoante + y troca o y por i: happy, happier, the happiest. Quem termina em consoante-vogal-consoante dobra a última letra: big, bigger, the biggest; hot, hotter, the hottest. Quem já termina em -e só ganha -r ou -st: nice, nicer, the nicest."
+        ],
+        "exemplos": [
+          [
+            "My suitcase is heavier than yours.",
+            "Minha mala é mais pesada que a sua."
+          ],
+          [
+            "July is the coldest month in my city.",
+            "Julho é o mês mais frio na minha cidade."
+          ],
+          [
+            "This street is busier than the main road.",
+            "Esta rua é mais movimentada do que a avenida principal."
+          ]
+        ]
+      },
+      {
+        "titulo": "Palavras longas: more e most",
+        "paragrafos": [
+          "Adjetivos de duas ou mais sílabas que não terminam em -y normalmente não recebem -er. Usamos more e the most antes deles: expensive, more expensive, the most expensive.",
+          "O erro clássico do brasileiro é somar as duas formas por influência de \"mais\": \"more cheaper\" não existe. Ou é cheaper, ou é more expensive; nunca as duas marcas juntas."
+        ],
+        "exemplos": [
+          [
+            "This phone is more expensive than my laptop.",
+            "Este celular é mais caro que meu notebook."
+          ],
+          [
+            "It was the most interesting film I saw this year.",
+            "Foi o filme mais interessante que vi este ano."
+          ],
+          [
+            "The train is more comfortable than the bus.",
+            "O trem é mais confortável que o ônibus."
+          ]
+        ]
+      },
+      {
+        "titulo": "Os irregulares que você mais vai usar",
+        "paragrafos": [
+          "Alguns adjetivos muito comuns têm formas próprias e precisam ser decorados: good, better, the best; bad, worse, the worst; far, further, the furthest (também farther, the farthest).",
+          "Vale gravar um par que confunde: \"worse\" é a comparação (pior que) e \"the worst\" é o topo do grupo (o pior de todos). Em frases como \"I feel better today\", better também funciona com o verbo feel: estou me sentindo melhor."
+        ],
+        "exemplos": [
+          [
+            "Her English is better than mine.",
+            "O inglês dela é melhor que o meu."
+          ],
+          [
+            "Yesterday was the worst day of my week.",
+            "Ontem foi o pior dia da minha semana."
+          ],
+          [
+            "The airport is further than the station.",
+            "O aeroporto é mais longe que a estação."
+          ]
+        ]
+      },
+      {
+        "titulo": "Igual ou menos: as... as e less",
+        "paragrafos": [
+          "Para dizer que duas coisas são iguais, coloque o adjetivo entre as e as: \"Ana is as tall as her mother\" — Ana é tão alta quanto a mãe. Na negativa, a ideia vira \"não tão... quanto\": \"not as cold as\".",
+          "Para dizer que algo tem menos de uma qualidade, a forma mais natural no dia a dia costuma ser not as... as. Less + adjetivo também existe, sobretudo com palavras longas: \"less expensive\"."
+        ],
+        "exemplos": [
+          [
+            "This coffee is as good as the one we had in Minas.",
+            "Este café é tão bom quanto aquele que tomamos em Minas."
+          ],
+          [
+            "Today isn't as hot as yesterday.",
+            "Hoje não está tão quente quanto ontem."
+          ],
+          [
+            "We found a less expensive hotel near the beach.",
+            "Encontramos um hotel menos caro perto da praia."
+          ]
+        ]
+      }
+    ]
   }
 ]
