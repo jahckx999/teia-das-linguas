@@ -1432,5 +1432,106 @@
         ]
       }
     ]
+  },
+  {
+    "id": "voz-passiva-essencial",
+    "nivel": "B1",
+    "titulo": "Voz passiva: quando o resultado importa mais que o autor",
+    "resumo": "Aprenda a formar a voz passiva nos tempos mais usados, a decidir quando usar by e a evitar os erros clássicos de quem fala português.",
+    "data": "2026-11-03",
+    "blocos": [
+      {
+        "titulo": "Por que e como usar a passiva",
+        "paragrafos": [
+          "Na voz ativa, o sujeito pratica a ação: \"The company makes these shoes\". Na passiva, o foco vai para quem recebe a ação: \"These shoes are made in Brazil\". Usamos a passiva quando o resultado importa mais do que o autor, quando não sabemos quem fez ou quando o autor é óbvio.",
+          "A fórmula é sempre a mesma: verbo be no tempo desejado + particípio do verbo principal. Em \"is made\", o be mostra o tempo e made carrega o sentido. Só verbos que têm objeto direto (transitivos) vão para a passiva."
+        ],
+        "exemplos": [
+          [
+            "These shoes are made in Brazil.",
+            "Estes sapatos são feitos no Brasil."
+          ],
+          [
+            "My bike was stolen last night.",
+            "Minha bicicleta foi roubada ontem à noite."
+          ],
+          [
+            "Coffee is grown in many countries.",
+            "O café é cultivado em muitos países."
+          ]
+        ]
+      },
+      {
+        "titulo": "A passiva nos tempos mais comuns",
+        "paragrafos": [
+          "Basta conjugar o be e manter o particípio: presente is/are done, passado was/were done, present perfect has/have been done, futuro will be done. Com modais, use o modal + be + particípio: must be signed, can be used, should be cleaned.",
+          "Para algo em andamento, acrescente being: \"The road is being repaired\" significa que a obra está acontecendo agora. Observe que being e been são diferentes: being aparece nos tempos contínuos e been nos tempos perfeitos."
+        ],
+        "exemplos": [
+          [
+            "All the tickets have been sold.",
+            "Todos os ingressos foram vendidos."
+          ],
+          [
+            "Your order will be delivered on Friday.",
+            "Seu pedido será entregue na sexta-feira."
+          ],
+          [
+            "This form must be signed by a parent.",
+            "Este formulário deve ser assinado por um dos pais."
+          ],
+          [
+            "The road is being repaired.",
+            "A estrada está sendo consertada."
+          ]
+        ]
+      },
+      {
+        "titulo": "Com by ou sem by?",
+        "paragrafos": [
+          "Só use by quando o autor for informação útil, como um nome famoso ou um dado novo: \"The Mona Lisa was painted by Leonardo da Vinci\". Se o autor for genérico ou evidente, corte: dizer \"The thief was arrested by the police\" acrescenta pouco, porque quem prende é a polícia.",
+          "Para falar do instrumento usado, prefira with: \"The letter was written with a pen\". Já by indica quem fez a ação ou o meio: \"The letter was sent by email\"."
+        ],
+        "exemplos": [
+          [
+            "The Mona Lisa was painted by Leonardo da Vinci.",
+            "A Mona Lisa foi pintada por Leonardo da Vinci."
+          ],
+          [
+            "The thief was arrested last week.",
+            "O ladrão foi preso na semana passada."
+          ],
+          [
+            "The door was opened with a key.",
+            "A porta foi aberta com uma chave."
+          ]
+        ]
+      },
+      {
+        "titulo": "Armadilhas para brasileiros",
+        "paragrafos": [
+          "Verbos sem objeto, como happen, arrive e die, não têm passiva. Diga \"The accident happened at night\", nunca \"was happened\". Já nascer é passiva em inglês: \"I was born in Recife\", e não \"I born\".",
+          "Nossas construções com \"se\" costumam virar passiva: \"Fala-se inglês aqui\" é \"English is spoken here\". Para pedir que outra pessoa faça o serviço, a estrutura é outra, a causativa: \"I had my car washed\". Na fala informal, get pode substituir o be quando algo acontece de repente ou sem querer: \"My phone got stolen\"."
+        ],
+        "exemplos": [
+          [
+            "The accident happened at night.",
+            "O acidente aconteceu à noite."
+          ],
+          [
+            "I was born in Recife.",
+            "Eu nasci no Recife."
+          ],
+          [
+            "English is spoken here.",
+            "Fala-se inglês aqui."
+          ],
+          [
+            "My phone got stolen on the bus.",
+            "Meu celular foi roubado no ônibus."
+          ]
+        ]
+      }
+    ]
   }
 ]
