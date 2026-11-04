@@ -1533,5 +1533,106 @@
         ]
       }
     ]
+  },
+  {
+    "id": "modais-deducao-passado",
+    "nivel": "B2",
+    "titulo": "Modais de dedução no passado: must have, can't have, might have",
+    "resumo": "Aprenda a tirar conclusões sobre o que já aconteceu, medir o seu grau de certeza e não confundir dedução com arrependimento.",
+    "data": "2026-11-04",
+    "blocos": [
+      {
+        "titulo": "A fórmula: modal + have + particípio",
+        "paragrafos": [
+          "Quando você olha para uma pista e conclui algo sobre o passado, o inglês usa um modal seguido de have e do particípio: \"The streets are wet. It must have rained\". O modal não muda de forma; quem leva a frase para o passado é o have + particípio.",
+          "Na fala, o have quase some e vira um som fraco: must've soa como \"MÂS-tâv\", might've como \"MÁI-tâv\". Por isso muitos nativos escrevem errado \"must of\". Essa forma não existe na norma: escreva sempre have."
+        ],
+        "exemplos": [
+          [
+            "The streets are wet. It must have rained.",
+            "As ruas estão molhadas. Deve ter chovido."
+          ],
+          [
+            "She isn't answering. She might have left already.",
+            "Ela não está atendendo. Talvez já tenha saído."
+          ],
+          [
+            "He can't have forgotten; I reminded him twice.",
+            "Ele não pode ter esquecido; eu o lembrei duas vezes."
+          ]
+        ]
+      },
+      {
+        "titulo": "A escala de certeza",
+        "paragrafos": [
+          "Cada modal indica o quanto você acredita na conclusão. Must have é quase certeza de que aconteceu. Can't have e couldn't have são quase certeza de que não aconteceu. Might have, may have e could have mostram que é só uma possibilidade.",
+          "Atenção à negativa: o contrário de must have não é mustn't have, e sim can't have. Já might not have e may not have significam \"talvez não tenha\", sem contração em may. Note que couldn't have é forte, mas could have é fraco: a negativa muda bastante a força."
+        ],
+        "exemplos": [
+          [
+            "You must have been exhausted after that flight.",
+            "Você deve ter ficado exausto depois daquele voo."
+          ],
+          [
+            "They can't have finished already; they only started at noon.",
+            "Eles não podem ter terminado já; só começaram ao meio-dia."
+          ],
+          [
+            "The parcel may have got lost in the post.",
+            "A encomenda pode ter se perdido no correio."
+          ],
+          [
+            "He might not have received my message.",
+            "Talvez ele não tenha recebido minha mensagem."
+          ]
+        ]
+      },
+      {
+        "titulo": "Forma contínua: o que estava acontecendo",
+        "paragrafos": [
+          "Para deduzir uma ação em andamento, use modal + have been + verbo com -ing. A diferença é a mesma do passado contínuo: o foco está na atividade naquele momento, não no resultado.",
+          "Compare: \"She must have called\" (a ligação aconteceu) e \"She must have been driving\" (ela estava no meio da direção quando você tentou falar). Essa forma também é ótima para explicar sinais visíveis agora: olhos vermelhos, roupa suja, cheiro de comida."
+        ],
+        "exemplos": [
+          [
+            "His eyes are red. He must have been crying.",
+            "Os olhos dele estão vermelhos. Ele deve ter chorado."
+          ],
+          [
+            "She didn't hear the phone; she might have been sleeping.",
+            "Ela não ouviu o telefone; talvez estivesse dormindo."
+          ],
+          [
+            "You can't have been listening; I said Friday, not Monday.",
+            "Você não pode ter prestado atenção; eu disse sexta, não segunda."
+          ]
+        ]
+      },
+      {
+        "titulo": "Armadilhas para brasileiros",
+        "paragrafos": [
+          "Não confunda \"deve ter\" com \"deveria ter\". Dedução é must have (\"He must have paid\": aposto que pagou); crítica ou arrependimento é should have (\"He should have paid\": ele deveria ter pagado, e não pagou). Trocar um pelo outro muda a história inteira.",
+          "Could have também tem dois usos. Pode ser dedução (\"It could have been Ana\": talvez tenha sido a Ana) ou oportunidade perdida (\"You could have told me!\": você podia ter me contado!). O contexto e a entonação decidem. Por fim, depois do modal vem sempre o particípio: diga \"must have gone\", nunca \"must have went\"."
+        ],
+        "exemplos": [
+          [
+            "The lights are off. They must have gone out.",
+            "As luzes estão apagadas. Eles devem ter saído."
+          ],
+          [
+            "We should have booked earlier; now it's sold out.",
+            "Devíamos ter reservado antes; agora está esgotado."
+          ],
+          [
+            "You could have told me you were coming!",
+            "Você podia ter me avisado que vinha!"
+          ],
+          [
+            "It could have been Ana who left the door open.",
+            "Pode ter sido a Ana que deixou a porta aberta."
+          ]
+        ]
+      }
+    ]
   }
 ]
