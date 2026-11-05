@@ -1634,5 +1634,119 @@
         ]
       }
     ]
+  },
+  {
+    "id": "oracoes-participiais",
+    "nivel": "C1",
+    "titulo": "Orações participiais: having finished, built in 1890, weather permitting",
+    "resumo": "Condense duas ideias em uma frase só, escreva com mais elegância e evite o particípio solto, um dos deslizes mais comuns no inglês avançado.",
+    "data": "2026-11-05",
+    "blocos": [
+      {
+        "titulo": "Forma em -ing: duas ações, um só sujeito",
+        "paragrafos": [
+          "Uma oração participial substitui conectivos como when, because e while por um verbo sem sujeito próprio. Em vez de \"When she entered the room, she noticed the silence\", o inglês mais cuidado prefere \"Entering the room, she noticed the silence\". A ideia de tempo ou de causa fica implícita, e quem lê a deduz pelo contexto.",
+          "A forma em -ing tem sentido ativo e, em geral, indica que as duas ações acontecem ao mesmo tempo ou que uma explica a outra. Ela combina melhor com a escrita e com a fala formal; numa conversa do dia a dia, soa natural manter when ou because. Em português, o gerúndio faz um trabalho parecido, então a estrutura costuma parecer familiar."
+        ],
+        "exemplos": [
+          [
+            "Entering the room, she noticed the silence.",
+            "Ao entrar na sala, ela notou o silêncio."
+          ],
+          [
+            "Fearing a backlash, the board postponed the announcement.",
+            "Temendo uma reação negativa, o conselho adiou o anúncio."
+          ],
+          [
+            "The author draws on old letters, revealing a side of the city few people know.",
+            "O autor recorre a cartas antigas, revelando um lado da cidade que poucos conhecem."
+          ]
+        ]
+      },
+      {
+        "titulo": "Having + particípio: deixar clara a sequência",
+        "paragrafos": [
+          "Quando uma ação termina antes da outra, use having + particípio: \"Having reviewed the data, the team revised its forecast\". A forma destaca a ordem dos fatos e, com frequência, sugere também a causa: a equipe mudou a previsão porque analisou os dados.",
+          "Para negar, coloque not antes de tudo: \"Not having received a reply, I called the office\". Colocar o not depois de having também existe, mas é muito menos comum e soa rebuscado. Nos verbos de ação rápida, a forma simples basta quando uma ação segue imediatamente a outra: \"Opening the envelope, he took out the letter\"."
+        ],
+        "exemplos": [
+          [
+            "Having reviewed the data, the team revised its forecast.",
+            "Depois de analisar os dados, a equipe revisou sua previsão."
+          ],
+          [
+            "Not having received a reply, I called the office.",
+            "Como não recebi resposta, liguei para o escritório."
+          ],
+          [
+            "Having spent years abroad, she found it hard to readjust.",
+            "Tendo passado anos no exterior, ela teve dificuldade para se readaptar."
+          ]
+        ]
+      },
+      {
+        "titulo": "Particípio passado: o sentido passivo",
+        "paragrafos": [
+          "Quando o sujeito sofre a ação, a oração começa direto com o particípio passado: \"Built in 1890, the bridge still carries traffic\" equivale a \"The bridge, which was built in 1890\". É o mesmo recurso do português em \"Construída em 1890, a ponte...\", e funciona muito bem para dar contexto logo no início da frase.",
+          "Se quiser marcar que a ação passiva veio antes, use having been + particípio: \"Having been warned twice, he had no excuse\". Em textos acadêmicos e relatórios, expressões prontas como given, provided that e assuming seguem essa mesma lógica de condensar uma condição."
+        ],
+        "exemplos": [
+          [
+            "Built in 1890, the bridge still carries traffic.",
+            "Construída em 1890, a ponte ainda recebe tráfego."
+          ],
+          [
+            "Exhausted by the journey, the delegates went straight to bed.",
+            "Exaustos pela viagem, os delegados foram direto para a cama."
+          ],
+          [
+            "Having been warned twice, he had no excuse.",
+            "Tendo sido avisado duas vezes, ele não tinha desculpa."
+          ]
+        ]
+      },
+      {
+        "titulo": "Cuidado com o particípio solto",
+        "paragrafos": [
+          "Esta é a regra de ouro: o sujeito implícito da oração participial precisa ser o mesmo da oração principal. Em \"Walking to work, the rain started\", a gramática diz que foi a chuva que caminhou até o trabalho. O nome desse deslize é dangling participle, e os revisores o caçam com rigor. A correção é simples: \"Walking to work, I got caught in the rain\".",
+          "Algumas expressões fixas são exceções aceitas, porque já funcionam quase como advérbios ou preposições: generally speaking, judging by, considering, strictly speaking e given. Fora delas, pergunte sempre quem está fazendo a ação antes de fechar a frase."
+        ],
+        "exemplos": [
+          [
+            "Walking to work, I got caught in the rain.",
+            "Indo a pé para o trabalho, peguei chuva."
+          ],
+          [
+            "Having missed the deadline, we lost the contract.",
+            "Por termos perdido o prazo, perdemos o contrato."
+          ],
+          [
+            "Judging by his tone, the negotiations did not go well.",
+            "A julgar pelo tom dele, as negociações não foram bem."
+          ]
+        ]
+      },
+      {
+        "titulo": "Sujeito próprio: a construção absoluta",
+        "paragrafos": [
+          "Quando os sujeitos são diferentes e você quer manter a oração reduzida, dê a ela um sujeito próprio: \"The meeting having ended, we headed to the airport\". É a chamada construção absoluta, típica da escrita formal, e tem um paralelo direto no português: \"Terminada a reunião, seguimos para o aeroporto\".",
+          "Uma versão mais leve usa with: \"With the deadline approaching, nobody left early\". Vale também guardar a fórmula pronta weather permitting, que significa \"se o tempo permitir\" e aparece muito em convites e programações."
+        ],
+        "exemplos": [
+          [
+            "The meeting having ended, we headed to the airport.",
+            "Terminada a reunião, seguimos para o aeroporto."
+          ],
+          [
+            "With the deadline approaching, nobody left early.",
+            "Com o prazo se aproximando, ninguém saiu mais cedo."
+          ],
+          [
+            "The ceremony will be held outdoors, weather permitting.",
+            "A cerimônia será ao ar livre, se o tempo permitir."
+          ]
+        ]
+      }
+    ]
   }
 ]
