@@ -1748,5 +1748,111 @@
         ]
       }
     ]
+  },
+  {
+    "id": "elipse-substituicao",
+    "nivel": "C2",
+    "titulo": "Elipse e substituição: dizer mais com menos",
+    "resumo": "Como falantes nativos evitam repetições com so, not, do so, to e auxiliares soltos — o segredo de um inglês fluido e natural.",
+    "data": "2026-11-06",
+    "blocos": [
+      {
+        "titulo": "Por que o inglês corta tanto",
+        "paragrafos": [
+          "Em inglês avançado, repetir um verbo ou uma oração inteira soa pesado. O falante nativo substitui a ideia por uma palavrinha (so, not, one, do) ou simplesmente a omite, confiando que o ouvinte recupera o sentido pelo contexto.",
+          "Isso se chama substituição (trocar por outra palavra) e elipse (apagar). Dominar as duas é o que separa um inglês correto de um inglês elegante."
+        ],
+        "exemplos": [
+          [
+            "She said she would call, and she did.",
+            "Ela disse que ligaria, e ligou."
+          ],
+          [
+            "I wanted to help, but I couldn't.",
+            "Eu queria ajudar, mas não consegui."
+          ]
+        ]
+      },
+      {
+        "titulo": "So e not depois de verbos de opinião",
+        "paragrafos": [
+          "Com think, hope, suppose, expect, believe, imagine, guess e afraid, usamos so para substituir uma oração afirmativa e not para uma negativa.",
+          "Com think, believe e expect, o natural na negativa é negar o verbo (I don't think so). Com hope e afraid, só existe a forma com not (I hope not, I'm afraid not)."
+        ],
+        "exemplos": [
+          [
+            "Will the board ratify the deal? — I expect so.",
+            "O conselho vai ratificar o acordo? — Acredito que sim."
+          ],
+          [
+            "Is it going to rain? — I hope not.",
+            "Vai chover? — Espero que não."
+          ],
+          [
+            "Did they oust the director? — I'm afraid so.",
+            "Eles destituíram o diretor? — Infelizmente, sim."
+          ]
+        ]
+      },
+      {
+        "titulo": "Do so, do it, do that",
+        "paragrafos": [
+          "Do so substitui uma ação já mencionada e soa formal, comum em textos jurídicos e acadêmicos. Do it e do that são mais coloquiais; do that costuma dar ênfase ou contraste.",
+          "Use do so apenas com verbos de ação voluntária: não se diz 'she knows the answer and I do so too'."
+        ],
+        "exemplos": [
+          [
+            "Applicants who wish to withdraw may do so in writing.",
+            "Candidatos que desejarem desistir podem fazê-lo por escrito."
+          ],
+          [
+            "He promised to reiterate the warning, and he did so twice.",
+            "Ele prometeu reiterar o aviso, e o fez duas vezes."
+          ],
+          [
+            "Don't ever do that again!",
+            "Nunca mais faça isso!"
+          ]
+        ]
+      },
+      {
+        "titulo": "O to solitário e os auxiliares sozinhos",
+        "paragrafos": [
+          "Depois de want, would like, try, need, mean, hope, plan e similares, podemos cortar o verbo e deixar só o to (elipse do infinitivo).",
+          "Da mesma forma, o auxiliar fica sozinho no fim da frase: can, will, have, should, is. Em português costumamos repetir o verbo principal; em inglês, basta o auxiliar."
+        ],
+        "exemplos": [
+          [
+            "You can come along if you want to.",
+            "Você pode vir junto, se quiser."
+          ],
+          [
+            "I didn't mean to, I swear.",
+            "Não foi por querer, juro."
+          ],
+          [
+            "Has anyone heeded the advice? — Nobody has.",
+            "Alguém deu ouvidos ao conselho? — Ninguém."
+          ]
+        ]
+      },
+      {
+        "titulo": "Armadilhas para brasileiros",
+        "paragrafos": [
+          "Evite traduzir 'acho que sim' como 'I think yes' — o certo é 'I think so'. E 'espero que não' não é 'I hope no', mas 'I hope not'.",
+          "Não deixe o verbo principal sozinho no fim, como em 'Yes, I like' — falta o objeto ou o auxiliar: 'Yes, I do' ou 'Yes, I like it'."
+        ],
+        "exemplos": [
+          [
+            "Do you like jazz? — Yes, I do.",
+            "Você gosta de jazz? — Gosto, sim."
+          ],
+          [
+            "Is the team going to win? — I think so.",
+            "O time vai ganhar? — Acho que sim."
+          ]
+        ]
+      }
+    ]
   }
 ]
