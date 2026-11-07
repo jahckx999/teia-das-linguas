@@ -1854,5 +1854,119 @@
         ]
       }
     ]
+  },
+  {
+    "id": "there-is-there-are",
+    "nivel": "A1",
+    "titulo": "There is e there are: o que tem na minha cidade",
+    "resumo": "Aprenda a dizer que algo existe ou está em algum lugar — o nosso \"tem\" — com there is, there are, negativas, perguntas e a pronúncia natural.",
+    "data": "2026-11-07",
+    "blocos": [
+      {
+        "titulo": "O \"tem\" do inglês",
+        "paragrafos": [
+          "Em português dizemos \"tem uma padaria na esquina\". Em inglês, para falar que algo existe em um lugar, não usamos have: usamos there is (para uma coisa) e there are (para várias).",
+          "There is costuma virar there's na fala. Com there are não há contração comum na escrita, mas na fala soa quase como \"ther-ar\"."
+        ],
+        "exemplos": [
+          [
+            "There's a bakery on the corner.",
+            "Tem uma padaria na esquina."
+          ],
+          [
+            "There are two parks near my house.",
+            "Tem dois parques perto da minha casa."
+          ],
+          [
+            "There is a cat in the garden.",
+            "Tem um gato no jardim."
+          ]
+        ]
+      },
+      {
+        "titulo": "Singular ou plural? Olhe para o que vem depois",
+        "paragrafos": [
+          "A escolha depende da primeira coisa da lista: there is a + singular, there are + plural. Com coisas que não se contam (water, traffic, noise), usamos there is.",
+          "Errar aqui é comum para brasileiros, porque \"tem\" não muda. Dica: se você colocar a, an ou one, é is; se colocar two, some, many, é are."
+        ],
+        "exemplos": [
+          [
+            "There is a lot of traffic today.",
+            "Tem muito trânsito hoje."
+          ],
+          [
+            "There are some good restaurants downtown.",
+            "Tem uns restaurantes bons no centro."
+          ],
+          [
+            "There's an old church in the square.",
+            "Tem uma igreja antiga na praça."
+          ]
+        ]
+      },
+      {
+        "titulo": "Negativa: não tem",
+        "paragrafos": [
+          "Para dizer que algo não existe, use there isn't (singular/incontável) e there aren't (plural). Com coisas contáveis no singular, use a ou an; com plural e incontáveis, use any.",
+          "Outra forma muito natural é there's no: \"There's no milk\" — Não tem leite."
+        ],
+        "exemplos": [
+          [
+            "There isn't a hospital in my town.",
+            "Não tem hospital na minha cidade."
+          ],
+          [
+            "There aren't any buses after midnight.",
+            "Não tem ônibus depois da meia-noite."
+          ],
+          [
+            "There's no milk in the fridge.",
+            "Não tem leite na geladeira."
+          ]
+        ]
+      },
+      {
+        "titulo": "Pergunta e resposta curta",
+        "paragrafos": [
+          "Para perguntar, inverta: Is there…? Are there…? A resposta curta repete o verbo: Yes, there is. / No, there isn't. Yes, there are. / No, there aren't.",
+          "Para perguntar quantidade, use How many… are there? — e lembre: na resposta curta afirmativa, não contraia (\"Yes, there is\", nunca \"Yes, there's\")."
+        ],
+        "exemplos": [
+          [
+            "Is there a pharmacy near here? — Yes, there is.",
+            "Tem farmácia aqui perto? — Tem, sim."
+          ],
+          [
+            "Are there any good beaches in your city? — No, there aren't.",
+            "Tem praia boa na sua cidade? — Não, não tem."
+          ],
+          [
+            "How many students are there in your class?",
+            "Quantos alunos tem na sua turma?"
+          ]
+        ]
+      },
+      {
+        "titulo": "Pratique descrevendo sua cidade",
+        "paragrafos": [
+          "Escreva cinco frases sobre o lugar onde você mora: duas com there is, duas com there are e uma negativa. Depois leia em voz alta, ligando there's como uma palavra só (\"dérz\").",
+          "Cuidado com a armadilha: \"There have a market\" está errado — o certo é \"There is a market\". Have é posse (\"I have a car\"); there is é existência."
+        ],
+        "exemplos": [
+          [
+            "There's a big market on Saturdays.",
+            "Tem uma feira grande aos sábados."
+          ],
+          [
+            "There are many trees on my street.",
+            "Tem muitas árvores na minha rua."
+          ],
+          [
+            "My city has a beautiful river.",
+            "Minha cidade tem um rio bonito."
+          ]
+        ]
+      }
+    ]
   }
 ]
