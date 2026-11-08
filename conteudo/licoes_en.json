@@ -1968,5 +1968,119 @@
         ]
       }
     ]
+  },
+  {
+    "id": "past-continuous-o-que-estava-fazendo",
+    "nivel": "A2",
+    "titulo": "Past continuous: o que eu estava fazendo quando…",
+    "resumo": "Conte cenas do passado como num filme: ações em andamento com was/were + -ing, interrupções com when e ações simultâneas com while.",
+    "data": "2026-11-08",
+    "blocos": [
+      {
+        "titulo": "O \"estava fazendo\" do inglês",
+        "paragrafos": [
+          "Quando queremos mostrar uma ação que estava em andamento num momento do passado, usamos o past continuous: was ou were + verbo com -ing. É o equivalente ao nosso \"eu estava fazendo\".",
+          "Use was com I, he, she e it; use were com you, we e they. O verbo principal sempre ganha -ing: work → working, make → making, run → running."
+        ],
+        "exemplos": [
+          [
+            "At eight o'clock, I was having breakfast.",
+            "Às oito horas, eu estava tomando café da manhã."
+          ],
+          [
+            "They were watching a movie last night.",
+            "Eles estavam assistindo a um filme ontem à noite."
+          ],
+          [
+            "It was raining all morning.",
+            "Estava chovendo a manhã toda."
+          ]
+        ]
+      },
+      {
+        "titulo": "Negativas e perguntas",
+        "paragrafos": [
+          "Para negar, acrescente not depois de was ou were. Na fala, use as contrações wasn't e weren't.",
+          "Para perguntar, inverta: was ou were vem antes do sujeito. As respostas curtas repetem o auxiliar: Yes, I was. / No, they weren't."
+        ],
+        "exemplos": [
+          [
+            "She wasn't listening to the teacher.",
+            "Ela não estava ouvindo a professora."
+          ],
+          [
+            "Were you sleeping when I called?",
+            "Você estava dormindo quando eu liguei?"
+          ],
+          [
+            "What were you doing at midnight?",
+            "O que você estava fazendo à meia-noite?"
+          ]
+        ]
+      },
+      {
+        "titulo": "When: a ação longa e a interrupção",
+        "paragrafos": [
+          "O past continuous combina muito com o past simple. A ação longa, que estava acontecendo, fica no past continuous; a ação curta, que interrompe, fica no past simple.",
+          "Pense numa cena de filme: o cenário está rolando (was walking) e de repente algo acontece (started). A palavra when costuma introduzir a ação curta."
+        ],
+        "exemplos": [
+          [
+            "I was walking home when it started to rain.",
+            "Eu estava voltando a pé para casa quando começou a chover."
+          ],
+          [
+            "When the phone rang, we were cooking dinner.",
+            "Quando o telefone tocou, nós estávamos fazendo o jantar."
+          ],
+          [
+            "He was driving to work when he saw the accident.",
+            "Ele estava dirigindo para o trabalho quando viu o acidente."
+          ]
+        ]
+      },
+      {
+        "titulo": "While: duas ações ao mesmo tempo",
+        "paragrafos": [
+          "Use while para ligar duas ações longas que aconteciam ao mesmo tempo. Nesse caso, as duas ficam no past continuous.",
+          "While também aparece com a ação longa antes de uma interrupção: While I was studying, my brother turned on the music."
+        ],
+        "exemplos": [
+          [
+            "While I was washing the dishes, my sister was doing her homework.",
+            "Enquanto eu lavava a louça, minha irmã fazia a lição de casa."
+          ],
+          [
+            "They were talking while the band was playing.",
+            "Eles estavam conversando enquanto a banda tocava."
+          ],
+          [
+            "While she was shopping, someone stole her bike.",
+            "Enquanto ela fazia compras, alguém roubou a bicicleta dela."
+          ]
+        ]
+      },
+      {
+        "titulo": "Cuidado: verbos de estado e pronúncia",
+        "paragrafos": [
+          "Verbos que descrevem estados, e não ações, quase nunca vão para o -ing: know, like, want, need, believe, own. Diga I knew the answer, e não I was knowing.",
+          "Na fala natural, was e were ficam fracos: was soa como \"wâz\" rápido e were como \"wâr\". O destaque vai para o verbo principal: I was WORKing."
+        ],
+        "exemplos": [
+          [
+            "I wanted a coffee, but the café was closing.",
+            "Eu queria um café, mas o café estava fechando."
+          ],
+          [
+            "We didn't know what was happening.",
+            "Nós não sabíamos o que estava acontecendo."
+          ],
+          [
+            "What were you thinking?",
+            "No que você estava pensando?"
+          ]
+        ]
+      }
+    ]
   }
 ]
