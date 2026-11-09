@@ -2082,5 +2082,119 @@
         ]
       }
     ]
+  },
+  {
+    "id": "reported-speech-contando-o-que-disseram",
+    "nivel": "B1",
+    "titulo": "Reported speech: contando o que os outros disseram",
+    "resumo": "Aprenda a relatar falas, perguntas e pedidos em inglês com say, tell e ask, recuando os tempos verbais quando necessário.",
+    "data": "2026-11-09",
+    "blocos": [
+      {
+        "titulo": "Say ou tell?",
+        "paragrafos": [
+          "Para relatar o que alguém disse, os verbos mais usados são say e tell. A diferença é simples: tell pede quem ouviu logo depois (tell me, tell her); say não leva a pessoa direto — se quiser incluí-la, use say to.",
+          "O 'that' depois do verbo é opcional na fala do dia a dia: She said (that) she was tired."
+        ],
+        "exemplos": [
+          [
+            "She said she was tired.",
+            "Ela disse que estava cansada."
+          ],
+          [
+            "He told me he was leaving.",
+            "Ele me disse que estava indo embora."
+          ],
+          [
+            "They said to us that the shop was closed.",
+            "Eles nos disseram que a loja estava fechada."
+          ]
+        ]
+      },
+      {
+        "titulo": "O recuo dos tempos (backshift)",
+        "paragrafos": [
+          "Quando o verbo de relato está no passado (said, told), o verbo da fala original costuma 'voltar' um tempo: present simple vira past simple, present continuous vira past continuous, present perfect e past simple viram past perfect, will vira would, can vira could.",
+          "Se o que foi dito continua verdadeiro agora, o recuo é opcional: He said he lives in Recife (ele ainda mora lá)."
+        ],
+        "exemplos": [
+          [
+            "\"I work from home.\" → She said she worked from home.",
+            "\"Eu trabalho de casa.\" → Ela disse que trabalhava de casa."
+          ],
+          [
+            "\"I have finished.\" → He said he had finished.",
+            "\"Terminei.\" → Ele disse que tinha terminado."
+          ],
+          [
+            "\"We will call you.\" → They said they would call me.",
+            "\"Vamos te ligar.\" → Disseram que iam me ligar."
+          ]
+        ]
+      },
+      {
+        "titulo": "Perguntas relatadas",
+        "paragrafos": [
+          "Para relatar perguntas, use ask (ou wonder, want to know). A pergunta perde a inversão e o auxiliar do/does/did: a ordem volta a ser sujeito + verbo.",
+          "Perguntas de sim/não ganham if ou whether; perguntas com where, what, when etc. mantêm a palavra interrogativa."
+        ],
+        "exemplos": [
+          [
+            "\"Where do you live?\" → She asked me where I lived.",
+            "\"Onde você mora?\" → Ela me perguntou onde eu morava."
+          ],
+          [
+            "\"Are you coming?\" → He asked if I was coming.",
+            "\"Você vem?\" → Ele perguntou se eu vinha."
+          ],
+          [
+            "\"Did you see the email?\" → My boss wanted to know whether I had seen the email.",
+            "\"Você viu o e-mail?\" → Meu chefe quis saber se eu tinha visto o e-mail."
+          ]
+        ]
+      },
+      {
+        "titulo": "Pedidos e ordens",
+        "paragrafos": [
+          "Pedidos e ordens são relatados com tell ou ask + pessoa + to + verbo no infinitivo. Para a forma negativa, coloque not antes de to.",
+          "Outros verbos de relato deixam o sentido mais preciso: advise (aconselhar), remind (lembrar), warn (avisar), promise (prometer), refuse (recusar)."
+        ],
+        "exemplos": [
+          [
+            "\"Please close the door.\" → She asked me to close the door.",
+            "\"Feche a porta, por favor.\" → Ela me pediu para fechar a porta."
+          ],
+          [
+            "\"Don't touch it!\" → He told us not to touch it.",
+            "\"Não toque nisso!\" → Ele nos disse para não tocar nisso."
+          ],
+          [
+            "The doctor advised me to rest for a few days.",
+            "O médico me aconselhou a descansar por alguns dias."
+          ]
+        ]
+      },
+      {
+        "titulo": "Ajustes de tempo e lugar",
+        "paragrafos": [
+          "Ao relatar algo dito em outro momento, palavras de tempo e lugar também mudam: today → that day, tomorrow → the next day, yesterday → the day before, here → there, this → that, now → then.",
+          "Dica prática: pense sempre no ponto de vista de quem está contando, e não de quem falou originalmente."
+        ],
+        "exemplos": [
+          [
+            "\"I'll see you tomorrow.\" → He said he would see me the next day.",
+            "\"Te vejo amanhã.\" → Ele disse que me veria no dia seguinte."
+          ],
+          [
+            "\"I'm busy now.\" → She said she was busy then.",
+            "\"Estou ocupada agora.\" → Ela disse que estava ocupada naquele momento."
+          ],
+          [
+            "\"We met here yesterday.\" → They said they had met there the day before.",
+            "\"Nos conhecemos aqui ontem.\" → Disseram que tinham se conhecido lá no dia anterior."
+          ]
+        ]
+      }
+    ]
   }
 ]
