@@ -2196,5 +2196,123 @@
         ]
       }
     ]
+  },
+  {
+    "id": "gerundio-ou-infinitivo-muda-sentido",
+    "nivel": "B2",
+    "titulo": "Gerúndio ou infinitivo: quando a escolha muda o sentido",
+    "resumo": "Stop, remember, forget, try e regret mudam de significado conforme vêm com -ing ou com to + verbo. Veja a lógica por trás e nunca mais confunda.",
+    "data": "2026-11-10",
+    "blocos": [
+      {
+        "titulo": "A regra de ouro: -ing olha para trás, to olha para frente",
+        "paragrafos": [
+          "Com vários verbos, o gerúndio (-ing) fala de uma ação que já aconteceu ou que já estava em andamento. O infinitivo (to + verbo) aponta para uma ação que ainda vai acontecer, um propósito ou uma tarefa.",
+          "Guarde essa ideia: quase todas as diferenças desta lição saem dela."
+        ],
+        "exemplos": [
+          [
+            "I remember locking the door.",
+            "Eu me lembro de ter trancado a porta. (já tranquei)"
+          ],
+          [
+            "Remember to lock the door.",
+            "Lembre-se de trancar a porta. (ainda vai trancar)"
+          ]
+        ]
+      },
+      {
+        "titulo": "Stop: parar de ou parar para",
+        "paragrafos": [
+          "Stop + -ing significa abandonar uma atividade: parar de fazer algo.",
+          "Stop + to significa interromper o que se fazia para fazer outra coisa: o infinitivo mostra o propósito da parada."
+        ],
+        "exemplos": [
+          [
+            "She stopped smoking two years ago.",
+            "Ela parou de fumar há dois anos."
+          ],
+          [
+            "We stopped to buy some water.",
+            "Paramos para comprar água."
+          ],
+          [
+            "Stop complaining and help me!",
+            "Pare de reclamar e me ajude!"
+          ]
+        ]
+      },
+      {
+        "titulo": "Remember e forget: memória ou tarefa",
+        "paragrafos": [
+          "Remember/forget + -ing tratam de uma lembrança de algo vivido. Forget + -ing aparece muito na negativa: I'll never forget...",
+          "Remember/forget + to tratam de uma obrigação: lembrar ou esquecer de fazer algo que era preciso fazer."
+        ],
+        "exemplos": [
+          [
+            "I'll never forget seeing the sea for the first time.",
+            "Nunca vou esquecer de ter visto o mar pela primeira vez."
+          ],
+          [
+            "He forgot to call his mother.",
+            "Ele esqueceu de ligar para a mãe."
+          ],
+          [
+            "Do you remember meeting him at the party?",
+            "Você se lembra de tê-lo conhecido na festa?"
+          ]
+        ]
+      },
+      {
+        "titulo": "Try e regret: experimentar ou esforçar-se; lamentar ou comunicar",
+        "paragrafos": [
+          "Try + -ing é experimentar uma solução para ver se funciona. Try + to é esforçar-se para conseguir algo difícil.",
+          "Regret + -ing é arrepender-se de algo que se fez. Regret + to é uma forma formal de dar uma má notícia: lamentamos informar."
+        ],
+        "exemplos": [
+          [
+            "Try restarting the computer.",
+            "Experimente reiniciar o computador."
+          ],
+          [
+            "I tried to open the window, but it was stuck.",
+            "Tentei abrir a janela, mas estava emperrada."
+          ],
+          [
+            "I regret telling him the truth.",
+            "Eu me arrependo de ter contado a verdade a ele."
+          ],
+          [
+            "We regret to inform you that the flight is cancelled.",
+            "Lamentamos informar que o voo foi cancelado."
+          ]
+        ]
+      },
+      {
+        "titulo": "Pratique: escolha a forma certa",
+        "paragrafos": [
+          "Leia cada frase e pense: a ação já aconteceu (use -ing) ou ainda vai acontecer / é um objetivo (use to)?",
+          "Dica de brasileiro: quando em português couber 'de ter feito', a forma em inglês costuma ser -ing; quando couber 'para' ou 'de fazer (tarefa)', costuma ser to."
+        ],
+        "exemplos": [
+          [
+            "On the way home, I stopped to get petrol.",
+            "No caminho de casa, parei para abastecer."
+          ],
+          [
+            "Don't forget to bring your passport.",
+            "Não se esqueça de trazer o passaporte."
+          ],
+          [
+            "She remembers living in Lisbon as a child.",
+            "Ela se lembra de ter morado em Lisboa quando criança."
+          ],
+          [
+            "If the soup is bland, try adding some salt.",
+            "Se a sopa estiver sem gosto, experimente pôr um pouco de sal."
+          ]
+        ]
+      }
+    ]
   }
 ]
