@@ -2314,5 +2314,111 @@
         ]
       }
     ]
+  },
+  {
+    "id": "concessao-contraste-although-despite-whereas",
+    "nivel": "C1",
+    "titulo": "Concessão e contraste: although, despite, whereas e companhia",
+    "resumo": "Aprenda a contrapor ideias como um falante avançado: a diferença entre conectores que pedem oração, os que pedem substantivo e os que ligam frases inteiras.",
+    "data": "2026-11-11",
+    "blocos": [
+      {
+        "titulo": "Primeiro, a gramática por trás: oração ou substantivo?",
+        "paragrafos": [
+          "O erro mais comum no nível avançado não é de vocabulário, é de estrutura. Although, even though e though são conjunções: depois delas vem uma oração completa, com sujeito e verbo.",
+          "Despite e in spite of são preposições: depois delas vem um substantivo, um pronome ou um verbo com -ing. Nunca diga \"despite it rained\"; diga \"despite the rain\" ou \"despite it raining\"."
+        ],
+        "exemplos": [
+          [
+            "Although the project petered out, we learned a lot.",
+            "Embora o projeto tenha ido minguando, aprendemos muito."
+          ],
+          [
+            "Despite the delay, they managed to finalise the deal.",
+            "Apesar do atraso, eles conseguiram fechar o negócio."
+          ],
+          [
+            "In spite of having lost the first round, she didn't give up.",
+            "Apesar de ter perdido a primeira rodada, ela não desistiu."
+          ]
+        ]
+      },
+      {
+        "titulo": "Despite the fact that: a ponte entre os dois",
+        "paragrafos": [
+          "Quando você começou com despite mas quer continuar com uma oração inteira, use despite the fact that. É mais longo e mais formal, mas resolve o problema sem reescrever a frase.",
+          "Even though é mais enfático que although: soa como \"mesmo que de fato\". Though, no fim da frase, é coloquial e funciona como \"mas, ainda assim\"."
+        ],
+        "exemplos": [
+          [
+            "Despite the fact that he overstated the risks, the board agreed.",
+            "Apesar de ele ter exagerado os riscos, o conselho concordou."
+          ],
+          [
+            "Even though I tinkered with the engine all day, it still won't start.",
+            "Mesmo tendo mexido no motor o dia inteiro, ele ainda não pega."
+          ],
+          [
+            "The hotel was expensive. The view was amazing, though.",
+            "O hotel era caro. A vista era incrível, porém."
+          ]
+        ]
+      },
+      {
+        "titulo": "Whereas e while: contraste lado a lado",
+        "paragrafos": [
+          "Whereas e while comparam dois fatos verdadeiros que se opõem, sem a ideia de surpresa que although carrega. São muito usados em textos acadêmicos e relatórios.",
+          "While também significa \"enquanto\" no sentido de tempo, então o contexto decide. Em textos formais, whereas evita a ambiguidade."
+        ],
+        "exemplos": [
+          [
+            "My brother bickers about everything, whereas my sister avoids conflict.",
+            "Meu irmão discute por tudo, ao passo que minha irmã evita conflitos."
+          ],
+          [
+            "While some companies restock weekly, others do it once a month.",
+            "Enquanto algumas empresas repõem o estoque toda semana, outras fazem isso uma vez por mês."
+          ]
+        ]
+      },
+      {
+        "titulo": "Nevertheless, however, nonetheless: ligando frases inteiras",
+        "paragrafos": [
+          "However, nevertheless e nonetheless são advérbios de ligação: não unem duas orações numa só frase. Eles abrem a segunda frase (ou vêm depois de ponto e vírgula) e são seguidos de vírgula.",
+          "Nevertheless e nonetheless são mais formais e reforçam a ideia de \"mesmo assim\". However é neutro e serve para quase tudo."
+        ],
+        "exemplos": [
+          [
+            "The plan was foiled at the last minute. Nevertheless, the team stayed calm.",
+            "O plano foi frustrado no último minuto. Mesmo assim, a equipe manteve a calma."
+          ],
+          [
+            "Prices have risen; however, demand has not languished.",
+            "Os preços subiram; no entanto, a demanda não definhou."
+          ],
+          [
+            "It was a risky move. It paid off nonetheless.",
+            "Era uma jogada arriscada. Deu certo, apesar de tudo."
+          ]
+        ]
+      },
+      {
+        "titulo": "Dica de professor: varie para soar natural",
+        "paragrafos": [
+          "Textos de nível C1 alternam conectores em vez de repetir but o tempo todo. Uma boa prática é reescrever um parágrafo seu trocando cada but por um conector diferente, ajustando a estrutura conforme a regra da oração ou do substantivo.",
+          "Teste rápido: se depois do conector vem sujeito + verbo, você precisa de although ou even though. Se vem substantivo ou -ing, você precisa de despite ou in spite of."
+        ],
+        "exemplos": [
+          [
+            "She shirked the meeting, but she sent a report. → Although she shirked the meeting, she sent a report.",
+            "Ela fugiu da reunião, mas mandou um relatório. → Embora tenha fugido da reunião, ela mandou um relatório."
+          ],
+          [
+            "Despite disconcerting the audience, his speech was a success.",
+            "Apesar de ter desconcertado a plateia, o discurso dele foi um sucesso."
+          ]
+        ]
+      }
+    ]
   }
 ]
