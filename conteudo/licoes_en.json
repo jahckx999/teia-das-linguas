@@ -2420,5 +2420,107 @@
         ]
       }
     ]
+  },
+  {
+    "id": "nominalizacao-estilo-academico",
+    "nivel": "C2",
+    "titulo": "Nominalização: transformar verbos em substantivos para soar acadêmico",
+    "resumo": "Por que textos formais em inglês preferem \"the reestablishment of trust\" a \"they reestablished trust\" — e como usar (e não abusar de) esse recurso.",
+    "data": "2026-11-12",
+    "blocos": [
+      {
+        "titulo": "O que é nominalização",
+        "paragrafos": [
+          "Nominalizar é transformar uma ação (verbo) em uma coisa (substantivo). Em vez de dizer quem fez o quê, você apresenta o processo como um objeto que pode ser analisado, comparado e avaliado.",
+          "É a marca registrada de artigos científicos, relatórios, editoriais e textos jurídicos. Um texto C2 alterna com naturalidade entre o estilo verbal (mais vivo) e o nominal (mais denso e impessoal)."
+        ],
+        "exemplos": [
+          [
+            "The government annexed the region in 1940. → The annexation of the region in 1940...",
+            "O governo anexou a região em 1940. → A anexação da região em 1940..."
+          ],
+          [
+            "They standardized the tests. → The standardization of the tests...",
+            "Eles padronizaram as provas. → A padronização das provas..."
+          ],
+          [
+            "Prices rocketed, which alarmed investors. → The rocketing of prices alarmed investors.",
+            "Os preços dispararam, o que assustou os investidores. → A disparada dos preços assustou os investidores."
+          ]
+        ]
+      },
+      {
+        "titulo": "Os sufixos que fazem o trabalho",
+        "paragrafos": [
+          "A maioria das nominalizações usa sufixos previsíveis: -tion/-sion (immigrate → immigration, allude → allusion), -ment (reestablish → reestablishment, impeach → impeachment), -al (recuse → recusal) e -ance/-ence (abhor → abhorrence).",
+          "Alguns verbos viram substantivo sem mudar nada: discount, riot, stampede, recount, prod. Outros têm formas menos óbvias, que vale decorar: construe → construal, symbolise → symbolism, neutralise → neutralisation."
+        ],
+        "exemplos": [
+          [
+            "The recusal of the judge delayed the trial.",
+            "O afastamento do juiz atrasou o julgamento."
+          ],
+          [
+            "Her abhorrence of injustice shaped her career.",
+            "A aversão dela à injustiça moldou sua carreira."
+          ],
+          [
+            "A narrow construal of the law would exclude these cases.",
+            "Uma interpretação restrita da lei excluiria esses casos."
+          ]
+        ]
+      },
+      {
+        "titulo": "Por que os escritores formais adoram isso",
+        "paragrafos": [
+          "Primeiro, impessoalidade: a nominalização esconde o agente. \"The weaponization of social media\" não precisa dizer quem fez isso — útil quando o agente é difuso ou politicamente sensível.",
+          "Segundo, densidade: um substantivo pode virar sujeito de outra frase, o que encadeia ideias. \"The triangulation of sources increases reliability\" condensa uma oração inteira num sujeito compacto."
+        ],
+        "exemplos": [
+          [
+            "The weaponization of misinformation has become a global concern.",
+            "O uso da desinformação como arma tornou-se uma preocupação global."
+          ],
+          [
+            "Careful triangulation of sources increases the reliability of findings.",
+            "O cruzamento cuidadoso de fontes aumenta a confiabilidade dos resultados."
+          ]
+        ]
+      },
+      {
+        "titulo": "Verbos fracos + substantivo: make, give, take, carry out",
+        "paragrafos": [
+          "A nominalização muitas vezes vem acompanhada de um verbo \"leve\": make a decision (decide), give an explanation (explain), carry out an investigation (investigate), make an allusion (allude).",
+          "Atenção à colocação: é make a decision, não do a decision; take a decision existe no inglês britânico. Errar o verbo leve denuncia o não nativo mesmo em textos impecáveis."
+        ],
+        "exemplos": [
+          [
+            "The committee will carry out a review of the policy.",
+            "O comitê vai realizar uma revisão da política."
+          ],
+          [
+            "He made a veiled allusion to the scandal.",
+            "Ele fez uma alusão velada ao escândalo."
+          ]
+        ]
+      },
+      {
+        "titulo": "O perigo: o estilo \"zumbi\"",
+        "paragrafos": [
+          "Nominalização em excesso gera frases pesadas e vagas, as chamadas \"zombie nouns\". \"The implementation of the standardization of procedures led to the facilitation of growth\" não diz quem fez nada e cansa o leitor.",
+          "A regra de ouro no nível C2: nominalize quando o processo for o verdadeiro tema da frase; volte ao verbo quando quiser clareza e ritmo. Escrever bem é saber alternar."
+        ],
+        "exemplos": [
+          [
+            "Zumbi: The bungling of the launch resulted in the loss of clients.",
+            "Pesado: O mau gerenciamento do lançamento resultou na perda de clientes."
+          ],
+          [
+            "Claro: The team bungled the launch and lost clients.",
+            "Direto: A equipe estragou o lançamento e perdeu clientes."
+          ]
+        ]
+      }
+    ]
   }
 ]
