@@ -2522,5 +2522,119 @@
         ]
       }
     ]
+  },
+  {
+    "id": "imperativo-instrucoes-e-direcoes",
+    "nivel": "A1",
+    "titulo": "Imperativo: dando instruções, conselhos e direções",
+    "resumo": "Aprenda a dar ordens educadas, instruções e direções na rua com o imperativo — open, turn left, don't worry, let's go — e como soar gentil, não mandão.",
+    "data": "2026-11-13",
+    "blocos": [
+      {
+        "titulo": "O verbo puro manda o recado",
+        "paragrafos": [
+          "O imperativo em inglês é o tempo verbal mais fácil que existe: é só o verbo no infinitivo, sem \"to\" e sem sujeito. Open the door. Sit down. Listen. Não importa se você fala com uma pessoa ou com várias — a forma é sempre a mesma.",
+          "Em português mudamos o verbo (abra, abram, abre). Em inglês, não: o contexto e o tom de voz fazem todo o trabalho."
+        ],
+        "exemplos": [
+          [
+            "Open your books, please.",
+            "Abram os livros, por favor."
+          ],
+          [
+            "Sit down and relax.",
+            "Sente-se e relaxe."
+          ],
+          [
+            "Wait here.",
+            "Espere aqui."
+          ]
+        ]
+      },
+      {
+        "titulo": "Negativo: don't + verbo",
+        "paragrafos": [
+          "Para dizer o que a pessoa não deve fazer, coloque don't antes do verbo. Don't touch. Don't be late. Repare que até o verbo be segue a regra: don't be, nunca \"don't are\".",
+          "Na fala, don't soa como \"dôunt\", com o t final quase sumindo antes de consoante: \"dôun(t) worry\"."
+        ],
+        "exemplos": [
+          [
+            "Don't worry, it's fine.",
+            "Não se preocupe, está tudo bem."
+          ],
+          [
+            "Don't be late tomorrow.",
+            "Não se atrase amanhã."
+          ],
+          [
+            "Don't forget your keys.",
+            "Não esqueça as chaves."
+          ]
+        ]
+      },
+      {
+        "titulo": "Pedindo e indicando o caminho",
+        "paragrafos": [
+          "O imperativo é a língua das direções. Os verbos mais usados são go, turn, take, cross e stop. Go straight (siga reto), turn left/right (vire à esquerda/direita), take the second street (pegue a segunda rua), cross the street (atravesse a rua).",
+          "Para perguntar, use uma frase educada antes: Excuse me, how do I get to the station? A resposta quase sempre virá no imperativo."
+        ],
+        "exemplos": [
+          [
+            "Go straight and turn left at the bank.",
+            "Siga reto e vire à esquerda no banco."
+          ],
+          [
+            "Take the second street on the right.",
+            "Pegue a segunda rua à direita."
+          ],
+          [
+            "Cross the street and the museum is there.",
+            "Atravesse a rua e o museu fica ali."
+          ]
+        ]
+      },
+      {
+        "titulo": "Let's: o convite que inclui você",
+        "paragrafos": [
+          "Let's (let us) + verbo transforma a ordem em convite: vamos fazer algo juntos. Let's go. Let's eat. No negativo: let's not, como em let's not wait.",
+          "É uma ótima forma de sugerir algo sem parecer mandão — você também participa da ação."
+        ],
+        "exemplos": [
+          [
+            "Let's go to the beach on Sunday.",
+            "Vamos à praia no domingo."
+          ],
+          [
+            "Let's start the class.",
+            "Vamos começar a aula."
+          ],
+          [
+            "Let's not talk about work now.",
+            "Vamos não falar de trabalho agora."
+          ]
+        ]
+      },
+      {
+        "titulo": "Soando gentil (e não grosseiro)",
+        "paragrafos": [
+          "Um imperativo seco pode soar rude para um falante nativo. Para suavizar, acrescente please (no início ou no fim), just ou um tom de voz amigável: Please call me later. Just give me a minute.",
+          "Para conselhos e boas-vindas, o imperativo é natural e simpático: Have a nice day! Come in! Help yourself! (Sirva-se!) Take care! (Se cuida!)"
+        ],
+        "exemplos": [
+          [
+            "Please call me when you arrive.",
+            "Por favor, me ligue quando chegar."
+          ],
+          [
+            "Come in and make yourself at home.",
+            "Entre e fique à vontade."
+          ],
+          [
+            "Have a nice weekend!",
+            "Tenha um ótimo fim de semana!"
+          ]
+        ]
+      }
+    ]
   }
 ]
