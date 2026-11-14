@@ -2636,5 +2636,119 @@
         ]
       }
     ]
+  },
+  {
+    "id": "have-to-must-should-obrigacoes-conselhos",
+    "nivel": "A2",
+    "titulo": "Have to, must e should: obrigações, regras e conselhos",
+    "resumo": "Entenda a diferença entre have to, must e should — e o detalhe que pega todo brasileiro: don't have to não é proibição, é \"não precisa\".",
+    "data": "2026-11-14",
+    "blocos": [
+      {
+        "titulo": "Have to: a obrigação que vem de fora",
+        "paragrafos": [
+          "Have to é o jeito mais comum de falar de obrigação no dia a dia. Use quando a regra vem de fora: do chefe, da escola, da lei, do horário. Com he, she e it vira has to.",
+          "Na fala, have to costuma soar como \"háf-tu\" e has to como \"rás-tu\" — o v e o s ficam mais secos antes do to."
+        ],
+        "exemplos": [
+          [
+            "I have to work on Saturday.",
+            "Eu tenho que trabalhar no sábado."
+          ],
+          [
+            "She has to wear a uniform at school.",
+            "Ela tem que usar uniforme na escola."
+          ],
+          [
+            "Do you have to pay for parking here?",
+            "Você tem que pagar estacionamento aqui?"
+          ]
+        ]
+      },
+      {
+        "titulo": "Must: regra escrita ou decisão pessoal forte",
+        "paragrafos": [
+          "Must é mais forte e mais formal. Aparece muito em placas, regulamentos e avisos. Na conversa, usamos must quando a obrigação vem de dentro: é você quem decide que é importante.",
+          "Must não muda com he/she/it e não leva to: she must go, nunca \"she musts\" ou \"must to go\"."
+        ],
+        "exemplos": [
+          [
+            "Passengers must show their tickets.",
+            "Os passageiros devem apresentar a passagem."
+          ],
+          [
+            "I must call my mother tonight.",
+            "Preciso ligar para minha mãe hoje à noite (eu mesmo decidi)."
+          ],
+          [
+            "You must be 18 to enter.",
+            "É preciso ter 18 anos para entrar."
+          ]
+        ]
+      },
+      {
+        "titulo": "A armadilha: mustn't × don't have to",
+        "paragrafos": [
+          "No afirmativo, have to e must são quase iguais. No negativo, eles se separam completamente! Mustn't significa proibido: não faça. Don't have to significa não é necessário: faça se quiser.",
+          "Pense assim: mustn't fecha a porta; don't have to deixa a porta aberta."
+        ],
+        "exemplos": [
+          [
+            "You mustn't smoke in the hospital.",
+            "É proibido fumar no hospital."
+          ],
+          [
+            "You don't have to come, but you're welcome.",
+            "Você não precisa vir, mas é bem-vindo."
+          ],
+          [
+            "We don't have to wake up early tomorrow — it's a holiday!",
+            "Não precisamos acordar cedo amanhã — é feriado!"
+          ]
+        ]
+      },
+      {
+        "titulo": "Should: o conselho de amigo",
+        "paragrafos": [
+          "Should não é obrigação, é recomendação: \"deveria\". Use para dar conselhos e opiniões. O negativo shouldn't diz que algo não é boa ideia.",
+          "Para pedir conselho, inverta: Should I…? (Devo…? / Será que eu deveria…?). O l de should é mudo: soa \"xud\"."
+        ],
+        "exemplos": [
+          [
+            "You should drink more water.",
+            "Você deveria beber mais água."
+          ],
+          [
+            "He shouldn't drive when he's tired.",
+            "Ele não deveria dirigir quando está cansado."
+          ],
+          [
+            "Should I bring something to the party?",
+            "Devo levar alguma coisa para a festa?"
+          ]
+        ]
+      },
+      {
+        "titulo": "No passado: had to",
+        "paragrafos": [
+          "Must não tem passado próprio. Para obrigações no passado, use had to para todas as pessoas, e didn't have to para o que não foi necessário.",
+          "Prática rápida: conte três coisas que você teve que fazer ontem e uma que não precisou fazer."
+        ],
+        "exemplos": [
+          [
+            "I had to take the bus because my car broke down.",
+            "Tive que pegar ônibus porque meu carro quebrou."
+          ],
+          [
+            "We didn't have to wait — the doctor saw us right away.",
+            "Não precisamos esperar — o médico nos atendeu na hora."
+          ],
+          [
+            "Did you have to study a lot for the test?",
+            "Você teve que estudar muito para a prova?"
+          ]
+        ]
+      }
+    ]
   }
 ]
