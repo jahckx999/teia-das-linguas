@@ -2750,5 +2750,98 @@
         ]
       }
     ]
+  },
+  {
+    "id": "oracoes-relativas-who-which-that-where",
+    "nivel": "B1",
+    "titulo": "Orações relativas: who, which, that, where e whose",
+    "resumo": "Aprenda a juntar frases e descrever pessoas, coisas e lugares sem repetir palavras — e descubra quando dá para sumir com o pronome.",
+    "data": "2026-11-15",
+    "blocos": [
+      {
+        "titulo": "Who e which: pessoas e coisas",
+        "paragrafos": [
+          "As orações relativas funcionam como o nosso \"que\" e \"quem\": elas dão mais informação sobre um substantivo. Em inglês, a escolha do pronome depende do que você está descrevendo.",
+          "Use who para pessoas e which para coisas e animais. Em português usamos \"que\" para tudo, por isso o brasileiro costuma trocar: \"the man which...\" soa errado para um nativo."
+        ],
+        "exemplos": [
+          [
+            "The woman who lives next door is a nurse.",
+            "A mulher que mora ao lado é enfermeira."
+          ],
+          [
+            "I lost the book which you lent me.",
+            "Perdi o livro que você me emprestou."
+          ],
+          [
+            "He's the teacher who helped me pass the exam.",
+            "Ele é o professor que me ajudou a passar na prova."
+          ]
+        ]
+      },
+      {
+        "titulo": "That: o curinga do dia a dia",
+        "paragrafos": [
+          "Na conversa, that substitui who e which na maioria das frases. É mais curto e mais natural no inglês falado.",
+          "Atenção: that não aparece depois de vírgula. Quando a informação é extra (entre vírgulas), use who ou which."
+        ],
+        "exemplos": [
+          [
+            "This is the song that made her famous.",
+            "Esta é a música que a deixou famosa."
+          ],
+          [
+            "Do you know anyone that speaks Japanese?",
+            "Você conhece alguém que fale japonês?"
+          ],
+          [
+            "My car, which is ten years old, still runs perfectly.",
+            "Meu carro, que tem dez anos, ainda funciona perfeitamente."
+          ]
+        ]
+      },
+      {
+        "titulo": "Where e whose: lugares e posse",
+        "paragrafos": [
+          "Where indica lugar e equivale a \"onde\" ou \"em que\". Whose indica posse e equivale a \"cujo\" — só que em inglês ele é muito mais comum do que \"cujo\" em português.",
+          "Dica: whose não muda com gênero ou número. Serve para cujo, cuja, cujos e cujas."
+        ],
+        "exemplos": [
+          [
+            "That's the restaurant where we met.",
+            "Aquele é o restaurante onde nos conhecemos."
+          ],
+          [
+            "I have a friend whose father is a pilot.",
+            "Tenho um amigo cujo pai é piloto."
+          ],
+          [
+            "She works in a city where it rains every day.",
+            "Ela trabalha numa cidade onde chove todo dia."
+          ]
+        ]
+      },
+      {
+        "titulo": "Quando o pronome some",
+        "paragrafos": [
+          "Se o pronome relativo é o objeto do verbo seguinte (não o sujeito), você pode simplesmente apagá-lo. Os nativos fazem isso o tempo todo.",
+          "Teste rápido: depois do pronome vem outro sujeito (I, you, she...)? Então pode apagar. Se vem direto um verbo, o pronome é obrigatório."
+        ],
+        "exemplos": [
+          [
+            "The movie (that) we watched was boring.",
+            "O filme que assistimos foi chato."
+          ],
+          [
+            "Is this the jacket (which) you wanted?",
+            "É esta a jaqueta que você queria?"
+          ],
+          [
+            "The man who called you is here.",
+            "O homem que te ligou está aqui (aqui o who não pode sumir)."
+          ]
+        ]
+      }
+    ]
   }
 ]
