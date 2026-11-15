@@ -53,6 +53,7 @@ def pagina(caminho, titulo, descricao, corpo, raiz, atual="", scripts=(), extra_
 {extra_head}{ld}
 <script src="{raiz}assets/config.js"></script>
 <script src="{raiz}assets/nucleo.js" defer></script>{sc}
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6152672467202667" crossorigin="anonymous"></script>
 </head>
 <body data-idioma="{idioma_corpo}">
 <a class="sr" href="#principal">Pular para o conteúdo</a>

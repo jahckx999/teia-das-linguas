@@ -123,9 +123,11 @@
     }
     const ads = c.adsense || {};
     if (ads.ativo && /^ca-pub-\d{10,}$/.test(ads.publisher || "")) {
-      const s = document.createElement("script"); s.async = true; s.crossOrigin = "anonymous";
-      s.src = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=" + ads.publisher;
-      document.head.appendChild(s);
+      if (!document.querySelector('script[src*="adsbygoogle.js"]')) {
+        const s = document.createElement("script"); s.async = true; s.crossOrigin = "anonymous";
+        s.src = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=" + ads.publisher;
+        document.head.appendChild(s);
+      }
       document.querySelectorAll(".anuncio[data-slot]").forEach(div => {
         const slot = ads["slot_" + div.dataset.slot]; if (!slot) return;
         div.innerHTML = '<ins class="adsbygoogle" style="display:block" data-ad-client="' + ads.publisher + '" data-ad-slot="' + slot + '" data-ad-format="auto" data-full-width-responsive="true"></ins>';
