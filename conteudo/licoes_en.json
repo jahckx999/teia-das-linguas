@@ -2843,5 +2843,119 @@
         ]
       }
     ]
+  },
+  {
+    "id": "future-continuous-future-perfect",
+    "nivel": "B2",
+    "titulo": "Future continuous e future perfect: olhando para o futuro com precisão",
+    "resumo": "Diga o que você estará fazendo num momento futuro e o que já terá terminado até lá — duas ferramentas que deixam planos, prazos e previsões muito mais naturais.",
+    "data": "2026-11-16",
+    "blocos": [
+      {
+        "titulo": "Future continuous: a cena em andamento no futuro",
+        "paragrafos": [
+          "O future continuous (will be + verbo com -ing) descreve uma ação que estará acontecendo em um momento específico do futuro. É como tirar uma foto do futuro e ver você no meio da atividade.",
+          "Em português usamos \"estarei fazendo\" ou \"vou estar fazendo\". A estrutura é a mesma ideia: o foco está no processo, não no fim."
+        ],
+        "exemplos": [
+          [
+            "This time tomorrow, I'll be flying to Lisbon.",
+            "Amanhã a esta hora, estarei voando para Lisboa."
+          ],
+          [
+            "Don't call at eight — we'll be having dinner.",
+            "Não ligue às oito — estaremos jantando."
+          ],
+          [
+            "In ten years, most people will be working from home at least part of the week.",
+            "Daqui a dez anos, a maioria das pessoas estará trabalhando de casa pelo menos parte da semana."
+          ]
+        ]
+      },
+      {
+        "titulo": "O uso educado: perguntando sobre planos",
+        "paragrafos": [
+          "Um uso que poucos cursos ensinam: o future continuous soa mais delicado quando você pergunta sobre os planos de alguém. \"Will you be using the car tonight?\" pergunta apenas o que já está previsto, sem soar como um pedido direto.",
+          "Compare com \"Will you lend me the car?\", que é um pedido. Com o -ing, você só sonda a situação antes de pedir."
+        ],
+        "exemplos": [
+          [
+            "Will you be joining us for the meeting on Friday?",
+            "Você vai participar da reunião com a gente na sexta?"
+          ],
+          [
+            "Will you be needing anything else, sir?",
+            "O senhor vai precisar de mais alguma coisa?"
+          ],
+          [
+            "I'll be passing the pharmacy anyway, so I can pick it up for you.",
+            "Vou passar pela farmácia de qualquer jeito, então posso pegar para você."
+          ]
+        ]
+      },
+      {
+        "titulo": "Future perfect: o que já terá acontecido",
+        "paragrafos": [
+          "O future perfect (will have + particípio) olha para um ponto no futuro e diz que, até lá, algo já estará concluído. É o \"terei feito\" do português.",
+          "Ele quase sempre vem com uma marca de prazo: by Friday (até sexta), by the time (quando/até o momento em que), by 2030, before you arrive."
+        ],
+        "exemplos": [
+          [
+            "By the end of the month, I'll have finished the report.",
+            "Até o fim do mês, terei terminado o relatório."
+          ],
+          [
+            "By the time you get here, the film will have started.",
+            "Quando você chegar, o filme já terá começado."
+          ],
+          [
+            "She will have saved enough money to travel by June.",
+            "Até junho, ela terá economizado dinheiro suficiente para viajar."
+          ]
+        ]
+      },
+      {
+        "titulo": "Future perfect continuous: quanto tempo até lá",
+        "paragrafos": [
+          "Quando você quer destacar a duração de algo que continua até um ponto futuro, use will have been + -ing. É perfeito para aniversários de emprego, tempo de estudo ou de espera.",
+          "Em português costumamos dizer \"vai fazer X anos que...\". Em inglês, a frase fica compacta e muito natural."
+        ],
+        "exemplos": [
+          [
+            "In March, I'll have been working here for five years.",
+            "Em março, vai fazer cinco anos que trabalho aqui."
+          ],
+          [
+            "By 6 p.m., they'll have been driving for ten hours.",
+            "Às seis da tarde, eles estarão dirigindo há dez horas."
+          ],
+          [
+            "Next year we'll have been living in this city for a decade.",
+            "Ano que vem vai fazer uma década que moramos nesta cidade."
+          ]
+        ]
+      },
+      {
+        "titulo": "Armadilha clássica: by the time + presente",
+        "paragrafos": [
+          "Depois de by the time, when, before e after, o inglês usa o presente simples, mesmo falando do futuro. Nunca diga \"by the time you will arrive\".",
+          "Dica rápida: o will fica só na oração principal. A oração do tempo fica no presente, como em português no subjuntivo (\"quando você chegar\")."
+        ],
+        "exemplos": [
+          [
+            "By the time she arrives, we'll have cleaned the house.",
+            "Quando ela chegar, já teremos limpado a casa."
+          ],
+          [
+            "I'll call you when I've landed.",
+            "Eu te ligo quando tiver pousado."
+          ],
+          [
+            "Before you know it, you'll have learned all these tenses.",
+            "Quando você menos esperar, já terá aprendido todos esses tempos."
+          ]
+        ]
+      }
+    ]
   }
 ]
