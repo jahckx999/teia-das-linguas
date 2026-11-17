@@ -2957,5 +2957,127 @@
         ]
       }
     ]
+  },
+  {
+    "id": "causa-consequencia-owing-to-hence-thereby",
+    "nivel": "C1",
+    "titulo": "Causa e consequência: owing to, hence, thereby e consequently",
+    "resumo": "Vá além de because e so: conectores formais que mostram por que algo aconteceu e o que resultou disso, deixando seus textos e falas profissionais mais precisos.",
+    "data": "2026-11-17",
+    "blocos": [
+      {
+        "titulo": "Owing to, due to e on account of: causa com substantivo",
+        "paragrafos": [
+          "Estes conectores significam 'por causa de' e vêm seguidos de um substantivo ou de uma forma com -ing, nunca de uma oração completa com sujeito e verbo. Pense: owing to + the delay, e não owing to + it was late.",
+          "Due to é muito comum depois do verbo be (The delay was due to the storm). Owing to soa um pouco mais formal e costuma abrir a frase. On account of aparece em textos oficiais e avisos.",
+          "Dica de professor: se você quiser usar uma oração inteira, troque por because ou since. Owing to the fact that existe, mas é pesado — use com moderação."
+        ],
+        "exemplos": [
+          [
+            "The flight was cancelled owing to heavy fog.",
+            "O voo foi cancelado por causa da neblina forte."
+          ],
+          [
+            "Her absence was due to a family emergency.",
+            "A ausência dela se deveu a uma emergência familiar."
+          ],
+          [
+            "The museum is closed on account of renovation work.",
+            "O museu está fechado por conta de obras de reforma."
+          ],
+          [
+            "Owing to rising costs, the company had to postpone the project.",
+            "Devido ao aumento dos custos, a empresa teve que adiar o projeto."
+          ]
+        ]
+      },
+      {
+        "titulo": "Consequently, as a result e therefore: abrindo a consequência",
+        "paragrafos": [
+          "Estes advérbios ligam duas ideias independentes: a primeira é a causa, a segunda é o resultado. Na escrita, use ponto ou ponto e vírgula antes deles e uma vírgula depois.",
+          "Therefore tem tom lógico, de conclusão (muito usado em argumentos). Consequently e as a result enfatizam o efeito prático de um fato. Todos são mais formais do que so.",
+          "Erro clássico de brasileiro: juntar duas orações só com vírgula + therefore. Em inglês formal isso é considerado um erro (comma splice). Prefira: The data was incomplete; therefore, we repeated the test."
+        ],
+        "exemplos": [
+          [
+            "The supplier missed the deadline. Consequently, we lost the contract.",
+            "O fornecedor perdeu o prazo. Consequentemente, perdemos o contrato."
+          ],
+          [
+            "He trained every day; as a result, he improved his time by ten seconds.",
+            "Ele treinou todos os dias; como resultado, melhorou seu tempo em dez segundos."
+          ],
+          [
+            "The evidence is weak; therefore, we cannot reach a firm conclusion.",
+            "A evidência é fraca; portanto, não podemos chegar a uma conclusão firme."
+          ]
+        ]
+      },
+      {
+        "titulo": "Hence e thus: concisão elegante",
+        "paragrafos": [
+          "Hence e thus significam 'por isso' ou 'daí', e são marcas do inglês acadêmico. Hence pode vir seguido apenas de um substantivo, sem verbo, o que deixa a frase enxuta: The software is free, hence its popularity.",
+          "Thus também pode significar 'desta forma, assim', indicando o modo como algo é feito: Mix the ingredients slowly, thus avoiding lumps.",
+          "Use com parcimônia: em uma conversa informal, hence soa pomposo. Guarde para relatórios, artigos e apresentações."
+        ],
+        "exemplos": [
+          [
+            "The town lies on a river, hence its name.",
+            "A cidade fica às margens de um rio, daí o seu nome."
+          ],
+          [
+            "Prices fell sharply; thus, demand increased.",
+            "Os preços caíram bruscamente; assim, a demanda aumentou."
+          ],
+          [
+            "The new model uses less fuel and is hence cheaper to run.",
+            "O novo modelo gasta menos combustível e, por isso, é mais barato de manter."
+          ]
+        ]
+      },
+      {
+        "titulo": "Thereby: o resultado direto de uma ação",
+        "paragrafos": [
+          "Thereby significa 'com isso, desse modo' e é seguido de um verbo com -ing. Ele liga uma ação ao efeito que ela produz imediatamente, sem precisar repetir o sujeito.",
+          "A estrutura típica é: sujeito + ação, thereby + -ing. É uma ferramenta excelente para condensar duas frases em uma só em textos técnicos e jurídicos."
+        ],
+        "exemplos": [
+          [
+            "The city expanded its bus network, thereby reducing traffic in the center.",
+            "A cidade ampliou sua rede de ônibus, reduzindo com isso o trânsito no centro."
+          ],
+          [
+            "She signed the agreement, thereby accepting all its terms.",
+            "Ela assinou o acordo, aceitando assim todos os seus termos."
+          ]
+        ]
+      },
+      {
+        "titulo": "Verbos de causa: lead to, result in, give rise to, stem from",
+        "paragrafos": [
+          "Além de conectores, o inglês avançado usa verbos para expressar causa e efeito. Lead to, result in e give rise to vão da causa para a consequência; stem from, arise from e result from fazem o caminho inverso, da consequência para a causa.",
+          "Atenção ao par result in e result from: The storm resulted in floods (a tempestade causou enchentes), mas The floods resulted from the storm (as enchentes vieram da tempestade). Uma preposição muda todo o sentido.",
+          "Pratique reescrevendo a mesma ideia de três maneiras: com because, com um conector (consequently) e com um verbo (lead to). Essa flexibilidade é exatamente o que as provas de nível C1 avaliam."
+        ],
+        "exemplos": [
+          [
+            "Lack of sleep can lead to serious health problems.",
+            "A falta de sono pode levar a sérios problemas de saúde."
+          ],
+          [
+            "The misunderstanding stemmed from a poorly written email.",
+            "O mal-entendido surgiu de um e-mail mal escrito."
+          ],
+          [
+            "The new policy gave rise to heated debate.",
+            "A nova política deu origem a um debate acalorado."
+          ],
+          [
+            "Careless driving often results in accidents.",
+            "Direção descuidada muitas vezes resulta em acidentes."
+          ]
+        ]
+      }
+    ]
   }
 ]
