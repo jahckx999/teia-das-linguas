@@ -3079,5 +3079,123 @@
         ]
       }
     ]
+  },
+  {
+    "id": "verbo-to-be-apresentacoes",
+    "nivel": "A1",
+    "titulo": "Verbo to be: apresentando-se e falando de você",
+    "resumo": "O verbo mais importante do inglês: I am, you are, he is. Aprenda a dizer seu nome, idade, profissão e de onde você é, a negar e a fazer perguntas — com as contrações que os nativos usam.",
+    "data": "2026-11-18",
+    "blocos": [
+      {
+        "titulo": "Ser e estar num verbo só",
+        "paragrafos": [
+          "Em português temos dois verbos: ser e estar. O inglês resolve tudo com um só: to be. I am a teacher (eu sou professor) e I am tired (eu estou cansado) usam o mesmo verbo.",
+          "No presente ele tem só três formas: am (com I), is (com he, she, it) e are (com you, we, they). Decore essa tabelinha e você já consegue montar centenas de frases."
+        ],
+        "exemplos": [
+          [
+            "I am Brazilian.",
+            "Eu sou brasileiro."
+          ],
+          [
+            "She is at home.",
+            "Ela está em casa."
+          ],
+          [
+            "We are friends.",
+            "Nós somos amigos."
+          ],
+          [
+            "They are hungry.",
+            "Eles estão com fome."
+          ]
+        ]
+      },
+      {
+        "titulo": "Contrações: como os nativos falam",
+        "paragrafos": [
+          "Na conversa quase ninguém diz I am por inteiro. O normal é juntar: I'm, you're, he's, she's, it's, we're, they're. Escrever assim em mensagens e e-mails informais também é o padrão.",
+          "Pronúncia aproximada: I'm = \"áim\", you're = \"iór\", he's = \"rríz\", she's = \"chíz\", it's = \"íts\", we're = \"uír\", they're = \"dhér\" (com a língua entre os dentes no dh)."
+        ],
+        "exemplos": [
+          [
+            "I'm Jackson. Nice to meet you.",
+            "Eu sou o Jackson. Prazer em conhecer você."
+          ],
+          [
+            "It's cold today.",
+            "Está frio hoje."
+          ],
+          [
+            "You're right.",
+            "Você está certo."
+          ]
+        ]
+      },
+      {
+        "titulo": "Idade, origem e profissão",
+        "paragrafos": [
+          "Atenção a uma armadilha clássica: em inglês a idade se diz com to be, não com ter. I am 30 years old (ou só I'm 30). Nunca diga \"I have 30 years\".",
+          "Para profissão, use a ou an antes da palavra: I'm a nurse, she's an engineer. Para origem, use from: I'm from Brazil, they're from Recife."
+        ],
+        "exemplos": [
+          [
+            "I'm 25 years old.",
+            "Eu tenho 25 anos."
+          ],
+          [
+            "He's an engineer.",
+            "Ele é engenheiro."
+          ],
+          [
+            "Where are you from? I'm from São Paulo.",
+            "De onde você é? Sou de São Paulo."
+          ]
+        ]
+      },
+      {
+        "titulo": "Negativa: é só colocar not",
+        "paragrafos": [
+          "Para negar, coloque not depois do verbo: I am not, she is not, they are not. Na fala vira I'm not, she isn't (\"ízant\"), they aren't (\"árant\").",
+          "Repare: com I não existe \"I amn't\". Use sempre I'm not."
+        ],
+        "exemplos": [
+          [
+            "I'm not ready.",
+            "Eu não estou pronto."
+          ],
+          [
+            "She isn't a doctor.",
+            "Ela não é médica."
+          ],
+          [
+            "We aren't late.",
+            "Nós não estamos atrasados."
+          ]
+        ]
+      },
+      {
+        "titulo": "Perguntas: inverta a ordem",
+        "paragrafos": [
+          "Para perguntar, troque o sujeito e o verbo de lugar: You are happy → Are you happy? Ela é casada? → Is she married? Não precisa de do nem does com o verbo to be.",
+          "Nas respostas curtas, use o verbo de novo: Yes, I am. / No, I'm not. Responder só \"Yes\" é possível, mas Yes, I am soa mais natural e educado. E na resposta afirmativa curta não se contrai: diga Yes, I am, nunca \"Yes, I'm\"."
+        ],
+        "exemplos": [
+          [
+            "Are you OK? Yes, I am.",
+            "Você está bem? Sim, estou."
+          ],
+          [
+            "Is he your brother? No, he isn't.",
+            "Ele é seu irmão? Não, não é."
+          ],
+          [
+            "What's your name? My name is Ana.",
+            "Qual é o seu nome? Meu nome é Ana."
+          ]
+        ]
+      }
+    ]
   }
 ]
