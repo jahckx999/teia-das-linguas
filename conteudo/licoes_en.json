@@ -3197,5 +3197,114 @@
         ]
       }
     ]
+  },
+  {
+    "id": "like-love-hate-would-like-gostos",
+    "nivel": "A2",
+    "titulo": "Like, love, hate e would like: falando de gostos e desejos",
+    "resumo": "Aprenda a dizer do que você gosta, ama, odeia ou não suporta, a diferença entre I like e I'd like, e como usar -ing depois desses verbos — com perguntas e respostas curtas do dia a dia.",
+    "data": "2026-11-19",
+    "blocos": [
+      {
+        "titulo": "A escala dos gostos",
+        "paragrafos": [
+          "Para falar de preferências, o inglês tem uma escala de verbos bem clara. Do mais positivo ao mais negativo: love (amar, adorar), really like (gostar muito), like (gostar), don't mind (não se importar), don't like (não gostar), hate (odiar) e can't stand (não suportar).",
+          "Repare que, ao contrário do português, não existe preposição: dizemos I like music, e não \"I like of music\". O objeto vem direto depois do verbo."
+        ],
+        "exemplos": [
+          [
+            "I love pizza.",
+            "Eu adoro pizza."
+          ],
+          [
+            "She really likes her new job.",
+            "Ela gosta muito do novo emprego."
+          ],
+          [
+            "I don't mind the rain.",
+            "Eu não me importo com a chuva."
+          ],
+          [
+            "He can't stand loud music.",
+            "Ele não suporta música alta."
+          ]
+        ]
+      },
+      {
+        "titulo": "Verbo + -ing: gostar de fazer algo",
+        "paragrafos": [
+          "Quando o que você gosta é uma atividade, use o verbo com -ing logo depois: I like cooking (eu gosto de cozinhar), We hate waiting (nós odiamos esperar). Esse -ing funciona como um substantivo: o ato de cozinhar, o ato de esperar.",
+          "Com like, love e hate também é possível usar to + verbo (I like to cook), principalmente no inglês americano. Já com don't mind e can't stand, só o -ing é correto: I don't mind driving, nunca \"I don't mind to drive\"."
+        ],
+        "exemplos": [
+          [
+            "I like reading before bed.",
+            "Eu gosto de ler antes de dormir."
+          ],
+          [
+            "They love travelling by train.",
+            "Eles adoram viajar de trem."
+          ],
+          [
+            "She hates getting up early.",
+            "Ela odeia acordar cedo."
+          ],
+          [
+            "I don't mind working on Saturdays.",
+            "Eu não me importo de trabalhar aos sábados."
+          ]
+        ]
+      },
+      {
+        "titulo": "I like x I'd like: gosto ou desejo?",
+        "paragrafos": [
+          "Cuidado com essa dupla, que confunde muita gente. I like coffee fala de um gosto geral: eu gosto de café. I'd like a coffee (I would like) é um pedido educado agora: eu gostaria de um café, eu queria um café.",
+          "Depois de would like, quando vem um verbo, use to + verbo: I'd like to see the menu (eu gostaria de ver o cardápio). Would like é a forma gentil de want, ideal em restaurantes, lojas e no trabalho. Pronúncia aproximada de I'd like: \"áid láik\"."
+        ],
+        "exemplos": [
+          [
+            "I like tea, but I'd like a coffee now.",
+            "Eu gosto de chá, mas agora eu queria um café."
+          ],
+          [
+            "Would you like some water?",
+            "Você gostaria de um pouco de água?"
+          ],
+          [
+            "I'd like to book a table for two.",
+            "Eu gostaria de reservar uma mesa para dois."
+          ],
+          [
+            "We'd like to visit London next year.",
+            "Nós gostaríamos de visitar Londres no ano que vem."
+          ]
+        ]
+      },
+      {
+        "titulo": "Perguntas e respostas curtas",
+        "paragrafos": [
+          "Para perguntar sobre gostos, use do ou does: Do you like jazz? Does he like football? As respostas curtas repetem o auxiliar: Yes, I do. / No, I don't. Yes, he does. / No, he doesn't. Responder só \"Yes, I like\" soa incompleto.",
+          "Com would like, a pergunta inverte o would: Would you like...? As respostas mais naturais são Yes, please (sim, por favor) ou No, thanks (não, obrigado). Para saber o gosto de alguém de forma aberta, pergunte What do you like doing in your free time?"
+        ],
+        "exemplos": [
+          [
+            "Do you like horror movies? — No, I don't.",
+            "Você gosta de filmes de terror? — Não, não gosto."
+          ],
+          [
+            "Does your sister like dogs? — Yes, she does.",
+            "Sua irmã gosta de cachorros? — Sim, gosta."
+          ],
+          [
+            "Would you like some cake? — Yes, please!",
+            "Você aceita um pedaço de bolo? — Sim, por favor!"
+          ],
+          [
+            "What do you like doing at the weekend?",
+            "O que você gosta de fazer no fim de semana?"
+          ]
+        ]
+      }
+    ]
   }
 ]
