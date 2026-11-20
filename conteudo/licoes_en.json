@@ -3306,5 +3306,119 @@
         ]
       }
     ]
+  },
+  {
+    "id": "present-perfect-continuous-for-since",
+    "nivel": "B1",
+    "titulo": "Present perfect continuous: há quanto tempo?",
+    "resumo": "Use have been + -ing com for, since e how long para falar de ações que começaram no passado e continuam até agora — ou que acabaram de parar e deixaram marcas.",
+    "data": "2026-11-20",
+    "blocos": [
+      {
+        "titulo": "A forma: have/has been + verbo-ing",
+        "paragrafos": [
+          "O present perfect continuous junta duas ideias: o present perfect (have/has + particípio) e o contínuo (be + -ing). O resultado é have been ou has been seguido do verbo com -ing.",
+          "Use has com he, she e it; have com I, you, we e they. Na fala, as contrações são quase obrigatórias: I've been, she's been, they've been."
+        ],
+        "exemplos": [
+          [
+            "I've been studying English for two years.",
+            "Estudo inglês há dois anos."
+          ],
+          [
+            "She's been working here since March.",
+            "Ela trabalha aqui desde março."
+          ],
+          [
+            "They've been waiting for an hour.",
+            "Eles estão esperando há uma hora."
+          ]
+        ]
+      },
+      {
+        "titulo": "For x since: o erro clássico do brasileiro",
+        "paragrafos": [
+          "Em português dizemos \"há dois anos\" ou \"desde 2020\" e usamos o presente: \"moro aqui há dois anos\". Em inglês o presente simples soa errado nesse caso: \"I live here for two years\" não funciona. O certo é I've been living here for two years.",
+          "For indica a duração (for ten minutes, for a long time, for ages). Since indica o ponto de partida (since Monday, since 2019, since I was a child)."
+        ],
+        "exemplos": [
+          [
+            "We've been living in Recife for five years.",
+            "Moramos em Recife há cinco anos."
+          ],
+          [
+            "He's been playing guitar since he was twelve.",
+            "Ele toca violão desde os doze anos."
+          ],
+          [
+            "It's been raining since this morning.",
+            "Está chovendo desde hoje de manhã."
+          ]
+        ]
+      },
+      {
+        "titulo": "How long…? — perguntando a duração",
+        "paragrafos": [
+          "Para perguntar há quanto tempo algo acontece, comece com How long e inverta have/has com o sujeito: How long have you been…?",
+          "Na resposta curta, basta a expressão de tempo: For three months. / Since January."
+        ],
+        "exemplos": [
+          [
+            "How long have you been learning Spanish?",
+            "Há quanto tempo você aprende espanhol?"
+          ],
+          [
+            "How long has she been running?",
+            "Há quanto tempo ela está correndo?"
+          ],
+          [
+            "How long have they been dating?",
+            "Há quanto tempo eles namoram?"
+          ]
+        ]
+      },
+      {
+        "titulo": "Ação recente com marcas visíveis",
+        "paragrafos": [
+          "Esse tempo também explica um resultado que dá para ver agora, mesmo que a ação já tenha parado há pouco. Repare na diferença: I've been painting the kitchen (estive pintando — tenho tinta nas mãos, talvez não terminei) e I've painted the kitchen (pintei — está pronto).",
+          "O contínuo destaca a atividade e o tempo gasto; o simples destaca o resultado ou a quantidade: I've been reading all day x I've read three chapters."
+        ],
+        "exemplos": [
+          [
+            "Your eyes are red. Have you been crying?",
+            "Seus olhos estão vermelhos. Você estava chorando?"
+          ],
+          [
+            "I'm tired because I've been cleaning the house.",
+            "Estou cansado porque passei o tempo limpando a casa."
+          ],
+          [
+            "She's written five emails this morning.",
+            "Ela escreveu cinco e-mails hoje de manhã."
+          ]
+        ]
+      },
+      {
+        "titulo": "Verbos que não vão para o -ing",
+        "paragrafos": [
+          "Verbos de estado — know, believe, like, love, want, own, belong, understand — normalmente não usam a forma contínua. Com eles, use o present perfect simples com for e since.",
+          "Diga I've known her for years (conheço-a há anos), nunca \"I've been knowing her\"."
+        ],
+        "exemplos": [
+          [
+            "I've known Marina since college.",
+            "Conheço a Marina desde a faculdade."
+          ],
+          [
+            "We've had this car for ten years.",
+            "Temos este carro há dez anos."
+          ],
+          [
+            "He's wanted to travel to Japan for a long time.",
+            "Ele quer viajar para o Japão há muito tempo."
+          ]
+        ]
+      }
+    ]
   }
 ]
