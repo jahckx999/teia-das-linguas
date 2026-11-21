@@ -3420,5 +3420,119 @@
         ]
       }
     ]
+  },
+  {
+    "id": "would-rather-had-better-its-time",
+    "nivel": "B2",
+    "titulo": "Would rather, had better e it's time: preferências, alertas e cobranças",
+    "resumo": "Três estruturas curtas que confundem muito brasileiro porque usam o passado para falar do presente: aprenda a preferir com would rather, alertar com had better e cobrar com it's (high) time.",
+    "data": "2026-11-21",
+    "blocos": [
+      {
+        "titulo": "Would rather + verbo: o que você prefere fazer",
+        "paragrafos": [
+          "Would rather significa \"preferiria\" e vem seguido do verbo no infinitivo sem to. Na fala, quase sempre vira 'd rather: I'd rather, she'd rather.",
+          "Para comparar duas opções, use than: I'd rather walk than take the bus. A negativa é would rather not, nunca \"wouldn't rather\"."
+        ],
+        "exemplos": [
+          [
+            "I'd rather stay home tonight.",
+            "Prefiro ficar em casa hoje à noite."
+          ],
+          [
+            "She'd rather text than call.",
+            "Ela prefere mandar mensagem a ligar."
+          ],
+          [
+            "I'd rather not talk about it.",
+            "Prefiro não falar sobre isso."
+          ]
+        ]
+      },
+      {
+        "titulo": "Would rather + outra pessoa + passado",
+        "paragrafos": [
+          "Quando a preferência é sobre o que outra pessoa faz, a estrutura muda: would rather + sujeito + verbo no passado simples. O passado aqui não fala de tempo, e sim de algo hipotético, como no \"se eu fosse\".",
+          "Em português usamos o subjuntivo: \"preferia que você ficasse\". Em inglês: I'd rather you stayed. Para o passado de verdade (arrependimento), use o past perfect: I'd rather you hadn't told her."
+        ],
+        "exemplos": [
+          [
+            "I'd rather you didn't smoke in here.",
+            "Eu preferia que você não fumasse aqui dentro."
+          ],
+          [
+            "We'd rather they paid in cash.",
+            "Preferíamos que eles pagassem em dinheiro."
+          ],
+          [
+            "I'd rather you hadn't invited him.",
+            "Eu preferia que você não tivesse convidado ele."
+          ]
+        ]
+      },
+      {
+        "titulo": "Had better: um conselho com ameaça embutida",
+        "paragrafos": [
+          "Had better ('d better) + infinitivo sem to é mais forte que should: sugere que, se a pessoa não fizer, algo ruim vai acontecer. Apesar de had, fala do presente ou do futuro imediato.",
+          "A negativa é had better not. Cuidado com o tom: dito a um chefe ou a um cliente, pode soar como ordem. Para conselhos neutros, prefira should."
+        ],
+        "exemplos": [
+          [
+            "You'd better hurry, or you'll miss the flight.",
+            "É melhor você se apressar, senão vai perder o voo."
+          ],
+          [
+            "We'd better not leave the door open.",
+            "É melhor não deixarmos a porta aberta."
+          ],
+          [
+            "He'd better apologize.",
+            "É bom ele pedir desculpas."
+          ]
+        ]
+      },
+      {
+        "titulo": "It's time / it's high time: cobrando o que já devia ter acontecido",
+        "paragrafos": [
+          "It's time + to + verbo é neutro: chegou a hora. Já It's time + sujeito + passado simples é uma cobrança: a coisa devia estar acontecendo e não está.",
+          "High time ou about time reforçam a crítica, como \"já passou da hora\" em português."
+        ],
+        "exemplos": [
+          [
+            "It's time to go.",
+            "Está na hora de ir."
+          ],
+          [
+            "It's time you went to bed.",
+            "Já está na hora de você ir para a cama."
+          ],
+          [
+            "It's high time the government did something.",
+            "Já passou da hora de o governo fazer alguma coisa."
+          ]
+        ]
+      },
+      {
+        "titulo": "Resumo e armadilhas",
+        "paragrafos": [
+          "Três estruturas, uma lógica: depois de would rather (com outra pessoa) e de it's time (com sujeito), o passado expressa algo irreal ou ainda não feito. Já had better e would rather (sozinho) pedem infinitivo sem to.",
+          "Erros comuns: \"I'd rather to go\" (sem to!), \"You had better to study\" (sem to!) e \"It's time you go\" (use went). Pratique trocando should por had better quando houver consequência clara."
+        ],
+        "exemplos": [
+          [
+            "I'd rather go by train. (não: I'd rather to go)",
+            "Prefiro ir de trem."
+          ],
+          [
+            "You'd better check the address.",
+            "É melhor você conferir o endereço."
+          ],
+          [
+            "It's about time you called your mother.",
+            "Já estava na hora de você ligar para sua mãe."
+          ]
+        ]
+      }
+    ]
   }
 ]

@@ -462,7 +462,7 @@ attitudinize,,,,ˌætɪˈtjuːdɪnaɪz,C2,10314,attitudinized,attitudinized,atti
 attorn,,,,,C2,10116,attorned,attorned,attorning,não,não,acknowledge a new land owner as one's landlord,he was attorned by the tenants
 attract,atrair,atrékt,a-TRÉKT,əˈtɹækt,A2,446,attracted,attracted,attracting,não,não,direct toward itself or oneself by means of some psychological power or physical attributes | be attractive to | exert a force on (a body) causing it to approach or prevent it from moving away,Her good looks attract the stares of many men
 attribute,atribuir,étrabiut,É-tra-biut,ˈætɹɪbjuːt,B2,2967,attributed,attributed,attributing,não,não,attribute or credit to | decide as to where something belongs in a scheme,We attributed this quotation to Shakespeare
-attune,,atún,a-TÚN,əˈtjuːn,C1,4521,attuned,attuned,attuning,não,não,adjust or accustom to; bring into harmony with,
+attune,sintonizar; adaptar; harmonizar,atún,a-TÚN,əˈtjuːn,C1,4521,attuned,attuned,attuning,não,não,adjust or accustom to; bring into harmony with,
 auction,"leiloar, vender em leilão",ákchan,ÁK-chan,ˈɔːkʃən,C1,3406,auctioned,auctioned,auctioning,não,não,sell at an auction,
 auction off,,ákchan óf,ÁK-chan · ÓF,,C2,8425,auctioned off,auctioned off,auctioning off,não,sim,sell at an auction,
 auctioneer,,akchanir,ak-cha-NIR,,C2,6780,auctioneered,auctioneered,auctioneering,não,não,sell at an auction,
@@ -648,7 +648,7 @@ be amiss,,bí amis,BÍ · a-MIS,,C2,10094,was/were amiss,been amiss,being amiss,
 be at pains,,bí ét pêinz,BÍ · ÉT · PÊINZ,,C2,10192,was/were at pains,been at pains,being at pains,sim,sim,try very hard to do something,
 be born,,bí bórn,BÍ · BÓRN,,C1,4818,was/were born,been born,being born,sim,sim,come into existence through birth,She was born on a farm
 be due,,bí dú,BÍ · DÚ,,C2,6106,was/were due,been due,being due,sim,sim,be the result of,
-be given,,bí guivan,BÍ · GUI-van,,C1,4504,was/were given,been given,being given,sim,sim,have a tendency or disposition to do or be something; be inclined,She tends to be nervous before her lectures
+be given,receber; ganhar; ser dado,bí guivan,BÍ · GUI-van,,C1,4504,was/were given,been given,being given,sim,sim,have a tendency or disposition to do or be something; be inclined,She tends to be nervous before her lectures
 be intimate,,bí intamat,BÍ · IN-ta-mat,,C2,8467,was/were intimate,been intimate,being intimate,sim,sim,have sexual intercourse with,Adam knew Eve
 be known as,,bí nôun éz,BÍ · NÔUN · ÉZ,,C2,6445,was/were known as,been known as,being known as,sim,sim,assign a specified (usually proper) name to | look on as or consider,They named their son David
 be on,estar ligado; estar em cartaz,bí án,BÍ · ÁN,,A2,488,was/were on,been on,being on,sim,sim,"appear in a show, on T.V. or radio",The news won't be on tonight
@@ -1031,8 +1031,8 @@ bong,ressoar (como sino); badalar,báng,BÁNG,,C1,4236,bonged,bonged,bonging,nã
 bonk,dar uma pancada leve em; bater; transar (vulgar),bánk,BÁNK,bɒŋk,C1,3671,bonked,bonked,bonking,não,não,have sexual intercourse with | hit hard,Adam knew Eve
 bonnet,,bánat,BÁ-nat,ˈbɒn.ɪt,C2,7342,bonneted,bonneted,bonneting,não,não,dress in a bonnet,
 boo,vaiar,bú,BÚ,,B2,1883,booed,booed,booing,não,não,"show displeasure, as after a performance or speech",
-boob,,búb,BÚB,,C1,4528,boobed,boobed,boobing,não,não,commit a faux pas or a fault or make a serious mistake,I blundered during the job interview
-boogie,,búgui,BÚ-gui,ˈbuːɡi,C1,4545,boogied,boogied,boogying,não,não,dance to boogie music,
+boob,errar feio (gíria); dar mancada (gíria),búb,BÚB,,C1,4528,boobed,boobed,boobing,não,não,commit a faux pas or a fault or make a serious mistake,I blundered during the job interview
+boogie,dançar; balançar o corpo (gíria); ir embora (gíria),búgui,BÚ-gui,ˈbuːɡi,C1,4545,boogied,boogied,boogying,não,não,dance to boogie music,
 book,,buk,BUK,,C2,5583,booked,booked,booking,não,não,engage for a performance | arrange for and reserve (something for someone else) in advance | record a charge in a police register,Her agent had booked her for several concerts in Tokyo
 book up,lotar (reservas); reservar tudo (mais usado como booked up),buk âp,BUK · ÂP,,C1,4060,booked up,booked up,booking up,não,sim,book all available places or tickets,
 boom,ressoar; prosperar,búm,BÚM,,B1,1389,boomed,boomed,booming,não,não,"make a resonant sound, like artillery | hit with great force | be the case that thunder is being heard",His deep voice boomed through the hall
@@ -1485,7 +1485,7 @@ captivate,cativar,képtiveit,KÉP-ti-veit,ˈkæptɪveɪt,B2,2543,captivated,capt
 capture,capturar,képtchâr,KÉP-tchâr,ˈkæp.t͡ʃɚ,A2,548,captured,captured,capturing,não,não,"succeed in representing or expressing something intangible | attract; cause to be enamored | succeed in catching or seizing, especially after a chase",capture the essence of Spring
 caracole,,,,ˈkæɹəkəʊl,C2,10372,caracoled,caracoled,caracoling,não,não,"make a half turn on a horse, in dressage",
 caramelise,,kéramalaiz,KÉ-ra-ma-laiz,,C2,7277,caramelised,caramelised,caramelising,não,não,be converted into caramel | convert to caramel,The sugar caramelized
-caramelize,,kéramalaiz,KÉ-ra-ma-laiz,,C1,4535,caramelized,caramelized,caramelizing,não,não,be converted into caramel | convert to caramel,The sugar caramelized
+caramelize,caramelizar,kéramalaiz,KÉ-ra-ma-laiz,,C1,4535,caramelized,caramelized,caramelizing,não,não,be converted into caramel | convert to caramel,The sugar caramelized
 caravan,,kéravén,KÉ-ra-vén,ˈkæɹəvæn,C2,6509,caravaned,caravaned,caravaning,não,não,travel in a caravan,
 carbonate,,kárbaneit,KÁR-ba-neit,ˈkɑː(ɹ).bə.nət,C1,5102,carbonated,carbonated,carbonating,não,não,turn into a carbonate | treat with carbon dioxide,Carbonated soft drinks
 carbonise,,kárbanaiz,KÁR-ba-naiz,,C2,8003,carbonised,carbonised,carbonising,não,não,"unite with carbon | turn into carbon, as by burning",carburize metal
@@ -1785,7 +1785,7 @@ chop,picar; cortar,tcháp,TCHÁP,,B1,924,chopped,chopped,chopping,não,não,cut 
 chop down,,tcháp dáun,TCHÁP · DÁUN,,C2,7804,chopped down,chopped down,chopping down,não,sim,cut down,George chopped down the cherry tree
 chop off,,tcháp óf,TCHÁP · ÓF,,C2,7805,chopped off,chopped off,chopping off,não,sim,remove by or as if by cutting,cut off the ear
 chop up,,tcháp âp,TCHÁP · ÂP,,C2,7806,chopped up,chopped up,chopping up,não,sim,cut into pieces with repeated blows,Chop wood
-chord,,kórd,KÓRD,kɔː(ɹ)d,C1,4497,chorded,chorded,chording,não,não,"play chords on (a stringed instrument) | bring into consonance, harmony, or accord while making music or singing",
+chord,tocar acordes; harmonizar,kórd,KÓRD,kɔː(ɹ)d,C1,4497,chorded,chorded,chording,não,não,"play chords on (a stringed instrument) | bring into consonance, harmony, or accord while making music or singing",
 choreograph,coreografar; planejar em detalhes,kóriagréf,KÓ-ri-a-gréf,ˈkɒɹiəɡɹɑːf,C1,3281,choreographed,choreographed,choreographing,não,não,"compose a sequence of dance steps, often to music | plan and oversee the development and details of",Balanchine choreographed many pieces to Stravinsky's music
 chortle,,tchórtal,TCHÓR-tal,ˈt͡ʃɔɹtəl,C2,5967,chortled,chortled,chortling,não,não,laugh quietly or with restraint,
 chorus,,kóras,KÓ-ras,ˈkɔːɹəs,C2,6497,chorused,chorused,chorusing,não,não,utter in unison | sing in a choir,"‘yes,’ the children chorused"
@@ -1889,7 +1889,7 @@ clear-cut,desmatar por corte raso,klir kât,KLIR · KÂT,,C1,3893,clear-cuted,cl
 cleat,,klít,KLÍT,kliːt,C2,8140,cleated,cleated,cleating,não,não,provide with cleats | secure on a cleat,cleat running shoes for better traction
 cleave,rachar; aderir,klív,KLÍV,,B2,2005,cleft/clove,cleft/cloven,cleaving,sim,não,"separate or cut with a tool, such as a sharp instrument | make by cutting into | come or be in close contact with; stick or hold together and resist separation",cleave the bone
 clench,"cerrar (punhos, dentes); apertar com força",kléntch,KLÉNTCH,klɛntʃ,C1,3695,clenched,clenched,clenching,não,não,hold in a tight grasp | squeeze together tightly,clench a steering wheel
-clerk,,klârk,KLÂRK,klɑːk,C1,4531,clerked,clerked,clerking,não,não,"work as a clerk, as in the legal business",
+clerk,trabalhar como escrevente; ser balconista,klârk,KLÂRK,klɑːk,C1,4531,clerked,clerked,clerking,não,não,"work as a clerk, as in the legal business",
 clew,,,,kluː,C2,10300,clewed,clewed,clewing,não,não,roll into a ball,
 click,clicar,klik,KLIK,,A2,611,clicked,clicked,clicking,não,não,move or strike with a noise | make a clicking or ticking sound | click repeatedly or uncontrollably,he clicked on the light
 click off,,klik óf,KLIK · ÓF,,C2,8093,clicked off,clicked off,clicking off,não,sim,perform or finish an action rapidly,The game was clicked off in 1:48
@@ -2258,7 +2258,7 @@ construe with,,kanstrú uid,kan-STRÚ · UID,,C2,10858,construed with,construed 
 consubstantiate,,,,,C2,11096,consubstantiated,consubstantiated,consubstantiating,não,não,become united in substance | unite in one common substance,thought and the object consubstantiate
 consult,consultar,kansâlt,kan-SÂLT,ˈkɒnsʌlt,A2,778,consulted,consulted,consulting,não,não,get or ask advice from | seek information from | have a conference in order to talk something over,Consult your local broker
 consume,consumir,kansúm,kan-SÚM,kənˈsum,B1,846,consumed,consumed,consuming,não,não,"eat up completely, as with great appetite | serve oneself to, or consume regularly | spend extravagantly",Some people can down a pound of meat in the course of one meal
-consummate,,kánsamat,KÁN-sa-mat,ˈkɒnsəmət,C1,4522,consummated,consummated,consummating,não,não,fulfill sexually | make perfect; bring to perfection,consummate a marriage
+consummate,consumar; concluir; completar,kánsamat,KÁN-sa-mat,ˈkɒnsəmət,C1,4522,consummated,consummated,consummating,não,não,fulfill sexually | make perfect; bring to perfection,consummate a marriage
 contact,contatar,kántékt,KÁN-tékt,ˈkɑntækt,B1,1137,contacted,contacted,contacting,não,não,be in or establish communication with | be in direct physical contact with; make contact,Our advertisements reach millions
 contain,conter,kantêin,kan-TÊIN,kənˈteɪn,A2,421,contained,contained,containing,não,não,include or contain; have as a component | contain or hold; have within | lessen the intensity of; temper; hold in restraint; hold or keep within limits,A totally new idea is comprised in this paper
 containerise,,kantêinâraiz,kan-TÊI-nâr-aiz,,C2,10454,containerised,containerised,containerising,não,não,package in a container,The cargo was containerized for safe and efficient shipping
@@ -2479,7 +2479,7 @@ crepe,,krêip,KRÊIP,kɹeɪp,C2,8970,creped,creped,creping,não,não,cover or dr
 crepitate,,,,,C2,11108,crepitated,crepitated,crepitating,não,não,make a crackling sound,My Rice Krispies crackled in the bowl
 crescendo,,krichéndou,kri-CHÉN-dou,kɹɪˈʃɛn.dəʊ,C2,8786,crescendoed,crescendoed,crescendoing,não,não,grow louder,The music crescendoes here
 crest,,krést,KRÉST,kɹɛst,C2,6094,crested,crested,cresting,não,não,lie at the top of | reach a high point,Snow capped the mountains
-crew,,krú,KRÚ,,C1,4540,crewed,crewed,crewing,não,não,serve as a crew member on,
+crew,tripular; fazer parte da tripulação; trabalhar como equipe,krú,KRÚ,,C1,4540,crewed,crewed,crewing,não,não,serve as a crew member on,
 crib,,krib,KRIB,kɹɪb,C1,5297,cribbed,cribbed,cribbing,não,não,"use a crib, as in an exam | take unauthorized (intellectual material) | line with beams or planks",crib a construction hole
 crick,,krik,KRIK,,C2,6951,cricked,cricked,cricking,não,não,twist (a body part) into a strained position,crick your neck
 cricket,,krikat,KRI-kat,,C1,4701,cricketed,cricketed,cricketing,não,não,play cricket,
@@ -2771,7 +2771,7 @@ default,,difólt,di-FÓLT,,C2,6465,defaulted,defaulted,defaulting,não,não,fail
 default on,,difólt án,di-FÓLT · ÁN,,C2,9403,defaulted on,defaulted on,defaulting on,não,sim,fail to pay up,
 defeat,derrotar,difít,di-FÍT,,A2,714,defeated,defeated,defeating,não,não,win a victory over | thwart the passage of,You must overcome all difficulties
 defecate,defecar; evacuar,,,ˈdɛfɪkeɪt,C1,4144,defecated,defecated,defecating,não,não,have a bowel movement,The dog had made in the flower beds
-defect,,dífekt,DÍ-fekt,ˈdiːfɛkt,C1,4508,defected,defected,defecting,não,não,"desert (a cause, a country or an army), often in order to join the opposing cause, country, or army","If soldiers deserted Hitler's army, they were shot"
+defect,"desertar; trocar de lado; abandonar (partido, país)",dífekt,DÍ-fekt,ˈdiːfɛkt,C1,4508,defected,defected,defecting,não,não,"desert (a cause, a country or an army), often in order to join the opposing cause, country, or army","If soldiers deserted Hitler's army, they were shot"
 defeminise,,,,,C2,11127,defeminised,defeminised,defeminising,não,não,remove the ovaries of (female mammals such as cats),
 defeminize,,,,diːˈfɛmɪnaɪz,C2,10730,defeminized,defeminized,defeminizing,não,não,remove the ovaries of (female mammals such as cats),
 defend,defender,difénd,di-FÉND,dɪˈfɛnd,A2,337,defended,defended,defending,não,não,argue or speak in defense of | be on the defensive; act against an attack | protect against a challenge or attack,She supported the motion to strike
@@ -2994,7 +2994,7 @@ dethaw,,,,,C2,10129,dethawed,dethawed,dethawing,não,não,become or cause to bec
 dethrone,,difrôun,di-FRÔUN,,C1,4738,dethroned,dethroned,dethroning,não,não,remove a monarch from the throne,"If the King does not abdicate, he will have to be dethroned"
 detick,,,,,C2,11149,deticked,deticked,deticking,não,não,free (a pet) of ticks,
 detonate,detonar,détaneit,DÉ-ta-neit,ˈdɛtəneɪt,B1,1402,detonated,detonated,detonating,não,não,cause to burst with a violent release of energy | burst and release energy as through a violent chemical or physical reaction,We exploded the nuclear bomb
-detour,,ditur,di-TUR,ˈdiː.tʊə(ɹ),C1,4496,detoured,detoured,detouring,não,não,travel via a detour,
+detour,desviar; fazer um desvio; mudar o trajeto,ditur,di-TUR,ˈdiː.tʊə(ɹ),C1,4496,detoured,detoured,detouring,não,não,travel via a detour,
 detox,,dítaks,DÍ-taks,ˈdiːtɒks,C2,5765,detoxed,detoxed,detoxing,não,não,treat for alcohol or drug dependence,He was detoxified in the clinic
 detoxicate,,,,,C2,9693,detoxicated,detoxicated,detoxicating,não,não,remove poison from,detoxify the soil
 detoxify,,ditáksafai,di-TÁK-sa-fai,,C2,6502,detoxified,detoxified,detoxifying,não,não,remove poison from | treat for alcohol or drug dependence,detoxify the soil
@@ -3251,7 +3251,7 @@ dissonate,,,,dɪsoneɪt,C2,11175,dissonated,dissonated,dissonating,não,não,be 
 dissuade,dissuadir; desencorajar,dissuêid,di-SUÊID,dɪˈsweɪd,C1,3635,dissuaded,dissuaded,dissuading,não,não,turn away from by persuasion,Negative campaigning will only dissuade people
 distance,distanciar(-se); afastar(-se),distans,DI-stans,ˈdɪs.tɪns,C1,3474,distanced,distanced,distancing,não,não,keep at a distance | go far ahead of,we have to distance ourselves from these events in order to continue living
 distemper,,distémpâr,di-STÉM-pâr,dɪsˈtɛmpə(ɹ),C2,8798,distempered,distempered,distempering,não,não,paint with distemper,
-distend,,disténd,di-STÉND,dɪˈstɛnd,C1,4518,distended,distended,distending,não,não,become wider | cause to expand as if by internal pressure | swell from or as if from internal pressure,His pupils were dilated
+distend,distender; inchar; dilatar,disténd,di-STÉND,dɪˈstɛnd,C1,4518,distended,distended,distending,não,não,become wider | cause to expand as if by internal pressure | swell from or as if from internal pressure,His pupils were dilated
 distil,,distil,di-STIL,,C2,7318,distiled,distiled,distiling,não,não,undergo condensation; change from a gaseous to a liquid state and fall in drops | extract by the process of distillation | undergo the process of distillation,water condenses
 distill,"destilar; extrair a essência, condensar",distil,di-STIL,,C1,3105,distilled,distilled,distilling,não,não,"remove impurities from, increase the concentration of, and separate through the process of distillation | undergo the process of distillation | extract by the process of distillation",purify the water
 distinguish,distinguir,distingguich,di-STING-guich,dɪsˈtɪŋɡwɪʃ,B1,873,distinguished,distinguished,distinguishing,não,não,"mark as different | detect with the senses | be a distinctive feature, attribute, or trait; sometimes in a very positive sense",We distinguish several kinds of maple
@@ -3390,7 +3390,7 @@ draw a line,,dró a láin,DRÓ · A · LÁIN,,C2,8820,drew a line,drawn a line,d
 draw and quarter,,dró and kuórtâr,DRÓ · AND · KUÓR-târ,,C2,9400,drew and quarter,drawn and quarter,drawing and quarter,sim,sim,"pull (a person) apart with four horses tied to their extremities, so as to execute them","in the old days, people were drawn and quartered for certain crimes"
 draw away,,dró auêi,DRÓ · a-UÊI,,C1,5234,drew away,drawn away,drawing away,sim,sim,move ahead of (one's competitors) in a race | remove by drawing or pulling,She placed the tray down and drew off the cloth
 draw back,,dró bék,DRÓ · BÉK,dɹɔː ˈbæk,C1,5235,drew back,drawn back,drawing back,sim,sim,pull back or move away or backward | use a surgical instrument to hold open (the edges of a wound or an organ),The enemy withdrew
-draw close,,dró klôus,DRÓ · KLÔUS,,C1,4541,drew close,drawn close,drawing close,sim,sim,move or arrange oneself in a comfortable and cozy position | move towards | pull towards oneself,We cuddled against each other to keep warm
+draw close,aproximar-se; chegar perto; estar próximo (data),dró klôus,DRÓ · KLÔUS,,C1,4541,drew close,drawn close,drawing close,sim,sim,move or arrange oneself in a comfortable and cozy position | move towards | pull towards oneself,We cuddled against each other to keep warm
 draw in,"atrair, envolver; encolher (unhas, barriga); escurecer mais cedo (dias); chegar (trem)",dró in,DRÓ · IN,,C1,3377,drew in,drawn in,drawing in,sim,sim,pull inward or towards a center | direct toward itself or oneself by means of some psychological power or physical attributes | shape one's body into a curl,The pilot drew in the landing gear
 draw near,,dró nir,DRÓ · NIR,,C2,6447,drew near,drawn near,drawing near,sim,sim,move towards,We were approaching our destination
 draw off,,dró óf,DRÓ · ÓF,,C1,5236,drew off,drawn off,drawing off,sim,sim,remove by drawing or pulling | remove (a commodity) from (a supply source),She placed the tray down and drew off the cloth
@@ -3655,7 +3655,7 @@ encore,,ánkor,ÁN-kor,ˈɒŋkɔː,C1,5493,encored,encored,encoring,não,não,"r
 encounter,encontrar; deparar-se,inkáuntâr,in-KÁUN-târ,ɪnˈkaʊntɚ,B1,1154,encountered,encountered,encountering,não,não,"come together | come upon, as if by accident; meet with | be beset by",I'll probably see you at the meeting
 encourage,encorajar; incentivar,enkâridj,en-KÂR-idj,ɪnˈkʌɹɪdʒ,A2,578,encouraged,encouraged,encouraging,não,não,contribute to the progress or growth of | inspire with confidence; give hope or courage to | spur on,I am promoting the use of computers in the classroom
 encrimson,,,,,C2,11201,encrimsoned,encrimsoned,encrimsoning,não,não,make crimson,
-encroach,,inkrôutch,in-KRÔUTCH,ɪŋˈkɹəʊtʃ,C1,4514,encroached,encroached,encroaching,não,não,advance beyond the usual limit | impinge or infringe upon,This impinges on my rights as an individual
+encroach,"invadir; avançar sobre; usurpar (direitos, terreno)",inkrôutch,in-KRÔUTCH,ɪŋˈkɹəʊtʃ,C1,4514,encroached,encroached,encroaching,não,não,advance beyond the usual limit | impinge or infringe upon,This impinges on my rights as an individual
 encroach upon,,inkrôutch apán,in-KRÔUTCH · a-PÁN,,C2,10836,encroached upon,encroached upon,encroaching upon,não,sim,"to intrude upon, infringe, encroach on, violate",This new colleague invades my territory
 encrust,,enkrâst,en-KRÂST,,C1,5118,encrusted,encrusted,encrusting,não,não,cover or coat with a crust | decorate or cover lavishly (as with gems) | form a crust or a hard layer,
 encrypt,criptografar,enkript,en-KRIPT,ɪn.ˈkrɪpt,B2,1708,encrypted,encrypted,encrypting,não,não,convert ordinary language into code,We should encode the message for security reasons
@@ -3973,29 +3973,29 @@ fall away,"desprender-se, cair; diminuir, desaparecer gradualmente; afastar-se, 
 fall back,recuar,fól bék,FÓL · BÉK,,B2,1840,fell back,fallen back,falling back,sim,sim,"fall backwards and down | hang (back) or fall (behind) in movement, progress, development, etc. | move back and away from",The enemy fell back
 fall behind,"ficar para trás, atrasar-se; atrasar (pagamentos, tarefas)",fól biráind,FÓL · bi-RÁIND,,C1,3345,fell behind,fallen behind,falling behind,sim,sim,"retreat | hang (back) or fall (behind) in movement, progress, development, etc.",
 fall by the wayside,,fól bái da uêissaid,FÓL · BÁI · DA · UÊI-said,ˈfɔːl baɪ ðə ˈweɪsaɪd,C2,10932,fell by the wayside,fallen by the wayside,falling by the wayside,sim,sim,give up in the face of defeat of lacking hope; admit defeat,"In the second round, the challenger gave up"
-fall down,,fól dáun,FÓL · DÁUN,,C1,4498,fell down,fallen down,falling down,sim,sim,lose an upright position suddenly,The vase fell over and the water spilled onto the table
+fall down,"cair; levar um tombo; desmoronar; falhar (argumento, plano)",fól dáun,FÓL · DÁUN,,C1,4498,fell down,fallen down,falling down,sim,sim,lose an upright position suddenly,The vase fell over and the water spilled onto the table
 fall flat,,fól flét,FÓL · FLÉT,,C2,6526,fell flat,fallen flat,falling flat,sim,sim,fail utterly; collapse,The project foundered
 fall for,"apaixonar-se por; cair em (golpe, mentira), deixar-se enganar por",fól fór,FÓL · FÓR,,C1,3346,fell for,fallen for,falling for,sim,sim,"fall in love with; become infatuated with | be deceived, duped, or entrapped by",She fell for the man from Brazil
 fall from grace,,fól frâm grêis,FÓL · FRÂM · GRÊIS,,C2,8535,fell from grace,fallen from grace,falling from grace,sim,sim,revert back to bad behavior after a period of good behavior,The children fell from grace when they asked for several helpings of dessert
 fall in,desabar; entrar em forma,fól in,FÓL · IN,,B2,2762,fell in,fallen in,falling in,sim,sim,"break down, literally or metaphorically | to take one's place in a military formation or line | become part of; become a member of a group or organization",The wall collapsed
 fall in line,,fól in láin,FÓL · IN · LÁIN,,C2,7530,fell in line,fallen in line,falling in line,sim,sim,agree on (a position),
 fall in love,,fól in lâv,FÓL · IN · LÂV,,C2,7531,fell in love,fallen in love,falling in love,sim,sim,begin to experience feelings of love towards,She fell in love with her former student
-fall into,,fól intu,FÓL · IN-tu,,C1,4499,fell into,fallen into,falling into,sim,sim,be included in or classified as,This falls under the rubric ‘various’
+fall into,"cair em; entrar em (hábito, situação); dividir-se em (categorias)",fól intu,FÓL · IN-tu,,C1,4499,fell into,fallen into,falling into,sim,sim,be included in or classified as,This falls under the rubric ‘various’
 fall into place,,fól intu plêis,FÓL · IN-tu · PLÊIS,,C2,7532,fell into place,fallen into place,falling into place,sim,sim,become clear or enter one's consciousness or emotions,It dawned on him that she had betrayed him
 fall off,cair (de); diminuir,fól óf,FÓL · ÓF,,B2,2763,fell off,fallen off,falling off,sim,sim,come off | fall heavily or suddenly; decline markedly | diminish in size or intensity,This button had fallen off
-fall open,,fól ôupan,FÓL · ÔU-pan,,C1,4500,fell open,fallen open,falling open,sim,sim,open involuntarily,His mouth dropped open
+fall open,abrir-se sozinho; escancarar-se,fól ôupan,FÓL · ÔU-pan,,C1,4500,fell open,fallen open,falling open,sim,sim,open involuntarily,His mouth dropped open
 fall out,brigar; cair (cabelo),fól áut,FÓL · ÁUT,,B2,2049,fell out,fallen out,falling out,sim,sim,have a breach in relations | come as a logical consequence; follow logically | drop out,We fell out over a trivial question
-fall over,,fól ôuvâr,FÓL · ÔU-vâr,,C1,4501,fell over,fallen over,falling over,sim,sim,fall forward and down,The old woman went over without a sound
+fall over,cair; tombar; tropeçar em,fól ôuvâr,FÓL · ÔU-vâr,,C1,4501,fell over,fallen over,falling over,sim,sim,fall forward and down,The old woman went over without a sound
 fall over backwards,,fól ôuvâr békuârdz,FÓL · ÔU-vâr · BÉ-kuârdz,,C2,9799,fell over backwards,fallen over backwards,falling over backwards,sim,sim,try very hard to please someone,She falls over backwards when she sees her mother-in-law
 fall short,,fól chórt,FÓL · CHÓRT,,C1,5018,fell short,fallen short,falling short,sim,sim,fail to meet (expectations or standards),
 fall short of,,fól chórt âv,FÓL · CHÓRT · ÂV,,C2,7929,fell short of,fallen short of,falling short of,sim,sim,"fail to satisfy, as of expectations, for example",
-fall through,,fól frú,FÓL · FRÚ,,C1,4502,fell through,fallen through,falling through,sim,sim,fail utterly; collapse,The project foundered
-fall under,,fól ândâr,FÓL · ÂN-dâr,,C1,4503,fell under,fallen under,falling under,sim,sim,be included in or classified as,This falls under the rubric ‘various’
+fall through,fracassar; não dar certo; ir por água abaixo,fól frú,FÓL · FRÚ,,C1,4502,fell through,fallen through,falling through,sim,sim,fail utterly; collapse,The project foundered
+fall under,"enquadrar-se em; estar sob (jurisdição, categoria); ficar sob a influência de",fól ândâr,FÓL · ÂN-dâr,,C1,4503,fell under,fallen under,falling under,sim,sim,be included in or classified as,This falls under the rubric ‘various’
 fall upon,,fól apán,FÓL · a-PÁN,,C2,5525,fell upon,fallen upon,falling upon,sim,sim,find unexpectedly,the archeologists chanced upon an old tomb
 falsify,falsificar,fólsafai,FÓL-sa-fai,ˈfɒlsɪfaɪ,B2,2718,falsified,falsified,falsifying,não,não,"make false by mutilation or addition; as of a message or story | tamper, with the purpose of deception | prove false",Fudge the figures
 falter,vacilar; hesitar; fraquejar; (voz) tremer,fóltâr,FÓL-târ,ˈfɔːltə(r),C1,3545,faltered,faltered,faltering,não,não,"be unsure or weak | move hesitatingly, as if about to give way | walk unsteadily, tripping repeatedly",Their enthusiasm is faltering
 familiarise,,familiâraiz,fa-MIL-iâr-aiz,,C2,7065,familiarised,familiarised,familiarising,não,não,make familiar or conversant with,you should acquaint yourself with your new computer
-familiarize,,familiâraiz,fa-MIL-iâr-aiz,,C1,4526,familiarized,familiarized,familiarizing,não,não,make familiar or conversant with,you should acquaint yourself with your new computer
+familiarize,familiarizar; acostumar; inteirar-se,familiâraiz,fa-MIL-iâr-aiz,,C1,4526,familiarized,familiarized,familiarizing,não,não,make familiar or conversant with,you should acquaint yourself with your new computer
 famish,esfomear,,,ˈfamɪʃ,B2,2346,famished,famished,famishing,não,não,be hungry; go without food | deprive of food | die of food deprivation,Let's eat — I'm starving!
 fan,abanar; atiçar,fén,FÉN,,B1,821,fanned,fanned,fanning,não,não,"strike out (a batter), (of a pitcher) | make (an emotion) fiercer | agitate the air",fan hatred
 fan out,,fén áut,FÉN · ÁUT,,C2,6499,fanned out,fanned out,fanning out,não,sim,move outward,The soldiers fanned out
@@ -4031,7 +4031,7 @@ favor,favorecer,fêivâr,FÊI-vâr,ˈfeɪvɚ,B1,1092,favored,favored,favoring,n�
 favorite,,fêivârit,FÊI-vâr-it,ˈfeɪv.ɹɪt,C1,5363,favorited,favorited,favoriting,não,não,To mark an item as a personal favorite on social media,
 favour,favorecer (grafia britânica),fêivâr,FÊI-vâr,ˈfeɪ.və,B2,2039,favoured,favoured,favouring,não,não,treat gently or carefully | bestow a privilege upon | promote over another,he favors his second daughter
 favourite,,fêivârit,FÊI-vâr-it,ˈfeɪv.ɹɪt,C2,7427,favourited,favourited,favouriting,não,não,To mark an item as a personal favorite on social media,
-fawn,,fón,FÓN,,C1,4538,fawned,fawned,fawning,não,não,show submission or fear | try to gain favor by cringing or flattering | have fawns,He is always kowtowing to his boss
+fawn,bajular; adular; puxar o saco; parir (cervo),fón,FÓN,,C1,4538,fawned,fawned,fawning,não,não,show submission or fear | try to gain favor by cringing or flattering | have fawns,He is always kowtowing to his boss
 fax,enviar fax,féks,FÉKS,,B2,2618,faxed,faxed,faxing,não,não,send something via a facsimile machine,Can you fax me the report right away?
 faze,perturbar; abalar; desconcertar,fêiz,FÊIZ,feɪz,C1,4192,fazed,fazed,fazing,não,não,disturb the composure of,
 fear,temer,fir,FIR,,A2,380,feared,feared,fearing,não,não,be afraid or feel anxious or apprehensive about a possible or probable situation or event | be afraid or scared of; be frightened of | be sorry; used to introduce an unpleasant statement,I fear she might get aggressive
@@ -4137,7 +4137,7 @@ finalize,finalizar,fáinalaiz,FÁI-na-laiz,ˈfaɪ.nə.laɪz,B2,2392,finalized,fi
 finance,financiar,fanéns,fa-NÉNS,ˈfaɪnæns,B2,2179,financed,financed,financing,não,não,obtain or provide money for | sell or provide on credit,Can we finance the addition to our home?
 financier,,finansir,fi-nan-SIR,f(a)ɪˈnænsɪə,C2,7096,financiered,financiered,financiering,não,não,conduct financial operations,
 find,encontrar; achar,fáind,FÁIND,faɪnd,A1,24,found,found,finding,sim,não,"come upon, as if by accident; meet with | discover or determine the existence, presence, or fact of | come upon after searching; find the location of something that was missed or lost",We find this idea in Plato
-find fault,,fáind fólt,FÁIND · FÓLT,,C1,4511,found fault,found fault,finding fault,sim,sim,harass with constant criticism,Don't always pick on your little brother
+find fault,criticar; pôr defeito; achar falhas,fáind fólt,FÁIND · FÓLT,,C1,4511,found fault,found fault,finding fault,sim,sim,harass with constant criticism,Don't always pick on your little brother
 find oneself,,fáind uansélf,FÁIND · uan-SÉLF,ˈfaɪnd wʌnsɛlf,C2,9443,found oneself,found oneself,finding oneself,sim,sim,"accept and make use of one's personality, abilities, and situation",My son went to Berkeley to find himself
 find out,descobrir,fáind áut,FÁIND · ÁUT,,A2,694,found out,found out,finding out,sim,sim,"establish after a calculation, investigation, experiment, survey, or study | get to know or become aware of, usually accidentally | find out, learn, or determine with certainty, usually by making an inquiry or other effort",find the product of two numbers
 fine,multar,fáin,FÁIN,faɪn,B1,1466,fined,fined,fining,não,não,record a fine as a penalty in a police record | impose a fine on,I was fined for parking on the wrong side of the street
@@ -4165,7 +4165,7 @@ fissure,,fichâr,FI-châr,ˈfɪʃ.ə(ɹ),C2,8954,fissured,fissured,fissuring,nã
 fistfight,,,,ˈfɪstˌfaɪt,C2,7671,fistfighted,fistfighted,fistfighting,não,não,fight with the fists,The man wanted to fist-fight
 fit,caber; servir (roupa); encaixar,fit,FIT,,A1,248,fit/fitted,fit/fitted,fitting,sim,não,be agreeable or acceptable to | be the right size or shape; fit correctly or as desired | make fit,This suits my needs
 fit in,,fit in,FIT · IN,,C2,5700,fit/fitted in,fit/fitted in,fitting in,sim,sim,go together,The colors don't harmonize
-fit out,,fit áut,FIT · ÁUT,,C1,4517,fit/fitted out,fit/fitted out,fitting out,sim,sim,provide with (something) usually for a specific purpose | provide with clothes or put clothes on,"The expedition was equipped with proper clothing, food, and other necessities"
+fit out,equipar; aparelhar; mobiliar,fit áut,FIT · ÁUT,,C1,4517,fit/fitted out,fit/fitted out,fitting out,sim,sim,provide with (something) usually for a specific purpose | provide with clothes or put clothes on,"The expedition was equipped with proper clothing, food, and other necessities"
 fit the bill,,fit da bil,FIT · DA · BIL,,C2,8378,fit/fitted the bill,fit/fitted the bill,fitting the bill,sim,sim,be what is needed or be good enough for what is required,Does this restaurant fit the bill for the celebration?
 fix,consertar; fixar,fiks,FIKS,ˈfɪks,A1,206,fixed,fixed,fixing,não,não,restore by replacing a part or putting together what is torn or broken | cause to be firmly attached | decide upon or fix definitely,She repaired her TV set
 fix up,consertar; reformar; arrumar; arranjar (um encontro para alguém),fiks âp,FIKS · ÂP,,C1,4001,fixed up,fixed up,fixing up,não,sim,find (something or someone) for | make arrangements for,I'll fix you up with a nice girl
@@ -4395,7 +4395,7 @@ foxtrot,,fákstrat,FÁK-strat,,C2,6959,foxtroted,foxtroted,foxtroting,não,não,
 fraction,,frékchan,FRÉK-chan,ˈfɹæk.ʃən,C2,7940,fractioned,fractioned,fractioning,não,não,perform a division,Can you divide 49 by seven?
 fractionate,,,,,C2,9507,fractionated,fractionated,fractionating,não,não,separate into constituents or fractions containing concentrated constituents | obtain by a fractional process,
 fracture,fraturar,fréktchâr,FRÉK-tchâr,ˈfɹæk.tʃə,B1,1277,fractured,fractured,fracturing,não,não,"violate or abuse | interrupt, break, or destroy | break into pieces",This writer really fractures the language
-fragment,,frégmant,FRÉG-mant,,C1,4506,fragmented,fragmented,fragmenting,não,não,break or cause to break into pieces,The plate fragmented
+fragment,fragmentar; despedaçar; dividir em partes,frégmant,FRÉG-mant,,C1,4506,fragmented,fragmented,fragmenting,não,não,break or cause to break into pieces,The plate fragmented
 fragmentise,,,,,C2,9814,fragmentised,fragmentised,fragmentising,não,não,break or cause to break into pieces,The plate fragmented
 fragmentize,,,,,C2,11238,fragmentized,fragmentized,fragmentizing,não,não,break or cause to break into pieces,The plate fragmented
 frame,emoldurar; incriminar,frêim,FRÊIM,fɹeɪm,B1,1177,framed,framed,framing,não,não,"enclose in or as if in a frame | enclose in a frame, as of a picture | take or catch as if in a snare or trap",frame a picture
@@ -4510,7 +4510,7 @@ gain ground,,guêin gráund,GUÊIN · GRÁUND,,C2,7586,gained ground,gained grou
 gain vigor,,guêin vigâr,GUÊIN · VI-gâr,,C2,10363,gained vigor,gained vigor,gaining vigor,não,sim,gain or regain energy,I picked up after a nap
 gainsay,,guêinsei,GUÊIN-sei,ɡeɪnˈseɪ,C2,8293,gainsayed,gainsayed,gainsaying,não,não,take exception to,She challenged his claims
 gall,,gól,GÓL,,C2,7179,galled,galled,galling,não,não,become or make sore by or as if by rubbing | irritate or vex,It galls me that we lost the suit
-gallivant,,,,ˈɡæl.ɪ.vænt,C1,4543,gallivanted,gallivanted,gallivanting,não,não,wander aimlessly in search of pleasure,
+gallivant,vadiar; passear à toa; badalar por aí,,,ˈɡæl.ɪ.vænt,C1,4543,gallivanted,gallivanted,gallivanting,não,não,wander aimlessly in search of pleasure,
 gallop,galopar,guélap,GUÉ-lap,ˈɡæləp,B2,2681,galloped,galloped,galloping,não,não,ride at a galloping pace | go at galloping speed | cause to move at full gallop,He was galloping down the road
 galumph,,,,ɡəˈlʌmf,C2,8627,galumphed,galumphed,galumphing,não,não,move around heavily and clumsily,the giant tortoises galumphed around in their pen
 galvanise,,guélvanaiz,GUÉL-va-naiz,,C2,6900,galvanised,galvanised,galvanising,não,não,to stimulate to action | cover with zinc | stimulate (muscles) by administering a shock,the loud noise startled him awake
@@ -4688,7 +4688,7 @@ give in,ceder; render-se,guiv in,GUIV · IN,,B1,927,gave in,given in,giving in,s
 give it a try,,guiv it a trái,GUIV · IT · A · TRÁI,,C2,7394,gave it a try,given it a try,giving it a try,sim,sim,try | make an attempt at something,let's give it a whirl!
 give it a whirl,,guiv it a uârl,GUIV · IT · A · UÂRL,,C2,10910,gave it a whirl,given it a whirl,giving it a whirl,sim,sim,try,let's give it a whirl!
 give it the deep six,,guiv it da díp siks,GUIV · IT · DA · DÍP · SIKS,,C2,10720,gave it the deep six,given it the deep six,giving it the deep six,sim,sim,toss out; get rid of,deep-six these old souvenirs!
-give notice,,guiv nôutas,GUIV · NÔU-tas,,C1,4523,gave notice,given notice,giving notice,sim,sim,terminate the employment of; discharge from an office or position | inform (somebody) of something,The boss fired his secretary today
+give notice,avisar com antecedência; pedir demissão; notificar,guiv nôutas,GUIV · NÔU-tas,,C1,4523,gave notice,given notice,giving notice,sim,sim,terminate the employment of; discharge from an office or position | inform (somebody) of something,The boss fired his secretary today
 give off,emitir; exalar,guiv óf,GUIV · ÓF,ɡɪv ɒf,B1,935,gave off,given off,giving off,sim,sim,"have as a by-product | give off, send forth, or discharge; as of light, heat, or radiation, vapor, etc.",The big cities gave off so many wonderful American qualities
 give one's best,,guiv uânz bést,GUIV · UÂNZ · BÉST,,C2,11246,gave one's best,given one's best,giving one's best,sim,sim,perform a task as well as possible,The cast gives full measure every night
 give out,distribuir; esgotar-se,guiv áut,GUIV · ÁUT,,A2,583,gave out,given out,giving out,sim,sim,"give off, send forth, or discharge; as of light, heat, or radiation, vapor, etc. | give to several people | prove insufficient",The ozone layer blocks some harmful rays which the sun emits
@@ -4735,7 +4735,7 @@ glint,,glint,GLINT,ɡlɪnt,C2,7029,glinted,glinted,glinting,não,não,"be shiny,
 glissade,,,,ɡlɪˈseɪd,C2,10177,glissaded,glissaded,glissading,não,não,"perform a glissade, in ballet",
 glisten,,glissan,GLI-san,ˈɡlɪsən,C1,5035,glistened,glistened,glistening,não,não,"be shiny, as if wet",His eyes were glistening
 glitch,,glitch,GLITCH,ɡlɪtʃ,C1,5139,glitched,glitched,glitching,não,não,To suffer a minor malfunction,
-glitter,,glitâr,GLI-târ,ˈɡlɪtə(ɹ),C1,4536,glittered,glittered,glittering,não,não,"be shiny, as if wet",His eyes were glistening
+glitter,brilhar; reluzir; cintilar,glitâr,GLI-târ,ˈɡlɪtə(ɹ),C1,4536,glittered,glittered,glittering,não,não,"be shiny, as if wet",His eyes were glistening
 gloat,vangloriar-se; regozijar-se (com o mal alheio); contar vantagem,glôut,GLÔUT,ɡloʊt,C1,3596,gloated,gloated,gloating,não,não,"dwell on with satisfaction | gaze at or think about something with great self-satisfaction, gratification, or joy",
 globalise,,glôubalaiz,GLÔU-ba-laiz,,C2,8223,globalised,globalised,globalising,não,não,make world-wide in scope or application,Markets are being increasingly globalized
 globalize,,glôubalaiz,GLÔU-ba-laiz,,C2,6862,globalized,globalized,globalizing,não,não,make world-wide in scope or application,Markets are being increasingly globalized
@@ -5050,7 +5050,7 @@ have on,estar vestindo; enganar,rév án,RÉV · ÁN,,A2,440,had on,had on,havin
 have sex,transar; ter relações sexuais (vulgar),rév séks,RÉV · SÉKS,,C1,4342,had sex,had sex,having sex,sim,sim,have sexual intercourse with,Adam knew Eve
 have the best,,rév da bést,RÉV · DA · BÉST,,C2,5600,had the best,had the best,having the best,sim,sim,"overcome, usually through no fault or weakness of the person that is overcome",Heart disease can get the best of us
 have the distinction,,rév da distinkchan,RÉV · DA · di-STINK-chan,,C2,10566,had the distinction,had the distinction,having the distinction,sim,sim,be distinguished from others of a similar type by virtue of a notable characteristic,it has the distinction of being the cheapest restaurant in town
-have to do with,,rév tú dú uid,RÉV · TÚ · DÚ · UID,,C1,4537,had to do with,had to do with,having to do with,sim,sim,be relevant to,There were lots of questions referring to her talk
+have to do with,ter a ver com; estar relacionado a,rév tú dú uid,RÉV · TÚ · DÚ · UID,,C1,4537,had to do with,had to do with,having to do with,sim,sim,be relevant to,There were lots of questions referring to her talk
 have words,bater boca; discutir,rév uârdz,RÉV · UÂRDZ,,C1,4294,had words,had words,having words,sim,sim,censure severely or angrily,The mother scolded the child for entering a stranger's car
 have young,dar cria; parir (animais),rév iâng,RÉV · IÂNG,,C1,3161,had young,had young,having young,sim,sim,give birth to (a calf),the whales calve at this time of year
 haw,,ró,RÓ,,C2,7582,hawed,hawed,hawing,não,não,utter ‘haw’,he hemmed and hawed
@@ -5153,7 +5153,7 @@ hit the sack,,rit da sék,RIT · DA · SÉK,,C2,9783,hit the sack,hit the sack,h
 hitch,pedir carona; engatar,ritch,RITCH,hɪtʃ,B2,2236,hitched,hitched,hitching,não,não,"to hook or entangle | walk impeded by some physical limitation or injury | jump vertically, with legs stiff and back arched",One foot caught in the stirrup
 hitch up,,ritch âp,RITCH · ÂP,,C2,9243,hitched up,hitched up,hitching up,não,sim,pull up,He hitched up his socks and pants
 hitchhike,pedir carona,ritchraik,RITCH-raik,ˈhɪtʃhaɪk,B2,2607,hitchhiked,hitchhiked,hitchhiking,não,não,travel by getting free rides from motorists,
-hive,,ráiv,RÁIV,haɪv,C1,4525,hived,hived,hiving,não,não,"store, like bees | move together in a hive or as if in a hive | gather into a hive",bees hive honey and pollen
+hive,guardar; armazenar; recolher abelhas na colmeia; viver em grupo,ráiv,RÁIV,haɪv,C1,4525,hived,hived,hiving,não,não,"store, like bees | move together in a hive or as if in a hive | gather into a hive",bees hive honey and pollen
 hive away,,ráiv auêi,RÁIV · a-UÊI,,C2,9571,hived away,hived away,hiving away,não,sim,keep or lay aside for future use,store grain for the winter
 hive off,,ráiv óf,RÁIV · ÓF,,C2,8988,hived off,hived off,hiving off,não,sim,"remove from a group and make separate | withdraw (money) and move into a different location, often secretly and with dishonest intentions",The unit was hived off from its parent company
 hive up,,ráiv âp,RÁIV · ÂP,,C2,9572,hived up,hived up,hiving up,não,sim,save up as for future use,
@@ -5338,7 +5338,7 @@ ice over,,áis ôuvâr,ÁIS · ÔU-vâr,,C1,5213,iced over,iced over,icing over,
 ice skate,,áis skêit,ÁIS · SKÊIT,,C2,9218,iced skate,iced skate,icing skate,não,sim,move along on ice skates,
 ice up,,áis âp,ÁIS · ÂP,,C1,5214,iced up,iced up,icing up,não,sim,become covered with a layer of ice; of a surface such as a window,"When the wings iced up, the pilot was forced to land his plane"
 idealise,,aidílaiz,ai-DÍ-laiz,,C2,6203,idealised,idealised,idealising,não,não,consider or render as ideal | form ideals,She idealized her husband after his death
-idealize,,aidílaiz,ai-DÍ-laiz,,C1,4516,idealized,idealized,idealizing,não,não,consider or render as ideal | form ideals,She idealized her husband after his death
+idealize,idealizar,aidílaiz,ai-DÍ-laiz,,C1,4516,idealized,idealized,idealizing,não,não,consider or render as ideal | form ideals,She idealized her husband after his death
 ideate,,,,ˈaɪdieɪt,C2,9660,ideated,ideated,ideating,não,não,form a mental image of something that is not present or that is not the case,Can you conceive of him as the president?
 identify,identificar,aidéntafai,ai-DÉN-ta-fai,aɪˈdɛn.tɪ.faɪ,A2,349,identified,identified,identifying,não,não,recognize as being; establish the identity of someone or something | give the name or identifying characteristics of; refer to by name or some other identifying characteristic property | consider (oneself) as similar to somebody else,She identified the man on the ‘wanted’ poster
 idle,,áidal,ÁI-dal,ˈaɪd(ə)l,C2,6247,idled,idled,idling,não,não,run disconnected or idle | be idle; exist in a changeless situation,the engine is idling
@@ -5613,7 +5613,7 @@ inure,,iniur,in-IUR,ɪˈnjʊə,C2,6855,inured,inured,inuring,não,não,cause to 
 invade,invadir,invêid,in-VÊID,ɪnˈveɪd,A2,787,invaded,invaded,invading,não,não,"march aggressively into another's territory by military force for the purposes of conquest and occupation | to intrude upon, infringe, encroach on, violate | occupy in large numbers or live on a host","Hitler invaded Poland on September 1, 1939"
 invaginate,,,,,C2,10138,invaginated,invaginated,invaginating,não,não,sheathe | fold inwards,The chrysalis is invaginated
 invalid,,invalad,IN-va-lad,ˈɪn.və.lɪd,C2,5971,invalided,invalided,invaliding,não,não,"force to retire, remove from active duty, as of firemen | injure permanently",He was disabled in a car accident
-invalidate,,invélideit,in-VÉ-li-deit,ˌɪnˈvæl.ɪ.deɪt,C1,4539,invalidated,invalidated,invalidating,não,não,declare invalid | make invalid for use | show to be invalid,The contract was annulled
+invalidate,invalidar; anular; refutar,invélideit,in-VÉ-li-deit,ˌɪnˈvæl.ɪ.deɪt,C1,4539,invalidated,invalidated,invalidating,não,não,declare invalid | make invalid for use | show to be invalid,The contract was annulled
 inveigh,,,,ɪnˈveɪ,C2,9271,inveighed,inveighed,inveighing,não,não,complain bitterly | speak against in an impassioned manner,he declaimed against the wasteful ways of modern society
 inveigle,,,,ɪnˈveɪ.ɡəl,C2,7520,inveigled,inveigled,inveigling,não,não,"influence or urge by gentle urging, caressing, or flattering",He palavered her into going along
 invent,inventar,invént,in-VÉNT,ɪnˈvɛnt,A2,407,invented,invented,inventing,não,não,"come up with (an idea, plan, explanation, theory, or principle) after a mental effort | concoct something artificial or untrue",excogitate a way to measure the speed of light
@@ -6060,7 +6060,7 @@ lighten up,,láitan âp,LÁI-tan · ÂP,,C2,7581,lightened up,lightened up,light
 lighter,,láitâr,LÁI-târ,,C2,6254,lightered,lightered,lightering,não,não,transport in a flatbottom boat,
 lignify,,,,ˈlɪɡnɪfaɪ,C2,11331,lignified,lignified,lignifying,não,não,convert into wood or cause to become woody,
 like,gostar,láik,LÁIK,,A1,42,liked,liked,liking,não,não,"to hope, desire, or prefer; to make or express a wish | find enjoyable or agreeable | be fond of",Do you care to try this dish?
-liken,,láikan,LÁI-kan,ˈlaɪkən,C1,4509,likened,likened,likening,não,não,"consider or describe as similar, equal, or analogous",We can compare the Han dynasty to the Romans
+liken,comparar; assemelhar; equiparar,láikan,LÁI-kan,ˈlaɪkən,C1,4509,likened,likened,likening,não,não,"consider or describe as similar, equal, or analogous",We can compare the Han dynasty to the Romans
 lilt,,lilt,LILT,lɪlt,C2,7376,lilted,lilted,lilting,não,não,articulate in a very careful and rhythmic way,
 limber,,limbâr,LIM-bâr,,C2,7955,limbered,limbered,limbering,não,não,attach the limber | cause to become limber,limber a cannon
 limber up,,limbâr âp,LIM-bâr · ÂP,,C2,10180,limbered up,limbered up,limbering up,não,sim,"attach the limber | make one's body limber or suppler by stretching, as if to prepare for strenuous physical activity",limber a cannon
@@ -6207,7 +6207,7 @@ lucubrate,,,,ˈluː.kjə.bɹeɪt,C2,11337,lucubrated,lucubrated,lucubrating,não
 luff,,lâf,LÂF,lʌf,C2,9246,luffed,luffed,luffing,não,não,sail close to the wind | flap when the wind is blowing equally on both sides,the sails luffed
 lug,,lâg,LÂG,lʌɡ,C1,4988,lugged,lugged,lugging,não,não,carry with difficulty | obstruct,You'll have to lug this suitcase
 luge,,lúdj,LÚDJ,luːʒ,C2,8190,luged,luged,luging,não,não,move along on a luge or toboggan,
-lull,,lâl,LÂL,lʌl,C1,4534,lulled,lulled,lulling,não,não,calm by deception | become quiet or less intensive | make calm or still,Don't let yourself be lulled into a false state of security
+lull,acalmar; embalar; ninar; adormecer,lâl,LÂL,lʌl,C1,4534,lulled,lulled,lulling,não,não,calm by deception | become quiet or less intensive | make calm or still,Don't let yourself be lulled into a false state of security
 lumber,andar pesadamente; arrastar-se; sobrecarregar (lumber with: empurrar um fardo),lâmbâr,LÂM-bâr,ˈlʌm.bə,C1,4335,lumbered,lumbered,lumbering,não,não,"move heavily or clumsily | cut lumber, as in woods and forests",The heavy man lumbered across the room
 luminesce,,,,lumɪˈnɛs,C2,8991,luminesced,luminesced,luminescing,não,não,be or become luminescent; exhibit luminescence,
 lump,,lâmp,LÂMP,lʌmp,C1,4673,lumped,lumped,lumping,não,não,put together indiscriminately | group or chunk together in a certain order or place side by side,lump together all the applicants
@@ -6330,7 +6330,7 @@ march,marchar,mártch,MÁRTCH,,A2,777,marched,marched,marching,não,não,"march 
 march on,,mártch án,MÁRTCH · ÁN,,C2,6917,marched on,marched on,marching on,não,sim,"move forward, also in the metaphorical sense",Time marches on
 march out,,mártch áut,MÁRTCH · ÁUT,,C2,6918,marched out,marched out,marching out,não,sim,march out (as from a defile) into open ground,The regiments debouched from the valley
 marginalise,,márdjanalaiz,MÁR-dja-na-laiz,,C2,6990,marginalised,marginalised,marginalising,não,não,"relegate to a lower or outer edge, as of specific groups of people",We must not marginalize the poor in our society
-marginalize,,márdjanalaiz,MÁR-dja-na-laiz,,C1,4524,marginalized,marginalized,marginalizing,não,não,"relegate to a lower or outer edge, as of specific groups of people",We must not marginalize the poor in our society
+marginalize,marginalizar; excluir; pôr à margem,márdjanalaiz,MÁR-dja-na-laiz,,C1,4524,marginalized,marginalized,marginalizing,não,não,"relegate to a lower or outer edge, as of specific groups of people",We must not marginalize the poor in our society
 marinade,,márineid,MÁ-ri-neid,ˌmaɹɪˈneɪd,C2,7949,marinaded,marinaded,marinading,não,não,soak in marinade,marinade herring
 marinate,marinar; deixar de molho,méraneit,MÉ-ra-neit,,C1,3002,marinated,marinated,marinating,não,não,soak in marinade,marinade herring
 mark,marcar,márk,MÁRK,maːk,A2,413,marked,marked,marking,não,não,"attach a tag or label to | designate as if by a mark | be a distinctive feature, attribute, or trait; sometimes in a very positive sense",label these bottles
@@ -6557,7 +6557,7 @@ mix in,,miks in,MIKS · IN,,C2,6528,mixed in,mixed in,mixing in,não,sim,cause (
 mix up,,miks âp,MIKS · ÂP,,C2,6529,mixed up,mixed up,mixing up,não,sim,assemble without order or sense | cause to be perplexed or confounded,She jumbles the words when she is supposed to write a sentence
 mizzle,,,,,C2,10184,mizzled,mizzled,mizzling,não,não,rain lightly,"When it drizzles in summer, hiking can be pleasant"
 moan,gemer; reclamar,môun,MÔUN,məʊn,B1,1028,moaned,moaned,moaning,não,não,"indicate pain, discomfort, or displeasure",The students groaned when the professor got out the exam booklets
-mob,,máb,MÁB,,C1,4527,mobbed,mobbed,mobbing,não,não,press tightly together or cram,The crowd packed the auditorium
+mob,cercar em multidão; aglomerar-se em volta de; atacar em bando,máb,MÁB,,C1,4527,mobbed,mobbed,mobbing,não,não,press tightly together or cram,The crowd packed the auditorium
 mobilise,mobilizar; convocar; pôr em ação (grafia britânica),môubalaiz,MÔU-ba-laiz,,C1,4107,mobilised,mobilised,mobilising,não,não,call to arms; of military personnel | get ready for war | make ready for action or use,marshal resources
 mobilize,mobilizar,môubalaiz,MÔU-ba-laiz,,B2,2044,mobilized,mobilized,mobilizing,não,não,make ready for action or use | call to arms; of military personnel | get ready for war,marshal resources
 mock,zombar,mák,MÁK,mɒk,B1,1592,mocked,mocked,mocking,não,não,treat with contempt | imitate with mockery and derision,The new constitution mocks all democratic principles
@@ -8158,7 +8158,7 @@ recite,recitar,rassáit,ra-SÁIT,ɹɪˈsaɪt,B1,1248,recited,recited,reciting,n�
 reckon,achar; calcular,rékan,RÉ-kan,ˈɹɛkən,A2,500,reckoned,reckoned,reckoning,não,não,"expect, believe, or suppose | judge to be probable | deem to be",I imagine she earned a lot of money with her new novel
 reclaim,recuperar; reivindicar,riklêim,ri-KLÊIM,ɹɪˈkleɪm,B2,1799,reclaimed,reclaimed,reclaiming,não,não,"claim back | reuse (materials from waste products) | bring, lead, or force to abandon a wrong or evil course of life, conduct, and adopt a right one",The Church reformed me
 reclassify,,rikléssifai,ri-KLÉ-si-fai,,C2,5767,reclassified,reclassified,reclassifying,não,não,"classify anew, change the previous classification",The zoologists had to reclassify the mollusks after they found new species
-recline,,rikláin,ri-KLÁIN,ɹɪˈklaɪn,C1,4513,reclined,reclined,reclining,não,não,move the upper body backwards and down | cause to recline | lean in a comfortable resting position,She reclined her head on the pillow
+recline,reclinar; recostar-se; inclinar para trás,rikláin,ri-KLÁIN,ɹɪˈklaɪn,C1,4513,reclined,reclined,reclining,não,não,move the upper body backwards and down | cause to recline | lean in a comfortable resting position,She reclined her head on the pillow
 recode,,,,,C2,7004,recoded,recoded,recoding,não,não,put into a different code; rearrange mentally,People recode and restructure information in order to remember it
 recognise,reconhecer (grafia britânica),rékagnaiz,RÉ-kag-naiz,ˈɹɛkənaɪz,A2,595,recognised,recognised,recognising,não,não,show approval or appreciation of | grant credentials to | detect with the senses,My work is not recognized by anybody!
 recognize,reconhecer,rékagnaiz,RÉ-kag-naiz,,A1,232,recognized,recognized,recognizing,não,não,accept (someone) to be what is claimed or accept their power and authority | be fully aware or cognizant of | detect with the senses,The Crown Prince was acknowledged as the true heir to the throne
@@ -8227,7 +8227,7 @@ reek,feder,rík,RÍK,,B2,2481,reeked,reeked,reeking,não,não,"have an element s
 reel,cambalear; ficar atordoado; enrolar (em carretel); rodopiar,ríl,RÍL,ɹiːl,C1,4100,reeled,reeled,reeling,não,não,walk as if unable to control one's movements | revolve quickly and repeatedly around one's own axis | wind onto or off a reel,The drunken man staggered into the room
 reel off,,ríl óf,RÍL · ÓF,,C2,8679,reeled off,reeled off,reeling off,não,sim,unwind from or as if from a reel | recite volubly or extravagantly,unreel the tape
 reelect,,riilékt,ri-i-LÉKT,,C1,4757,reelected,reelected,reelecting,não,não,elect again,
-reenact,,riinékt,ri-i-NÉKT,ɹi.ɪnækt,C1,4507,reenacted,reenacted,reenacting,não,não,enact or perform again | enact again | act out; represent or perform as if in a play,They reenacted the battle of Princeton
+reenact,"reencenar; reconstituir (evento histórico, crime); reeditar (lei)",riinékt,ri-i-NÉKT,ɹi.ɪnækt,C1,4507,reenacted,reenacted,reenacting,não,não,enact or perform again | enact again | act out; represent or perform as if in a play,They reenacted the battle of Princeton
 reenforce,,,,,C2,10656,reenforced,reenforced,reenforcing,não,não,make stronger,he reinforced the concrete
 reestablish,"restabelecer; reinstaurar; recuperar (posição, contato)",riistéblich,ri-i-STÉ-blich,,C1,4046,reestablished,reestablished,reestablishing,não,não,"bring back into original existence, use, function, or position",restore law and order
 reevaluate,reavaliar; repensar,riivélueit,ri-i-VÉ-lu-eit,,C1,4469,reevaluated,reevaluated,reevaluating,não,não,revise or renew one's assessment,
@@ -8808,7 +8808,7 @@ sandpaper,,séndpeipâr,SÉND-pei-pâr,ˈsændˌpeɪpɚ,C2,7541,sandpapered,sand
 sandwich,espremer entre,sénduitch,SÉN-duitch,ˈsæn(d)wɪd͡ʒ,B1,954,sandwiched,sandwiched,sandwiching,não,não,make into a sandwich | insert or squeeze tightly between two people or objects,She was sandwiched in her airplane seat between two fat men
 sanitate,,,,,C2,11474,sanitated,sanitated,sanitating,não,não,provide with sanitary facilities or appliances,
 sanitise,,sénitaiz,SÉ-ni-taiz,,C2,7822,sanitised,sanitised,sanitising,não,não,make sanitary by cleaning or sterilizing | make less offensive or more acceptable by removing objectionable features,sanitize a document before releasing it to the press
-sanitize,,sénitaiz,SÉ-ni-taiz,ˈsænətaɪz,C1,4529,sanitized,sanitized,sanitizing,não,não,make sanitary by cleaning or sterilizing | make less offensive or more acceptable by removing objectionable features,sanitize a document before releasing it to the press
+sanitize,"higienizar; desinfetar; suavizar (texto, notícia)",sénitaiz,SÉ-ni-taiz,ˈsænətaɪz,C1,4529,sanitized,sanitized,sanitizing,não,não,make sanitary by cleaning or sterilizing | make less offensive or more acceptable by removing objectionable features,sanitize a document before releasing it to the press
 sap,,sép,SÉP,,C1,5208,sapped,sapped,sapping,não,não,deplete | excavate the earth beneath,exhaust one's savings
 saponify,,,,,C2,9753,saponified,saponified,saponifying,não,não,become converted into soap by being hydrolized into an acid and alcohol as a result of being treated with an alkali | convert into soap by hydrolizing an ester into an acid and alcohol as a result of treating it with an alkali,the oil saponified
 sashay,,,,ˈsæʃeɪ,C2,7235,sashayed,sashayed,sashaying,não,não,"move sideways | to walk with a lofty proud gait, often in an attempt to impress others | perform a chasse step, in ballet",He struts around like a rooster in a hen house
@@ -8896,7 +8896,7 @@ scour,vasculhar; esfregar,skáuâr,SKÁU-âr,,B2,2678,scoured,scoured,scouring,n
 scourge,,skârdj,SKÂRDJ,skɜːdʒ,C2,5784,scourged,scourged,scourging,não,não,punish severely; excoriate | whip | cause extensive destruction or ruin utterly,The religious fanatics flagellated themselves
 scout,"explorar, fazer reconhecimento; procurar, observar talentos (olheiro)",skáut,SKÁUT,,C1,3397,scouted,scouted,scouting,não,não,"explore, often with the goal of finding something or somebody",
 scowl,,skául,SKÁUL,skaʊl,C2,6594,scowled,scowled,scowling,não,não,frown with displeasure,
-scrabble,,skrébal,SKRÉ-bal,ˈskɹæbəl,C1,4530,scrabbled,scrabbled,scrabbling,não,não,feel searchingly | write down quickly without much attention to detail,She groped for his keys in the dark
+scrabble,tatear; remexer; esgaravatar; escalar com dificuldade,skrébal,SKRÉ-bal,ˈskɹæbəl,C1,4530,scrabbled,scrabbled,scrabbling,não,não,feel searchingly | write down quickly without much attention to detail,She groped for his keys in the dark
 scrag,,,,,C2,8665,scragged,scragged,scragging,não,não,strangle with an iron collar | wring the neck of,people were garrotted during the Inquisition in Spain
 scram,cair fora,skrém,SKRÉM,,B1,1487,scrammed,scrammed,scramming,não,não,leave immediately; used usually in the imperative form,Scram!
 scramble,embaralhar; mexer (ovos); correr às pressas,skrémbal,SKRÉM-bal,ˈskɹæmbl̩,B1,1243,scrambled,scrambled,scrambling,não,não,"to move hurriedly | climb awkwardly, as if by scrambling | bring into random order",The friend scrambled after them
@@ -9300,7 +9300,7 @@ sinter,,,,ˈsɪntə,C2,9211,sintered,sintered,sintering,não,não,cause (ores or
 sip,bebericar,sip,SIP,sɪp,B2,2643,sipped,sipped,sipping,não,não,drink in sips,She was sipping her tea
 siphon,,sáifan,SÁI-fan,ˈsaɪfən,C1,4850,siphoned,siphoned,siphoning,não,não,"convey, draw off, or empty by or as if by a siphon | move a liquid from one container into another by means of a siphon or a siphoning action",siphon gas into the tank
 siphon off,,sáifan óf,SÁI-fan · ÓF,,C2,10429,siphoned off,siphoned off,siphoning off,não,sim,"convey, draw off, or empty by or as if by a siphon",
-sire,,sáiâr,SÁI-âr,saɪə(ɹ),C1,4542,sired,sired,siring,não,não,make (offspring) by reproduction,Abraham begot Isaac
+sire,"ser pai de (cavalo, animal); gerar",sáiâr,SÁI-âr,saɪə(ɹ),C1,4542,sired,sired,siring,não,não,make (offspring) by reproduction,Abraham begot Isaac
 siss,,,,,C2,7852,sissed,sissed,sissing,não,não,"express or utter with a hiss | make a sharp hissing sound, as if to show disapproval",
 sit,sentar-se,sit,SIT,,A1,54,sat,sat,sitting,sim,não,"be in a position in which one's upper body is largely upright and supported by one's backside | be around, often idly or without specific purpose | take a seat",The object sat in the corner
 sit around,"ficar à toa, ficar parado sem fazer nada",sit âráund,SIT · âr-ÁUND,,C1,3129,sat around,sat around,sitting around,sim,sim,"be around, often idly or without specific purpose",The object sat in the corner
@@ -9333,7 +9333,7 @@ skim,desnatar; ler por cima,skim,SKIM,skɪm,B2,2789,skimmed,skimmed,skimming,nã
 skim off,,skim óf,SKIM · ÓF,,C2,9763,skimmed off,skimmed off,skimming off,não,sim,remove from the surface | pick the best,skim cream from the surface of milk
 skim over,,skim ôuvâr,SKIM · ÔU-vâr,,C2,9764,skimmed over,skimmed over,skimming over,não,sim,read superficially | move or pass swiftly and lightly over the surface of,
 skimcoat,,,,,C2,11500,skimcoated,skimcoated,skimcoating,não,não,coat with a mixture of gypsum and spackle,he skimcoated the drywall
-skimp,,skimp,SKIMP,,C1,4544,skimped,skimped,skimping,não,não,work hastily or carelessly; deal with inadequately and superficially | limit in quality or quantity | subsist on a meager allowance,scratch and scrimp
+skimp,economizar demais; poupar; fazer de qualquer jeito,skimp,SKIMP,,C1,4544,skimped,skimped,skimping,não,não,work hastily or carelessly; deal with inadequately and superficially | limit in quality or quantity | subsist on a meager allowance,scratch and scrimp
 skimp over,,skimp ôuvâr,SKIMP · ÔU-vâr,,C2,10697,skimped over,skimped over,skimping over,não,sim,treat hurriedly or avoid dealing with properly,
 skin,esfolar; ralar,skin,SKIN,skɪn,B2,1722,skinned,skinned,skinning,não,não,"climb awkwardly, as if by scrambling | bruise, cut, or injure the skin or the surface of | remove the bark of a tree",The boy skinned his knee when he fell
 skin over,,skin ôuvâr,SKIN · ÔU-vâr,,C2,6059,skinned over,skinned over,skinning over,não,sim,grow new skin over an injury,
@@ -9507,7 +9507,7 @@ snap at,,snép ét,SNÉP · ÉT,,C2,7780,snapped at,snapped at,snapping at,não,
 snap back,,snép bék,SNÉP · BÉK,,C2,7781,snapped back,snapped back,snapping back,não,sim,recover quickly,"After the surgery, the patient snapped back in a few days"
 snap off,,snép óf,SNÉP · ÓF,,C2,7782,snapped off,snapped off,snapping off,não,sim,break a piece off with a sudden sharp snapping motion,break a branch from a tree
 snap up,,snép âp,SNÉP · ÂP,,C2,7783,snapped up,snapped up,snapping up,não,sim,get hold of or seize quickly and easily,I snapped up all the good buys during the garage sale
-snapchat,,snéptchét,SNÉP-tchét,snæp.tʃæt,C1,4515,snapchated,snapchated,snapchating,não,não,To have a conversation on Snapchat,
+snapchat,mandar mensagem pelo Snapchat; postar no Snapchat,snéptchét,SNÉP-tchét,snæp.tʃæt,C1,4515,snapchated,snapchated,snapchating,não,não,To have a conversation on Snapchat,
 snare,,snér,SNÉR,snɛəɹ,C2,6154,snared,snared,snaring,não,não,catch in or as if in a trap | entice and trap,The men trap foxes
 snarf,,,,,C2,6044,snarfed,snarfed,snarfing,não,não,make off with belongings of others,
 snarl,rosnar,snárl,SNÁRL,,B2,1674,snarled,snarled,snarling,não,não,"utter in an angry, sharp, or abrupt tone | make a snarling noise or move with a snarling noise | twist together or entwine into a confusing mass",The sales clerk snapped a reply at the angry customer
@@ -10350,7 +10350,7 @@ take off,decolar; tirar (roupa),têik óf,TÊIK · ÓF,,A2,325,took off,taken of
 take office,tomar posse; assumir o cargo,têik ófis,TÊIK · Ó-fis,,C1,3689,took office,taken office,taking office,sim,sim,"assume an office, duty, or title",When will the new President take office?
 take on,assumir; contratar; enfrentar,têik án,TÊIK · ÁN,,A2,350,took on,taken on,taking on,sim,sim,"take on a certain form, attribute, or aspect | take on titles, offices, duties, responsibilities | accept as a challenge",His voice took on a sad tone
 take one's lumps,,têik uânz lâmps,TÊIK · UÂNZ · LÂMPS,,C2,11544,took one's lumps,taken one's lumps,taking one's lumps,sim,sim,suffer the results or consequences of one's behavior or actions,
-take orders,,têik órdârz,TÊIK · ÓR-dârz,,C1,4510,took orders,taken orders,taking orders,sim,sim,receive and be expected to follow directions or commands | be ordained; enter the Christian ministry,I don't take orders from you!
+take orders,receber ordens; obedecer; anotar pedidos (restaurante),têik órdârz,TÊIK · ÓR-dârz,,C1,4510,took orders,taken orders,taking orders,sim,sim,receive and be expected to follow directions or commands | be ordained; enter the Christian ministry,I don't take orders from you!
 take out,tirar; retirar; levar para sair,têik áut,TÊIK · ÁUT,,A1,154,took out,taken out,taking out,sim,sim,cause to leave | remove from its packing | take out or remove,The teacher took the children out of the classroom
 take over,assumir o controle,têik ôuvâr,TÊIK · ÔU-vâr,,A2,328,took over,taken over,taking over,sim,sim,"seize and take control without authority and possibly with force; take as one's right or possession | take on titles, offices, duties, responsibilities | free someone temporarily from his or her obligations",He assumed to himself the right to fill all positions in the town
 take pains,,têik pêinz,TÊIK · PÊINZ,,C2,8751,took pains,taken pains,taking pains,sim,sim,try very hard to do something,
@@ -10459,7 +10459,7 @@ teem in,,tím in,TÍM · IN,,C2,10855,teemed in,teemed in,teeming in,não,sim,ex
 teeter,,títâr,TÍ-târ,ˈtiːtə,C2,6369,teetered,teetered,teetering,não,não,"move unsteadily, with a rocking motion",
 teeter-totter,,títâr tátâr,TÍ-târ · TÁ-târ,,C2,10880,teeter-tottered,teeter-tottered,teeter-tottering,não,sim,ride on a plank,
 teetertotter,,,,,C2,10899,teetertottered,teetertottered,teetertottering,não,não,ride on a plank,
-teethe,,tíd,TÍD,tiːð,C1,4533,teethed,teethed,teething,não,não,grow teeth; cut the baby teeth,The little one is teething now
+teethe,nascer os dentes (bebê); estar com a dentição,tíd,TÍD,tiːð,C1,4533,teethed,teethed,teething,não,não,grow teeth; cut the baby teeth,The little one is teething now
 teetotal,,,,tiːˈtəʊtəl,C2,8956,teetotaled,teetotaled,teetotaling,não,não,practice teetotalism and abstain from the consumption of alcoholic beverages,
 telecast,,télakést,TÉ-la-kést,,C1,4586,telecast,telecast,telecasting,sim,não,broadcast via television,The Royal wedding was televised
 telecommunicate,,,,,C2,10190,telecommunicated,telecommunicated,telecommunicating,não,não,"communicate over long distances, as via the telephone or e-mail",
@@ -10616,7 +10616,7 @@ tippytoe,,,,ˈtɪpiˌtoʊ,C2,8532,tippytoed,tippytoed,tippytoeing,não,não,walk
 tiptoe,,tiptou,TIP-tou,ˈtɪpˌtəʊ,C2,6141,tiptoed,tiptoed,tiptoeing,não,não,walk on one's toes,
 tire,cansar,táiâr,TÁI-âr,,A1,101,tired,tired,tiring,não,não,lose interest or become bored with something or somebody | exhaust or get tired through overuse or great strain or stress | deplete,I'm so tired of your mother and her complaints about my food
 tire out,,táiâr áut,TÁI-âr · ÁUT,,C2,8125,tired out,tired out,tiring out,não,sim,exhaust or get tired through overuse or great strain or stress,We wore ourselves out on this hike
-tissue,,tissiu,TIS-iu,ˈtɪsjuː,C1,4519,tissued,tissued,tissuing,não,não,"create a piece of cloth by interlacing strands of fabric, such as wool or cotton",tissue textiles
+tissue,tecer (arcaico); enxugar com lenço de papel,tissiu,TIS-iu,ˈtɪsjuː,C1,4519,tissued,tissued,tissuing,não,não,"create a piece of cloth by interlacing strands of fabric, such as wool or cotton",tissue textiles
 tithe,,táid,TÁID,,C2,7066,tithed,tithed,tithing,não,não,"exact a tithe from | levy a tithe on (produce or a crop) | pay a tenth of one's income; pay one tenth of, especially to the church",The church was tithed
 titillate,,titaleit,TI-ta-leit,ˈtɪtɪleɪt,C1,5107,titillated,titillated,titillating,não,não,"touch (a body part) lightly so as to excite the surface nerves and cause uneasiness, laughter, or spasmodic movements | excite pleasurably or erotically",A titillating story appeared in the usually conservative magazine
 titivate,,,,ˈtɪt.ɪ.veɪt,C2,8902,titivated,titivated,titivating,não,não,"make neat, smart, or trim",Spruce up your house for Spring
@@ -10652,7 +10652,7 @@ tool,equipar com ferramentas,túl,TÚL,tuːl,B2,1646,tooled,tooled,tooling,não,
 tool around,,túl âráund,TÚL · âr-ÁUND,,C2,8083,tooled around,tooled around,tooling around,não,sim,ride in a car with no particular goal and just for the pleasure of it,We tooled down the street
 toot,,tút,TÚT,tuːt,C1,5138,tooted,tooted,tooting,não,não,make a strident noise,The horns of the taxis blared
 tootle,,tútal,TÚ-tal,,C2,8574,tootled,tootled,tootling,não,não,play (a musical instrument) casually,the saxophone player was tootling a sad melody
-top,,táp,TÁP,tɒp,C1,4520,topped,topped,topping,não,não,"be superior or better than some standard | pass by, over, or under without making contact | be at the top of or constitute the top or highest point",She exceeded our expectations
+top,superar; ultrapassar; liderar (ranking); cobrir; coroar,táp,TÁP,tɒp,C1,4520,topped,topped,topping,não,não,"be superior or better than some standard | pass by, over, or under without making contact | be at the top of or constitute the top or highest point",She exceeded our expectations
 top off,completar (encher até a borda); finalizar; coroar (encerrar com chave de ouro),táp óf,TÁP · ÓF,,C1,3045,topped off,topped off,topping off,não,sim,finish up or conclude | fill to the point of almost overflowing,They topped off their dinner with a cognac
 top out,atingir o máximo,táp áut,TÁP · ÁUT,,B2,2517,topped out,topped out,topping out,não,sim,"give up one's career just as one becomes very successful | provide with a top or finish the top (of a structure) | to reach the highest point; attain maximum intensity, activity",The financial consultant topped out at age 40 because he was burned out
 topdress,,,,,C2,11558,topdressed,topdressed,topdressing,não,não,scatter manure or fertilizer over (land),
@@ -11131,7 +11131,7 @@ vacillate,,véssaleit,VÉ-sa-leit,ˈvæ.sə.leɪt,C2,7037,vacillated,vacillated,
 vacuum,,vékium,VÉ-kium,ˈvæ.kjuːm,C1,5078,vacuumed,vacuumed,vacuuming,não,não,clean with a vacuum cleaner,vacuum the carpets
 vacuum-clean,,vékium klín,VÉ-kium · KLÍN,,C2,8653,vacuum-cleaned,vacuum-cleaned,vacuum-cleaning,não,sim,clean with a vacuum cleaner,vacuum the carpets
 vagabond,,végaband,VÉ-ga-band,ˈvæɡ.ə.bɒnd,C2,9411,vagabonded,vagabonded,vagabonding,não,não,"move about aimlessly or without any destination, often in search of food or employment",The gypsies roamed the woods
-valet,,vélêi,vé-LÊI,ˈvæleɪ,C1,4532,valeted,valeted,valeting,não,não,serve as a personal attendant to,
+valet,manobrar carros (serviço de valet); servir como criado pessoal,vélêi,vé-LÊI,ˈvæleɪ,C1,4532,valeted,valeted,valeting,não,não,serve as a personal attendant to,
 validate,validar,véladeit,VÉ-la-deit,ˈvæl.ɪ.deɪt,B2,2648,validated,validated,validating,não,não,declare or make legally valid | prove valid; show or confirm the validity of something | give evidence for,
 valuate,,,,,C2,9076,valuated,valuated,valuating,não,não,"evaluate or estimate the nature, quality, ability, extent, or significance of",I will have the family jewels appraised by a professional
 value,valorizar,véliu,VÉL-iu,ˈvæljuː,B1,1180,valued,valued,valuing,não,não,fix or determine the value of; assign a value to | hold dear | regard highly; think much of,value the jewelry and art work in the estate
@@ -11166,7 +11166,7 @@ vend,vender,,,vɛnd,B2,2692,vended,vended,vending,não,não,sell or offer for sa
 veneer,,vanir,va-NIR,vəˈniə(ɹ),C2,8443,veneered,veneered,veneering,não,não,cover with veneer,veneer the furniture to protect it
 venerate,venerar; reverenciar,vénâreit,VÉ-nâr-eit,ˈvɛnəɹeɪt,C1,4293,venerated,venerated,venerating,não,não,regard with feelings of respect and reverence; consider hallowed or exalted or be in awe of,Fear God as your father
 venesect,,,,,C2,11577,venesected,venesected,venesecting,não,não,practice venesection,
-vent,,vént,VÉNT,,C1,4505,vented,vented,venting,não,não,give expression or utterance to | expose to cool or cold air so as to cool or freshen,She vented her anger
+vent,desabafar; extravasar; dar vazão a; ventilar,vént,VÉNT,,C1,4505,vented,vented,venting,não,não,give expression or utterance to | expose to cool or cold air so as to cool or freshen,She vented her anger
 ventilate,"ventilar; arejar; expor (opinião, queixa) publicamente",véntaleit,VÉN-ta-leit,,C1,3838,ventilated,ventilated,ventilating,não,não,expose to cool or cold air so as to cool or freshen | expose to the circulation of fresh air so as to retard spoilage | circulate through and freshen,air the old winter clothes
 venture,aventurar-se,véntchâr,VÉN-tchâr,ˈvɛn.t͡ʃɚ,B2,2499,ventured,ventured,venturing,não,não,"proceed somewhere despite the risk of possible dangers | put forward, of a guess, in spite of possible refutation | put at risk",We ventured into the world of high-tech and bought a supercomputer
 verbalise,,vârbalaiz,VÂR-ba-laiz,,C2,9337,verbalised,verbalised,verbalising,não,não,"be verbose | express in speech | articulate; either verbally or with a cry, shout, or noise",This lawyer verbalizes and is rather tedious
@@ -11399,7 +11399,7 @@ wheeze,chiar (ao respirar); respirar com dificuldade,uíz,UÍZ,ʍiːz,C1,3825,wh
 whelk,,,,,C2,9932,whelked,whelked,whelking,não,não,gather whelk,
 whelm,,,,ʍɛlm,C2,7412,whelmed,whelmed,whelming,não,não,"overcome, as with emotions or perceptual stimuli | to neither fail to meet nor exceed expectation",
 whelp,,,,wɛlp,C2,7643,whelped,whelped,whelping,não,não,give birth to (a puppy),the dog whelped
-whet,,uét,UÉT,ˈwɛt,C1,4512,whetted,whetted,whetting,não,não,"make keen or more acute | sharpen by rubbing, as on a whetstone",whet my appetite
+whet,"aguçar (apetite, curiosidade); afiar; amolar",uét,UÉT,ˈwɛt,C1,4512,whetted,whetted,whetting,não,não,"make keen or more acute | sharpen by rubbing, as on a whetstone",whet my appetite
 whicker,,uikâr,UI-kâr,ˈwɪkə,C2,9685,whickered,whickered,whickering,não,não,"make a characteristic sound, of a horse",
 whiff,sentir um cheiro leve; cheirar mal (gíria); errar o golpe (esporte),uif,UIF,,C1,4339,whiffed,whiffed,whiffing,não,não,perceive by inhaling through the nose | drive or carry as if by a puff of air | strike out by swinging and missing the pitch charged as the third,sniff the perfume
 while away,passar (o tempo),uáil auêi,UÁIL · a-UÊI,,B2,2801,whiled away,whiled away,whiling away,não,sim,"spend or pass, as with boredom or in a pleasant manner; of time",
