@@ -18,6 +18,10 @@ for l in list(string.ascii_lowercase) + ["0"]:
     fp = os.path.join(ROOT, "dados", "en", "detalhes", f"{l}.json")
     if os.path.exists(fp): DET.update(json.load(open(fp, encoding="utf-8")))
 
+sys.path.insert(0, os.path.join(ROOT, "tools"))
+from verbos_ricos import carregar as _ricos_carregar, conjugacao as _conjugacao  # noqa: E402
+RICOS = _ricos_carregar()
+
 def slug(v): return v.replace("'", "").replace(" ", "-")
 def fmt(n): return f"{n:,}".replace(",", ".")
 
@@ -335,9 +339,24 @@ for k, i in enumerate(ordem):
     rel = [x for x in por_rank[max(0, pr_idx - 6): pr_idx + 7] if x["v"] != v and x["n"] == n][:8]
     defs = "".join(f"<li lang=\"en\">{H(x)}</li>" for x in d.get("def", []))
     sil_html = fita_html(i["sil"]) if i["sil"] else '<p style="color:var(--tinta-3)">Pronúncia em revisão.</p>'
+    rc = RICOS.get(v)
+    rico_html = ""
+    if rc:
+        _usos = "".join(f"<p>{H(par)}</p>" for par in rc["uso"].split("\n\n") if par.strip())
+        _exs = "".join(f'<li><span lang="en"><button class="som" type="button" data-f="{H(a)}">{SOM}</button> {H(a)}</span><br><small style="color:var(--tinta-2)">{H(b)}</small></li>' for a, b in rc["exemplos"])
+        _conj = "".join(f'<div><h3 style="font-size:1rem;margin:14px 0 6px">{H(t)}</h3><table class="tabela" lang="en">' + "".join(f'<tr><th>{H(p_)}</th><td>{H(f_)}</td></tr>' for p_, f_ in linhas) + "</table></div>" for t, linhas in _conjugacao(v, d))
+        _dicas = "".join(f"<li>{H(x)}</li>" for x in rc["dicas"])
+        _expr = "".join(f'<tr><th lang="en">{H(a)}</th><td>{H(b)}</td></tr>' for a, b in rc["expressoes"])
+        rico_html = f"""<div class="ficha" style="margin-top:0"><section class="bloco"><h2 style="font-size:1.2rem">Como usar \u201cto {H(v)}\u201d</h2>{_usos}
+<h3 style="margin-top:16px">Exemplos com tradução</h3><ul class="lista-ex" style="list-style:none;padding:0;display:grid;gap:12px">{_exs}</ul></section>
+<section class="bloco"><h2 style="font-size:1.2rem">Dicas para brasileiros</h2><ul>{_dicas}</ul>
+<h3 style="margin-top:16px">Expressões com \u201c{H(v)}\u201d</h3><table class="tabela">{_expr}</table></section></div>
+<div class="ficha" style="margin-top:0"><section class="bloco" style="grid-column:1/-1"><h2 style="font-size:1.2rem">Conjugação completa</h2>
+<div style="display:grid;gap:4px 24px;grid-template-columns:repeat(auto-fit,minmax(160px,1fr))">{_conj}</div></section></div>
+"""
     titulo = f"{v}: significado, pronúncia e conjugação em inglês | Teia das Línguas"
     descr = (f"O que significa \"{v}\" em inglês: {sig.split(';')[0]}. " if sig else f"Verbo \"{v}\" em inglês: ") + \
-            (f"Pronúncia adaptada: {i['pr']}. " if i["pr"] else "") + f"Passado: {d.get('past','')}. Nível {n}."
+            (f"Pronúncia adaptada: {i['pr']}. " if i["pr"] else "") + f"Passado: {d.get('past','')}. Nível {n}." + (" Exemplos com tradução, conjugação completa e dicas de uso." if rc else "")
     corpo = f"""<div class="pagina"><p class="migalhas"><a href="../../dicionario.html">Dicionário</a> / <a href="../../dicionario.html?n={n}">{n}</a> / {H(v)}</p>
 <div class="ficha">
 <section class="bloco" style="padding:28px">
@@ -374,7 +393,7 @@ for k, i in enumerate(ordem):
 <div style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn peq" href="../../praticar.html?n={n}">Treinar o nível {n}</a><a class="btn sec peq" href="../../nivel/{n.lower()}.html">Gramática do {n}</a>
 <button class="btn sec peq" type="button" data-acao="sugerir" data-verbo="{H(v)}">Relatar erro</button></div>
 </section></div>
-<nav class="vizinhos" style="justify-content:space-between;margin:20px 0" aria-label="Verbos vizinhos">{f'<a href="{slug(prev_v)}.html">← {H(prev_v)}</a>' if prev_v else '<span></span>'}{f'<a href="{slug(next_v)}.html">{H(next_v)} →</a>' if next_v else ''}</nav>
+{rico_html}<nav class="vizinhos" style="justify-content:space-between;margin:20px 0" aria-label="Verbos vizinhos">{f'<a href="{slug(prev_v)}.html">← {H(prev_v)}</a>' if prev_v else '<span></span>'}{f'<a href="{slug(next_v)}.html">{H(next_v)} →</a>' if next_v else ''}</nav>
 </div>
 <script type="application/json" id="dados-verbo">{json.dumps({'v': v, 'pr': i['pr'], 'sil': i['sil']}, ensure_ascii=False)}</script>"""
     ld = {"@context": "https://schema.org", "@type": "DefinedTerm", "name": v, "description": sig or "; ".join(d.get("def", [])),
