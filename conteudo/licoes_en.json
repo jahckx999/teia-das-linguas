@@ -3534,5 +3534,119 @@
         ]
       }
     ]
+  },
+  {
+    "id": "futuro-no-passado-was-going-to-was-about-to",
+    "nivel": "C1",
+    "titulo": "Futuro no passado: was going to, was about to e was to",
+    "resumo": "Como falar de planos, intenções e destinos vistos a partir do passado: o que você ia fazer, o que estava prestes a acontecer e o que estava escrito que aconteceria.",
+    "data": "2026-11-22",
+    "blocos": [
+      {
+        "titulo": "A ideia: olhar para o futuro a partir de um ponto do passado",
+        "paragrafos": [
+          "Às vezes contamos uma história e precisamos falar de algo que, naquele momento, ainda estava no futuro. Em português resolvemos quase tudo com o \"ia\": \"eu ia viajar\", \"ela ia ligar\". O inglês tem várias formas, e cada uma traz um matiz diferente.",
+          "As principais são was/were going to (intenção ou previsão), was/were about to (algo iminente), would (futuro visto do passado, comum no discurso indireto) e was/were to (destino ou plano oficial, mais formal)."
+        ],
+        "exemplos": [
+          [
+            "I was going to call you, but my phone died.",
+            "Eu ia te ligar, mas meu celular descarregou."
+          ],
+          [
+            "She said she would help us.",
+            "Ela disse que nos ajudaria."
+          ],
+          [
+            "We were about to leave when it started to rain.",
+            "Estávamos prestes a sair quando começou a chover."
+          ]
+        ]
+      },
+      {
+        "titulo": "Was going to: planos que (muitas vezes) não deram certo",
+        "paragrafos": [
+          "Was/were going to mostra uma intenção ou previsão no passado. Muitas vezes o plano não se realizou, e a frase continua com but: \"I was going to study, but I fell asleep\". Por isso essa forma é ótima para dar desculpas com elegância.",
+          "Também serve para previsões baseadas em evidências do passado: \"The sky was dark; it was clearly going to rain\". Na fala, was going to vira \"was gonna\"."
+        ],
+        "exemplos": [
+          [
+            "We were going to buy a house, but prices went up.",
+            "Íamos comprar uma casa, mas os preços subiram."
+          ],
+          [
+            "I knew it was going to be a long day.",
+            "Eu sabia que ia ser um dia longo."
+          ],
+          [
+            "Weren't you going to quit smoking?",
+            "Você não ia parar de fumar?"
+          ]
+        ]
+      },
+      {
+        "titulo": "Was about to e was on the point of: por um triz",
+        "paragrafos": [
+          "Was/were about to + verbo indica que algo estava a ponto de acontecer, segundos ou minutos depois. É comum com when para mostrar a interrupção: \"I was about to go to bed when the doorbell rang\".",
+          "Para dar ainda mais ênfase, existe was on the point of + -ing, mais formal: \"The company was on the point of collapsing\". E was just about to reforça a ideia de que foi realmente por um triz."
+        ],
+        "exemplos": [
+          [
+            "I was just about to text you!",
+            "Eu estava prestes a te mandar mensagem!"
+          ],
+          [
+            "The plane was about to take off when the pilot stopped it.",
+            "O avião estava prestes a decolar quando o piloto o parou."
+          ],
+          [
+            "They were on the point of giving up when they found the solution.",
+            "Eles estavam a ponto de desistir quando encontraram a solução."
+          ]
+        ]
+      },
+      {
+        "titulo": "Was to e was to have: destino e planos oficiais",
+        "paragrafos": [
+          "Was/were to + verbo é uma forma mais literária ou jornalística. Ela pode indicar um plano oficial (\"The president was to arrive at noon\") ou um destino que o narrador já conhece: \"He left the village in 1920; he was never to return\" (ele nunca mais voltaria).",
+          "Com o infinitivo perfeito, was to have + particípio, a frase mostra que o plano não aconteceu: \"The wedding was to have taken place in June\" (o casamento deveria ter sido em junho, mas não foi). Essa estrutura é típica de textos formais e notícias."
+        ],
+        "exemplos": [
+          [
+            "The meeting was to start at nine, but the CEO was late.",
+            "A reunião estava marcada para as nove, mas o presidente se atrasou."
+          ],
+          [
+            "Little did she know that she was to become a famous writer.",
+            "Mal sabia ela que se tornaria uma escritora famosa."
+          ],
+          [
+            "The bridge was to have opened last year.",
+            "A ponte deveria ter sido inaugurada no ano passado."
+          ]
+        ]
+      },
+      {
+        "titulo": "Erros comuns de brasileiros",
+        "paragrafos": [
+          "Não traduza o \"ia\" sempre como would. \"Eu ia viajar, mas desisti\" é \"I was going to travel, but I changed my mind\", e não \"I would travel\", que soa como hábito ou hipótese.",
+          "Também não confunda was about to com was going to: o primeiro é iminente, o segundo é só uma intenção. E lembre que was to é formal; numa conversa de bar, prefira was going to ou was supposed to (\"deveria\")."
+        ],
+        "exemplos": [
+          [
+            "I was supposed to work today, but my boss gave me the day off.",
+            "Eu deveria trabalhar hoje, mas meu chefe me deu folga."
+          ],
+          [
+            "I would walk to school every day when I was a kid.",
+            "Eu ia a pé para a escola todo dia quando era criança."
+          ],
+          [
+            "He was going to apologize, but he never did.",
+            "Ele ia pedir desculpas, mas nunca pediu."
+          ]
+        ]
+      }
+    ]
   }
 ]
