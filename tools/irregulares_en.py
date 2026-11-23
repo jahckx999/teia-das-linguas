@@ -70,5 +70,5 @@ IRREG = {
 "rebind":("rebound","rebound"),"recast":("recast","recast"),"relay":("relayed","relayed"),"reset":("reset","reset"),"resit":("resat","resat"),
 "retake":("retook","retaken"),"rewind":("rewound","rewound"),"sightsee":("sightsaw","sightseen"),"stink":("stank","stunk"),
 "undergo":("underwent","undergone"),"underwrite":("underwrote","underwritten"),"unfreeze":("unfroze","unfrozen"),"unsay":("unsaid","unsaid"),
-"upset":("upset","upset"),"wind":("wound","wound"),"wake":("woke","woken"),
+"upset":("upset","upset"),"rerun":("reran","rerun"),"beset":("beset","beset"),"sublet":("sublet","sublet"),"underbid":("underbid","underbid"),"inset":("inset","inset"),"wind":("wound","wound"),"wake":("woke","woken"),
 }

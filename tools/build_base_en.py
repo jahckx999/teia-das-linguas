@@ -67,16 +67,32 @@ for fp in sorted(glob.glob(f"{yd}/entries-*.yaml")):
 
 # 4) conjugação básica
 VOW = "aeiou"
+# Verbos de 2+ sílabas com a última sílaba tônica (ou terminados em verbo curto) dobram a consoante final:
+# forget -> forgetting, admit -> admitted, occur -> occurred, program -> programmed (corrigido em 23/11/2026)
+DOBRA = set("""forget begin admit prefer upset forbid commit regret control occur refer submit transfer outrun reset
+transmit expel compel fulfil permit excel emit beget repel unplug confer unzip concur japan deter defer marcel propel
+inter unwrap abhor corral dispel rerun infer incur offset omit befit beset entrap patrol embed allot abut recur remit
+rebut abet impel outstrip extol distil debug enthral readmit resubmit disbar unfit imbed refit demur decontrol kidnap
+overrun input eavesdrop outbid bulldog photoshop outwit snapchat program sandbag overstep outfit handicap undercut
+format diagram hobnob chitchat underpin kneecap wiretap bebop suntan screenshot anagram sublet overlap bullshit
+underbid bootleg typeset recap jitterbug retrofit leapfrog bootstrap sidestep blacktop catnap featherbed humbug output
+bobsled backslap backlog backstop inset""".split())
+# Terminados em -c ganham k: panic -> panicking, panicked
+CK = {"panic", "mimic", "picnic", "traffic", "frolic", "shellac", "tarmac", "bivouac"}
+def _dobra(v):
+    return v in DOBRA or bool(re.fullmatch(r"[^aeiou]*[aeiou][^aeiouwxy]", v))
 def regular_past(v):
+    if v in CK: return v + "ked"
     if v.endswith("e"): return v + "d"
     if re.search(r"[^aeiou]y$", v): return v[:-1] + "ied"
-    if re.fullmatch(r"[^aeiou]*[aeiou][^aeiouwxy]", v): return v + v[-1] + "ed"
+    if _dobra(v): return v + v[-1] + "ed"
     return v + "ed"
 def ing(v):
+    if v in CK: return v + "king"
     if v.endswith("ie"): return v[:-2] + "ying"
     if v.endswith(("ee", "ye", "oe")) or v in ("be", "see", "singe"): return v + "ing"
     if v.endswith("e") and len(v) > 2: return v[:-1] + "ing"
-    if re.fullmatch(r"[^aeiou]*[aeiou][^aeiouwxy]", v): return v + v[-1] + "ing"
+    if _dobra(v): return v + v[-1] + "ing"
     return v + "ing"
 def third(v):
     if v in ("be",): return "is"
