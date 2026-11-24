@@ -3774,5 +3774,127 @@
         ]
       }
     ]
+  },
+  {
+    "id": "present-continuous-o-que-estou-fazendo-agora",
+    "nivel": "A1",
+    "titulo": "Present continuous: o que estou fazendo agora",
+    "resumo": "Aprenda a dizer o que está acontecendo neste momento: I'm working, she's sleeping, are you listening? Formação com am/is/are + -ing, regras de ortografia, negativa, perguntas e os verbos que não costumam ir para o -ing.",
+    "data": "2026-11-24",
+    "blocos": [
+      {
+        "titulo": "Estar + -ndo = am/is/are + -ing",
+        "paragrafos": [
+          "Quando o português usa \"estar\" + gerúndio (estou trabalhando, ela está dormindo), o inglês usa o verbo to be + o verbo com -ing. É o present continuous, o tempo das coisas que estão acontecendo agora.",
+          "A fórmula é simples: sujeito + am/is/are + verbo-ing. I am working, she is sleeping, they are playing. Na fala, use as contrações: I'm, she's, they're."
+        ],
+        "exemplos": [
+          [
+            "I'm working right now.",
+            "Estou trabalhando agora."
+          ],
+          [
+            "She's sleeping, don't make noise.",
+            "Ela está dormindo, não faça barulho."
+          ],
+          [
+            "The kids are playing in the park.",
+            "As crianças estão brincando no parque."
+          ],
+          [
+            "It's raining again.",
+            "Está chovendo de novo."
+          ]
+        ]
+      },
+      {
+        "titulo": "Como escrever o -ing",
+        "paragrafos": [
+          "Na maioria dos verbos é só acrescentar -ing: read → reading, eat → eating, play → playing.",
+          "Verbos que terminam em -e perdem o e: make → making, write → writing, come → coming. Verbos curtos que terminam em consoante + vogal + consoante dobram a última letra: run → running, sit → sitting, swim → swimming, stop → stopping. E -ie vira -y: lie → lying, die → dying."
+        ],
+        "exemplos": [
+          [
+            "He's making dinner.",
+            "Ele está fazendo o jantar."
+          ],
+          [
+            "We're sitting outside.",
+            "Estamos sentados lá fora."
+          ],
+          [
+            "Are you writing an email?",
+            "Você está escrevendo um e-mail?"
+          ]
+        ]
+      },
+      {
+        "titulo": "Negativa e perguntas",
+        "paragrafos": [
+          "Para negar, coloque not depois de am/is/are: I'm not listening, he isn't (is not) working, they aren't (are not) coming.",
+          "Para perguntar, inverta: o verbo to be vai para antes do sujeito. Are you listening? Is she coming? Com palavras interrogativas: What are you doing? Where are they going? As respostas curtas usam só o to be: Yes, I am. / No, she isn't."
+        ],
+        "exemplos": [
+          [
+            "What are you doing?",
+            "O que você está fazendo?"
+          ],
+          [
+            "I'm not watching TV, I'm studying.",
+            "Não estou vendo TV, estou estudando."
+          ],
+          [
+            "Is he coming to the party? No, he isn't.",
+            "Ele vai vir na festa? Não, não vai."
+          ],
+          [
+            "Where are you going?",
+            "Aonde você está indo?"
+          ]
+        ]
+      },
+      {
+        "titulo": "Agora ou sempre? Present continuous x present simple",
+        "paragrafos": [
+          "O present simple fala de rotinas e verdades (I work every day, I live in Brasília). O present continuous fala do que está acontecendo agora ou nesta fase (I'm working from home this week).",
+          "Palavras que costumam acompanhar o continuous: now, right now, at the moment, today, this week. Compare: I usually drink coffee, but today I'm drinking tea."
+        ],
+        "exemplos": [
+          [
+            "I usually walk to work, but today I'm taking the bus.",
+            "Normalmente vou a pé para o trabalho, mas hoje estou pegando o ônibus."
+          ],
+          [
+            "She works in a bank, but this month she's working from home.",
+            "Ela trabalha num banco, mas este mês está trabalhando de casa."
+          ],
+          [
+            "Look! It's snowing!",
+            "Olha! Está nevando!"
+          ]
+        ]
+      },
+      {
+        "titulo": "Verbos que quase nunca vão para o -ing",
+        "paragrafos": [
+          "Alguns verbos descrevem estados, não ações: know, like, love, want, need, understand, believe, own. Em geral eles ficam no present simple mesmo quando falamos de agora.",
+          "Por isso o certo é I know the answer (não I'm knowing), I want a coffee e Do you understand? Na fala informal às vezes se ouve I'm loving it, que chama atenção justamente por quebrar a regra."
+        ],
+        "exemplos": [
+          [
+            "I need help right now.",
+            "Preciso de ajuda agora."
+          ],
+          [
+            "Do you understand what I'm saying?",
+            "Você entende o que eu estou dizendo?"
+          ],
+          [
+            "I want a glass of water, please.",
+            "Quero um copo d'água, por favor."
+          ]
+        ]
+      }
+    ]
   }
 ]

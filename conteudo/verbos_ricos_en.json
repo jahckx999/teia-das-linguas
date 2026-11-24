@@ -1,422 +1,4551 @@
 {
 "be": {
 "uso": "\"To be\" é o verbo mais importante do inglês e equivale ao nosso \"ser\" e \"estar\" ao mesmo tempo. O contexto mostra qual dos dois sentidos se aplica: \"I am Brazilian\" (sou brasileiro) e \"I am tired\" (estou cansado) usam a mesma forma.\n\nEle também funciona como auxiliar: forma os tempos contínuos (\"I am studying\") e a voz passiva (\"The house was built in 1990\"). Além disso, o inglês usa \"to be\" em situações em que o português usa \"ter\", como idade, fome, frio e medo.",
-"exemplos": [["I am a teacher.", "Eu sou professor."], ["She is at home now.", "Ela está em casa agora."], ["We were very happy yesterday.", "Nós estávamos muito felizes ontem."], ["How old are you? I'm twenty-five.", "Quantos anos você tem? Tenho vinte e cinco."], ["Are you hungry?", "Você está com fome?"], ["The bridge was built in 1974.", "A ponte foi construída em 1974."]],
-"dicas": ["Idade, fome, sede, frio, calor, medo e sono usam \"be\" em inglês: \"I am cold\" (estou com frio), \"I'm afraid\" (tenho medo). Nunca diga \"I have 25 years\".", "Na fala, as contrações são a regra: I'm, you're, he's, we're, they're. Usar sempre a forma completa soa formal ou enfático.", "No passado, use \"was\" com I, he, she e it, e \"were\" com you, we e they. Em frases hipotéticas o padrão é \"If I were you…\" (Se eu fosse você…)."],
-"expressoes": [["be about to", "estar prestes a"], ["be supposed to", "dever (ser esperado que)"], ["be up to (someone)", "depender de (alguém)"], ["be over", "acabar, terminar"], ["be into (something)", "curtir, gostar muito de algo"]],
+"exemplos": [
+[
+"I am a teacher.",
+"Eu sou professor."
+],
+[
+"She is at home now.",
+"Ela está em casa agora."
+],
+[
+"We were very happy yesterday.",
+"Nós estávamos muito felizes ontem."
+],
+[
+"How old are you? I'm twenty-five.",
+"Quantos anos você tem? Tenho vinte e cinco."
+],
+[
+"Are you hungry?",
+"Você está com fome?"
+],
+[
+"The bridge was built in 1974.",
+"A ponte foi construída em 1974."
+]
+],
+"dicas": [
+"Idade, fome, sede, frio, calor, medo e sono usam \"be\" em inglês: \"I am cold\" (estou com frio), \"I'm afraid\" (tenho medo). Nunca diga \"I have 25 years\".",
+"Na fala, as contrações são a regra: I'm, you're, he's, we're, they're. Usar sempre a forma completa soa formal ou enfático.",
+"No passado, use \"was\" com I, he, she e it, e \"were\" com you, we e they. Em frases hipotéticas o padrão é \"If I were you…\" (Se eu fosse você…)."
+],
+"expressoes": [
+[
+"be about to",
+"estar prestes a"
+],
+[
+"be supposed to",
+"dever (ser esperado que)"
+],
+[
+"be up to (someone)",
+"depender de (alguém)"
+],
+[
+"be over",
+"acabar, terminar"
+],
+[
+"be into (something)",
+"curtir, gostar muito de algo"
+]
+],
 "data": "2026-11-21"
 },
 "have": {
 "uso": "\"To have\" significa principalmente \"ter\" ou \"possuir\". No inglês americano, \"have\" aparece com frequência com o auxiliar \"do\" nas perguntas e negativas: \"Do you have a car?\". No britânico também se ouve \"have got\" com o mesmo sentido: \"I've got a car\".\n\n\"Have\" também é auxiliar: forma o presente perfeito (\"I have seen it\") e aparece em muitas expressões de ação, como ter uma refeição (\"have lunch\"), tomar banho (\"have a shower\") e se divertir (\"have fun\").",
-"exemplos": [["I have two brothers.", "Eu tenho dois irmãos."], ["Do you have any questions?", "Você tem alguma pergunta?"], ["We had dinner at nine.", "Nós jantamos às nove."], ["She has already finished the report.", "Ela já terminou o relatório."], ["Have a good weekend!", "Tenha um bom fim de semana!"], ["I have to work tomorrow.", "Eu tenho que trabalhar amanhã."]],
-"dicas": ["\"Have to\" indica obrigação (ter que): \"I have to go\". A pronúncia na fala é \"háf-tu\".", "Refeições usam \"have\", não \"take\": \"have breakfast\", \"have lunch\", \"have dinner\".", "Para \"existe\" ou \"há\", não use \"have\": diga \"There is a problem\", e não \"Have a problem\"."],
-"expressoes": [["have fun", "divertir-se"], ["have a look", "dar uma olhada"], ["have a good time", "aproveitar, passar bem o tempo"], ["have to", "ter que, precisar"], ["have (something) done", "mandar fazer algo"]],
+"exemplos": [
+[
+"I have two brothers.",
+"Eu tenho dois irmãos."
+],
+[
+"Do you have any questions?",
+"Você tem alguma pergunta?"
+],
+[
+"We had dinner at nine.",
+"Nós jantamos às nove."
+],
+[
+"She has already finished the report.",
+"Ela já terminou o relatório."
+],
+[
+"Have a good weekend!",
+"Tenha um bom fim de semana!"
+],
+[
+"I have to work tomorrow.",
+"Eu tenho que trabalhar amanhã."
+]
+],
+"dicas": [
+"\"Have to\" indica obrigação (ter que): \"I have to go\". A pronúncia na fala é \"háf-tu\".",
+"Refeições usam \"have\", não \"take\": \"have breakfast\", \"have lunch\", \"have dinner\".",
+"Para \"existe\" ou \"há\", não use \"have\": diga \"There is a problem\", e não \"Have a problem\"."
+],
+"expressoes": [
+[
+"have fun",
+"divertir-se"
+],
+[
+"have a look",
+"dar uma olhada"
+],
+[
+"have a good time",
+"aproveitar, passar bem o tempo"
+],
+[
+"have to",
+"ter que, precisar"
+],
+[
+"have (something) done",
+"mandar fazer algo"
+]
+],
 "data": "2026-11-21"
 },
 "do": {
 "uso": "\"To do\" significa \"fazer\" no sentido de realizar uma atividade, uma tarefa ou um trabalho. Ele se diferencia de \"make\", que se refere mais a criar ou produzir algo.\n\n\"Do\" também é o principal verbo auxiliar do presente e do passado simples: aparece nas perguntas (\"Do you like coffee?\") e nas negativas (\"I don't know\"). Nesse papel, ele não tem tradução própria.",
-"exemplos": [["What do you do?", "O que você faz (profissão)?"], ["I did my homework last night.", "Eu fiz minha lição de casa ontem à noite."], ["She doesn't like spicy food.", "Ela não gosta de comida apimentada."], ["Did you call your mother?", "Você ligou para sua mãe?"], ["Can you do me a favor?", "Você pode me fazer um favor?"], ["I do want to help you.", "Eu realmente quero te ajudar."]],
-"dicas": ["Use \"do\" para tarefas e atividades (do homework, do the dishes, do exercise) e \"make\" para criar algo (make a cake, make a plan).", "Na terceira pessoa do presente o auxiliar vira \"does\" e o verbo principal volta à forma base: \"Does she work?\", e não \"Does she works?\".", "\"Do\" numa frase afirmativa dá ênfase: \"I do love you\" equivale a \"eu te amo, sim\"."],
-"expressoes": [["do the dishes", "lavar a louça"], ["do your best", "fazer o seu melhor"], ["do a favor", "fazer um favor"], ["do without", "virar-se sem algo"], ["How do you do?", "Muito prazer (formal)"]],
+"exemplos": [
+[
+"What do you do?",
+"O que você faz (profissão)?"
+],
+[
+"I did my homework last night.",
+"Eu fiz minha lição de casa ontem à noite."
+],
+[
+"She doesn't like spicy food.",
+"Ela não gosta de comida apimentada."
+],
+[
+"Did you call your mother?",
+"Você ligou para sua mãe?"
+],
+[
+"Can you do me a favor?",
+"Você pode me fazer um favor?"
+],
+[
+"I do want to help you.",
+"Eu realmente quero te ajudar."
+]
+],
+"dicas": [
+"Use \"do\" para tarefas e atividades (do homework, do the dishes, do exercise) e \"make\" para criar algo (make a cake, make a plan).",
+"Na terceira pessoa do presente o auxiliar vira \"does\" e o verbo principal volta à forma base: \"Does she work?\", e não \"Does she works?\".",
+"\"Do\" numa frase afirmativa dá ênfase: \"I do love you\" equivale a \"eu te amo, sim\"."
+],
+"expressoes": [
+[
+"do the dishes",
+"lavar a louça"
+],
+[
+"do your best",
+"fazer o seu melhor"
+],
+[
+"do a favor",
+"fazer um favor"
+],
+[
+"do without",
+"virar-se sem algo"
+],
+[
+"How do you do?",
+"Muito prazer (formal)"
+]
+],
 "data": "2026-11-21"
 },
 "get": {
 "uso": "\"To get\" é um dos verbos mais versáteis do inglês. Os sentidos básicos são \"conseguir\", \"obter\", \"receber\" e \"pegar\" (\"I got a new job\"). Seguido de adjetivo, significa \"ficar\" ou \"tornar-se\" (\"get tired\", \"get married\").\n\nCom lugares, \"get\" quer dizer \"chegar\" (\"get home\"). Com partículas, forma dezenas de phrasal verbs, como \"get up\" (levantar-se) e \"get along\" (dar-se bem). É muito usado na conversa do dia a dia.",
-"exemplos": [["I got your message.", "Recebi sua mensagem."], ["It's getting dark.", "Está ficando escuro."], ["What time did you get home?", "A que horas você chegou em casa?"], ["She got a promotion last month.", "Ela conseguiu uma promoção no mês passado."], ["I don't get it.", "Não entendi."], ["They got married in June.", "Eles se casaram em junho."]],
-"dicas": ["\"Get + adjetivo\" mostra mudança de estado: get angry (ficar bravo), get better (melhorar), get lost (se perder).", "\"I get it\" significa \"entendi\". É muito comum em conversas informais.", "O particípio é \"gotten\" nos EUA e \"got\" no Reino Unido: \"I've gotten\" (EUA) e \"I've got\" (Reino Unido)."],
-"expressoes": [["get up", "levantar-se"], ["get along (with)", "dar-se bem (com)"], ["get over", "superar"], ["get rid of", "livrar-se de"], ["get in touch", "entrar em contato"]],
+"exemplos": [
+[
+"I got your message.",
+"Recebi sua mensagem."
+],
+[
+"It's getting dark.",
+"Está ficando escuro."
+],
+[
+"What time did you get home?",
+"A que horas você chegou em casa?"
+],
+[
+"She got a promotion last month.",
+"Ela conseguiu uma promoção no mês passado."
+],
+[
+"I don't get it.",
+"Não entendi."
+],
+[
+"They got married in June.",
+"Eles se casaram em junho."
+]
+],
+"dicas": [
+"\"Get + adjetivo\" mostra mudança de estado: get angry (ficar bravo), get better (melhorar), get lost (se perder).",
+"\"I get it\" significa \"entendi\". É muito comum em conversas informais.",
+"O particípio é \"gotten\" nos EUA e \"got\" no Reino Unido: \"I've gotten\" (EUA) e \"I've got\" (Reino Unido)."
+],
+"expressoes": [
+[
+"get up",
+"levantar-se"
+],
+[
+"get along (with)",
+"dar-se bem (com)"
+],
+[
+"get over",
+"superar"
+],
+[
+"get rid of",
+"livrar-se de"
+],
+[
+"get in touch",
+"entrar em contato"
+]
+],
 "data": "2026-11-21"
 },
 "come": {
 "uso": "\"To come\" significa \"vir\" e indica movimento em direção a quem fala ou ao lugar de que se fala. O oposto é \"go\" (ir), que indica afastamento.\n\nUma diferença importante em relação ao português: quando você vai até a pessoa com quem está falando, o inglês usa \"come\". Por isso, se alguém chama você, a resposta é \"I'm coming!\" (Estou indo!), e não \"I'm going\".",
-"exemplos": [["Come here, please.", "Venha aqui, por favor."], ["She came to Brazil in 2019.", "Ela veio para o Brasil em 2019."], ["Are you coming to the party?", "Você vai à festa?"], ["I'm coming!", "Já estou indo!"], ["Where do you come from?", "De onde você é?"], ["Spring has come early this year.", "A primavera chegou cedo este ano."]],
-"dicas": ["Quando você vai em direção ao ouvinte, use \"come\": \"Can I come to your house?\" (Posso ir à sua casa?).", "O particípio é igual ao infinitivo: come, came, come. \"She has come\", e não \"has came\".", "\"Come from\" serve para dizer a origem: \"I come from Belém\" (Sou de Belém)."],
-"expressoes": [["come back", "voltar"], ["come on!", "vamos! / qual é!"], ["come up with", "ter uma ideia, inventar"], ["come across", "encontrar por acaso"], ["come true", "tornar-se realidade"]],
+"exemplos": [
+[
+"Come here, please.",
+"Venha aqui, por favor."
+],
+[
+"She came to Brazil in 2019.",
+"Ela veio para o Brasil em 2019."
+],
+[
+"Are you coming to the party?",
+"Você vai à festa?"
+],
+[
+"I'm coming!",
+"Já estou indo!"
+],
+[
+"Where do you come from?",
+"De onde você é?"
+],
+[
+"Spring has come early this year.",
+"A primavera chegou cedo este ano."
+]
+],
+"dicas": [
+"Quando você vai em direção ao ouvinte, use \"come\": \"Can I come to your house?\" (Posso ir à sua casa?).",
+"O particípio é igual ao infinitivo: come, came, come. \"She has come\", e não \"has came\".",
+"\"Come from\" serve para dizer a origem: \"I come from Belém\" (Sou de Belém)."
+],
+"expressoes": [
+[
+"come back",
+"voltar"
+],
+[
+"come on!",
+"vamos! / qual é!"
+],
+[
+"come up with",
+"ter uma ideia, inventar"
+],
+[
+"come across",
+"encontrar por acaso"
+],
+[
+"come true",
+"tornar-se realidade"
+]
+],
 "data": "2026-11-21"
 },
 "go": {
 "uso": "\"To go\" significa \"ir\" e indica movimento para longe de quem fala. É um dos verbos irregulares mais importantes: go, went, gone.\n\nO futuro próximo é muito usado com \"be going to\": \"I'm going to travel\" (Vou viajar). Antes de atividades terminadas em -ing, \"go\" expressa o ato de praticar a atividade: \"go swimming\" (ir nadar), \"go shopping\" (fazer compras).",
-"exemplos": [["Let's go to the beach.", "Vamos à praia."], ["I went to work by bus.", "Fui trabalhar de ônibus."], ["She has gone to the bank.", "Ela foi ao banco (e ainda não voltou)."], ["We're going to watch a movie tonight.", "Vamos assistir a um filme hoje à noite."], ["How's it going?", "Como vão as coisas?"], ["Do you want to go shopping?", "Você quer fazer compras?"]],
-"dicas": ["\"Go home\" não leva \"to\": \"I went home\", e não \"went to home\".", "\"Gone\" e \"been\" são diferentes: \"She has gone to Paris\" (está lá agora) e \"She has been to Paris\" (já esteve lá e voltou).", "Na fala, \"going to\" vira com frequência \"gonna\": \"I'm gonna call you\". Evite essa forma em textos formais."],
-"expressoes": [["go out", "sair (para se divertir)"], ["go on", "continuar"], ["go ahead", "pode ir, fique à vontade"], ["go back", "voltar"], ["go for it", "vá em frente, arrisque"]],
+"exemplos": [
+[
+"Let's go to the beach.",
+"Vamos à praia."
+],
+[
+"I went to work by bus.",
+"Fui trabalhar de ônibus."
+],
+[
+"She has gone to the bank.",
+"Ela foi ao banco (e ainda não voltou)."
+],
+[
+"We're going to watch a movie tonight.",
+"Vamos assistir a um filme hoje à noite."
+],
+[
+"How's it going?",
+"Como vão as coisas?"
+],
+[
+"Do you want to go shopping?",
+"Você quer fazer compras?"
+]
+],
+"dicas": [
+"\"Go home\" não leva \"to\": \"I went home\", e não \"went to home\".",
+"\"Gone\" e \"been\" são diferentes: \"She has gone to Paris\" (está lá agora) e \"She has been to Paris\" (já esteve lá e voltou).",
+"Na fala, \"going to\" vira com frequência \"gonna\": \"I'm gonna call you\". Evite essa forma em textos formais."
+],
+"expressoes": [
+[
+"go out",
+"sair (para se divertir)"
+],
+[
+"go on",
+"continuar"
+],
+[
+"go ahead",
+"pode ir, fique à vontade"
+],
+[
+"go back",
+"voltar"
+],
+[
+"go for it",
+"vá em frente, arrisque"
+]
+],
 "data": "2026-11-21"
 },
 "know": {
 "uso": "\"To know\" reúne em um só verbo o \"saber\" e o \"conhecer\" do português. Você sabe um fato (\"I know the answer\") e conhece uma pessoa ou um lugar (\"I know Maria\").\n\nPara dizer que conheceu alguém pela primeira vez, o inglês prefere \"meet\": \"I met him yesterday\" (Eu o conheci ontem). \"Know\" indica que você já conhece há algum tempo.",
-"exemplos": [["I know what you mean.", "Sei o que você quer dizer."], ["Do you know her?", "Você a conhece?"], ["I didn't know that.", "Eu não sabia disso."], ["We have known each other for years.", "Nós nos conhecemos há anos."], ["She knows how to cook.", "Ela sabe cozinhar."], ["You never know.", "Nunca se sabe."]],
-"dicas": ["O \"k\" inicial é mudo: \"know\" soa \"nôu\", igual a \"no\". O mesmo acontece em knife, knee e knock.", "\"Know how to\" significa saber fazer algo: \"I know how to swim\".", "Para dizer \"conheci\" no sentido de primeiro encontro, use \"met\": \"I met my wife in 2015\"."],
-"expressoes": [["you know", "sabe? (muleta da fala)"], ["know by heart", "saber de cor"], ["as far as I know", "até onde eu sei"], ["let (someone) know", "avisar alguém"], ["get to know", "conhecer melhor"]],
+"exemplos": [
+[
+"I know what you mean.",
+"Sei o que você quer dizer."
+],
+[
+"Do you know her?",
+"Você a conhece?"
+],
+[
+"I didn't know that.",
+"Eu não sabia disso."
+],
+[
+"We have known each other for years.",
+"Nós nos conhecemos há anos."
+],
+[
+"She knows how to cook.",
+"Ela sabe cozinhar."
+],
+[
+"You never know.",
+"Nunca se sabe."
+]
+],
+"dicas": [
+"O \"k\" inicial é mudo: \"know\" soa \"nôu\", igual a \"no\". O mesmo acontece em knife, knee e knock.",
+"\"Know how to\" significa saber fazer algo: \"I know how to swim\".",
+"Para dizer \"conheci\" no sentido de primeiro encontro, use \"met\": \"I met my wife in 2015\"."
+],
+"expressoes": [
+[
+"you know",
+"sabe? (muleta da fala)"
+],
+[
+"know by heart",
+"saber de cor"
+],
+[
+"as far as I know",
+"até onde eu sei"
+],
+[
+"let (someone) know",
+"avisar alguém"
+],
+[
+"get to know",
+"conhecer melhor"
+]
+],
 "data": "2026-11-21"
 },
 "let": {
 "uso": "\"To let\" significa \"deixar\" no sentido de permitir: \"Let me help you\" (Deixe-me ajudar você). Depois de \"let\" vem a pessoa e o verbo na forma base, sem \"to\".\n\nCom \"us\" na forma contraída \"let's\", o verbo vira um convite ou sugestão: \"Let's go!\" (Vamos!). As três formas são iguais: let, let, let.",
-"exemplos": [["Let me see.", "Deixe-me ver."], ["Let's have lunch together.", "Vamos almoçar juntos."], ["My parents let me travel alone.", "Meus pais me deixaram viajar sozinho."], ["Don't let him go.", "Não o deixe ir."], ["Let me know when you arrive.", "Me avise quando você chegar."], ["Let it be.", "Deixe estar."]],
-"dicas": ["Depois de \"let\" + pessoa, o verbo vem sem \"to\": \"Let me go\", e não \"let me to go\".", "\"Let's\" (let us) faz sugestões: \"Let's start\" (Vamos começar). A forma negativa é \"Let's not…\".", "Para \"deixar\" no sentido de largar ou abandonar, use \"leave\": \"I left my keys at home\"."],
-"expressoes": [["let go", "soltar, largar"], ["let down", "decepcionar"], ["let in", "deixar entrar"], ["let know", "avisar, informar"], ["let alone", "muito menos"]],
+"exemplos": [
+[
+"Let me see.",
+"Deixe-me ver."
+],
+[
+"Let's have lunch together.",
+"Vamos almoçar juntos."
+],
+[
+"My parents let me travel alone.",
+"Meus pais me deixaram viajar sozinho."
+],
+[
+"Don't let him go.",
+"Não o deixe ir."
+],
+[
+"Let me know when you arrive.",
+"Me avise quando você chegar."
+],
+[
+"Let it be.",
+"Deixe estar."
+]
+],
+"dicas": [
+"Depois de \"let\" + pessoa, o verbo vem sem \"to\": \"Let me go\", e não \"let me to go\".",
+"\"Let's\" (let us) faz sugestões: \"Let's start\" (Vamos começar). A forma negativa é \"Let's not…\".",
+"Para \"deixar\" no sentido de largar ou abandonar, use \"leave\": \"I left my keys at home\"."
+],
+"expressoes": [
+[
+"let go",
+"soltar, largar"
+],
+[
+"let down",
+"decepcionar"
+],
+[
+"let in",
+"deixar entrar"
+],
+[
+"let know",
+"avisar, informar"
+],
+[
+"let alone",
+"muito menos"
+]
+],
 "data": "2026-11-21"
 },
 "think": {
 "uso": "\"To think\" significa \"pensar\" e também \"achar\", no sentido de dar opinião: \"I think it's a good idea\" (Acho que é uma boa ideia).\n\nA preposição muda o sentido. \"Think about\" é refletir sobre algo. \"Think of\" é ter uma ideia ou lembrar de alguém. A forma contínua (\"I'm thinking\") é usada para o ato de pensar, mas não para opiniões.",
-"exemplos": [["I think so.", "Acho que sim."], ["What do you think about this?", "O que você acha disso?"], ["I'm thinking about changing jobs.", "Estou pensando em mudar de emprego."], ["I thought you were busy.", "Achei que você estivesse ocupado."], ["Think before you speak.", "Pense antes de falar."], ["Can you think of a better name?", "Você consegue pensar em um nome melhor?"]],
-"dicas": ["Para opinião, use o presente simples: \"I think he's right\". \"I'm thinking he's right\" soa errado.", "O \"th\" de \"think\" é sem vibração: ponha a ponta da língua entre os dentes e sopre. Evite pronunciar \"fink\" ou \"tink\".", "\"I don't think so\" é a forma natural de dizer \"acho que não\"."],
-"expressoes": [["think twice", "pensar duas vezes"], ["think over", "refletir com calma"], ["think ahead", "planejar com antecedência"], ["think outside the box", "pensar fora da caixa"], ["come to think of it", "pensando bem"]],
+"exemplos": [
+[
+"I think so.",
+"Acho que sim."
+],
+[
+"What do you think about this?",
+"O que você acha disso?"
+],
+[
+"I'm thinking about changing jobs.",
+"Estou pensando em mudar de emprego."
+],
+[
+"I thought you were busy.",
+"Achei que você estivesse ocupado."
+],
+[
+"Think before you speak.",
+"Pense antes de falar."
+],
+[
+"Can you think of a better name?",
+"Você consegue pensar em um nome melhor?"
+]
+],
+"dicas": [
+"Para opinião, use o presente simples: \"I think he's right\". \"I'm thinking he's right\" soa errado.",
+"O \"th\" de \"think\" é sem vibração: ponha a ponta da língua entre os dentes e sopre. Evite pronunciar \"fink\" ou \"tink\".",
+"\"I don't think so\" é a forma natural de dizer \"acho que não\"."
+],
+"expressoes": [
+[
+"think twice",
+"pensar duas vezes"
+],
+[
+"think over",
+"refletir com calma"
+],
+[
+"think ahead",
+"planejar com antecedência"
+],
+[
+"think outside the box",
+"pensar fora da caixa"
+],
+[
+"come to think of it",
+"pensando bem"
+]
+],
 "data": "2026-11-21"
 },
 "say": {
 "uso": "\"To say\" significa \"dizer\" e foca nas palavras que alguém falou: \"She said hello\". Na maioria dos casos, \"say\" não vem seguido diretamente da pessoa que ouve; quando ela aparece, usa-se \"to\": \"He said to me…\".\n\nÉ o verbo mais comum para relatar a fala de alguém: \"He said (that) he was tired\" (Ele disse que estava cansado).",
-"exemplos": [["What did you say?", "O que você disse?"], ["She said she would come.", "Ela disse que viria."], ["How do you say 'saudade' in English?", "Como se diz \"saudade\" em inglês?"], ["Don't say that!", "Não diga isso!"], ["He says it's going to rain.", "Ele diz que vai chover."], ["I have something to say.", "Tenho algo a dizer."]],
-"dicas": ["\"Say\" + o que foi dito e \"tell\" + pessoa: \"She said hello\" e \"She told me a secret\". Evite \"She said me\".", "\"Says\" se pronuncia \"séz\" e \"said\" se pronuncia \"séd\". A vogal muda em relação a \"say\" (\"sêi\").", "\"Say\" também serve para dar exemplo ou suposição: \"Let's meet at, say, 6 pm\" (Vamos nos ver às, digamos, 18h)."],
-"expressoes": [["that is to say", "ou seja"], ["you can say that again", "falou e disse; concordo totalmente"], ["say goodbye", "despedir-se"], ["needless to say", "nem é preciso dizer"], ["say no more", "não precisa dizer mais nada"]],
+"exemplos": [
+[
+"What did you say?",
+"O que você disse?"
+],
+[
+"She said she would come.",
+"Ela disse que viria."
+],
+[
+"How do you say 'saudade' in English?",
+"Como se diz \"saudade\" em inglês?"
+],
+[
+"Don't say that!",
+"Não diga isso!"
+],
+[
+"He says it's going to rain.",
+"Ele diz que vai chover."
+],
+[
+"I have something to say.",
+"Tenho algo a dizer."
+]
+],
+"dicas": [
+"\"Say\" + o que foi dito e \"tell\" + pessoa: \"She said hello\" e \"She told me a secret\". Evite \"She said me\".",
+"\"Says\" se pronuncia \"séz\" e \"said\" se pronuncia \"séd\". A vogal muda em relação a \"say\" (\"sêi\").",
+"\"Say\" também serve para dar exemplo ou suposição: \"Let's meet at, say, 6 pm\" (Vamos nos ver às, digamos, 18h)."
+],
+"expressoes": [
+[
+"that is to say",
+"ou seja"
+],
+[
+"you can say that again",
+"falou e disse; concordo totalmente"
+],
+[
+"say goodbye",
+"despedir-se"
+],
+[
+"needless to say",
+"nem é preciso dizer"
+],
+[
+"say no more",
+"não precisa dizer mais nada"
+]
+],
 "data": "2026-11-21"
 },
 "see": {
 "uso": "\"To see\" significa \"ver\", perceber com os olhos sem esforço. É diferente de \"look\" (olhar com intenção) e de \"watch\" (assistir, acompanhar algo em movimento).\n\n\"See\" também quer dizer \"entender\" (\"I see\" = entendo) e \"encontrar\" ou \"sair com\" alguém (\"I'm seeing a friend tonight\"). É um verbo irregular: see, saw, seen.",
-"exemplos": [["I can see the ocean from here.", "Consigo ver o mar daqui."], ["I saw her at the supermarket.", "Eu a vi no supermercado."], ["Have you seen my keys?", "Você viu minhas chaves?"], ["I see what you mean.", "Entendo o que você quer dizer."], ["See you tomorrow!", "Até amanhã!"], ["Let's see what happens.", "Vamos ver o que acontece."]],
-"dicas": ["Ver um filme, jogo ou série é \"watch\": \"watch a movie\". Já \"see a movie\" é comum para ir ao cinema.", "\"I see\" numa conversa significa \"entendi\" ou \"ah, sei\".", "Não confunda \"saw\" (passado de see) com o substantivo \"saw\" (serrote)."],
-"expressoes": [["see you (later)", "até mais"], ["see off", "despedir-se de alguém (no aeroporto, na estação)"], ["see to", "cuidar de, providenciar"], ["wait and see", "esperar para ver"], ["seeing is believing", "ver para crer"]],
+"exemplos": [
+[
+"I can see the ocean from here.",
+"Consigo ver o mar daqui."
+],
+[
+"I saw her at the supermarket.",
+"Eu a vi no supermercado."
+],
+[
+"Have you seen my keys?",
+"Você viu minhas chaves?"
+],
+[
+"I see what you mean.",
+"Entendo o que você quer dizer."
+],
+[
+"See you tomorrow!",
+"Até amanhã!"
+],
+[
+"Let's see what happens.",
+"Vamos ver o que acontece."
+]
+],
+"dicas": [
+"Ver um filme, jogo ou série é \"watch\": \"watch a movie\". Já \"see a movie\" é comum para ir ao cinema.",
+"\"I see\" numa conversa significa \"entendi\" ou \"ah, sei\".",
+"Não confunda \"saw\" (passado de see) com o substantivo \"saw\" (serrote)."
+],
+"expressoes": [
+[
+"see you (later)",
+"até mais"
+],
+[
+"see off",
+"despedir-se de alguém (no aeroporto, na estação)"
+],
+[
+"see to",
+"cuidar de, providenciar"
+],
+[
+"wait and see",
+"esperar para ver"
+],
+[
+"seeing is believing",
+"ver para crer"
+]
+],
 "data": "2026-11-21"
 },
 "tell": {
 "uso": "\"To tell\" significa \"contar\" ou \"dizer a alguém\" e, ao contrário de \"say\", normalmente vem seguido da pessoa que recebe a informação: \"Tell me the truth\" (Diga-me a verdade).\n\nTambém é usado para dar ordens indiretas (\"She told me to wait\" = Ela me disse para esperar) e com o sentido de \"perceber\" ou \"distinguir\" (\"I can't tell the difference\").",
-"exemplos": [["Tell me about your trip.", "Conte-me sobre sua viagem."], ["She told me a funny story.", "Ela me contou uma história engraçada."], ["Can you tell him I called?", "Você pode dizer a ele que eu liguei?"], ["The doctor told me to rest.", "O médico me disse para descansar."], ["I can't tell them apart.", "Não consigo diferenciá-los."], ["To tell the truth, I forgot.", "Para falar a verdade, esqueci."]],
-"dicas": ["A estrutura é \"tell + pessoa + algo\": \"tell me\", \"tell her\", \"tell us\". \"Tell to me\" está errado.", "Expressões fixas usam \"tell\": tell a story, tell a joke, tell the truth, tell a lie.", "\"Tell someone to + verbo\" é um pedido ou ordem: \"Tell him to call me\" (Diga a ele para me ligar)."],
-"expressoes": [["tell the truth", "dizer a verdade"], ["tell a lie", "contar uma mentira"], ["tell off", "dar uma bronca"], ["tell apart", "distinguir"], ["I told you so", "eu te avisei"]],
+"exemplos": [
+[
+"Tell me about your trip.",
+"Conte-me sobre sua viagem."
+],
+[
+"She told me a funny story.",
+"Ela me contou uma história engraçada."
+],
+[
+"Can you tell him I called?",
+"Você pode dizer a ele que eu liguei?"
+],
+[
+"The doctor told me to rest.",
+"O médico me disse para descansar."
+],
+[
+"I can't tell them apart.",
+"Não consigo diferenciá-los."
+],
+[
+"To tell the truth, I forgot.",
+"Para falar a verdade, esqueci."
+]
+],
+"dicas": [
+"A estrutura é \"tell + pessoa + algo\": \"tell me\", \"tell her\", \"tell us\". \"Tell to me\" está errado.",
+"Expressões fixas usam \"tell\": tell a story, tell a joke, tell the truth, tell a lie.",
+"\"Tell someone to + verbo\" é um pedido ou ordem: \"Tell him to call me\" (Diga a ele para me ligar)."
+],
+"expressoes": [
+[
+"tell the truth",
+"dizer a verdade"
+],
+[
+"tell a lie",
+"contar uma mentira"
+],
+[
+"tell off",
+"dar uma bronca"
+],
+[
+"tell apart",
+"distinguir"
+],
+[
+"I told you so",
+"eu te avisei"
+]
+],
 "data": "2026-11-21"
 },
 "take": {
 "uso": "\"To take\" tem muitos sentidos: \"pegar\" (\"Take an apple\"), \"levar\" (\"Take an umbrella\"), \"tomar\" um remédio ou um transporte (\"take the bus\") e \"demorar\" (\"It takes two hours\").\n\nAparece em várias expressões em que o português usa outros verbos, como tirar uma foto (\"take a picture\"), fazer uma prova (\"take an exam\") e fazer uma pausa (\"take a break\").",
-"exemplos": [["Take your umbrella, it's going to rain.", "Leve o guarda-chuva, vai chover."], ["I take the subway every day.", "Pego o metrô todo dia."], ["How long does it take to get there?", "Quanto tempo leva para chegar lá?"], ["Can you take a picture of us?", "Você pode tirar uma foto nossa?"], ["She took the medicine after dinner.", "Ela tomou o remédio depois do jantar."], ["Take care!", "Se cuida!"]],
-"dicas": ["Para tempo de duração, use \"it takes\": \"It takes 20 minutes\" (Leva 20 minutos).", "\"Take\" é levar para longe de quem fala e \"bring\" é trazer para perto: \"Take this to your mother\" e \"Bring me some water\".", "\"Take a shower\" (EUA) e \"have a shower\" (Reino Unido) têm o mesmo significado: tomar banho."],
-"expressoes": [["take off", "decolar; tirar (roupa)"], ["take care (of)", "cuidar (de)"], ["take part in", "participar de"], ["take it easy", "vá com calma, relaxa"], ["take place", "acontecer, ser realizado"]],
+"exemplos": [
+[
+"Take your umbrella, it's going to rain.",
+"Leve o guarda-chuva, vai chover."
+],
+[
+"I take the subway every day.",
+"Pego o metrô todo dia."
+],
+[
+"How long does it take to get there?",
+"Quanto tempo leva para chegar lá?"
+],
+[
+"Can you take a picture of us?",
+"Você pode tirar uma foto nossa?"
+],
+[
+"She took the medicine after dinner.",
+"Ela tomou o remédio depois do jantar."
+],
+[
+"Take care!",
+"Se cuida!"
+]
+],
+"dicas": [
+"Para tempo de duração, use \"it takes\": \"It takes 20 minutes\" (Leva 20 minutos).",
+"\"Take\" é levar para longe de quem fala e \"bring\" é trazer para perto: \"Take this to your mother\" e \"Bring me some water\".",
+"\"Take a shower\" (EUA) e \"have a shower\" (Reino Unido) têm o mesmo significado: tomar banho."
+],
+"expressoes": [
+[
+"take off",
+"decolar; tirar (roupa)"
+],
+[
+"take care (of)",
+"cuidar (de)"
+],
+[
+"take part in",
+"participar de"
+],
+[
+"take it easy",
+"vá com calma, relaxa"
+],
+[
+"take place",
+"acontecer, ser realizado"
+]
+],
 "data": "2026-11-21"
 },
 "make": {
 "uso": "\"To make\" significa \"fazer\" no sentido de criar, produzir ou fabricar algo que não existia: \"make a cake\" (fazer um bolo), \"make a decision\" (tomar uma decisão).\n\nTambém expressa causar uma reação (\"You make me happy\" = Você me faz feliz) ou obrigar alguém a algo (\"She made me wait\" = Ela me fez esperar). A escolha entre \"make\" e \"do\" é uma das maiores dúvidas dos brasileiros.",
-"exemplos": [["I made a cake for your birthday.", "Fiz um bolo para o seu aniversário."], ["We need to make a decision.", "Precisamos tomar uma decisão."], ["That movie made me cry.", "Aquele filme me fez chorar."], ["Don't make noise, the baby is sleeping.", "Não faça barulho, o bebê está dormindo."], ["She makes good money.", "Ela ganha bem."], ["Make yourself at home.", "Fique à vontade."]],
-"dicas": ["\"Make\" é criar ou produzir (make dinner, make a plan, make a mistake) e \"do\" é realizar uma tarefa (do homework, do the dishes).", "Depois de \"make + pessoa\", o verbo vem sem \"to\": \"He made me laugh\", e não \"made me to laugh\".", "\"Make money\" significa ganhar dinheiro. \"Make friends\" significa fazer amizades."],
-"expressoes": [["make sure", "certificar-se, garantir"], ["make up", "inventar; fazer as pazes; maquiar-se"], ["make sense", "fazer sentido"], ["make up your mind", "decidir-se"], ["make the most of", "aproveitar ao máximo"]],
+"exemplos": [
+[
+"I made a cake for your birthday.",
+"Fiz um bolo para o seu aniversário."
+],
+[
+"We need to make a decision.",
+"Precisamos tomar uma decisão."
+],
+[
+"That movie made me cry.",
+"Aquele filme me fez chorar."
+],
+[
+"Don't make noise, the baby is sleeping.",
+"Não faça barulho, o bebê está dormindo."
+],
+[
+"She makes good money.",
+"Ela ganha bem."
+],
+[
+"Make yourself at home.",
+"Fique à vontade."
+]
+],
+"dicas": [
+"\"Make\" é criar ou produzir (make dinner, make a plan, make a mistake) e \"do\" é realizar uma tarefa (do homework, do the dishes).",
+"Depois de \"make + pessoa\", o verbo vem sem \"to\": \"He made me laugh\", e não \"made me to laugh\".",
+"\"Make money\" significa ganhar dinheiro. \"Make friends\" significa fazer amizades."
+],
+"expressoes": [
+[
+"make sure",
+"certificar-se, garantir"
+],
+[
+"make up",
+"inventar; fazer as pazes; maquiar-se"
+],
+[
+"make sense",
+"fazer sentido"
+],
+[
+"make up your mind",
+"decidir-se"
+],
+[
+"make the most of",
+"aproveitar ao máximo"
+]
+],
 "data": "2026-11-21"
 },
 "give": {
 "uso": "\"To give\" significa \"dar\" ou \"entregar\". Pode ser usado de duas formas: \"give + pessoa + coisa\" (\"Give me the book\") ou \"give + coisa + to + pessoa\" (\"Give the book to me\").\n\nTambém aparece em ações como dar um abraço (\"give a hug\"), dar uma palestra (\"give a talk\") e dar uma carona (\"give a ride\"). É irregular: give, gave, given.",
-"exemplos": [["Can you give me a hand?", "Você pode me dar uma mão?"], ["She gave me a beautiful gift.", "Ela me deu um presente lindo."], ["I'll give you a call tomorrow.", "Te ligo amanhã."], ["They have given us a discount.", "Eles nos deram um desconto."], ["Give it a try!", "Experimente!"], ["Don't give up.", "Não desista."]],
-"dicas": ["Sem \"to\", a pessoa vem logo depois de \"give\": \"Give me the key\". Com \"to\", a pessoa vai para o fim: \"Give the key to me\".", "\"Give up\" significa desistir ou largar um hábito: \"I gave up smoking\" (Parei de fumar).", "\"Give a call\" e \"give a ring\" significam telefonar. São muito comuns na fala."],
-"expressoes": [["give up", "desistir"], ["give back", "devolver"], ["give in", "ceder, render-se"], ["give a hand", "dar uma mão, ajudar"], ["give away", "dar de presente; revelar (um segredo)"]],
+"exemplos": [
+[
+"Can you give me a hand?",
+"Você pode me dar uma mão?"
+],
+[
+"She gave me a beautiful gift.",
+"Ela me deu um presente lindo."
+],
+[
+"I'll give you a call tomorrow.",
+"Te ligo amanhã."
+],
+[
+"They have given us a discount.",
+"Eles nos deram um desconto."
+],
+[
+"Give it a try!",
+"Experimente!"
+],
+[
+"Don't give up.",
+"Não desista."
+]
+],
+"dicas": [
+"Sem \"to\", a pessoa vem logo depois de \"give\": \"Give me the key\". Com \"to\", a pessoa vai para o fim: \"Give the key to me\".",
+"\"Give up\" significa desistir ou largar um hábito: \"I gave up smoking\" (Parei de fumar).",
+"\"Give a call\" e \"give a ring\" significam telefonar. São muito comuns na fala."
+],
+"expressoes": [
+[
+"give up",
+"desistir"
+],
+[
+"give back",
+"devolver"
+],
+[
+"give in",
+"ceder, render-se"
+],
+[
+"give a hand",
+"dar uma mão, ajudar"
+],
+[
+"give away",
+"dar de presente; revelar (um segredo)"
+]
+],
 "data": "2026-11-21"
 },
 "thank": {
 "uso": "\"To thank\" significa \"agradecer\" e vem seguido diretamente da pessoa: \"I want to thank you\" (Quero agradecer a você). O motivo do agradecimento vem com \"for\": \"Thank you for your help\".\n\nNo dia a dia, \"thank you\" e a forma informal \"thanks\" são as maneiras mais comuns de agradecer. Diferente de muitos verbos, aqui não existe preposição entre o verbo e a pessoa.",
-"exemplos": [["Thank you very much!", "Muito obrigado!"], ["Thanks for coming.", "Obrigado por ter vindo."], ["I'd like to thank everyone who helped.", "Gostaria de agradecer a todos que ajudaram."], ["She thanked me for the flowers.", "Ela me agradeceu pelas flores."], ["Thank God it's Friday!", "Graças a Deus é sexta-feira!"], ["No, thank you.", "Não, obrigado."]],
-"dicas": ["Não use preposição antes da pessoa: \"thank you\" e \"thank him\". \"Thank to you\" está errado.", "O motivo vem com \"for\" + substantivo ou verbo com -ing: \"Thanks for the advice\" e \"Thanks for helping me\".", "Respostas comuns a \"thank you\": \"You're welcome\", \"No problem\" e \"My pleasure\" (formal, \"foi um prazer\")."],
-"expressoes": [["thanks a lot", "muito obrigado"], ["thanks in advance", "desde já, obrigado"], ["thank goodness", "ainda bem, graças a Deus"], ["thanks to", "graças a (por causa de)"], ["no thanks to you", "não graças a você (irônico)"]],
+"exemplos": [
+[
+"Thank you very much!",
+"Muito obrigado!"
+],
+[
+"Thanks for coming.",
+"Obrigado por ter vindo."
+],
+[
+"I'd like to thank everyone who helped.",
+"Gostaria de agradecer a todos que ajudaram."
+],
+[
+"She thanked me for the flowers.",
+"Ela me agradeceu pelas flores."
+],
+[
+"Thank God it's Friday!",
+"Graças a Deus é sexta-feira!"
+],
+[
+"No, thank you.",
+"Não, obrigado."
+]
+],
+"dicas": [
+"Não use preposição antes da pessoa: \"thank you\" e \"thank him\". \"Thank to you\" está errado.",
+"O motivo vem com \"for\" + substantivo ou verbo com -ing: \"Thanks for the advice\" e \"Thanks for helping me\".",
+"Respostas comuns a \"thank you\": \"You're welcome\", \"No problem\" e \"My pleasure\" (formal, \"foi um prazer\")."
+],
+"expressoes": [
+[
+"thanks a lot",
+"muito obrigado"
+],
+[
+"thanks in advance",
+"desde já, obrigado"
+],
+[
+"thank goodness",
+"ainda bem, graças a Deus"
+],
+[
+"thanks to",
+"graças a (por causa de)"
+],
+[
+"no thanks to you",
+"não graças a você (irônico)"
+]
+],
 "data": "2026-11-21"
 },
 "put": {
 "uso": "\"To put\" significa \"colocar\" ou \"pôr\" algo em algum lugar: \"Put the keys on the table\". As três formas são iguais (put, put, put), e só o contexto mostra se a frase está no presente ou no passado.\n\nCom partículas, forma phrasal verbs muito usados, como vestir uma roupa (\"put on\"), apagar um fogo (\"put out\") e adiar algo (\"put off\").",
-"exemplos": [["Put your bag here.", "Coloque sua bolsa aqui."], ["I put the milk in the fridge.", "Coloquei o leite na geladeira."], ["Put on your jacket, it's cold.", "Vista o casaco, está frio."], ["Don't put off until tomorrow what you can do today.", "Não deixe para amanhã o que você pode fazer hoje."], ["She put a lot of effort into this project.", "Ela se dedicou muito a esse projeto."], ["How can I put it?", "Como posso dizer isso?"]],
-"dicas": ["Como as formas são iguais, preste atenção aos indicadores de tempo: \"I put it there yesterday\" (passado) e \"I always put it there\" (presente).", "\"Put on\" é vestir e \"take off\" é tirar: \"Put on your shoes\" e \"Take off your shoes\".", "A grafia da forma com -ing dobra o T: \"putting\"."],
-"expressoes": [["put on", "vestir; ganhar (peso)"], ["put off", "adiar"], ["put up with", "tolerar, aguentar"], ["put away", "guardar"], ["put out", "apagar (fogo, cigarro)"]],
+"exemplos": [
+[
+"Put your bag here.",
+"Coloque sua bolsa aqui."
+],
+[
+"I put the milk in the fridge.",
+"Coloquei o leite na geladeira."
+],
+[
+"Put on your jacket, it's cold.",
+"Vista o casaco, está frio."
+],
+[
+"Don't put off until tomorrow what you can do today.",
+"Não deixe para amanhã o que você pode fazer hoje."
+],
+[
+"She put a lot of effort into this project.",
+"Ela se dedicou muito a esse projeto."
+],
+[
+"How can I put it?",
+"Como posso dizer isso?"
+]
+],
+"dicas": [
+"Como as formas são iguais, preste atenção aos indicadores de tempo: \"I put it there yesterday\" (passado) e \"I always put it there\" (presente).",
+"\"Put on\" é vestir e \"take off\" é tirar: \"Put on your shoes\" e \"Take off your shoes\".",
+"A grafia da forma com -ing dobra o T: \"putting\"."
+],
+"expressoes": [
+[
+"put on",
+"vestir; ganhar (peso)"
+],
+[
+"put off",
+"adiar"
+],
+[
+"put up with",
+"tolerar, aguentar"
+],
+[
+"put away",
+"guardar"
+],
+[
+"put out",
+"apagar (fogo, cigarro)"
+]
+],
 "data": "2026-11-21"
 },
 "happen": {
 "uso": "\"To happen\" significa \"acontecer\" ou \"ocorrer\". É um verbo regular (happen, happened, happened) e quase sempre aparece sem objeto: algo simplesmente acontece.\n\nPara dizer que algo aconteceu com alguém, use \"happen to\": \"What happened to you?\" (O que aconteceu com você?). Com \"to\" + verbo, significa \"por acaso\": \"I happened to see her\" (Por acaso eu a vi).",
-"exemplos": [["What happened?", "O que aconteceu?"], ["Accidents happen.", "Acidentes acontecem."], ["What's happening here?", "O que está acontecendo aqui?"], ["It happened a long time ago.", "Aconteceu há muito tempo."], ["Do you happen to know her number?", "Você por acaso sabe o número dela?"], ["Whatever happens, I'll be there.", "Aconteça o que acontecer, estarei lá."]],
-"dicas": ["\"Happen\" não tem voz passiva: diga \"It happened\", e não \"It was happened\".", "Para a pessoa afetada, use \"to\": \"Something happened to my car\" (Aconteceu algo com o meu carro).", "A sílaba forte é a primeira: HÉ-pen. Não fale \"ha-PÊN\"."],
-"expressoes": [["as it happens", "por acaso, na verdade"], ["happen to (do)", "fazer algo por acaso"], ["these things happen", "essas coisas acontecem"], ["whatever happens", "aconteça o que acontecer"], ["make it happen", "fazer acontecer"]],
+"exemplos": [
+[
+"What happened?",
+"O que aconteceu?"
+],
+[
+"Accidents happen.",
+"Acidentes acontecem."
+],
+[
+"What's happening here?",
+"O que está acontecendo aqui?"
+],
+[
+"It happened a long time ago.",
+"Aconteceu há muito tempo."
+],
+[
+"Do you happen to know her number?",
+"Você por acaso sabe o número dela?"
+],
+[
+"Whatever happens, I'll be there.",
+"Aconteça o que acontecer, estarei lá."
+]
+],
+"dicas": [
+"\"Happen\" não tem voz passiva: diga \"It happened\", e não \"It was happened\".",
+"Para a pessoa afetada, use \"to\": \"Something happened to my car\" (Aconteceu algo com o meu carro).",
+"A sílaba forte é a primeira: HÉ-pen. Não fale \"ha-PÊN\"."
+],
+"expressoes": [
+[
+"as it happens",
+"por acaso, na verdade"
+],
+[
+"happen to (do)",
+"fazer algo por acaso"
+],
+[
+"these things happen",
+"essas coisas acontecem"
+],
+[
+"whatever happens",
+"aconteça o que acontecer"
+],
+[
+"make it happen",
+"fazer acontecer"
+]
+],
 "data": "2026-11-21"
 },
 "look": {
 "uso": "\"To look\" significa \"olhar\", dirigir o olhar com intenção. Para indicar o que se olha, usa-se \"at\": \"Look at me\" (Olhe para mim). Também significa \"parecer\" quando vem seguido de adjetivo: \"You look tired\" (Você parece cansado).\n\nCom outras preposições, forma phrasal verbs essenciais, como procurar (\"look for\"), cuidar (\"look after\") e esperar ansiosamente (\"look forward to\").",
-"exemplos": [["Look at this picture!", "Olhe esta foto!"], ["I'm looking for my phone.", "Estou procurando meu celular."], ["You look great today.", "Você está ótimo hoje."], ["It looks like it's going to rain.", "Parece que vai chover."], ["Can you look after my dog this weekend?", "Você pode cuidar do meu cachorro neste fim de semana?"], ["I'm looking forward to seeing you.", "Estou ansioso para te ver."]],
-"dicas": ["Para indicar o que se olha, use \"look at\": \"Look at the sky\". \"Look the sky\" está errado.", "\"Look + adjetivo\" é aparência: \"She looks happy\". Já \"look like + substantivo\" é semelhança: \"He looks like his father\".", "Depois de \"look forward to\" o verbo vai com -ing: \"I look forward to hearing from you\"."],
-"expressoes": [["look for", "procurar"], ["look after", "cuidar de"], ["look forward to", "aguardar ansiosamente"], ["look up", "pesquisar (num dicionário, na internet)"], ["look out!", "cuidado!"]],
+"exemplos": [
+[
+"Look at this picture!",
+"Olhe esta foto!"
+],
+[
+"I'm looking for my phone.",
+"Estou procurando meu celular."
+],
+[
+"You look great today.",
+"Você está ótimo hoje."
+],
+[
+"It looks like it's going to rain.",
+"Parece que vai chover."
+],
+[
+"Can you look after my dog this weekend?",
+"Você pode cuidar do meu cachorro neste fim de semana?"
+],
+[
+"I'm looking forward to seeing you.",
+"Estou ansioso para te ver."
+]
+],
+"dicas": [
+"Para indicar o que se olha, use \"look at\": \"Look at the sky\". \"Look the sky\" está errado.",
+"\"Look + adjetivo\" é aparência: \"She looks happy\". Já \"look like + substantivo\" é semelhança: \"He looks like his father\".",
+"Depois de \"look forward to\" o verbo vai com -ing: \"I look forward to hearing from you\"."
+],
+"expressoes": [
+[
+"look for",
+"procurar"
+],
+[
+"look after",
+"cuidar de"
+],
+[
+"look forward to",
+"aguardar ansiosamente"
+],
+[
+"look up",
+"pesquisar (num dicionário, na internet)"
+],
+[
+"look out!",
+"cuidado!"
+]
+],
 "data": "2026-11-21"
 },
 "leave": {
 "uso": "\"To leave\" significa \"sair\" ou \"partir\" de um lugar (\"I leave work at six\") e também \"deixar\" algo ou alguém em algum lugar (\"I left my wallet at home\").\n\nTambém expressa abandonar ou terminar uma relação (\"She left her job\"). É irregular: leave, left, left. Repare que \"left\" também significa \"esquerda\".",
-"exemplos": [["What time does the train leave?", "A que horas o trem sai?"], ["I left my keys in the car.", "Deixei as chaves no carro."], ["Please leave a message.", "Por favor, deixe um recado."], ["He left the company last year.", "Ele saiu da empresa no ano passado."], ["Leave me alone!", "Me deixe em paz!"], ["There's no coffee left.", "Não sobrou café."]],
-"dicas": ["Não confunda \"leave\" (deixar algo, sair) com \"let\" (permitir): \"Leave the door open\" e \"Let me in\".", "Sair de um lugar não leva preposição: \"I left the office\", e não \"left from the office\". Já o destino usa \"for\": \"She left for London\".", "\"Left\" como adjetivo significa \"restante\": \"How much time is left?\" (Quanto tempo resta?)."],
-"expressoes": [["leave alone", "deixar em paz"], ["leave out", "deixar de fora, omitir"], ["leave behind", "deixar para trás"], ["take it or leave it", "é pegar ou largar"], ["on leave", "de licença"]],
+"exemplos": [
+[
+"What time does the train leave?",
+"A que horas o trem sai?"
+],
+[
+"I left my keys in the car.",
+"Deixei as chaves no carro."
+],
+[
+"Please leave a message.",
+"Por favor, deixe um recado."
+],
+[
+"He left the company last year.",
+"Ele saiu da empresa no ano passado."
+],
+[
+"Leave me alone!",
+"Me deixe em paz!"
+],
+[
+"There's no coffee left.",
+"Não sobrou café."
+]
+],
+"dicas": [
+"Não confunda \"leave\" (deixar algo, sair) com \"let\" (permitir): \"Leave the door open\" e \"Let me in\".",
+"Sair de um lugar não leva preposição: \"I left the office\", e não \"left from the office\". Já o destino usa \"for\": \"She left for London\".",
+"\"Left\" como adjetivo significa \"restante\": \"How much time is left?\" (Quanto tempo resta?)."
+],
+"expressoes": [
+[
+"leave alone",
+"deixar em paz"
+],
+[
+"leave out",
+"deixar de fora, omitir"
+],
+[
+"leave behind",
+"deixar para trás"
+],
+[
+"take it or leave it",
+"é pegar ou largar"
+],
+[
+"on leave",
+"de licença"
+]
+],
 "data": "2026-11-21"
 },
 "hear": {
 "uso": "\"Hear\" é ouvir no sentido de perceber um som, mesmo sem querer: o som chega até você. Já \"listen\" é escutar com atenção, de propósito. Por isso dizemos \"I heard a noise\" (ouvi um barulho), mas \"I'm listening to music\" (estou escutando música).\n\n\"Hear\" também significa ficar sabendo de algo: \"I heard you got a new job\" (fiquei sabendo que você arrumou um emprego novo). Por ser um verbo de percepção, normalmente não é usado no contínuo: diga \"I can hear you\", e não \"I'm hearing you\".",
-"exemplos": [["Can you hear me?", "Você está me ouvindo?"], ["I heard a strange noise last night.", "Ouvi um barulho estranho ontem à noite."], ["Have you heard the news?", "Você ficou sabendo da notícia?"], ["I've never heard of that band.", "Nunca ouvi falar dessa banda."], ["We haven't heard from him since March.", "Não temos notícias dele desde março."], ["The case will be heard by the Supreme Court next month.", "O caso será julgado pelo Supremo Tribunal no mês que vem."]],
-"dicas": ["Para dizer que consegue ouvir algo agora, use \"can\": \"I can hear the rain\". Evite \"I'm hearing the rain\".", "\"Hear of\" é ouvir falar de algo ou alguém; \"hear from\" é ter notícias, receber contato: \"Did you hear from Ana?\" (Teve notícias da Ana?).", "O passado \"heard\" se pronuncia /hârd/, rimando com \"bird\", e não como \"hear\" + d.", "Depois de \"hear\" + objeto, use o verbo sem \"to\" para a ação completa (\"I heard her leave\") ou com -ing para a ação em andamento (\"I heard her singing\")."],
-"expressoes": [["hear of", "ouvir falar de"], ["hear from (someone)", "ter notícias de (alguém)"], ["hear (someone) out", "ouvir (alguém) até o fim"], ["I hear you", "entendo o que você diz; te entendo"], ["hear things", "estar imaginando coisas (ouvir o que não existe)"]],
+"exemplos": [
+[
+"Can you hear me?",
+"Você está me ouvindo?"
+],
+[
+"I heard a strange noise last night.",
+"Ouvi um barulho estranho ontem à noite."
+],
+[
+"Have you heard the news?",
+"Você ficou sabendo da notícia?"
+],
+[
+"I've never heard of that band.",
+"Nunca ouvi falar dessa banda."
+],
+[
+"We haven't heard from him since March.",
+"Não temos notícias dele desde março."
+],
+[
+"The case will be heard by the Supreme Court next month.",
+"O caso será julgado pelo Supremo Tribunal no mês que vem."
+]
+],
+"dicas": [
+"Para dizer que consegue ouvir algo agora, use \"can\": \"I can hear the rain\". Evite \"I'm hearing the rain\".",
+"\"Hear of\" é ouvir falar de algo ou alguém; \"hear from\" é ter notícias, receber contato: \"Did you hear from Ana?\" (Teve notícias da Ana?).",
+"O passado \"heard\" se pronuncia /hârd/, rimando com \"bird\", e não como \"hear\" + d.",
+"Depois de \"hear\" + objeto, use o verbo sem \"to\" para a ação completa (\"I heard her leave\") ou com -ing para a ação em andamento (\"I heard her singing\")."
+],
+"expressoes": [
+[
+"hear of",
+"ouvir falar de"
+],
+[
+"hear from (someone)",
+"ter notícias de (alguém)"
+],
+[
+"hear (someone) out",
+"ouvir (alguém) até o fim"
+],
+[
+"I hear you",
+"entendo o que você diz; te entendo"
+],
+[
+"hear things",
+"estar imaginando coisas (ouvir o que não existe)"
+]
+],
 "data": "2026-11-22"
 },
 "want": {
 "uso": "\"Want\" é querer e é bem mais direto do que em português. Em pedidos, \"I want a coffee\" pode soar seco ou infantil; o educado é \"I'd like a coffee\" ou \"Could I have a coffee?\".\n\nQuando o desejo envolve outra ação, use \"want to + verbo\": \"I want to travel\". Quando é sobre outra pessoa, a estrutura é \"want + pessoa + to + verbo\", e nunca \"want that\": \"I want you to come\" (quero que você venha). Em linguagem informal, \"want to\" vira \"wanna\" na fala.",
-"exemplos": [["I want a new phone.", "Eu quero um celular novo."], ["Do you want to go to the beach?", "Você quer ir à praia?"], ["She wanted to be a doctor when she was a child.", "Ela queria ser médica quando era criança."], ["My parents want me to study abroad.", "Meus pais querem que eu estude fora."], ["You don't want to miss this show.", "Você não vai querer perder esse show."], ["The suspect is wanted by the police in three states.", "O suspeito é procurado pela polícia em três estados."]],
-"dicas": ["Nunca diga \"I want that you come\". O certo é \"I want you to come\": pessoa + to + verbo.", "Para pedir algo em restaurante ou loja, prefira \"I'd like…\" ou \"Can I get…?\". \"I want…\" soa exigente.", "\"You don't want to…\" é uma forma comum de dar um conselho ou aviso: \"You don't want to be late\" (é melhor você não se atrasar).", "\"Want\" quase nunca vai para o contínuo: diga \"I want\", e não \"I'm wanting\"."],
-"expressoes": [["want out", "querer cair fora (informal)"], ["want in", "querer participar, querer entrar (informal)"], ["for want of", "por falta de"], ["wanted (dead or alive)", "procurado (vivo ou morto)"], ["what do you want with…?", "o que você quer com…?"]],
+"exemplos": [
+[
+"I want a new phone.",
+"Eu quero um celular novo."
+],
+[
+"Do you want to go to the beach?",
+"Você quer ir à praia?"
+],
+[
+"She wanted to be a doctor when she was a child.",
+"Ela queria ser médica quando era criança."
+],
+[
+"My parents want me to study abroad.",
+"Meus pais querem que eu estude fora."
+],
+[
+"You don't want to miss this show.",
+"Você não vai querer perder esse show."
+],
+[
+"The suspect is wanted by the police in three states.",
+"O suspeito é procurado pela polícia em três estados."
+]
+],
+"dicas": [
+"Nunca diga \"I want that you come\". O certo é \"I want you to come\": pessoa + to + verbo.",
+"Para pedir algo em restaurante ou loja, prefira \"I'd like…\" ou \"Can I get…?\". \"I want…\" soa exigente.",
+"\"You don't want to…\" é uma forma comum de dar um conselho ou aviso: \"You don't want to be late\" (é melhor você não se atrasar).",
+"\"Want\" quase nunca vai para o contínuo: diga \"I want\", e não \"I'm wanting\"."
+],
+"expressoes": [
+[
+"want out",
+"querer cair fora (informal)"
+],
+[
+"want in",
+"querer participar, querer entrar (informal)"
+],
+[
+"for want of",
+"por falta de"
+],
+[
+"wanted (dead or alive)",
+"procurado (vivo ou morto)"
+],
+[
+"what do you want with…?",
+"o que você quer com…?"
+]
+],
 "data": "2026-11-22"
 },
 "win": {
 "uso": "\"Win\" é ganhar ou vencer uma competição, um jogo, uma eleição ou um prêmio. Em português usamos \"ganhar\" para quase tudo, mas em inglês há uma divisão importante: você \"wins\" um jogo ou um prêmio, mas \"beats\" o adversário. Diga \"We won the game\" ou \"We beat them\", nunca \"We won them\".\n\nTambém não se usa \"win\" para dinheiro de salário ou presente: aí é \"earn\" (ganhar trabalhando) ou \"get\" (receber). \"Win\" aparece ainda em sentido figurado: conquistar apoio, confiança ou o coração de alguém.",
-"exemplos": [["Who won the game?", "Quem ganhou o jogo?"], ["Brazil has won the World Cup five times.", "O Brasil já ganhou a Copa do Mundo cinco vezes."], ["She won first prize in the photo contest.", "Ela ganhou o primeiro prêmio no concurso de fotografia."], ["You can't win them all.", "Não dá para ganhar todas."], ["The candidate is trying to win the support of young voters.", "O candidato está tentando conquistar o apoio dos eleitores jovens."], ["If we had trained harder, we would have won.", "Se tivéssemos treinado mais, teríamos vencido."]],
-"dicas": ["Vence-se a disputa, não a pessoa: \"win the match\", mas \"beat the other team\".", "Salário se \"earn\": \"How much do you earn?\" (quanto você ganha?). \"Win\" é só para sorte ou competição.", "As formas irregulares são win, won, won. \"Won\" se pronuncia igual a \"one\" (/uân/)."],
-"expressoes": [["win over", "conquistar, convencer (alguém)"], ["win-win", "em que todos ganham"], ["win by a nose", "ganhar por um triz"], ["win hands down", "ganhar com facilidade, de lavada"], ["no-win situation", "situação sem saída, em que não há como ganhar"]],
+"exemplos": [
+[
+"Who won the game?",
+"Quem ganhou o jogo?"
+],
+[
+"Brazil has won the World Cup five times.",
+"O Brasil já ganhou a Copa do Mundo cinco vezes."
+],
+[
+"She won first prize in the photo contest.",
+"Ela ganhou o primeiro prêmio no concurso de fotografia."
+],
+[
+"You can't win them all.",
+"Não dá para ganhar todas."
+],
+[
+"The candidate is trying to win the support of young voters.",
+"O candidato está tentando conquistar o apoio dos eleitores jovens."
+],
+[
+"If we had trained harder, we would have won.",
+"Se tivéssemos treinado mais, teríamos vencido."
+]
+],
+"dicas": [
+"Vence-se a disputa, não a pessoa: \"win the match\", mas \"beat the other team\".",
+"Salário se \"earn\": \"How much do you earn?\" (quanto você ganha?). \"Win\" é só para sorte ou competição.",
+"As formas irregulares são win, won, won. \"Won\" se pronuncia igual a \"one\" (/uân/)."
+],
+"expressoes": [
+[
+"win over",
+"conquistar, convencer (alguém)"
+],
+[
+"win-win",
+"em que todos ganham"
+],
+[
+"win by a nose",
+"ganhar por um triz"
+],
+[
+"win hands down",
+"ganhar com facilidade, de lavada"
+],
+[
+"no-win situation",
+"situação sem saída, em que não há como ganhar"
+]
+],
 "data": "2026-11-22"
 },
 "find": {
 "uso": "\"Find\" é encontrar ou achar algo, seja procurando, seja por acaso. Diferente de \"meet\", que é encontrar pessoas (conhecer ou se reunir), \"find\" é para objetos, informações, soluções e lugares: \"I can't find my keys\".\n\nMuito útil para brasileiros é o uso de \"find\" para dar opinião: \"I find this book boring\" significa \"acho este livro chato\". Nesse sentido, \"find\" mostra uma impressão pessoal baseada na experiência. E \"find out\" é descobrir uma informação.",
-"exemplos": [["I can't find my glasses.", "Não consigo achar meus óculos."], ["Did you find a parking space?", "Você achou uma vaga para estacionar?"], ["We found a great restaurant near the hotel.", "Encontramos um restaurante ótimo perto do hotel."], ["I find it hard to wake up early.", "Acho difícil acordar cedo."], ["She found out the truth last week.", "Ela descobriu a verdade semana passada."], ["The jury found him not guilty.", "O júri o considerou inocente."]],
-"dicas": ["Pessoas você \"meet\"; coisas e informações você \"find\". \"Vou encontrar meus amigos\" é \"I'm meeting my friends\".", "Para opinião baseada em experiência, use \"find + objeto + adjetivo\": \"I found the movie funny\". Repare que não precisa de \"to be\".", "\"Find out\" é descobrir uma informação; \"discover\" é mais para descobertas científicas ou algo que ninguém sabia."],
-"expressoes": [["find out", "descobrir, ficar sabendo"], ["find your way", "achar o caminho"], ["find fault with", "botar defeito em"], ["find your feet", "se adaptar, se ambientar"], ["find it in yourself to", "ter coragem ou disposição para"]],
+"exemplos": [
+[
+"I can't find my glasses.",
+"Não consigo achar meus óculos."
+],
+[
+"Did you find a parking space?",
+"Você achou uma vaga para estacionar?"
+],
+[
+"We found a great restaurant near the hotel.",
+"Encontramos um restaurante ótimo perto do hotel."
+],
+[
+"I find it hard to wake up early.",
+"Acho difícil acordar cedo."
+],
+[
+"She found out the truth last week.",
+"Ela descobriu a verdade semana passada."
+],
+[
+"The jury found him not guilty.",
+"O júri o considerou inocente."
+]
+],
+"dicas": [
+"Pessoas você \"meet\"; coisas e informações você \"find\". \"Vou encontrar meus amigos\" é \"I'm meeting my friends\".",
+"Para opinião baseada em experiência, use \"find + objeto + adjetivo\": \"I found the movie funny\". Repare que não precisa de \"to be\".",
+"\"Find out\" é descobrir uma informação; \"discover\" é mais para descobertas científicas ou algo que ninguém sabia."
+],
+"expressoes": [
+[
+"find out",
+"descobrir, ficar sabendo"
+],
+[
+"find your way",
+"achar o caminho"
+],
+[
+"find fault with",
+"botar defeito em"
+],
+[
+"find your feet",
+"se adaptar, se ambientar"
+],
+[
+"find it in yourself to",
+"ter coragem ou disposição para"
+]
+],
 "data": "2026-11-22"
 },
 "ask": {
 "uso": "\"Ask\" tem dois sentidos principais: perguntar (\"ask a question\") e pedir (\"ask for help\"). Repare que quem pergunta \"asks someone\" diretamente, sem preposição: \"I asked my teacher\", e não \"I asked to my teacher\".\n\nPara pedir uma coisa, use \"ask for\": \"She asked for the bill\" (ela pediu a conta). Para pedir que alguém faça algo, use \"ask + pessoa + to + verbo\": \"He asked me to wait\". Em perguntas indiretas, a ordem volta a ser de afirmação: \"She asked where I lived\".",
-"exemplos": [["Can I ask you a question?", "Posso te fazer uma pergunta?"], ["He asked for a glass of water.", "Ele pediu um copo d'água."], ["My boss asked me to stay late.", "Meu chefe me pediu para ficar até mais tarde."], ["She asked me where I was from.", "Ela me perguntou de onde eu era."], ["If you need anything, just ask.", "Se precisar de alguma coisa, é só pedir."], ["They are asking too much for that apartment.", "Eles estão pedindo caro demais por esse apartamento."]],
-"dicas": ["Não use \"to\" depois de \"ask\": \"ask your mother\", e não \"ask to your mother\".", "\"Fazer uma pergunta\" é \"ask a question\", nunca \"make a question\".", "Em perguntas indiretas não há inversão: \"Can you tell me where the station is?\", e não \"where is the station\".", "\"Ask\" é pedir a alguém; \"order\" é pedir em restaurante ou fazer pedido de compra."],
-"expressoes": [["ask for", "pedir (algo)"], ["ask (someone) out", "chamar (alguém) para sair"], ["ask around", "perguntar por aí"], ["ask for trouble", "procurar encrenca"], ["if you ask me", "se quer saber a minha opinião"]],
+"exemplos": [
+[
+"Can I ask you a question?",
+"Posso te fazer uma pergunta?"
+],
+[
+"He asked for a glass of water.",
+"Ele pediu um copo d'água."
+],
+[
+"My boss asked me to stay late.",
+"Meu chefe me pediu para ficar até mais tarde."
+],
+[
+"She asked me where I was from.",
+"Ela me perguntou de onde eu era."
+],
+[
+"If you need anything, just ask.",
+"Se precisar de alguma coisa, é só pedir."
+],
+[
+"They are asking too much for that apartment.",
+"Eles estão pedindo caro demais por esse apartamento."
+]
+],
+"dicas": [
+"Não use \"to\" depois de \"ask\": \"ask your mother\", e não \"ask to your mother\".",
+"\"Fazer uma pergunta\" é \"ask a question\", nunca \"make a question\".",
+"Em perguntas indiretas não há inversão: \"Can you tell me where the station is?\", e não \"where is the station\".",
+"\"Ask\" é pedir a alguém; \"order\" é pedir em restaurante ou fazer pedido de compra."
+],
+"expressoes": [
+[
+"ask for",
+"pedir (algo)"
+],
+[
+"ask (someone) out",
+"chamar (alguém) para sair"
+],
+[
+"ask around",
+"perguntar por aí"
+],
+[
+"ask for trouble",
+"procurar encrenca"
+],
+[
+"if you ask me",
+"se quer saber a minha opinião"
+]
+],
 "data": "2026-11-22"
 },
 "try": {
 "uso": "\"Try\" é tentar ou experimentar. Com \"try to + verbo\", a ideia é fazer um esforço para algo difícil: \"I'm trying to sleep\". Com \"try + verbo-ing\", a ideia é testar uma alternativa para ver se funciona: \"Try restarting the computer\" (experimenta reiniciar o computador).\n\nPara comida e roupa, \"try\" também resolve: \"try the cake\" (provar o bolo) e \"try on a jacket\" (experimentar uma jaqueta). No ambiente jurídico, \"try\" significa julgar alguém em um tribunal.",
-"exemplos": [["I'll try my best.", "Vou fazer o meu melhor."], ["Have you ever tried Thai food?", "Você já experimentou comida tailandesa?"], ["She tried to call you, but your phone was off.", "Ela tentou te ligar, mas seu celular estava desligado."], ["Can I try these shoes on?", "Posso experimentar estes sapatos?"], ["If the app freezes, try closing it and opening it again.", "Se o aplicativo travar, experimente fechá-lo e abri-lo de novo."], ["He was tried for fraud and acquitted.", "Ele foi julgado por fraude e absolvido."]],
-"dicas": ["\"Try to do\" = esforçar-se para conseguir; \"try doing\" = testar uma solução. Essa diferença aparece muito em provas.", "Roupa se experimenta com \"try on\"; o objeto pode ir no meio: \"try it on\".", "Na fala informal, \"try and\" é comum no lugar de \"try to\": \"Try and relax\".", "\"Try\" no passado é \"tried\": o y vira i antes de -ed."],
-"expressoes": [["try on", "experimentar (roupa)"], ["try out", "testar; fazer teste para (time, papel)"], ["give it a try", "dar uma chance, tentar"], ["try your luck", "tentar a sorte"], ["try someone's patience", "testar a paciência de alguém"]],
+"exemplos": [
+[
+"I'll try my best.",
+"Vou fazer o meu melhor."
+],
+[
+"Have you ever tried Thai food?",
+"Você já experimentou comida tailandesa?"
+],
+[
+"She tried to call you, but your phone was off.",
+"Ela tentou te ligar, mas seu celular estava desligado."
+],
+[
+"Can I try these shoes on?",
+"Posso experimentar estes sapatos?"
+],
+[
+"If the app freezes, try closing it and opening it again.",
+"Se o aplicativo travar, experimente fechá-lo e abri-lo de novo."
+],
+[
+"He was tried for fraud and acquitted.",
+"Ele foi julgado por fraude e absolvido."
+]
+],
+"dicas": [
+"\"Try to do\" = esforçar-se para conseguir; \"try doing\" = testar uma solução. Essa diferença aparece muito em provas.",
+"Roupa se experimenta com \"try on\"; o objeto pode ir no meio: \"try it on\".",
+"Na fala informal, \"try and\" é comum no lugar de \"try to\": \"Try and relax\".",
+"\"Try\" no passado é \"tried\": o y vira i antes de -ed."
+],
+"expressoes": [
+[
+"try on",
+"experimentar (roupa)"
+],
+[
+"try out",
+"testar; fazer teste para (time, papel)"
+],
+[
+"give it a try",
+"dar uma chance, tentar"
+],
+[
+"try your luck",
+"tentar a sorte"
+],
+[
+"try someone's patience",
+"testar a paciência de alguém"
+]
+],
 "data": "2026-11-22"
 },
 "work": {
 "uso": "\"Work\" é trabalhar, mas também funcionar, e esse segundo sentido é muito usado: \"My phone doesn't work\" (meu celular não funciona), \"The plan worked\" (o plano deu certo).\n\nComo substantivo, \"work\" é incontável: diga \"I have a lot of work\", e não \"a lot of works\". Para falar do emprego, \"job\" é contável: \"I have a new job\". Atenção às preposições: \"work for\" uma empresa, \"work at\" um lugar, \"work in\" uma área, \"work on\" um projeto.",
-"exemplos": [["I work in a bank.", "Eu trabalho num banco."], ["The elevator isn't working.", "O elevador não está funcionando."], ["She has worked for Google since 2020.", "Ela trabalha no Google desde 2020."], ["We're working on a new website.", "Estamos trabalhando num site novo."], ["Don't worry, it'll all work out.", "Não se preocupe, vai dar tudo certo."], ["I couldn't work out how to open the box.", "Não consegui descobrir como abrir a caixa."]],
-"dicas": ["Para \"não funciona\", use \"doesn't work\". Evite traduzir para \"doesn't function\", que soa técnico.", "\"Work\" como substantivo é incontável; o emprego em si é \"a job\".", "\"Work out\" tem três usos comuns: malhar (\"I work out at the gym\"), dar certo e descobrir ou calcular algo.", "Diga \"I go to work\" sem artigo: \"I go to the work\" está errado."],
-"expressoes": [["work out", "malhar; dar certo; descobrir, calcular"], ["work on", "trabalhar em, dedicar-se a"], ["work from home", "trabalhar de casa"], ["work like a charm", "funcionar perfeitamente"], ["work your way up", "subir na vida aos poucos, crescer na carreira"]],
+"exemplos": [
+[
+"I work in a bank.",
+"Eu trabalho num banco."
+],
+[
+"The elevator isn't working.",
+"O elevador não está funcionando."
+],
+[
+"She has worked for Google since 2020.",
+"Ela trabalha no Google desde 2020."
+],
+[
+"We're working on a new website.",
+"Estamos trabalhando num site novo."
+],
+[
+"Don't worry, it'll all work out.",
+"Não se preocupe, vai dar tudo certo."
+],
+[
+"I couldn't work out how to open the box.",
+"Não consegui descobrir como abrir a caixa."
+]
+],
+"dicas": [
+"Para \"não funciona\", use \"doesn't work\". Evite traduzir para \"doesn't function\", que soa técnico.",
+"\"Work\" como substantivo é incontável; o emprego em si é \"a job\".",
+"\"Work out\" tem três usos comuns: malhar (\"I work out at the gym\"), dar certo e descobrir ou calcular algo.",
+"Diga \"I go to work\" sem artigo: \"I go to the work\" está errado."
+],
+"expressoes": [
+[
+"work out",
+"malhar; dar certo; descobrir, calcular"
+],
+[
+"work on",
+"trabalhar em, dedicar-se a"
+],
+[
+"work from home",
+"trabalhar de casa"
+],
+[
+"work like a charm",
+"funcionar perfeitamente"
+],
+[
+"work your way up",
+"subir na vida aos poucos, crescer na carreira"
+]
+],
 "data": "2026-11-22"
 },
 "call": {
 "uso": "\"Call\" é ligar (telefonar), chamar e também dar nome. Para telefonar, a pessoa vem direto, sem preposição: \"Call me tomorrow\". Para chamar alguém em voz alta ou chamar um serviço: \"call a doctor\", \"call a taxi\".\n\nNo sentido de dar nome, \"call\" corresponde ao nosso \"chamar de\": \"Everybody calls him Beto\". Para perguntar o nome de algo, diga \"What do you call this in English?\". Em reuniões e no esporte, \"call\" ainda pode significar decidir ou convocar: \"call a meeting\".",
-"exemplos": [["I'll call you later.", "Eu te ligo mais tarde."], ["What's your dog called?", "Como se chama o seu cachorro?"], ["Somebody call an ambulance!", "Alguém chame uma ambulância!"], ["We called her name, but she didn't hear us.", "Chamamos o nome dela, mas ela não nos ouviu."], ["The game was called off because of the storm.", "O jogo foi cancelado por causa da tempestade."], ["The CEO has called a meeting for Monday morning.", "O diretor-presidente convocou uma reunião para segunda de manhã."]],
-"dicas": ["Sem preposição: \"call your mother\", e não \"call to your mother\".", "\"Como se chama isso?\" é \"What is this called?\" ou \"What do you call this?\", e não \"How do you call this?\".", "\"Call back\" é retornar a ligação; \"call off\" é cancelar um evento.", "\"Call\" também é substantivo: \"make a call\" (fazer uma ligação), \"give me a call\" (me liga)."],
-"expressoes": [["call back", "retornar a ligação"], ["call off", "cancelar"], ["call it a day", "encerrar o expediente, parar por hoje"], ["call the shots", "dar as cartas, mandar"], ["close call", "por um triz, quase acidente"]],
+"exemplos": [
+[
+"I'll call you later.",
+"Eu te ligo mais tarde."
+],
+[
+"What's your dog called?",
+"Como se chama o seu cachorro?"
+],
+[
+"Somebody call an ambulance!",
+"Alguém chame uma ambulância!"
+],
+[
+"We called her name, but she didn't hear us.",
+"Chamamos o nome dela, mas ela não nos ouviu."
+],
+[
+"The game was called off because of the storm.",
+"O jogo foi cancelado por causa da tempestade."
+],
+[
+"The CEO has called a meeting for Monday morning.",
+"O diretor-presidente convocou uma reunião para segunda de manhã."
+]
+],
+"dicas": [
+"Sem preposição: \"call your mother\", e não \"call to your mother\".",
+"\"Como se chama isso?\" é \"What is this called?\" ou \"What do you call this?\", e não \"How do you call this?\".",
+"\"Call back\" é retornar a ligação; \"call off\" é cancelar um evento.",
+"\"Call\" também é substantivo: \"make a call\" (fazer uma ligação), \"give me a call\" (me liga)."
+],
+"expressoes": [
+[
+"call back",
+"retornar a ligação"
+],
+[
+"call off",
+"cancelar"
+],
+[
+"call it a day",
+"encerrar o expediente, parar por hoje"
+],
+[
+"call the shots",
+"dar as cartas, mandar"
+],
+[
+"close call",
+"por um triz, quase acidente"
+]
+],
 "data": "2026-11-22"
 },
 "kill": {
 "uso": "\"Kill\" é matar, tanto pessoas e animais quanto, em sentido figurado, ideias, planos, motores e até o tempo. \"Kill time\" é matar o tempo, exatamente como em português.\n\nNa linguagem informal, \"kill\" aparece de formas que confundem: \"My feet are killing me\" (meus pés estão me matando de dor) e \"You killed it!\" (você arrasou!). Para mortes em acidentes, o inglês usa muito a passiva: \"Three people were killed in the crash\".",
-"exemplos": [["Smoking can kill you.", "Fumar pode te matar."], ["We killed time at the airport playing cards.", "Matamos o tempo no aeroporto jogando cartas."], ["Two people were killed in the accident.", "Duas pessoas morreram no acidente."], ["My back is killing me.", "Minhas costas estão me matando."], ["Wow, you killed it on stage last night!", "Uau, você arrasou no palco ontem à noite!"], ["The board killed the project before it even started.", "A diretoria enterrou o projeto antes mesmo de começar."]],
-"dicas": ["Em notícias, \"was/were killed\" é a forma natural de dizer que alguém morreu de forma violenta ou em acidente.", "\"Kill it\" ou \"kill\" em contexto de apresentação, prova ou show é elogio: arrasar, mandar muito bem.", "\"Kill the lights\" ou \"kill the engine\" significa apagar as luzes ou desligar o motor, uso informal."],
-"expressoes": [["kill time", "matar o tempo"], ["kill two birds with one stone", "matar dois coelhos com uma cajadada só"], ["kill off", "exterminar; eliminar (personagem, produto)"], ["it wouldn't kill you to…", "não ia te matar…; custava…?"], ["dressed to kill", "vestido para arrasar"]],
+"exemplos": [
+[
+"Smoking can kill you.",
+"Fumar pode te matar."
+],
+[
+"We killed time at the airport playing cards.",
+"Matamos o tempo no aeroporto jogando cartas."
+],
+[
+"Two people were killed in the accident.",
+"Duas pessoas morreram no acidente."
+],
+[
+"My back is killing me.",
+"Minhas costas estão me matando."
+],
+[
+"Wow, you killed it on stage last night!",
+"Uau, você arrasou no palco ontem à noite!"
+],
+[
+"The board killed the project before it even started.",
+"A diretoria enterrou o projeto antes mesmo de começar."
+]
+],
+"dicas": [
+"Em notícias, \"was/were killed\" é a forma natural de dizer que alguém morreu de forma violenta ou em acidente.",
+"\"Kill it\" ou \"kill\" em contexto de apresentação, prova ou show é elogio: arrasar, mandar muito bem.",
+"\"Kill the lights\" ou \"kill the engine\" significa apagar as luzes ou desligar o motor, uso informal."
+],
+"expressoes": [
+[
+"kill time",
+"matar o tempo"
+],
+[
+"kill two birds with one stone",
+"matar dois coelhos com uma cajadada só"
+],
+[
+"kill off",
+"exterminar; eliminar (personagem, produto)"
+],
+[
+"it wouldn't kill you to…",
+"não ia te matar…; custava…?"
+],
+[
+"dressed to kill",
+"vestido para arrasar"
+]
+],
 "data": "2026-11-22"
 },
 "bring": {
 "uso": "\"Bring\" é trazer: mover algo ou alguém em direção ao lugar onde está quem fala (ou onde estará). O oposto é \"take\", levar para outro lugar. \"Bring your umbrella\" (traga o guarda-chuva, para cá) versus \"Take your umbrella\" (leve o guarda-chuva, quando sair).\n\nEm sentido figurado, \"bring\" significa causar ou provocar: \"Money doesn't always bring happiness\". Há também muitos phrasal verbs úteis, como \"bring up\" (criar filhos ou mencionar um assunto) e \"bring back\" (trazer de volta, inclusive lembranças).",
-"exemplos": [["Can you bring me a glass of water?", "Você pode me trazer um copo d'água?"], ["Don't forget to bring your passport.", "Não esqueça de trazer seu passaporte."], ["She brought her boyfriend to the party.", "Ela trouxe o namorado à festa."], ["This song brings back so many memories.", "Essa música traz tantas lembranças."], ["I was brought up by my grandparents.", "Fui criado pelos meus avós."], ["Why did you have to bring up politics at dinner?", "Por que você tinha que tocar no assunto política no jantar?"]],
-"dicas": ["Pense na direção: para cá = \"bring\"; para lá = \"take\". \"Take the kids to school\", \"bring the kids home\".", "O passado é \"brought\" (pronuncia-se /brót/), e não \"bringed\". Não confunda com \"bought\" (comprou).", "\"Bring up\" tem dois sentidos: criar (filhos) e mencionar (um assunto). O contexto decide."],
-"expressoes": [["bring up", "criar (filhos); mencionar (um assunto)"], ["bring back", "trazer de volta; reviver (lembranças)"], ["bring about", "provocar, causar"], ["bring (something) to an end", "pôr fim a algo"], ["bring home the bacon", "ganhar o pão, sustentar a casa"]],
+"exemplos": [
+[
+"Can you bring me a glass of water?",
+"Você pode me trazer um copo d'água?"
+],
+[
+"Don't forget to bring your passport.",
+"Não esqueça de trazer seu passaporte."
+],
+[
+"She brought her boyfriend to the party.",
+"Ela trouxe o namorado à festa."
+],
+[
+"This song brings back so many memories.",
+"Essa música traz tantas lembranças."
+],
+[
+"I was brought up by my grandparents.",
+"Fui criado pelos meus avós."
+],
+[
+"Why did you have to bring up politics at dinner?",
+"Por que você tinha que tocar no assunto política no jantar?"
+]
+],
+"dicas": [
+"Pense na direção: para cá = \"bring\"; para lá = \"take\". \"Take the kids to school\", \"bring the kids home\".",
+"O passado é \"brought\" (pronuncia-se /brót/), e não \"bringed\". Não confunda com \"bought\" (comprou).",
+"\"Bring up\" tem dois sentidos: criar (filhos) e mencionar (um assunto). O contexto decide."
+],
+"expressoes": [
+[
+"bring up",
+"criar (filhos); mencionar (um assunto)"
+],
+[
+"bring back",
+"trazer de volta; reviver (lembranças)"
+],
+[
+"bring about",
+"provocar, causar"
+],
+[
+"bring (something) to an end",
+"pôr fim a algo"
+],
+[
+"bring home the bacon",
+"ganhar o pão, sustentar a casa"
+]
+],
 "data": "2026-11-22"
 },
 "keep": {
 "uso": "\"Keep\" tem três ideias centrais: guardar ou ficar com algo (\"keep the change\"), manter algo num estado (\"keep the door closed\") e continuar fazendo algo, com o verbo em -ing (\"keep walking\"). Essa última estrutura é a que mais falta no repertório do brasileiro: \"keep + -ing\" traduz o nosso \"continuar\" e o nosso \"ficar\" de repetição: \"He keeps calling me\" (ele fica me ligando).\n\nTambém aparece em promessas e segredos: \"keep a promise\", \"keep a secret\".",
-"exemplos": [["Keep the change.", "Pode ficar com o troco."], ["Please keep the door closed.", "Por favor, mantenha a porta fechada."], ["Keep going, you're almost there!", "Continue, você está quase lá!"], ["My neighbor keeps parking in my spot.", "Meu vizinho vive estacionando na minha vaga."], ["Can you keep a secret?", "Você sabe guardar segredo?"], ["Sorry to have kept you waiting.", "Desculpe por ter te deixado esperando."]],
-"dicas": ["\"Keep + verbo-ing\" = continuar fazendo ou ficar repetindo. Nunca use \"keep to do\".", "\"Keep\" é irregular: keep, kept, kept.", "\"Keep up with\" é acompanhar o ritmo de algo ou alguém; \"keep in touch\" é manter contato."],
-"expressoes": [["keep in touch", "manter contato"], ["keep up with", "acompanhar (o ritmo, as notícias)"], ["keep an eye on", "ficar de olho em"], ["keep (something) to yourself", "guardar (algo) para si"], ["keep it up", "continue assim"]],
+"exemplos": [
+[
+"Keep the change.",
+"Pode ficar com o troco."
+],
+[
+"Please keep the door closed.",
+"Por favor, mantenha a porta fechada."
+],
+[
+"Keep going, you're almost there!",
+"Continue, você está quase lá!"
+],
+[
+"My neighbor keeps parking in my spot.",
+"Meu vizinho vive estacionando na minha vaga."
+],
+[
+"Can you keep a secret?",
+"Você sabe guardar segredo?"
+],
+[
+"Sorry to have kept you waiting.",
+"Desculpe por ter te deixado esperando."
+]
+],
+"dicas": [
+"\"Keep + verbo-ing\" = continuar fazendo ou ficar repetindo. Nunca use \"keep to do\".",
+"\"Keep\" é irregular: keep, kept, kept.",
+"\"Keep up with\" é acompanhar o ritmo de algo ou alguém; \"keep in touch\" é manter contato."
+],
+"expressoes": [
+[
+"keep in touch",
+"manter contato"
+],
+[
+"keep up with",
+"acompanhar (o ritmo, as notícias)"
+],
+[
+"keep an eye on",
+"ficar de olho em"
+],
+[
+"keep (something) to yourself",
+"guardar (algo) para si"
+],
+[
+"keep it up",
+"continue assim"
+]
+],
 "data": "2026-11-22"
 },
 "lose": {
 "uso": "\"Lose\" é perder: objetos, jogos, pessoas, peso, a paciência, o emprego. Em português usamos \"perder\" também para ônibus, aulas e oportunidades, mas aí o inglês troca para \"miss\": \"I missed the bus\" (perdi o ônibus), e não \"I lost the bus\".\n\nCuidado com a grafia: \"lose\" (verbo, com um o, pronuncia-se /lúz/) é diferente de \"loose\" (adjetivo, solto ou folgado, /lús/). Até nativos confundem por escrito.",
-"exemplos": [["I lost my wallet on the subway.", "Perdi minha carteira no metrô."], ["Our team lost the final 2–1.", "Nosso time perdeu a final por 2 a 1."], ["She has lost a lot of weight.", "Ela emagreceu bastante."], ["Don't lose your temper with the kids.", "Não perca a paciência com as crianças."], ["He lost his job when the factory closed.", "Ele perdeu o emprego quando a fábrica fechou."], ["We got lost on the way to the hotel.", "Nós nos perdemos no caminho para o hotel."]],
-"dicas": ["Ônibus, voo, aula ou chance que passou: use \"miss\". \"Lose\" é para algo que você tinha e deixou de ter.", "\"Perder-se\" (no caminho) é \"get lost\". Atenção: \"Get lost!\" sozinho também é \"some daqui!\".", "Não confunda \"lose\" (perder) com \"loose\" (solto, folgado)."],
-"expressoes": [["get lost", "perder-se; (grosseiro) some daqui"], ["lose weight", "emagrecer, perder peso"], ["lose track of", "perder a noção de; perder o contato com"], ["lose your mind", "perder a cabeça, enlouquecer"], ["lose touch", "perder o contato"]],
+"exemplos": [
+[
+"I lost my wallet on the subway.",
+"Perdi minha carteira no metrô."
+],
+[
+"Our team lost the final 2–1.",
+"Nosso time perdeu a final por 2 a 1."
+],
+[
+"She has lost a lot of weight.",
+"Ela emagreceu bastante."
+],
+[
+"Don't lose your temper with the kids.",
+"Não perca a paciência com as crianças."
+],
+[
+"He lost his job when the factory closed.",
+"Ele perdeu o emprego quando a fábrica fechou."
+],
+[
+"We got lost on the way to the hotel.",
+"Nós nos perdemos no caminho para o hotel."
+]
+],
+"dicas": [
+"Ônibus, voo, aula ou chance que passou: use \"miss\". \"Lose\" é para algo que você tinha e deixou de ter.",
+"\"Perder-se\" (no caminho) é \"get lost\". Atenção: \"Get lost!\" sozinho também é \"some daqui!\".",
+"Não confunda \"lose\" (perder) com \"loose\" (solto, folgado)."
+],
+"expressoes": [
+[
+"get lost",
+"perder-se; (grosseiro) some daqui"
+],
+[
+"lose weight",
+"emagrecer, perder peso"
+],
+[
+"lose track of",
+"perder a noção de; perder o contato com"
+],
+[
+"lose your mind",
+"perder a cabeça, enlouquecer"
+],
+[
+"lose touch",
+"perder o contato"
+]
+],
 "data": "2026-11-22"
 },
 "believe": {
 "uso": "\"Believe\" é acreditar ou crer. Há uma diferença útil entre \"believe someone\" (acreditar no que a pessoa diz) e \"believe in someone\" (confiar na pessoa, ter fé nela): \"I believe you\" é \"acredito em você, no que você disse\"; \"I believe in you\" é \"eu confio em você, no seu potencial\".\n\n\"Believe in\" também vale para existência ou valores: \"believe in God\", \"believe in ghosts\", \"believe in hard work\". Em contextos formais, \"I believe…\" é uma forma educada de dar opinião, mais suave do que \"I think\".",
-"exemplos": [["I don't believe you.", "Não acredito em você."], ["Do you believe in ghosts?", "Você acredita em fantasmas?"], ["I can't believe it's already December!", "Não acredito que já é dezembro!"], ["My parents always believed in me.", "Meus pais sempre acreditaram em mim."], ["I believe the meeting starts at ten.", "Acredito que a reunião começa às dez."], ["The painting is believed to be worth millions.", "Acredita-se que o quadro valha milhões."]],
-"dicas": ["\"Believe you\" = acredito no que você diz; \"believe in you\" = confio em você.", "\"Believe it or not\" (acredite se quiser) é um ótimo conector para contar algo surpreendente.", "A estrutura \"is believed to + verbo\" é muito usada em notícias para dizer \"acredita-se que\"."],
-"expressoes": [["believe it or not", "acredite se quiser"], ["make believe", "faz de conta"], ["seeing is believing", "ver para crer"], ["I can't believe my eyes", "não acredito no que estou vendo"], ["would you believe it?", "dá para acreditar?"]],
+"exemplos": [
+[
+"I don't believe you.",
+"Não acredito em você."
+],
+[
+"Do you believe in ghosts?",
+"Você acredita em fantasmas?"
+],
+[
+"I can't believe it's already December!",
+"Não acredito que já é dezembro!"
+],
+[
+"My parents always believed in me.",
+"Meus pais sempre acreditaram em mim."
+],
+[
+"I believe the meeting starts at ten.",
+"Acredito que a reunião começa às dez."
+],
+[
+"The painting is believed to be worth millions.",
+"Acredita-se que o quadro valha milhões."
+]
+],
+"dicas": [
+"\"Believe you\" = acredito no que você diz; \"believe in you\" = confio em você.",
+"\"Believe it or not\" (acredite se quiser) é um ótimo conector para contar algo surpreendente.",
+"A estrutura \"is believed to + verbo\" é muito usada em notícias para dizer \"acredita-se que\"."
+],
+"expressoes": [
+[
+"believe it or not",
+"acredite se quiser"
+],
+[
+"make believe",
+"faz de conta"
+],
+[
+"seeing is believing",
+"ver para crer"
+],
+[
+"I can't believe my eyes",
+"não acredito no que estou vendo"
+],
+[
+"would you believe it?",
+"dá para acreditar?"
+]
+],
 "data": "2026-11-22"
 },
 "understand": {
 "uso": "\"Understand\" é entender ou compreender, seja uma língua, uma explicação ou uma pessoa. É um verbo de estado, então quase nunca aparece no contínuo: diga \"I understand\", e não \"I'm understanding\".\n\nEm conversas, \"I understand\" mostra empatia (entendo como você se sente). Já em contextos formais, \"I understand that…\" significa \"fui informado de que…\": \"I understand you want to cancel your order\". Para dizer que não entendeu, o natural é \"Sorry, I don't understand\" ou \"I didn't get that\".",
-"exemplos": [["Do you understand Spanish?", "Você entende espanhol?"], ["I'm sorry, I don't understand the question.", "Desculpe, não entendi a pergunta."], ["She understood everything the teacher said.", "Ela entendeu tudo o que a professora disse."], ["I understand how you feel.", "Eu entendo como você se sente."], ["I understand you're moving to Lisbon.", "Fiquei sabendo que você vai se mudar para Lisboa."], ["It's important to make yourself understood.", "É importante se fazer entender."]],
-"dicas": ["Evite \"I'm understanding\". Para mostrar que está acompanhando, diga \"I see\" ou \"Got it\".", "\"Understand\" é irregular: understand, understood, understood (segue o padrão de \"stand\").", "\"Make yourself understood\" é se fazer entender, ótimo para falar de comunicação em outra língua."],
-"expressoes": [["make yourself understood", "se fazer entender"], ["it's my understanding that…", "pelo que eu entendi…"], ["understand each other", "se entender"], ["give (someone) to understand", "dar a entender a (alguém)"], ["understandably", "compreensivelmente, com razão"]],
+"exemplos": [
+[
+"Do you understand Spanish?",
+"Você entende espanhol?"
+],
+[
+"I'm sorry, I don't understand the question.",
+"Desculpe, não entendi a pergunta."
+],
+[
+"She understood everything the teacher said.",
+"Ela entendeu tudo o que a professora disse."
+],
+[
+"I understand how you feel.",
+"Eu entendo como você se sente."
+],
+[
+"I understand you're moving to Lisbon.",
+"Fiquei sabendo que você vai se mudar para Lisboa."
+],
+[
+"It's important to make yourself understood.",
+"É importante se fazer entender."
+]
+],
+"dicas": [
+"Evite \"I'm understanding\". Para mostrar que está acompanhando, diga \"I see\" ou \"Got it\".",
+"\"Understand\" é irregular: understand, understood, understood (segue o padrão de \"stand\").",
+"\"Make yourself understood\" é se fazer entender, ótimo para falar de comunicação em outra língua."
+],
+"expressoes": [
+[
+"make yourself understood",
+"se fazer entender"
+],
+[
+"it's my understanding that…",
+"pelo que eu entendi…"
+],
+[
+"understand each other",
+"se entender"
+],
+[
+"give (someone) to understand",
+"dar a entender a (alguém)"
+],
+[
+"understandably",
+"compreensivelmente, com razão"
+]
+],
 "data": "2026-11-22"
 },
 "run": {
 "uso": "\"Run\" é correr, mas tem dezenas de usos. Um dos mais importantes nos negócios é administrar ou comandar: \"She runs a small company\". Também significa funcionar ou estar ligado (\"The engine is running\"), passar ou circular (\"The bus runs every ten minutes\") e se candidatar (\"run for president\").\n\nCom phrasal verbs, \"run\" fica ainda mais rico: \"run out of\" (ficar sem), \"run into\" (topar com alguém) e \"run late\" (estar atrasado). Vale aprender esses blocos inteiros.",
-"exemplos": [["I run in the park every morning.", "Eu corro no parque toda manhã."], ["He ran to catch the bus.", "Ele correu para pegar o ônibus."], ["My aunt runs a bakery in Recife.", "Minha tia administra uma padaria em Recife."], ["We've run out of milk.", "Acabou o leite."], ["I ran into an old friend at the mall.", "Encontrei um velho amigo por acaso no shopping."], ["She is running for mayor next year.", "Ela vai se candidatar a prefeita no ano que vem."]],
-"dicas": ["\"Run\" é irregular de um jeito curioso: run, ran, run. O particípio é igual ao infinitivo: \"I have run\".", "\"Run out of\" é o jeito natural de dizer que algo acabou: \"We ran out of coffee\".", "Para dizer que está atrasado no caminho, use \"I'm running late\"."],
-"expressoes": [["run out of", "ficar sem, esgotar"], ["run into", "topar com, encontrar por acaso"], ["run late", "estar atrasado"], ["in the long run", "a longo prazo"], ["run in the family", "ser de família"]],
+"exemplos": [
+[
+"I run in the park every morning.",
+"Eu corro no parque toda manhã."
+],
+[
+"He ran to catch the bus.",
+"Ele correu para pegar o ônibus."
+],
+[
+"My aunt runs a bakery in Recife.",
+"Minha tia administra uma padaria em Recife."
+],
+[
+"We've run out of milk.",
+"Acabou o leite."
+],
+[
+"I ran into an old friend at the mall.",
+"Encontrei um velho amigo por acaso no shopping."
+],
+[
+"She is running for mayor next year.",
+"Ela vai se candidatar a prefeita no ano que vem."
+]
+],
+"dicas": [
+"\"Run\" é irregular de um jeito curioso: run, ran, run. O particípio é igual ao infinitivo: \"I have run\".",
+"\"Run out of\" é o jeito natural de dizer que algo acabou: \"We ran out of coffee\".",
+"Para dizer que está atrasado no caminho, use \"I'm running late\"."
+],
+"expressoes": [
+[
+"run out of",
+"ficar sem, esgotar"
+],
+[
+"run into",
+"topar com, encontrar por acaso"
+],
+[
+"run late",
+"estar atrasado"
+],
+[
+"in the long run",
+"a longo prazo"
+],
+[
+"run in the family",
+"ser de família"
+]
+],
 "data": "2026-11-22"
 },
 "listen": {
 "uso": "\"Listen\" é escutar, prestar atenção a um som de propósito. É o par de \"hear\": você pode ouvir (\"hear\") um barulho sem querer, mas escuta (\"listen\") música, um professor ou um amigo.\n\nA regra de ouro: quando há um objeto, use \"listen to\": \"listen to music\", \"listen to me\". Sem objeto, \"listen\" fica sozinho: \"Listen! Can you hear that?\". O t não é pronunciado: /lísen/.",
-"exemplos": [["Listen to me!", "Me escuta!"], ["I listen to podcasts on my way to work.", "Escuto podcasts no caminho para o trabalho."], ["Are you listening?", "Você está prestando atenção?"], ["She listened carefully to the instructions.", "Ela escutou as instruções com atenção."], ["I should have listened to your advice.", "Eu devia ter ouvido o seu conselho."], ["Listen, we need to talk about the budget.", "Olha, precisamos conversar sobre o orçamento."]],
-"dicas": ["Com objeto, sempre \"listen to\": \"listen to the radio\". Nunca \"listen the radio\".", "No início da frase, \"Listen,…\" funciona como o nosso \"Olha,…\" para chamar atenção.", "O t é mudo: \"listen\" soa /lísen/, como em \"castle\" e \"fasten\"."],
-"expressoes": [["listen to", "escutar (algo/alguém)"], ["listen up", "prestem atenção (informal)"], ["listen in (on)", "escutar escondido, ficar na escuta"], ["listen to reason", "ouvir a voz da razão"], ["be a good listener", "saber ouvir"]],
+"exemplos": [
+[
+"Listen to me!",
+"Me escuta!"
+],
+[
+"I listen to podcasts on my way to work.",
+"Escuto podcasts no caminho para o trabalho."
+],
+[
+"Are you listening?",
+"Você está prestando atenção?"
+],
+[
+"She listened carefully to the instructions.",
+"Ela escutou as instruções com atenção."
+],
+[
+"I should have listened to your advice.",
+"Eu devia ter ouvido o seu conselho."
+],
+[
+"Listen, we need to talk about the budget.",
+"Olha, precisamos conversar sobre o orçamento."
+]
+],
+"dicas": [
+"Com objeto, sempre \"listen to\": \"listen to the radio\". Nunca \"listen the radio\".",
+"No início da frase, \"Listen,…\" funciona como o nosso \"Olha,…\" para chamar atenção.",
+"O t é mudo: \"listen\" soa /lísen/, como em \"castle\" e \"fasten\"."
+],
+"expressoes": [
+[
+"listen to",
+"escutar (algo/alguém)"
+],
+[
+"listen up",
+"prestem atenção (informal)"
+],
+[
+"listen in (on)",
+"escutar escondido, ficar na escuta"
+],
+[
+"listen to reason",
+"ouvir a voz da razão"
+],
+[
+"be a good listener",
+"saber ouvir"
+]
+],
 "data": "2026-11-22"
 },
 "meet": {
 "uso": "\"Meet\" cobre três situações que em português têm verbos diferentes: conhecer alguém pela primeira vez (\"Nice to meet you\"), encontrar-se com alguém combinado (\"Let's meet at six\") e reunir-se (\"The committee meets on Fridays\").\n\nAtenção: para conhecer lugares, use \"visit\" ou \"get to know\", nunca \"meet\": \"I want to visit Rome\". \"Meet\" também tem sentido abstrato: atender ou cumprir algo, como \"meet a deadline\" (cumprir um prazo) e \"meet expectations\" (atender às expectativas).",
-"exemplos": [["Nice to meet you.", "Prazer em conhecer."], ["Where did you two meet?", "Onde vocês dois se conheceram?"], ["Let's meet in front of the cinema at eight.", "Vamos nos encontrar na frente do cinema às oito."], ["I'm meeting a client this afternoon.", "Tenho uma reunião com um cliente hoje à tarde."], ["We worked all weekend to meet the deadline.", "Trabalhamos o fim de semana inteiro para cumprir o prazo."], ["The product didn't meet our expectations.", "O produto não atendeu às nossas expectativas."]],
-"dicas": ["Lugares não se \"meet\": \"conhecer Paris\" é \"visit Paris\" ou \"see Paris\".", "Na despedida, diga \"Nice meeting you\" (foi um prazer conhecer você).", "\"Meet\" é irregular: meet, met, met.", "Para encontro marcado com alguém, \"meet up (with)\" é muito comum na fala: \"Let's meet up for coffee\"."],
-"expressoes": [["meet up (with)", "encontrar-se (com), combinar de se ver"], ["meet a deadline", "cumprir um prazo"], ["meet (someone) halfway", "chegar a um meio-termo com (alguém)"], ["make ends meet", "fazer o dinheiro dar até o fim do mês"], ["there's more to it than meets the eye", "tem mais coisa por trás do que parece"]],
+"exemplos": [
+[
+"Nice to meet you.",
+"Prazer em conhecer."
+],
+[
+"Where did you two meet?",
+"Onde vocês dois se conheceram?"
+],
+[
+"Let's meet in front of the cinema at eight.",
+"Vamos nos encontrar na frente do cinema às oito."
+],
+[
+"I'm meeting a client this afternoon.",
+"Tenho uma reunião com um cliente hoje à tarde."
+],
+[
+"We worked all weekend to meet the deadline.",
+"Trabalhamos o fim de semana inteiro para cumprir o prazo."
+],
+[
+"The product didn't meet our expectations.",
+"O produto não atendeu às nossas expectativas."
+]
+],
+"dicas": [
+"Lugares não se \"meet\": \"conhecer Paris\" é \"visit Paris\" ou \"see Paris\".",
+"Na despedida, diga \"Nice meeting you\" (foi um prazer conhecer você).",
+"\"Meet\" é irregular: meet, met, met.",
+"Para encontro marcado com alguém, \"meet up (with)\" é muito comum na fala: \"Let's meet up for coffee\"."
+],
+"expressoes": [
+[
+"meet up (with)",
+"encontrar-se (com), combinar de se ver"
+],
+[
+"meet a deadline",
+"cumprir um prazo"
+],
+[
+"meet (someone) halfway",
+"chegar a um meio-termo com (alguém)"
+],
+[
+"make ends meet",
+"fazer o dinheiro dar até o fim do mês"
+],
+[
+"there's more to it than meets the eye",
+"tem mais coisa por trás do que parece"
+]
+],
 "data": "2026-11-22"
 },
 "remember": {
 "uso": "\"Remember\" é lembrar ou lembrar-se, e não leva preposição nem pronome reflexivo: \"I remember your name\", e não \"I remember of your name\" nem \"I remember myself\".\n\nA forma do verbo seguinte muda o sentido. \"Remember to do\" é lembrar de fazer algo (uma tarefa futura): \"Remember to lock the door\". \"Remember doing\" é recordar algo que já aconteceu: \"I remember locking the door\" (lembro de ter trancado a porta). E para fazer alguém lembrar, use \"remind\", não \"remember\".",
-"exemplos": [["Do you remember me?", "Você se lembra de mim?"], ["I can't remember her name.", "Não consigo lembrar o nome dela."], ["Remember to buy bread on your way home.", "Lembre de comprar pão no caminho para casa."], ["I remember meeting him at a wedding years ago.", "Lembro de tê-lo conhecido num casamento anos atrás."], ["As far as I remember, the store opens at nine.", "Pelo que eu me lembro, a loja abre às nove."], ["He will be remembered as a great teacher.", "Ele será lembrado como um grande professor."]],
-"dicas": ["Sem \"of\" e sem \"me/myself\": \"I remember the day\", e não \"I remember of the day\".", "\"Remember to do\" = não esquecer de uma tarefa; \"remember doing\" = ter a memória de algo passado.", "Fazer alguém lembrar é \"remind\": \"Remind me to call her\" (me lembra de ligar para ela)."],
-"expressoes": [["as far as I remember", "pelo que eu me lembro"], ["if I remember correctly", "se não me engano"], ["remember me to (someone)", "mande lembranças a (alguém)"], ["something to remember", "algo inesquecível"], ["remember (someone) in your will", "deixar algo para (alguém) no testamento"]],
+"exemplos": [
+[
+"Do you remember me?",
+"Você se lembra de mim?"
+],
+[
+"I can't remember her name.",
+"Não consigo lembrar o nome dela."
+],
+[
+"Remember to buy bread on your way home.",
+"Lembre de comprar pão no caminho para casa."
+],
+[
+"I remember meeting him at a wedding years ago.",
+"Lembro de tê-lo conhecido num casamento anos atrás."
+],
+[
+"As far as I remember, the store opens at nine.",
+"Pelo que eu me lembro, a loja abre às nove."
+],
+[
+"He will be remembered as a great teacher.",
+"Ele será lembrado como um grande professor."
+]
+],
+"dicas": [
+"Sem \"of\" e sem \"me/myself\": \"I remember the day\", e não \"I remember of the day\".",
+"\"Remember to do\" = não esquecer de uma tarefa; \"remember doing\" = ter a memória de algo passado.",
+"Fazer alguém lembrar é \"remind\": \"Remind me to call her\" (me lembra de ligar para ela)."
+],
+"expressoes": [
+[
+"as far as I remember",
+"pelo que eu me lembro"
+],
+[
+"if I remember correctly",
+"se não me engano"
+],
+[
+"remember me to (someone)",
+"mande lembranças a (alguém)"
+],
+[
+"something to remember",
+"algo inesquecível"
+],
+[
+"remember (someone) in your will",
+"deixar algo para (alguém) no testamento"
+]
+],
 "data": "2026-11-22"
 },
 "please": {
 "uso": "Além da palavra \"please\" (por favor), existe o verbo \"to please\": agradar, satisfazer, deixar alguém contente. \"It's hard to please everyone\" (é difícil agradar a todos). O adjetivo \"pleased\" (satisfeito, contente) aparece muito em contextos formais: \"I'm pleased to announce…\".\n\nEm frases como \"Do as you please\" ou \"Sit wherever you please\", o verbo significa querer ou achar melhor. É um uso um pouco formal, mas comum em expressões fixas.",
-"exemplos": [["Please sit down.", "Por favor, sente-se."], ["He's always trying to please his parents.", "Ele está sempre tentando agradar os pais."], ["You can't please everyone.", "Não dá para agradar a todo mundo."], ["I'm pleased to meet you.", "É um prazer conhecer você."], ["Do as you please.", "Faça como quiser."], ["The chef's new menu pleased even the toughest critics.", "O novo cardápio do chef agradou até os críticos mais exigentes."]],
-"dicas": ["\"Agradar alguém\" é \"please someone\", sem preposição: \"please the customer\".", "\"Pleased with\" é satisfeito com algo; \"pleased to\" + verbo é ter o prazer de: \"pleased to help\".", "Não confunda \"please\" (agradar) com \"pleasure\" (prazer): \"It's a pleasure\" é \"é um prazer\"."],
-"expressoes": [["as you please", "como você quiser"], ["if you please", "por gentileza; (irônico) imagine só"], ["hard to please", "difícil de agradar, exigente"], ["people pleaser", "pessoa que vive tentando agradar os outros"], ["pleased as Punch", "todo contente, feliz da vida"]],
+"exemplos": [
+[
+"Please sit down.",
+"Por favor, sente-se."
+],
+[
+"He's always trying to please his parents.",
+"Ele está sempre tentando agradar os pais."
+],
+[
+"You can't please everyone.",
+"Não dá para agradar a todo mundo."
+],
+[
+"I'm pleased to meet you.",
+"É um prazer conhecer você."
+],
+[
+"Do as you please.",
+"Faça como quiser."
+],
+[
+"The chef's new menu pleased even the toughest critics.",
+"O novo cardápio do chef agradou até os críticos mais exigentes."
+]
+],
+"dicas": [
+"\"Agradar alguém\" é \"please someone\", sem preposição: \"please the customer\".",
+"\"Pleased with\" é satisfeito com algo; \"pleased to\" + verbo é ter o prazer de: \"pleased to help\".",
+"Não confunda \"please\" (agradar) com \"pleasure\" (prazer): \"It's a pleasure\" é \"é um prazer\"."
+],
+"expressoes": [
+[
+"as you please",
+"como você quiser"
+],
+[
+"if you please",
+"por gentileza; (irônico) imagine só"
+],
+[
+"hard to please",
+"difícil de agradar, exigente"
+],
+[
+"people pleaser",
+"pessoa que vive tentando agradar os outros"
+],
+[
+"pleased as Punch",
+"todo contente, feliz da vida"
+]
+],
 "data": "2026-11-22"
 },
 "feel": {
 "uso": "\"Feel\" é sentir: emoções, sensações físicas e impressões. Em inglês, a pessoa \"feels\" + adjetivo, sem pronome reflexivo: \"I feel tired\" (estou me sentindo cansado), e não \"I feel myself tired\".\n\n\"Feel\" também serve para descrever como algo parece ao toque (\"This fabric feels soft\") e para dar opinião de forma suave: \"I feel we should wait\" (acho que devíamos esperar). Duas estruturas muito usadas são \"feel like + -ing\" (estar a fim de) e \"feel like + substantivo\" (sentir-se como).",
-"exemplos": [["How are you feeling today?", "Como você está se sentindo hoje?"], ["I feel much better, thanks.", "Estou me sentindo muito melhor, obrigado."], ["I don't feel like cooking tonight.", "Não estou a fim de cozinhar hoje à noite."], ["This blanket feels so soft.", "Este cobertor é tão macio ao toque."], ["She felt the house shaking during the earthquake.", "Ela sentiu a casa tremendo durante o terremoto."], ["I've always felt that honesty matters more than talent.", "Sempre achei que a honestidade importa mais que o talento."]],
-"dicas": ["Nada de reflexivo: \"I feel happy\", e não \"I feel myself happy\".", "\"Feel like + -ing\" = estar com vontade de: \"I feel like dancing\".", "Depois de \"feel\" use adjetivo, não advérbio: \"I feel bad\" (me sinto mal), e não \"I feel badly\" no sentido de emoção.", "\"Feel\" é irregular: feel, felt, felt."],
-"expressoes": [["feel like", "estar a fim de; sentir-se como"], ["feel free to", "fique à vontade para"], ["feel sorry for", "ter pena de"], ["feel at home", "sentir-se em casa"], ["feel the pinch", "sentir o aperto (financeiro)"]],
+"exemplos": [
+[
+"How are you feeling today?",
+"Como você está se sentindo hoje?"
+],
+[
+"I feel much better, thanks.",
+"Estou me sentindo muito melhor, obrigado."
+],
+[
+"I don't feel like cooking tonight.",
+"Não estou a fim de cozinhar hoje à noite."
+],
+[
+"This blanket feels so soft.",
+"Este cobertor é tão macio ao toque."
+],
+[
+"She felt the house shaking during the earthquake.",
+"Ela sentiu a casa tremendo durante o terremoto."
+],
+[
+"I've always felt that honesty matters more than talent.",
+"Sempre achei que a honestidade importa mais que o talento."
+]
+],
+"dicas": [
+"Nada de reflexivo: \"I feel happy\", e não \"I feel myself happy\".",
+"\"Feel like + -ing\" = estar com vontade de: \"I feel like dancing\".",
+"Depois de \"feel\" use adjetivo, não advérbio: \"I feel bad\" (me sinto mal), e não \"I feel badly\" no sentido de emoção.",
+"\"Feel\" é irregular: feel, felt, felt."
+],
+"expressoes": [
+[
+"feel like",
+"estar a fim de; sentir-se como"
+],
+[
+"feel free to",
+"fique à vontade para"
+],
+[
+"feel sorry for",
+"ter pena de"
+],
+[
+"feel at home",
+"sentir-se em casa"
+],
+[
+"feel the pinch",
+"sentir o aperto (financeiro)"
+]
+],
 "data": "2026-11-22"
 },
 "become": {
 "uso": "\"To become\" significa \"tornar-se\" ou \"virar\" e indica mudança de estado, profissão ou condição: \"She became a doctor\" (ela se tornou médica), \"It became clear\" (ficou claro).\n\nÉ mais formal e definitivo que \"get\" (\"get tired\" é cansar-se no momento; \"become famous\" é uma transformação maior). Vem sempre seguido de substantivo ou adjetivo, nunca de verbo no infinitivo: diga \"I became interested\", não \"I became to like\".",
-"exemplos": [["He wants to become a pilot.", "Ele quer se tornar piloto."], ["The weather became colder in the afternoon.", "O tempo ficou mais frio à tarde."], ["They became friends at school.", "Eles ficaram amigos na escola."], ["It soon became clear that nobody knew the answer.", "Logo ficou claro que ninguém sabia a resposta."], ["What has become of your old band?", "Que fim levou a sua antiga banda?"], ["By the time she was thirty, she had become one of the best surgeons in the country.", "Quando fez trinta anos, ela já tinha se tornado uma das melhores cirurgiãs do país."]],
-"dicas": ["\"Become\" é irregular: become, became, become. O particípio é igual ao infinitivo: \"She has become famous\".", "Para mudanças rápidas e do dia a dia, o inglês falado prefere \"get\": \"It's getting late\" soa mais natural que \"It's becoming late\".", "\"What became of…?\" significa \"Que fim levou…?\" e é a forma natural de perguntar o que aconteceu com alguém ou algo."],
-"expressoes": [["become aware of", "tomar consciência de, perceber"], ["become of (someone)", "acontecer com, ser feito de (alguém)"], ["become a habit", "virar hábito"], ["become clear", "ficar claro"], ["it becomes you", "isso fica bem em você (formal)"]],
+"exemplos": [
+[
+"He wants to become a pilot.",
+"Ele quer se tornar piloto."
+],
+[
+"The weather became colder in the afternoon.",
+"O tempo ficou mais frio à tarde."
+],
+[
+"They became friends at school.",
+"Eles ficaram amigos na escola."
+],
+[
+"It soon became clear that nobody knew the answer.",
+"Logo ficou claro que ninguém sabia a resposta."
+],
+[
+"What has become of your old band?",
+"Que fim levou a sua antiga banda?"
+],
+[
+"By the time she was thirty, she had become one of the best surgeons in the country.",
+"Quando fez trinta anos, ela já tinha se tornado uma das melhores cirurgiãs do país."
+]
+],
+"dicas": [
+"\"Become\" é irregular: become, became, become. O particípio é igual ao infinitivo: \"She has become famous\".",
+"Para mudanças rápidas e do dia a dia, o inglês falado prefere \"get\": \"It's getting late\" soa mais natural que \"It's becoming late\".",
+"\"What became of…?\" significa \"Que fim levou…?\" e é a forma natural de perguntar o que aconteceu com alguém ou algo."
+],
+"expressoes": [
+[
+"become aware of",
+"tomar consciência de, perceber"
+],
+[
+"become of (someone)",
+"acontecer com, ser feito de (alguém)"
+],
+[
+"become a habit",
+"virar hábito"
+],
+[
+"become clear",
+"ficar claro"
+],
+[
+"it becomes you",
+"isso fica bem em você (formal)"
+]
+],
 "data": "2026-11-23"
 },
 "like": {
 "uso": "\"To like\" significa \"gostar de\", mas em inglês não existe a preposição: diga \"I like music\", e não \"I like of music\". A pessoa que gosta é o sujeito e a coisa de que se gosta vem logo depois do verbo.\n\nCom outro verbo, use a forma -ing para gostos em geral (\"I like swimming\") ou o infinitivo com \"to\" para hábitos que você acha bons (\"I like to get up early\"). \"Would like\" é o jeito educado de dizer \"gostaria\" ou \"queria\": \"I'd like a coffee, please\".",
-"exemplos": [["I like chocolate.", "Eu gosto de chocolate."], ["Do you like your new job?", "Você está gostando do seu novo emprego?"], ["She doesn't like waking up early.", "Ela não gosta de acordar cedo."], ["I'd like to book a table for two.", "Eu gostaria de reservar uma mesa para dois."], ["How did you like the movie?", "O que você achou do filme?"], ["I've always liked the way he explains things.", "Sempre gostei do jeito como ele explica as coisas."]],
-"dicas": ["Nunca use \"of\" depois de \"like\": \"I like pizza\" (e não \"I like of pizza\"). É um dos erros mais comuns de brasileiros.", "\"I like it\" precisa do objeto \"it\" quando você se refere a algo já mencionado: \"Did you like the book?\" — \"Yes, I liked it.\" Responder só \"Yes, I liked\" está errado.", "Não confunda o verbo com a preposição \"like\" (como, parecido com): \"She looks like her mother\" (ela se parece com a mãe).", "\"Would like\" é mais educado que \"want\" em pedidos: \"I'd like the bill, please\"."],
-"expressoes": [["would like", "gostaria, queria (educado)"], ["if you like", "se você quiser"], ["like it or not", "querendo ou não"], ["how do you like…?", "o que você acha de…? / está gostando de…?"]],
+"exemplos": [
+[
+"I like chocolate.",
+"Eu gosto de chocolate."
+],
+[
+"Do you like your new job?",
+"Você está gostando do seu novo emprego?"
+],
+[
+"She doesn't like waking up early.",
+"Ela não gosta de acordar cedo."
+],
+[
+"I'd like to book a table for two.",
+"Eu gostaria de reservar uma mesa para dois."
+],
+[
+"How did you like the movie?",
+"O que você achou do filme?"
+],
+[
+"I've always liked the way he explains things.",
+"Sempre gostei do jeito como ele explica as coisas."
+]
+],
+"dicas": [
+"Nunca use \"of\" depois de \"like\": \"I like pizza\" (e não \"I like of pizza\"). É um dos erros mais comuns de brasileiros.",
+"\"I like it\" precisa do objeto \"it\" quando você se refere a algo já mencionado: \"Did you like the book?\" — \"Yes, I liked it.\" Responder só \"Yes, I liked\" está errado.",
+"Não confunda o verbo com a preposição \"like\" (como, parecido com): \"She looks like her mother\" (ela se parece com a mãe).",
+"\"Would like\" é mais educado que \"want\" em pedidos: \"I'd like the bill, please\"."
+],
+"expressoes": [
+[
+"would like",
+"gostaria, queria (educado)"
+],
+[
+"if you like",
+"se você quiser"
+],
+[
+"like it or not",
+"querendo ou não"
+],
+[
+"how do you like…?",
+"o que você acha de…? / está gostando de…?"
+]
+],
 "data": "2026-11-23"
 },
 "forget": {
 "uso": "\"To forget\" significa \"esquecer\" ou \"esquecer-se de\", mas não leva preposição antes do objeto: \"I forgot your name\" (esqueci seu nome). Com \"about\", ganha o sentido de deixar algo de lado ou não pensar mais nele: \"Forget about it\" (deixa pra lá).\n\nA forma do verbo seguinte muda o sentido: \"forget to do\" é esquecer de fazer algo (e não fazer), enquanto \"forget doing\" é esquecer que fez algo no passado, quase sempre na negativa: \"I'll never forget meeting you\". Para dizer que deixou um objeto em algum lugar, o inglês prefere \"leave\": \"I left my keys at home\".",
-"exemplos": [["Don't forget your umbrella.", "Não esqueça o guarda-chuva."], ["I forgot to call my mother yesterday.", "Esqueci de ligar para a minha mãe ontem."], ["Sorry, I've forgotten your name.", "Desculpe, esqueci o seu nome."], ["Forget about the money, it's not important.", "Esquece o dinheiro, não é importante."], ["I'll never forget seeing the ocean for the first time.", "Nunca vou esquecer a primeira vez que vi o mar."], ["Had she not reminded me, I would have forgotten the meeting completely.", "Se ela não tivesse me lembrado, eu teria esquecido a reunião completamente."]],
-"dicas": ["Para objetos deixados em um lugar, use \"leave\" e não \"forget\": \"I left my phone in the car\" (esqueci o celular no carro). \"I forgot my phone in the car\" soa estranho para nativos.", "Atenção à grafia: forgetting e forgotten têm \"tt\" porque a sílaba tônica é a última (for-GET).", "\"Forget to + verbo\" = esquecer de fazer; \"forget + -ing\" = esquecer uma experiência passada. \"I forgot to lock the door\" (não tranquei) é bem diferente de \"I'll never forget locking eyes with her\"."],
-"expressoes": [["forget it", "deixa pra lá, esquece"], ["forget about", "esquecer, deixar de pensar em"], ["forgive and forget", "perdoar e esquecer"], ["lest we forget", "para que não esqueçamos (formal, homenagens)"]],
+"exemplos": [
+[
+"Don't forget your umbrella.",
+"Não esqueça o guarda-chuva."
+],
+[
+"I forgot to call my mother yesterday.",
+"Esqueci de ligar para a minha mãe ontem."
+],
+[
+"Sorry, I've forgotten your name.",
+"Desculpe, esqueci o seu nome."
+],
+[
+"Forget about the money, it's not important.",
+"Esquece o dinheiro, não é importante."
+],
+[
+"I'll never forget seeing the ocean for the first time.",
+"Nunca vou esquecer a primeira vez que vi o mar."
+],
+[
+"Had she not reminded me, I would have forgotten the meeting completely.",
+"Se ela não tivesse me lembrado, eu teria esquecido a reunião completamente."
+]
+],
+"dicas": [
+"Para objetos deixados em um lugar, use \"leave\" e não \"forget\": \"I left my phone in the car\" (esqueci o celular no carro). \"I forgot my phone in the car\" soa estranho para nativos.",
+"Atenção à grafia: forgetting e forgotten têm \"tt\" porque a sílaba tônica é a última (for-GET).",
+"\"Forget to + verbo\" = esquecer de fazer; \"forget + -ing\" = esquecer uma experiência passada. \"I forgot to lock the door\" (não tranquei) é bem diferente de \"I'll never forget locking eyes with her\"."
+],
+"expressoes": [
+[
+"forget it",
+"deixa pra lá, esquece"
+],
+[
+"forget about",
+"esquecer, deixar de pensar em"
+],
+[
+"forgive and forget",
+"perdoar e esquecer"
+],
+[
+"lest we forget",
+"para que não esqueçamos (formal, homenagens)"
+]
+],
 "data": "2026-11-23"
 },
 "send": {
 "uso": "\"To send\" significa \"enviar\" ou \"mandar\": mensagens, cartas, dinheiro, pessoas. Pode ter dois objetos, em duas ordens: \"I sent her a message\" ou \"I sent a message to her\".\n\nTambém expressa a ideia de mandar alguém fazer algo ou ir a algum lugar (\"They sent me to the doctor\") e de provocar um efeito forte, muitas vezes com movimento: \"The news sent prices up\" (a notícia fez os preços subirem). Com partículas, forma phrasal verbs úteis como \"send back\" e \"send off\".",
-"exemplos": [["Can you send me the photos?", "Você pode me mandar as fotos?"], ["I sent the documents by email.", "Enviei os documentos por e-mail."], ["Her parents sent her to a school in London.", "Os pais a mandaram para uma escola em Londres."], ["If the shoes don't fit, you can send them back.", "Se os sapatos não servirem, você pode devolvê-los."], ["The explosion sent people running in all directions.", "A explosão fez as pessoas correrem para todos os lados."], ["Had the package been sent on time, we wouldn't be in this mess.", "Se o pacote tivesse sido enviado a tempo, não estaríamos nessa confusão."]],
-"dicas": ["\"Send\" é irregular: send, sent, sent. Cuidado para não dizer \"sended\".", "\"Mandar\" no sentido de dar uma ordem não é \"send\", e sim \"tell\": \"My boss told me to finish it\" (meu chefe mandou eu terminar).", "Com dois objetos, a pessoa vem primeiro sem preposição (\"send him a gift\") ou depois com \"to\" (\"send a gift to him\")."],
-"expressoes": [["send back", "devolver, mandar de volta"], ["send off", "despachar; expulsar (esportes)"], ["send for", "mandar chamar"], ["send (someone) one's regards", "mandar lembranças"], ["send shivers down one's spine", "dar arrepios"]],
+"exemplos": [
+[
+"Can you send me the photos?",
+"Você pode me mandar as fotos?"
+],
+[
+"I sent the documents by email.",
+"Enviei os documentos por e-mail."
+],
+[
+"Her parents sent her to a school in London.",
+"Os pais a mandaram para uma escola em Londres."
+],
+[
+"If the shoes don't fit, you can send them back.",
+"Se os sapatos não servirem, você pode devolvê-los."
+],
+[
+"The explosion sent people running in all directions.",
+"A explosão fez as pessoas correrem para todos os lados."
+],
+[
+"Had the package been sent on time, we wouldn't be in this mess.",
+"Se o pacote tivesse sido enviado a tempo, não estaríamos nessa confusão."
+]
+],
+"dicas": [
+"\"Send\" é irregular: send, sent, sent. Cuidado para não dizer \"sended\".",
+"\"Mandar\" no sentido de dar uma ordem não é \"send\", e sim \"tell\": \"My boss told me to finish it\" (meu chefe mandou eu terminar).",
+"Com dois objetos, a pessoa vem primeiro sem preposição (\"send him a gift\") ou depois com \"to\" (\"send a gift to him\")."
+],
+"expressoes": [
+[
+"send back",
+"devolver, mandar de volta"
+],
+[
+"send off",
+"despachar; expulsar (esportes)"
+],
+[
+"send for",
+"mandar chamar"
+],
+[
+"send (someone) one's regards",
+"mandar lembranças"
+],
+[
+"send shivers down one's spine",
+"dar arrepios"
+]
+],
 "data": "2026-11-23"
 },
 "die": {
 "uso": "\"To die\" significa \"morrer\". Para dizer a causa, o inglês usa principalmente \"of\" (doenças e causas internas: \"die of cancer\") ou \"from\" (causas externas: \"die from injuries\"), embora na prática as duas apareçam nos dois casos.\n\nNo sentido figurado, é muito comum: \"I'm dying to see you\" (estou morrendo de vontade de te ver), \"My phone died\" (meu celular descarregou). Atenção para não confundir o verbo \"die\" com o adjetivo \"dead\" (morto) e com o substantivo \"death\" (morte).",
-"exemplos": [["My grandfather died in 2010.", "Meu avô morreu em 2010."], ["Many trees are dying because of the drought.", "Muitas árvores estão morrendo por causa da seca."], ["I'm dying to try that new restaurant.", "Estou morrendo de vontade de experimentar aquele restaurante novo."], ["My phone died in the middle of the call.", "Meu celular descarregou no meio da ligação."], ["She died of a heart attack at the age of eighty.", "Ela morreu de um ataque cardíaco aos oitenta anos."], ["The tradition has almost died out in the cities.", "A tradição quase desapareceu nas cidades."]],
-"dicas": ["Não confunda: \"die\" (verbo, morrer), \"dead\" (adjetivo, morto) e \"death\" (substantivo, morte). \"He is dead\" = ele está morto; \"He died\" = ele morreu.", "O gerúndio é \"dying\" (o \"ie\" vira \"y\"). Não confunda com \"dyeing\", de \"dye\" (tingir).", "Para expressar vontade forte, use \"be dying to + verbo\" ou \"be dying for + substantivo\": \"I'm dying for a coffee\"."],
-"expressoes": [["be dying to / for", "estar morrendo de vontade de"], ["die out", "extinguir-se, desaparecer aos poucos"], ["die down", "diminuir, acalmar (vento, barulho, polêmica)"], ["old habits die hard", "hábitos antigos são difíceis de largar"], ["die laughing", "morrer de rir"]],
+"exemplos": [
+[
+"My grandfather died in 2010.",
+"Meu avô morreu em 2010."
+],
+[
+"Many trees are dying because of the drought.",
+"Muitas árvores estão morrendo por causa da seca."
+],
+[
+"I'm dying to try that new restaurant.",
+"Estou morrendo de vontade de experimentar aquele restaurante novo."
+],
+[
+"My phone died in the middle of the call.",
+"Meu celular descarregou no meio da ligação."
+],
+[
+"She died of a heart attack at the age of eighty.",
+"Ela morreu de um ataque cardíaco aos oitenta anos."
+],
+[
+"The tradition has almost died out in the cities.",
+"A tradição quase desapareceu nas cidades."
+]
+],
+"dicas": [
+"Não confunda: \"die\" (verbo, morrer), \"dead\" (adjetivo, morto) e \"death\" (substantivo, morte). \"He is dead\" = ele está morto; \"He died\" = ele morreu.",
+"O gerúndio é \"dying\" (o \"ie\" vira \"y\"). Não confunda com \"dyeing\", de \"dye\" (tingir).",
+"Para expressar vontade forte, use \"be dying to + verbo\" ou \"be dying for + substantivo\": \"I'm dying for a coffee\"."
+],
+"expressoes": [
+[
+"be dying to / for",
+"estar morrendo de vontade de"
+],
+[
+"die out",
+"extinguir-se, desaparecer aos poucos"
+],
+[
+"die down",
+"diminuir, acalmar (vento, barulho, polêmica)"
+],
+[
+"old habits die hard",
+"hábitos antigos são difíceis de largar"
+],
+[
+"die laughing",
+"morrer de rir"
+]
+],
 "data": "2026-11-23"
 },
 "marry": {
 "uso": "\"To marry\" significa \"casar-se com\", mas não leva preposição: \"She married a doctor\" (ela se casou com um médico). Também pode significar realizar a cerimônia: \"The priest married them\".\n\nNa conversa, o mais comum é usar \"get married\" (casar-se) quando não se menciona a outra pessoa, e \"be married\" para o estado de ser casado. Quando a pessoa aparece com \"get married\", a preposição é \"to\": \"He got married to his best friend\".",
-"exemplos": [["They got married last year.", "Eles se casaram no ano passado."], ["Will you marry me?", "Você quer se casar comigo?"], ["She married a man she met at university.", "Ela se casou com um homem que conheceu na faculdade."], ["My parents have been married for thirty years.", "Meus pais são casados há trinta anos."], ["The couple were married by a judge in a small ceremony.", "O casal foi casado por um juiz em uma pequena cerimônia."], ["He is married to his work.", "Ele vive para o trabalho."]],
-"dicas": ["Não use \"with\": \"She married him\" ou \"She got married to him\", nunca \"married with him\".", "\"Get married\" é a ação (casar-se) e \"be married\" é o estado (ser casado): \"We got married in 2015, so we've been married for ten years\".", "O passado e o particípio são \"married\" (o \"y\" vira \"ied\"); o gerúndio é \"marrying\"."],
-"expressoes": [["get married", "casar-se"], ["marry into (a family)", "entrar para uma família pelo casamento"], ["marry off", "casar (um filho ou uma filha), arranjar casamento"], ["marry up", "combinar, encaixar (dados, peças)"]],
+"exemplos": [
+[
+"They got married last year.",
+"Eles se casaram no ano passado."
+],
+[
+"Will you marry me?",
+"Você quer se casar comigo?"
+],
+[
+"She married a man she met at university.",
+"Ela se casou com um homem que conheceu na faculdade."
+],
+[
+"My parents have been married for thirty years.",
+"Meus pais são casados há trinta anos."
+],
+[
+"The couple were married by a judge in a small ceremony.",
+"O casal foi casado por um juiz em uma pequena cerimônia."
+],
+[
+"He is married to his work.",
+"Ele vive para o trabalho."
+]
+],
+"dicas": [
+"Não use \"with\": \"She married him\" ou \"She got married to him\", nunca \"married with him\".",
+"\"Get married\" é a ação (casar-se) e \"be married\" é o estado (ser casado): \"We got married in 2015, so we've been married for ten years\".",
+"O passado e o particípio são \"married\" (o \"y\" vira \"ied\"); o gerúndio é \"marrying\"."
+],
+"expressoes": [
+[
+"get married",
+"casar-se"
+],
+[
+"marry into (a family)",
+"entrar para uma família pelo casamento"
+],
+[
+"marry off",
+"casar (um filho ou uma filha), arranjar casamento"
+],
+[
+"marry up",
+"combinar, encaixar (dados, peças)"
+]
+],
 "data": "2026-11-23"
 },
 "speak": {
 "uso": "\"To speak\" significa \"falar\" e é usado para idiomas (\"I speak English\"), discursos e situações mais formais. É a escolha certa para a capacidade de falar ou para falar diante de um público.\n\nA diferença em relação a \"talk\" é sutil: \"talk\" sugere conversa entre pessoas, informal; \"speak\" é mais formal ou focado em quem fala. Ao telefone, diz-se \"Can I speak to Ana?\" (posso falar com a Ana?). E para \"dizer algo\", use \"say\" ou \"tell\", não \"speak\".",
-"exemplos": [["Do you speak Spanish?", "Você fala espanhol?"], ["Could you speak more slowly, please?", "Você poderia falar mais devagar, por favor?"], ["Hello, may I speak to the manager?", "Alô, posso falar com o gerente?"], ["She spoke at the conference last week.", "Ela palestrou na conferência na semana passada."], ["Generally speaking, the results were good.", "De modo geral, os resultados foram bons."], ["Had I spoken up earlier, the mistake could have been avoided.", "Se eu tivesse me manifestado antes, o erro poderia ter sido evitado."]],
-"dicas": ["Com idiomas, use sempre \"speak\": \"I speak Portuguese\". Dizer \"I talk Portuguese\" está errado.", "\"Speak\" é irregular: speak, spoke, spoken. \"English is spoken here\" (fala-se inglês aqui).", "Para relatar o que alguém disse, use \"say\" ou \"tell\": \"He said he was tired\", e não \"He spoke he was tired\"."],
-"expressoes": [["speak up", "falar mais alto; manifestar-se, dar a opinião"], ["speak out", "denunciar, posicionar-se publicamente"], ["speak for itself", "falar por si só"], ["so to speak", "por assim dizer"], ["generally speaking", "de modo geral"]],
+"exemplos": [
+[
+"Do you speak Spanish?",
+"Você fala espanhol?"
+],
+[
+"Could you speak more slowly, please?",
+"Você poderia falar mais devagar, por favor?"
+],
+[
+"Hello, may I speak to the manager?",
+"Alô, posso falar com o gerente?"
+],
+[
+"She spoke at the conference last week.",
+"Ela palestrou na conferência na semana passada."
+],
+[
+"Generally speaking, the results were good.",
+"De modo geral, os resultados foram bons."
+],
+[
+"Had I spoken up earlier, the mistake could have been avoided.",
+"Se eu tivesse me manifestado antes, o erro poderia ter sido evitado."
+]
+],
+"dicas": [
+"Com idiomas, use sempre \"speak\": \"I speak Portuguese\". Dizer \"I talk Portuguese\" está errado.",
+"\"Speak\" é irregular: speak, spoke, spoken. \"English is spoken here\" (fala-se inglês aqui).",
+"Para relatar o que alguém disse, use \"say\" ou \"tell\": \"He said he was tired\", e não \"He spoke he was tired\"."
+],
+"expressoes": [
+[
+"speak up",
+"falar mais alto; manifestar-se, dar a opinião"
+],
+[
+"speak out",
+"denunciar, posicionar-se publicamente"
+],
+[
+"speak for itself",
+"falar por si só"
+],
+[
+"so to speak",
+"por assim dizer"
+],
+[
+"generally speaking",
+"de modo geral"
+]
+],
 "data": "2026-11-23"
 },
 "shoot": {
 "uso": "\"To shoot\" tem como sentido básico \"atirar\" ou \"disparar\" com uma arma. Com \"at\", indica o alvo (\"shoot at a target\"); sem preposição, quer dizer acertar alguém (\"He was shot\" — ele foi baleado).\n\nTambém é muito usado em outros contextos: no esporte, é chutar ou arremessar para o gol ou a cesta; no cinema e na fotografia, é filmar ou fotografar (\"They shot the film in Brazil\"). Pode ainda indicar movimento muito rápido: \"Prices shot up\" (os preços dispararam).",
-"exemplos": [["He shot the ball into the net.", "Ele chutou a bola para dentro do gol."], ["The movie was shot in Rio de Janeiro.", "O filme foi gravado no Rio de Janeiro."], ["The police officer shot at the tyres of the car.", "O policial atirou nos pneus do carro."], ["A car shot past us at high speed.", "Um carro passou por nós em alta velocidade."], ["Prices have shot up since last month.", "Os preços dispararam desde o mês passado."], ["Go ahead, shoot! What's your question?", "Pode mandar! Qual é a sua pergunta?"]],
-"dicas": ["\"Shoot\" é irregular: shoot, shot, shot. \"A shot\" também é um substantivo: tiro, chute, foto, dose de bebida ou vacina.", "\"Shoot at\" é atirar na direção de algo (pode errar); \"shoot someone\" é acertar a pessoa. A diferença é importante em notícias.", "Na conversa, \"Shoot!\" pode significar \"pode falar!\", e também é usado como um palavrão suavizado, como \"droga!\"."],
-"expressoes": [["shoot up", "disparar, subir rápido"], ["shoot down", "abater; rejeitar uma ideia"], ["shoot for", "almejar, mirar em"], ["shoot oneself in the foot", "dar um tiro no próprio pé"], ["shoot the breeze", "jogar conversa fora"]],
+"exemplos": [
+[
+"He shot the ball into the net.",
+"Ele chutou a bola para dentro do gol."
+],
+[
+"The movie was shot in Rio de Janeiro.",
+"O filme foi gravado no Rio de Janeiro."
+],
+[
+"The police officer shot at the tyres of the car.",
+"O policial atirou nos pneus do carro."
+],
+[
+"A car shot past us at high speed.",
+"Um carro passou por nós em alta velocidade."
+],
+[
+"Prices have shot up since last month.",
+"Os preços dispararam desde o mês passado."
+],
+[
+"Go ahead, shoot! What's your question?",
+"Pode mandar! Qual é a sua pergunta?"
+]
+],
+"dicas": [
+"\"Shoot\" é irregular: shoot, shot, shot. \"A shot\" também é um substantivo: tiro, chute, foto, dose de bebida ou vacina.",
+"\"Shoot at\" é atirar na direção de algo (pode errar); \"shoot someone\" é acertar a pessoa. A diferença é importante em notícias.",
+"Na conversa, \"Shoot!\" pode significar \"pode falar!\", e também é usado como um palavrão suavizado, como \"droga!\"."
+],
+"expressoes": [
+[
+"shoot up",
+"disparar, subir rápido"
+],
+[
+"shoot down",
+"abater; rejeitar uma ideia"
+],
+[
+"shoot for",
+"almejar, mirar em"
+],
+[
+"shoot oneself in the foot",
+"dar um tiro no próprio pé"
+],
+[
+"shoot the breeze",
+"jogar conversa fora"
+]
+],
 "data": "2026-11-23"
 },
 "talk": {
 "uso": "\"To talk\" significa \"conversar\" ou \"falar\" no sentido de trocar ideias com alguém. É mais informal que \"speak\" e quase sempre envolve mais de uma pessoa: \"We talked for hours\".\n\nAs preposições são importantes: \"talk to/with someone\" (falar com alguém) e \"talk about something\" (falar sobre algo). Diferente de \"say\" e \"tell\", \"talk\" não costuma ser seguido diretamente do que foi dito: diga \"She talked about her trip\", não \"She talked that…\".",
-"exemplos": [["Can we talk?", "A gente pode conversar?"], ["I need to talk to you about something.", "Preciso falar com você sobre uma coisa."], ["They were talking about the game all night.", "Eles ficaram falando do jogo a noite toda."], ["My son is learning to talk.", "Meu filho está aprendendo a falar."], ["She talked me into buying a new phone.", "Ela me convenceu a comprar um celular novo."], ["If we had talked things through, we wouldn't have argued.", "Se tivéssemos conversado as coisas a fundo, não teríamos brigado."]],
-"dicas": ["Use \"talk to\" ou \"talk with\" para a pessoa e \"talk about\" para o assunto: \"I talked to Ana about the project\".", "\"Talk\" não é seguido de \"that\": \"He said that he was busy\" (e não \"He talked that…\").", "\"Talk someone into/out of doing something\" é convencer alguém a fazer ou a não fazer algo — muito útil e muito usado."],
-"expressoes": [["talk (someone) into", "convencer (alguém) a"], ["talk (someone) out of", "convencer (alguém) a não"], ["talk back", "responder com malcriação"], ["talk over / talk through", "discutir a fundo"], ["talk shop", "falar de trabalho fora do trabalho"]],
+"exemplos": [
+[
+"Can we talk?",
+"A gente pode conversar?"
+],
+[
+"I need to talk to you about something.",
+"Preciso falar com você sobre uma coisa."
+],
+[
+"They were talking about the game all night.",
+"Eles ficaram falando do jogo a noite toda."
+],
+[
+"My son is learning to talk.",
+"Meu filho está aprendendo a falar."
+],
+[
+"She talked me into buying a new phone.",
+"Ela me convenceu a comprar um celular novo."
+],
+[
+"If we had talked things through, we wouldn't have argued.",
+"Se tivéssemos conversado as coisas a fundo, não teríamos brigado."
+]
+],
+"dicas": [
+"Use \"talk to\" ou \"talk with\" para a pessoa e \"talk about\" para o assunto: \"I talked to Ana about the project\".",
+"\"Talk\" não é seguido de \"that\": \"He said that he was busy\" (e não \"He talked that…\").",
+"\"Talk someone into/out of doing something\" é convencer alguém a fazer ou a não fazer algo — muito útil e muito usado."
+],
+"expressoes": [
+[
+"talk (someone) into",
+"convencer (alguém) a"
+],
+[
+"talk (someone) out of",
+"convencer (alguém) a não"
+],
+[
+"talk back",
+"responder com malcriação"
+],
+[
+"talk over / talk through",
+"discutir a fundo"
+],
+[
+"talk shop",
+"falar de trabalho fora do trabalho"
+]
+],
 "data": "2026-11-23"
 },
 "eat": {
 "uso": "\"To eat\" significa \"comer\". É usado tanto com o alimento (\"eat an apple\") quanto sozinho (\"Have you eaten?\"). Para as refeições, os nativos muitas vezes preferem \"have\": \"have breakfast\", \"have lunch\", \"have dinner\".\n\nCom partículas, forma expressões úteis como \"eat out\" (comer fora) e \"eat up\" (comer tudo). No sentido figurado, pode significar consumir ou incomodar: \"The repairs ate up all our savings\", \"What's eating you?\" (o que está te incomodando?).",
-"exemplos": [["I don't eat meat.", "Eu não como carne."], ["What did you eat for lunch?", "O que você comeu no almoço?"], ["We usually eat out on Fridays.", "Normalmente comemos fora às sextas."], ["Have you eaten anything today?", "Você já comeu alguma coisa hoje?"], ["Eat up your vegetables!", "Coma todos os legumes!"], ["The new rent is eating into our budget.", "O novo aluguel está consumindo o nosso orçamento."]],
-"dicas": ["\"Eat\" é irregular: eat, ate, eaten. A pronúncia de \"ate\" é \"êit\" (nos EUA) e às vezes \"ét\" (no Reino Unido).", "Para refeições, \"have\" é mais natural: \"Let's have dinner\" soa melhor que \"Let's eat dinner\", embora as duas estejam corretas.", "\"Eat\" não é usado para líquidos; para sopa, sim (\"eat soup\"), mas para bebidas use \"drink\"."],
-"expressoes": [["eat out", "comer fora"], ["eat up", "comer tudo; consumir (tempo, dinheiro)"], ["eat into", "consumir aos poucos, corroer"], ["what's eating you?", "o que está te incomodando?"], ["eat one's words", "engolir as próprias palavras"]],
+"exemplos": [
+[
+"I don't eat meat.",
+"Eu não como carne."
+],
+[
+"What did you eat for lunch?",
+"O que você comeu no almoço?"
+],
+[
+"We usually eat out on Fridays.",
+"Normalmente comemos fora às sextas."
+],
+[
+"Have you eaten anything today?",
+"Você já comeu alguma coisa hoje?"
+],
+[
+"Eat up your vegetables!",
+"Coma todos os legumes!"
+],
+[
+"The new rent is eating into our budget.",
+"O novo aluguel está consumindo o nosso orçamento."
+]
+],
+"dicas": [
+"\"Eat\" é irregular: eat, ate, eaten. A pronúncia de \"ate\" é \"êit\" (nos EUA) e às vezes \"ét\" (no Reino Unido).",
+"Para refeições, \"have\" é mais natural: \"Let's have dinner\" soa melhor que \"Let's eat dinner\", embora as duas estejam corretas.",
+"\"Eat\" não é usado para líquidos; para sopa, sim (\"eat soup\"), mas para bebidas use \"drink\"."
+],
+"expressoes": [
+[
+"eat out",
+"comer fora"
+],
+[
+"eat up",
+"comer tudo; consumir (tempo, dinheiro)"
+],
+[
+"eat into",
+"consumir aos poucos, corroer"
+],
+[
+"what's eating you?",
+"o que está te incomodando?"
+],
+[
+"eat one's words",
+"engolir as próprias palavras"
+]
+],
 "data": "2026-11-23"
 },
 "suppose": {
 "uso": "\"To suppose\" significa \"supor\", \"achar\" ou \"imaginar\". Na conversa, \"I suppose\" é uma forma de concordar sem muito entusiasmo ou de expressar uma opinião com cautela: \"I suppose you're right\" (acho que você tem razão).\n\nA forma mais importante para brasileiros é \"be supposed to\", que indica o que é esperado, combinado ou obrigatório: \"You're supposed to wear a uniform\" (você deveria usar uniforme). Também serve para algo que dizem ser verdade: \"This restaurant is supposed to be great\" (dizem que esse restaurante é ótimo).",
-"exemplos": [["I suppose she's still at work.", "Imagino que ela ainda esteja no trabalho."], ["What time are we supposed to be there?", "A que horas a gente tem que estar lá?"], ["You weren't supposed to tell him!", "Você não era para contar para ele!"], ["\"Can I borrow your car?\" \"I suppose so.\"", "\"Posso pegar seu carro emprestado?\" \"Acho que sim.\""], ["Suppose you won the lottery. What would you do?", "Suponha que você ganhasse na loteria. O que faria?"], ["The new bridge was supposed to open last year, but it's still under construction.", "A ponte nova era para ter sido inaugurada no ano passado, mas ainda está em obras."]],
-"dicas": ["Na fala, o \"d\" de \"supposed to\" quase some: soa como \"supôus-tu\". Mas na escrita ele é obrigatório.", "\"Be supposed to\" fala de expectativa ou regra, não de obrigação forte como \"must\": \"I'm supposed to study tonight\" (era para eu estudar hoje à noite).", "\"Suppose\" e \"supposing\" no início da frase introduzem hipóteses, como \"e se\": \"Supposing it rains, what then?\""],
-"expressoes": [["be supposed to", "dever, ter que (expectativa ou combinado)"], ["I suppose so", "acho que sim"], ["I suppose not", "acho que não"], ["suppose / supposing (that)", "e se, suponha que"]],
+"exemplos": [
+[
+"I suppose she's still at work.",
+"Imagino que ela ainda esteja no trabalho."
+],
+[
+"What time are we supposed to be there?",
+"A que horas a gente tem que estar lá?"
+],
+[
+"You weren't supposed to tell him!",
+"Você não era para contar para ele!"
+],
+[
+"\"Can I borrow your car?\" \"I suppose so.\"",
+"\"Posso pegar seu carro emprestado?\" \"Acho que sim.\""
+],
+[
+"Suppose you won the lottery. What would you do?",
+"Suponha que você ganhasse na loteria. O que faria?"
+],
+[
+"The new bridge was supposed to open last year, but it's still under construction.",
+"A ponte nova era para ter sido inaugurada no ano passado, mas ainda está em obras."
+]
+],
+"dicas": [
+"Na fala, o \"d\" de \"supposed to\" quase some: soa como \"supôus-tu\". Mas na escrita ele é obrigatório.",
+"\"Be supposed to\" fala de expectativa ou regra, não de obrigação forte como \"must\": \"I'm supposed to study tonight\" (era para eu estudar hoje à noite).",
+"\"Suppose\" e \"supposing\" no início da frase introduzem hipóteses, como \"e se\": \"Supposing it rains, what then?\""
+],
+"expressoes": [
+[
+"be supposed to",
+"dever, ter que (expectativa ou combinado)"
+],
+[
+"I suppose so",
+"acho que sim"
+],
+[
+"I suppose not",
+"acho que não"
+],
+[
+"suppose / supposing (that)",
+"e se, suponha que"
+]
+],
 "data": "2026-11-23"
 },
 "use": {
 "uso": "\"To use\" significa \"usar\" ou \"utilizar\" algo para um fim: \"Can I use your phone?\". No sentido negativo, também quer dizer aproveitar-se de alguém: \"I feel used\" (me sinto usado).\n\nNão confunda o verbo com \"used to\", que fala de hábitos do passado (\"I used to play football\" — eu jogava futebol), nem com \"be used to\", que significa estar acostumado (\"I'm used to the cold\"). A pronúncia muda: o verbo \"use\" tem som de \"z\" (\"iúz\"), e \"used to\" soa \"iústu\".",
-"exemplos": [["Can I use your pen?", "Posso usar sua caneta?"], ["We use this room for meetings.", "Usamos esta sala para reuniões."], ["How much water do you use every day?", "Quanta água você gasta por dia?"], ["She used her savings to start a business.", "Ela usou suas economias para abrir um negócio."], ["I feel like he's just using me.", "Sinto que ele só está me usando."], ["We've used up all the printer paper.", "Acabamos com todo o papel da impressora."]],
-"dicas": ["Verbo \"use\" se pronuncia \"iúz\"; o substantivo \"use\" (uso) se pronuncia \"iús\": \"What's the use?\" (de que adianta?).", "\"Used to + verbo\" (hábito passado) é diferente de \"be/get used to + -ing\" (estar/ficar acostumado): \"I used to work at night\" × \"I'm used to working at night\".", "Para \"usar roupa\", use \"wear\", não \"use\": \"She's wearing a red dress\"."],
-"expressoes": [["use up", "gastar tudo, esgotar"], ["make use of", "fazer uso de, aproveitar"], ["it's no use", "não adianta"], ["could use (something)", "estar precisando de (algo)"], ["use your head", "use a cabeça, pense"]],
+"exemplos": [
+[
+"Can I use your pen?",
+"Posso usar sua caneta?"
+],
+[
+"We use this room for meetings.",
+"Usamos esta sala para reuniões."
+],
+[
+"How much water do you use every day?",
+"Quanta água você gasta por dia?"
+],
+[
+"She used her savings to start a business.",
+"Ela usou suas economias para abrir um negócio."
+],
+[
+"I feel like he's just using me.",
+"Sinto que ele só está me usando."
+],
+[
+"We've used up all the printer paper.",
+"Acabamos com todo o papel da impressora."
+]
+],
+"dicas": [
+"Verbo \"use\" se pronuncia \"iúz\"; o substantivo \"use\" (uso) se pronuncia \"iús\": \"What's the use?\" (de que adianta?).",
+"\"Used to + verbo\" (hábito passado) é diferente de \"be/get used to + -ing\" (estar/ficar acostumado): \"I used to work at night\" × \"I'm used to working at night\".",
+"Para \"usar roupa\", use \"wear\", não \"use\": \"She's wearing a red dress\"."
+],
+"expressoes": [
+[
+"use up",
+"gastar tudo, esgotar"
+],
+[
+"make use of",
+"fazer uso de, aproveitar"
+],
+[
+"it's no use",
+"não adianta"
+],
+[
+"could use (something)",
+"estar precisando de (algo)"
+],
+[
+"use your head",
+"use a cabeça, pense"
+]
+],
 "data": "2026-11-23"
 },
 "seem": {
 "uso": "\"To seem\" significa \"parecer\" e expressa uma impressão. Pode vir seguido de adjetivo (\"You seem tired\"), de \"to + verbo\" (\"He seems to know everything\") ou de \"like + substantivo/frase\" (\"It seems like a good idea\").\n\nÉ comum começar frases com \"It seems (that)…\" para dar uma informação com cautela, como o nosso \"parece que…\". Quase nunca é usado na forma contínua: diga \"She seems happy\", não \"She is seeming happy\".",
-"exemplos": [["You seem worried. Is everything OK?", "Você parece preocupado. Está tudo bem?"], ["It seems like a nice place.", "Parece um lugar legal."], ["He seems to have forgotten our meeting.", "Parece que ele esqueceu a nossa reunião."], ["It seems that the flight has been cancelled.", "Parece que o voo foi cancelado."], ["I can't seem to find my keys.", "Não estou conseguindo achar minhas chaves."], ["Things are not always what they seem.", "As coisas nem sempre são o que parecem."]],
-"dicas": ["Não use a forma -ing: \"He seems nice\" (e não \"He is seeming nice\"). \"Seem\" descreve estado, não ação.", "\"I can't seem to…\" é uma forma natural de dizer \"não estou conseguindo…\": \"I can't seem to remember his name\".", "Diferença em relação a \"look\": \"look\" é mais visual (\"You look tired\" — pela aparência), \"seem\" é impressão geral (\"You seem tired\" — pelo jeito)."],
-"expressoes": [["it seems (that)", "parece que"], ["seem like", "parecer (com, que)"], ["can't seem to", "não conseguir (apesar de tentar)"], ["so it seems", "pelo visto, ao que parece"]],
+"exemplos": [
+[
+"You seem worried. Is everything OK?",
+"Você parece preocupado. Está tudo bem?"
+],
+[
+"It seems like a nice place.",
+"Parece um lugar legal."
+],
+[
+"He seems to have forgotten our meeting.",
+"Parece que ele esqueceu a nossa reunião."
+],
+[
+"It seems that the flight has been cancelled.",
+"Parece que o voo foi cancelado."
+],
+[
+"I can't seem to find my keys.",
+"Não estou conseguindo achar minhas chaves."
+],
+[
+"Things are not always what they seem.",
+"As coisas nem sempre são o que parecem."
+]
+],
+"dicas": [
+"Não use a forma -ing: \"He seems nice\" (e não \"He is seeming nice\"). \"Seem\" descreve estado, não ação.",
+"\"I can't seem to…\" é uma forma natural de dizer \"não estou conseguindo…\": \"I can't seem to remember his name\".",
+"Diferença em relação a \"look\": \"look\" é mais visual (\"You look tired\" — pela aparência), \"seem\" é impressão geral (\"You seem tired\" — pelo jeito)."
+],
+"expressoes": [
+[
+"it seems (that)",
+"parece que"
+],
+[
+"seem like",
+"parecer (com, que)"
+],
+[
+"can't seem to",
+"não conseguir (apesar de tentar)"
+],
+[
+"so it seems",
+"pelo visto, ao que parece"
+]
+],
 "data": "2026-11-23"
 },
 "sit": {
 "uso": "\"To sit\" significa \"sentar\" ou \"estar sentado\". Para o movimento de se sentar, é muito comum \"sit down\"; para a posição, usa-se \"be sitting\": \"She was sitting by the window\". Em português usamos o reflexivo (\"sentar-se\"), mas em inglês não há \"myself\": diga \"I sat down\", não \"I sat myself\".\n\nTambém significa ficar parado ou estar localizado (\"The house sits on a hill\") e, no inglês britânico, fazer uma prova (\"sit an exam\"). Não confunda com \"seat\", que é colocar alguém sentado ou ter assentos para: \"The theatre seats 500 people\".",
-"exemplos": [["Please sit down.", "Sente-se, por favor."], ["Can I sit here?", "Posso me sentar aqui?"], ["We sat in the garden and talked for hours.", "Sentamos no jardim e conversamos por horas."], ["She was sitting next to me on the bus.", "Ela estava sentada do meu lado no ônibus."], ["The report has been sitting on my desk for weeks.", "O relatório está parado na minha mesa há semanas."], ["Thousands of students will sit the exam next month.", "Milhares de alunos vão fazer a prova no mês que vem."]],
-"dicas": ["\"Sit\" é irregular: sit, sat, sat. O gerúndio é \"sitting\", com \"tt\".", "Não diga \"sit yourself\": o verbo já é \"sentar-se\". \"Sit down\" é suficiente.", "Cuidado com a pronúncia: \"sit\" tem um \"i\" curto e aberto; \"seat\" (assento) tem \"i\" longo. Confundir pode gerar mal-entendidos."],
-"expressoes": [["sit down", "sentar-se"], ["sit up", "endireitar-se, sentar-se direito; ficar acordado até tarde"], ["sit back", "relaxar; ficar só olhando sem agir"], ["sit in on", "assistir como ouvinte (aula, reunião)"], ["sit tight", "ficar quieto e esperar"]],
+"exemplos": [
+[
+"Please sit down.",
+"Sente-se, por favor."
+],
+[
+"Can I sit here?",
+"Posso me sentar aqui?"
+],
+[
+"We sat in the garden and talked for hours.",
+"Sentamos no jardim e conversamos por horas."
+],
+[
+"She was sitting next to me on the bus.",
+"Ela estava sentada do meu lado no ônibus."
+],
+[
+"The report has been sitting on my desk for weeks.",
+"O relatório está parado na minha mesa há semanas."
+],
+[
+"Thousands of students will sit the exam next month.",
+"Milhares de alunos vão fazer a prova no mês que vem."
+]
+],
+"dicas": [
+"\"Sit\" é irregular: sit, sat, sat. O gerúndio é \"sitting\", com \"tt\".",
+"Não diga \"sit yourself\": o verbo já é \"sentar-se\". \"Sit down\" é suficiente.",
+"Cuidado com a pronúncia: \"sit\" tem um \"i\" curto e aberto; \"seat\" (assento) tem \"i\" longo. Confundir pode gerar mal-entendidos."
+],
+"expressoes": [
+[
+"sit down",
+"sentar-se"
+],
+[
+"sit up",
+"endireitar-se, sentar-se direito; ficar acordado até tarde"
+],
+[
+"sit back",
+"relaxar; ficar só olhando sem agir"
+],
+[
+"sit in on",
+"assistir como ouvinte (aula, reunião)"
+],
+[
+"sit tight",
+"ficar quieto e esperar"
+]
+],
 "data": "2026-11-23"
 },
 "wait": {
 "uso": "\"To wait\" significa \"esperar\" ou \"aguardar\". A preposição é \"for\" antes da pessoa ou da coisa esperada: \"I'm waiting for the bus\". Antes de outro verbo, use \"to\": \"We're waiting to hear from them\".\n\nAtenção: o \"esperar\" do português tem três traduções. \"Wait\" é aguardar no tempo; \"hope\" é ter esperança (\"I hope you're well\"); \"expect\" é prever ou contar com algo (\"I expect him to call\"). Na conversa, \"I can't wait!\" mostra empolgação: mal posso esperar.",
-"exemplos": [["Wait for me!", "Espera por mim!"], ["How long have you been waiting?", "Há quanto tempo você está esperando?"], ["I can't wait to see you again.", "Mal posso esperar para te ver de novo."], ["We waited an hour for the doctor.", "Esperamos uma hora pelo médico."], ["Wait a minute, that's not what you said yesterday.", "Espera aí, não foi isso que você disse ontem."], ["The results were worth waiting for.", "Os resultados valeram a espera."]],
-"dicas": ["Não esqueça o \"for\": \"I'm waiting for you\", e não \"I'm waiting you\".", "\"Wait\" (aguardar), \"hope\" (torcer, ter esperança) e \"expect\" (prever, contar com) são verbos diferentes em inglês, embora sejam todos \"esperar\" em português.", "\"Wait on\" pode significar servir mesas (\"wait on tables\") ou, informalmente, esperar por algo antes de decidir."],
-"expressoes": [["can't wait", "mal poder esperar"], ["wait up (for)", "ficar acordado esperando (alguém)"], ["wait and see", "esperar para ver"], ["wait on (someone)", "servir, atender (alguém)"], ["keep (someone) waiting", "deixar (alguém) esperando"]],
+"exemplos": [
+[
+"Wait for me!",
+"Espera por mim!"
+],
+[
+"How long have you been waiting?",
+"Há quanto tempo você está esperando?"
+],
+[
+"I can't wait to see you again.",
+"Mal posso esperar para te ver de novo."
+],
+[
+"We waited an hour for the doctor.",
+"Esperamos uma hora pelo médico."
+],
+[
+"Wait a minute, that's not what you said yesterday.",
+"Espera aí, não foi isso que você disse ontem."
+],
+[
+"The results were worth waiting for.",
+"Os resultados valeram a espera."
+]
+],
+"dicas": [
+"Não esqueça o \"for\": \"I'm waiting for you\", e não \"I'm waiting you\".",
+"\"Wait\" (aguardar), \"hope\" (torcer, ter esperança) e \"expect\" (prever, contar com) são verbos diferentes em inglês, embora sejam todos \"esperar\" em português.",
+"\"Wait on\" pode significar servir mesas (\"wait on tables\") ou, informalmente, esperar por algo antes de decidir."
+],
+"expressoes": [
+[
+"can't wait",
+"mal poder esperar"
+],
+[
+"wait up (for)",
+"ficar acordado esperando (alguém)"
+],
+[
+"wait and see",
+"esperar para ver"
+],
+[
+"wait on (someone)",
+"servir, atender (alguém)"
+],
+[
+"keep (someone) waiting",
+"deixar (alguém) esperando"
+]
+],
 "data": "2026-11-23"
 },
 "miss": {
 "uso": "\"To miss\" tem vários sentidos que o português traduz de formas diferentes. O mais emocional é \"sentir falta\" ou \"ter saudade\": \"I miss you\" (sinto sua falta). Repare que em inglês a pessoa de quem se sente falta é o objeto direto.\n\nOutros sentidos comuns: perder um meio de transporte ou uma oportunidade (\"I missed the bus\"), errar o alvo (\"He missed the penalty\"), faltar a algo (\"She missed school\") e não perceber ou não entender algo (\"You can't miss it\" — não tem como não ver).",
-"exemplos": [["I miss my family.", "Sinto falta da minha família."], ["Hurry up or we'll miss the train!", "Anda logo ou vamos perder o trem!"], ["He missed the target by a few centimetres.", "Ele errou o alvo por alguns centímetros."], ["She has never missed a day of work.", "Ela nunca faltou um dia ao trabalho."], ["The bank is on the corner. You can't miss it.", "O banco fica na esquina. Não tem como errar."], ["Sorry, I missed what you said. Could you repeat that?", "Desculpe, não ouvi o que você disse. Pode repetir?"]],
-"dicas": ["Ordem invertida em relação ao português: \"I miss you\" = eu sinto sua falta (você faz falta para mim). \"You miss me\" = você sente a minha falta.", "Para \"perder\" um objeto, use \"lose\" (\"I lost my wallet\"); \"miss\" é perder um horário, evento ou chance.", "\"Miss out (on)\" é perder uma oportunidade boa: \"Don't miss out on the sale!\"."],
-"expressoes": [["miss out (on)", "perder (uma oportunidade)"], ["miss the point", "não entender o essencial"], ["miss the boat", "perder o bonde, perder a chance"], ["hit or miss", "incerto, oito ou oitenta"], ["near miss", "quase acidente, por pouco"]],
+"exemplos": [
+[
+"I miss my family.",
+"Sinto falta da minha família."
+],
+[
+"Hurry up or we'll miss the train!",
+"Anda logo ou vamos perder o trem!"
+],
+[
+"He missed the target by a few centimetres.",
+"Ele errou o alvo por alguns centímetros."
+],
+[
+"She has never missed a day of work.",
+"Ela nunca faltou um dia ao trabalho."
+],
+[
+"The bank is on the corner. You can't miss it.",
+"O banco fica na esquina. Não tem como errar."
+],
+[
+"Sorry, I missed what you said. Could you repeat that?",
+"Desculpe, não ouvi o que você disse. Pode repetir?"
+]
+],
+"dicas": [
+"Ordem invertida em relação ao português: \"I miss you\" = eu sinto sua falta (você faz falta para mim). \"You miss me\" = você sente a minha falta.",
+"Para \"perder\" um objeto, use \"lose\" (\"I lost my wallet\"); \"miss\" é perder um horário, evento ou chance.",
+"\"Miss out (on)\" é perder uma oportunidade boa: \"Don't miss out on the sale!\"."
+],
+"expressoes": [
+[
+"miss out (on)",
+"perder (uma oportunidade)"
+],
+[
+"miss the point",
+"não entender o essencial"
+],
+[
+"miss the boat",
+"perder o bonde, perder a chance"
+],
+[
+"hit or miss",
+"incerto, oito ou oitenta"
+],
+[
+"near miss",
+"quase acidente, por pouco"
+]
+],
 "data": "2026-11-23"
 },
 "read": {
 "uso": "\"To read\" significa \"ler\". É um verbo irregular curioso: as três formas se escrevem igual (read, read, read), mas a pronúncia muda. No presente soa \"ríd\"; no passado e no particípio soa \"réd\", como a cor \"red\".\n\nAlém de ler textos, pode significar indicar ou marcar (\"The thermometer reads 30 degrees\"), ter determinado texto (\"The sign reads 'Closed'\") e interpretar (\"read someone's mind\"). Para ler em voz alta, use \"read aloud\" ou \"read out\".",
-"exemplos": [["I read every night before bed.", "Eu leio todas as noites antes de dormir."], ["Have you read this book?", "Você já leu este livro?"], ["She read the letter out loud to everyone.", "Ela leu a carta em voz alta para todos."], ["The sign on the door read \"No entry\".", "A placa na porta dizia \"Entrada proibida\"."], ["You must have read my mind!", "Você deve ter lido meus pensamentos!"], ["I wish I had read the contract more carefully before signing it.", "Eu queria ter lido o contrato com mais atenção antes de assinar."]],
-"dicas": ["Presente \"read\" = \"ríd\"; passado e particípio \"read\" = \"réd\". O contexto (e o tempo verbal) mostra qual é.", "Uma placa ou mensagem \"reads\" ou \"says\" algo: \"The sign says/reads 'Exit'\". Não use \"is written\" nesse caso.", "\"Read up on\" significa pesquisar ou estudar um assunto: \"I need to read up on the company before the interview\"."],
-"expressoes": [["read out / read aloud", "ler em voz alta"], ["read up on", "pesquisar, estudar sobre"], ["read between the lines", "ler nas entrelinhas"], ["read someone's mind", "ler os pensamentos de alguém"], ["read through", "ler do começo ao fim, revisar"]],
+"exemplos": [
+[
+"I read every night before bed.",
+"Eu leio todas as noites antes de dormir."
+],
+[
+"Have you read this book?",
+"Você já leu este livro?"
+],
+[
+"She read the letter out loud to everyone.",
+"Ela leu a carta em voz alta para todos."
+],
+[
+"The sign on the door read \"No entry\".",
+"A placa na porta dizia \"Entrada proibida\"."
+],
+[
+"You must have read my mind!",
+"Você deve ter lido meus pensamentos!"
+],
+[
+"I wish I had read the contract more carefully before signing it.",
+"Eu queria ter lido o contrato com mais atenção antes de assinar."
+]
+],
+"dicas": [
+"Presente \"read\" = \"ríd\"; passado e particípio \"read\" = \"réd\". O contexto (e o tempo verbal) mostra qual é.",
+"Uma placa ou mensagem \"reads\" ou \"says\" algo: \"The sign says/reads 'Exit'\". Não use \"is written\" nesse caso.",
+"\"Read up on\" significa pesquisar ou estudar um assunto: \"I need to read up on the company before the interview\"."
+],
+"expressoes": [
+[
+"read out / read aloud",
+"ler em voz alta"
+],
+[
+"read up on",
+"pesquisar, estudar sobre"
+],
+[
+"read between the lines",
+"ler nas entrelinhas"
+],
+[
+"read someone's mind",
+"ler os pensamentos de alguém"
+],
+[
+"read through",
+"ler do começo ao fim, revisar"
+]
+],
 "data": "2026-11-23"
 },
 "start": {
 "uso": "\"To start\" significa \"começar\" ou \"iniciar\". Pode ser seguido de -ing ou de \"to + verbo\" com o mesmo sentido: \"It started raining\" ou \"It started to rain\". Também é usado para ligar máquinas e veículos: \"start the car\" (dar partida no carro).\n\nÉ praticamente sinônimo de \"begin\", mas \"start\" é mais comum na conversa e tem usos que \"begin\" não tem, como abrir um negócio (\"start a company\") e fazer funcionar um motor. Também pode significar levar um susto e se sobressaltar: \"She started at the noise\".",
-"exemplos": [["The class starts at eight.", "A aula começa às oito."], ["When did you start learning English?", "Quando você começou a aprender inglês?"], ["It started to rain as soon as we left.", "Começou a chover assim que saímos."], ["My car won't start.", "Meu carro não quer pegar."], ["She started her own business two years ago.", "Ela abriu o próprio negócio há dois anos."], ["Let's start over and do it properly this time.", "Vamos começar de novo e fazer direito desta vez."]],
-"dicas": ["\"Start\" é regular (started), ao contrário de \"begin\" (began, begun). Na dúvida, \"start\" é mais fácil e mais usado.", "Para máquinas e carros, use \"start\", não \"begin\": \"start the engine\".", "\"To start with\" no início da frase significa \"para começar\" ou \"em primeiro lugar\" e organiza argumentos."],
-"expressoes": [["start over", "começar de novo"], ["start up", "abrir (um negócio); ligar (uma máquina)"], ["start off", "começar, dar início"], ["to start with", "para começar, em primeiro lugar"], ["get off to a good start", "começar bem"]],
+"exemplos": [
+[
+"The class starts at eight.",
+"A aula começa às oito."
+],
+[
+"When did you start learning English?",
+"Quando você começou a aprender inglês?"
+],
+[
+"It started to rain as soon as we left.",
+"Começou a chover assim que saímos."
+],
+[
+"My car won't start.",
+"Meu carro não quer pegar."
+],
+[
+"She started her own business two years ago.",
+"Ela abriu o próprio negócio há dois anos."
+],
+[
+"Let's start over and do it properly this time.",
+"Vamos começar de novo e fazer direito desta vez."
+]
+],
+"dicas": [
+"\"Start\" é regular (started), ao contrário de \"begin\" (began, begun). Na dúvida, \"start\" é mais fácil e mais usado.",
+"Para máquinas e carros, use \"start\", não \"begin\": \"start the engine\".",
+"\"To start with\" no início da frase significa \"para começar\" ou \"em primeiro lugar\" e organiza argumentos."
+],
+"expressoes": [
+[
+"start over",
+"começar de novo"
+],
+[
+"start up",
+"abrir (um negócio); ligar (uma máquina)"
+],
+[
+"start off",
+"começar, dar início"
+],
+[
+"to start with",
+"para começar, em primeiro lugar"
+],
+[
+"get off to a good start",
+"começar bem"
+]
+],
 "data": "2026-11-23"
 },
 "show": {
 "uso": "\"To show\" significa \"mostrar\" ou \"exibir\". Pode ter dois objetos: \"Show me the photos\" ou \"Show the photos to me\". Também é usado para ensinar fazendo: \"Can you show me how to do it?\" (pode me mostrar como faz?).\n\nOutros sentidos importantes: provar ou indicar (\"The study shows that…\"), estar em cartaz (\"What's showing at the cinema?\") e ficar visível (\"The stain doesn't show\"). O particípio mais comum é \"shown\", embora \"showed\" também seja aceito.",
-"exemplos": [["Show me your new phone!", "Me mostra seu celular novo!"], ["Can you show me the way to the station?", "Você pode me mostrar o caminho para a estação?"], ["The results show that the plan is working.", "Os resultados mostram que o plano está funcionando."], ["He showed me how to use the machine.", "Ele me mostrou como usar a máquina."], ["She was tired, but she didn't let it show.", "Ela estava cansada, mas não deixou transparecer."], ["The film has been shown in more than fifty countries.", "O filme já foi exibido em mais de cinquenta países."]],
-"dicas": ["\"Show up\" é aparecer, chegar (muito usado): \"He didn't show up to the meeting\" (ele não apareceu na reunião).", "\"Show off\" é exibir-se, contar vantagem. \"Stop showing off!\" = para de se exibir!", "O particípio preferido é \"shown\": \"I've shown you everything\". \"Showed\" como particípio existe, mas é menos comum."],
-"expressoes": [["show up", "aparecer, comparecer"], ["show off", "exibir-se, contar vantagem"], ["show around", "mostrar o lugar, levar para conhecer"], ["show (someone) the ropes", "ensinar o básico a (alguém)"], ["goes to show", "serve para mostrar, só prova que"]],
+"exemplos": [
+[
+"Show me your new phone!",
+"Me mostra seu celular novo!"
+],
+[
+"Can you show me the way to the station?",
+"Você pode me mostrar o caminho para a estação?"
+],
+[
+"The results show that the plan is working.",
+"Os resultados mostram que o plano está funcionando."
+],
+[
+"He showed me how to use the machine.",
+"Ele me mostrou como usar a máquina."
+],
+[
+"She was tired, but she didn't let it show.",
+"Ela estava cansada, mas não deixou transparecer."
+],
+[
+"The film has been shown in more than fifty countries.",
+"O filme já foi exibido em mais de cinquenta países."
+]
+],
+"dicas": [
+"\"Show up\" é aparecer, chegar (muito usado): \"He didn't show up to the meeting\" (ele não apareceu na reunião).",
+"\"Show off\" é exibir-se, contar vantagem. \"Stop showing off!\" = para de se exibir!",
+"O particípio preferido é \"shown\": \"I've shown you everything\". \"Showed\" como particípio existe, mas é menos comum."
+],
+"expressoes": [
+[
+"show up",
+"aparecer, comparecer"
+],
+[
+"show off",
+"exibir-se, contar vantagem"
+],
+[
+"show around",
+"mostrar o lugar, levar para conhecer"
+],
+[
+"show (someone) the ropes",
+"ensinar o básico a (alguém)"
+],
+[
+"goes to show",
+"serve para mostrar, só prova que"
+]
+],
 "data": "2026-11-23"
 },
 "help": {
 "uso": "\"To help\" significa \"ajudar\". Depois do objeto, o verbo seguinte pode vir com ou sem \"to\": \"She helped me (to) move\". Para ajudar com algo, a preposição é \"with\": \"Can you help me with my homework?\".\n\nTem um uso especial com \"can't\": \"I can't help it\" (não consigo evitar) e \"I couldn't help laughing\" (não consegui segurar o riso). Em lojas e restaurantes, \"Can I help you?\" é o equivalente ao nosso \"Posso ajudar?\". E \"help yourself\" é \"sirva-se\" ou \"fique à vontade\".",
-"exemplos": [["Can you help me, please?", "Você pode me ajudar, por favor?"], ["He helps his father in the shop on Saturdays.", "Ele ajuda o pai na loja aos sábados."], ["Could you help me with these bags?", "Você poderia me ajudar com estas sacolas?"], ["Help yourself to some cake.", "Sirva-se de bolo."], ["I couldn't help laughing when he fell asleep in the meeting.", "Não consegui segurar o riso quando ele dormiu na reunião."], ["Talking to a friend has helped me see the problem differently.", "Conversar com um amigo me ajudou a ver o problema de outra forma."]],
-"dicas": ["Depois de \"help someone\", o \"to\" é opcional: \"help me do it\" e \"help me to do it\" estão certos; sem \"to\" é mais comum.", "\"Can't help + -ing\" = não conseguir evitar: \"I can't help thinking about it\" (não consigo parar de pensar nisso).", "Em emergências, grite \"Help!\" (Socorro!). Para pedir ajuda com educação: \"Could you give me a hand?\"."],
-"expressoes": [["help out", "dar uma força, ajudar"], ["help yourself", "sirva-se, fique à vontade"], ["can't help it", "não conseguir evitar"], ["give (someone) a hand", "dar uma mão, ajudar"], ["it can't be helped", "não tem jeito, fazer o quê"]],
+"exemplos": [
+[
+"Can you help me, please?",
+"Você pode me ajudar, por favor?"
+],
+[
+"He helps his father in the shop on Saturdays.",
+"Ele ajuda o pai na loja aos sábados."
+],
+[
+"Could you help me with these bags?",
+"Você poderia me ajudar com estas sacolas?"
+],
+[
+"Help yourself to some cake.",
+"Sirva-se de bolo."
+],
+[
+"I couldn't help laughing when he fell asleep in the meeting.",
+"Não consegui segurar o riso quando ele dormiu na reunião."
+],
+[
+"Talking to a friend has helped me see the problem differently.",
+"Conversar com um amigo me ajudou a ver o problema de outra forma."
+]
+],
+"dicas": [
+"Depois de \"help someone\", o \"to\" é opcional: \"help me do it\" e \"help me to do it\" estão certos; sem \"to\" é mais comum.",
+"\"Can't help + -ing\" = não conseguir evitar: \"I can't help thinking about it\" (não consigo parar de pensar nisso).",
+"Em emergências, grite \"Help!\" (Socorro!). Para pedir ajuda com educação: \"Could you give me a hand?\"."
+],
+"expressoes": [
+[
+"help out",
+"dar uma força, ajudar"
+],
+[
+"help yourself",
+"sirva-se, fique à vontade"
+],
+[
+"can't help it",
+"não conseguir evitar"
+],
+[
+"give (someone) a hand",
+"dar uma mão, ajudar"
+],
+[
+"it can't be helped",
+"não tem jeito, fazer o quê"
+]
+],
 "data": "2026-11-23"
+},
+"pay": {
+"uso": "\"Pay\" é \"pagar\": dinheiro por produtos, serviços, contas e dívidas. A construção mais importante é \"pay for something\" (pagar por algo): \"I paid for the tickets\". Quando o objeto é a conta ou a pessoa, não vai preposição: \"pay the bill\", \"pay the waiter\".\n\nO verbo também aparece em sentidos figurados: \"pay attention\" (prestar atenção), \"pay a visit\" (fazer uma visita) e \"it pays to…\" (vale a pena…). E \"pay off\" pode ser quitar uma dívida ou dar resultado depois de muito esforço.",
+"exemplos": [
+[
+"How much did you pay for that jacket?",
+"Quanto você pagou por essa jaqueta?"
+],
+[
+"I pay the rent on the fifth of every month.",
+"Eu pago o aluguel no dia cinco de todo mês."
+],
+[
+"Can I pay by card?",
+"Posso pagar no cartão?"
+],
+[
+"Please pay attention, this part is important.",
+"Por favor, prestem atenção, esta parte é importante."
+],
+[
+"All those hours of practice finally paid off.",
+"Todas aquelas horas de prática finalmente deram resultado."
+],
+[
+"We'll have paid off the mortgage by the time we retire.",
+"Teremos quitado o financiamento até nos aposentarmos."
+]
+],
+"dicas": [
+"Pagar POR algo é \"pay for\": \"I paid for dinner\". Sem o \"for\", a frase diz que você pagou o próprio jantar como se ele fosse a pessoa: \"I paid dinner\" está errado.",
+"O passado é irregular só na escrita: pay → paid (não \"payed\"). A pronúncia é \"pêid\".",
+"\"Prestar atenção\" em inglês é \"pay attention (to)\", nunca \"give attention\" no uso comum: \"Pay attention to the teacher\"."
+],
+"expressoes": [
+[
+"pay off",
+"quitar (dívida); dar resultado"
+],
+[
+"pay back",
+"devolver o dinheiro; dar o troco (vingança)"
+],
+[
+"pay in cash",
+"pagar em dinheiro"
+],
+[
+"pay a visit",
+"fazer uma visita"
+],
+[
+"it pays to…",
+"vale a pena…"
+]
+],
+"data": "2026-11-24"
+},
+"write": {
+"uso": "\"Write\" é \"escrever\": textos, mensagens, livros, músicas e até código. Para dizer a quem você escreve, use \"write to someone\" (no inglês americano informal também se ouve \"write someone\"). Para o conteúdo, use \"write about\": \"She writes about travel\".\n\nÉ um verbo irregular de três formas diferentes: write, wrote, written. Repare que o \"w\" inicial não é pronunciado: \"wráit\" soa como \"ráit\", igual a \"right\".",
+"exemplos": [
+[
+"I write in my journal every night.",
+"Eu escrevo no meu diário toda noite."
+],
+[
+"She wrote a letter to her grandmother.",
+"Ela escreveu uma carta para a avó."
+],
+[
+"Can you write your name here, please?",
+"Você pode escrever seu nome aqui, por favor?"
+],
+[
+"He's writing a book about the history of São Paulo.",
+"Ele está escrevendo um livro sobre a história de São Paulo."
+],
+[
+"Have you ever written a song?",
+"Você já escreveu uma música?"
+],
+[
+"Write down the address before you forget it.",
+"Anote o endereço antes que você esqueça."
+]
+],
+"dicas": [
+"O \"w\" é mudo: write soa \"ráit\" (como right) e wrote soa \"rôut\". Written é \"rítn\", com \"t\" quase engolido.",
+"Particípio com dois \"t\": written. O gerúndio tem um só: writing.",
+"\"Anotar\" é \"write down\" ou \"jot down\" (rápido). \"Preencher um formulário\" não é \"write\", e sim \"fill in/fill out\"."
+],
+"expressoes": [
+[
+"write down",
+"anotar"
+],
+[
+"write back",
+"responder (por escrito)"
+],
+[
+"write off",
+"dar como perdido; dar baixa (contabilidade)"
+],
+[
+"write up",
+"redigir (um relatório)"
+],
+[
+"nothing to write home about",
+"nada de especial"
+]
+],
+"data": "2026-11-24"
+},
+"break": {
+"uso": "\"Break\" é \"quebrar\", mas cobre muito mais que objetos: quebrar uma regra, uma promessa ou um recorde, interromper algo (\"let's break for lunch\") e até dar uma notícia (\"break the news\"). Como substantivo, \"a break\" é uma pausa ou intervalo.\n\nOs phrasal verbs com break são muito usados: \"break down\" (o carro quebra / a pessoa desaba), \"break up\" (terminar um namoro), \"break into\" (arrombar) e \"break out\" (começar de repente, como guerra ou incêndio).",
+"exemplos": [
+[
+"Be careful, don't break the glasses.",
+"Cuidado, não quebre os copos."
+],
+[
+"He broke his arm playing football.",
+"Ele quebrou o braço jogando futebol."
+],
+[
+"Our car broke down on the highway.",
+"Nosso carro quebrou na estrada."
+],
+[
+"They broke up after five years together.",
+"Eles terminaram depois de cinco anos juntos."
+],
+[
+"Someone broke into the office last night.",
+"Alguém arrombou o escritório ontem à noite."
+],
+[
+"She has never broken a promise.",
+"Ela nunca quebrou uma promessa."
+]
+],
+"dicas": [
+"Para máquinas e carros que param de funcionar, use \"break down\": \"The car broke down\". \"The car broke\" soa como se tivesse se partido em pedaços.",
+"\"Terminar o namoro\" é \"break up (with someone)\": \"She broke up with him\".",
+"As três formas: break, broke, broken. Cuidado: \"broke\" também é adjetivo coloquial para \"duro, sem dinheiro\": \"I'm broke\"."
+],
+"expressoes": [
+[
+"take a break",
+"fazer uma pausa"
+],
+[
+"break the ice",
+"quebrar o gelo"
+],
+[
+"break the news",
+"dar a notícia"
+],
+[
+"break even",
+"empatar (nem lucro, nem prejuízo)"
+],
+[
+"break a leg!",
+"boa sorte! (no teatro)"
+]
+],
+"data": "2026-11-24"
+},
+"move": {
+"uso": "\"Move\" é \"mover\" ou \"mexer\" (algo ou a si mesmo) e também \"mudar-se\" de casa, cidade ou país: \"We moved to Curitiba\". Para mudar de casa, o inglês britânico usa muito \"move house\"; o americano diz só \"move\".\n\nNo sentido emocional, \"move\" é \"comover\": \"The film moved me\" (o filme me comoveu), daí o adjetivo \"moving\" (comovente). E \"move on\" é seguir em frente depois de algo difícil.",
+"exemplos": [
+[
+"Can you move your car, please?",
+"Você pode tirar o seu carro daí, por favor?"
+],
+[
+"Don't move! There's a bee on your shoulder.",
+"Não se mexa! Tem uma abelha no seu ombro."
+],
+[
+"We moved to Lisbon in 2022.",
+"Nós nos mudamos para Lisboa em 2022."
+],
+[
+"The meeting has been moved to Friday.",
+"A reunião foi transferida para sexta-feira."
+],
+[
+"Her speech moved everyone in the room.",
+"O discurso dela comoveu todos na sala."
+],
+[
+"It's time to move on and focus on the future.",
+"É hora de seguir em frente e focar no futuro."
+]
+],
+"dicas": [
+"\"Mudar-se\" é \"move\", não \"change\": \"I moved to Rio\". \"Change\" é mudar/trocar algo: \"change jobs\".",
+"\"Moving\" pode ser \"comovente\" (a moving story) ou \"mudança\" (moving day, moving company).",
+"\"Mexer em algo\" no sentido de tocar/bagunçar é \"touch\" ou \"mess with\": \"Don't touch my things\". \"Move\" é tirar do lugar."
+],
+"expressoes": [
+[
+"move in",
+"mudar-se para (um lugar)"
+],
+[
+"move out",
+"sair de casa (mudar-se de um lugar)"
+],
+[
+"move on",
+"seguir em frente"
+],
+[
+"get a move on",
+"andar logo, se apressar"
+],
+[
+"make a move",
+"agir; dar em cima (informal)"
+]
+],
+"data": "2026-11-24"
+},
+"hold": {
+"uso": "\"Hold\" é \"segurar\" com as mãos ou os braços, mas também \"manter\" (uma posição, um estado), \"comportar\" (\"the stadium holds 50,000 people\") e \"realizar\" um evento (\"hold a meeting\", \"hold elections\").\n\nAo telefone, \"hold on\" ou \"hold the line\" é \"aguarde um momento\". E \"hold\" também significa ter ou ocupar algo oficial: \"hold a degree\", \"hold a position\", \"hold the record\".",
+"exemplos": [
+[
+"Can you hold my bag for a second?",
+"Você pode segurar minha bolsa um segundo?"
+],
+[
+"She was holding a baby in her arms.",
+"Ela estava segurando um bebê nos braços."
+],
+[
+"Hold on, I'll check if he's here.",
+"Espera aí, vou ver se ele está aqui."
+],
+[
+"The meeting will be held on Monday at 10.",
+"A reunião será realizada na segunda às 10."
+],
+[
+"This bottle holds two liters.",
+"Esta garrafa comporta dois litros."
+],
+[
+"He has held the world record since 2009.",
+"Ele detém o recorde mundial desde 2009."
+]
+],
+"dicas": [
+"\"Realizar um evento\" é \"hold\": \"hold a meeting/party/conference\". \"Realize\" é falso cognato e significa \"perceber\".",
+"As formas são hold, held, held. Na voz passiva aparece muito: \"The event was held in Rio\".",
+"\"Hold on\" (espere), \"hold on to\" (agarrar-se a, não largar) e \"hold up\" (atrasar; assaltar) são phrasal verbs muito diferentes."
+],
+"expressoes": [
+[
+"hold on",
+"esperar um pouco"
+],
+[
+"hold up",
+"atrasar; assaltar"
+],
+[
+"hold back",
+"conter; segurar (emoções)"
+],
+[
+"hold hands",
+"dar as mãos"
+],
+[
+"hold your breath",
+"prender a respiração"
+]
+],
+"data": "2026-11-24"
+},
+"bite": {
+"uso": "\"Bite\" é \"morder\": pessoas, animais e até insetos (no inglês, mosquito e cobra \"bite\"; abelha e vespa \"sting\"). Como substantivo, \"a bite\" é uma mordida ou um pedaço pequeno de comida: \"Can I have a bite?\".\n\nEm sentido figurado, \"bite\" pode ser cair numa isca (\"the fish aren't biting today\") ou um efeito que começa a doer: \"the cuts are starting to bite\" (os cortes começam a pesar).",
+"exemplos": [
+[
+"Don't worry, the dog doesn't bite.",
+"Não se preocupe, o cachorro não morde."
+],
+[
+"I got bitten by mosquitoes all night.",
+"Fui picado por mosquitos a noite toda."
+],
+[
+"She bit into the apple.",
+"Ela deu uma mordida na maçã."
+],
+[
+"Stop biting your nails!",
+"Pare de roer as unhas!"
+],
+[
+"Let's grab a bite before the movie.",
+"Vamos comer alguma coisa rapidinho antes do filme."
+],
+[
+"I offered him a deal, but he didn't bite.",
+"Ofereci um acordo, mas ele não mordeu a isca."
+]
+],
+"dicas": [
+"Picada de mosquito, cobra e aranha é \"bite\"; de abelha, vespa e escorpião é \"sting\".",
+"\"Roer as unhas\" é \"bite your nails\".",
+"Formas: bite, bit, bitten. Repare na vogal: bite soa \"báit\", bit soa \"bít\"."
+],
+"expressoes": [
+[
+"grab a bite",
+"fazer um lanche rápido"
+],
+[
+"bite your tongue",
+"morder a língua (calar-se)"
+],
+[
+"bite off more than you can chew",
+"dar um passo maior que a perna"
+],
+[
+"bite the bullet",
+"encarar algo difícil de uma vez"
+],
+[
+"bite the dust",
+"morrer; fracassar (informal)"
+]
+],
+"data": "2026-11-24"
+},
+"play": {
+"uso": "\"Play\" junta três verbos do português: \"jogar\" (esportes e jogos), \"brincar\" (crianças) e \"tocar\" (instrumentos e músicas). O contexto resolve: \"play football\", \"the kids are playing outside\", \"play the guitar\".\n\nTambém significa \"interpretar\" um papel (\"she plays the mother\"), \"pôr para tocar\" (\"play a song\") e aparece em \"play a role/part in\" (ter um papel em algo).",
+"exemplos": [
+[
+"Do you play any sports?",
+"Você pratica algum esporte?"
+],
+[
+"The children are playing in the garden.",
+"As crianças estão brincando no jardim."
+],
+[
+"He plays the drums in a band.",
+"Ele toca bateria numa banda."
+],
+[
+"Who played the main character in that film?",
+"Quem fez o personagem principal naquele filme?"
+],
+[
+"Can you play that song again?",
+"Você pode tocar essa música de novo?"
+],
+[
+"Technology plays a huge role in education today.",
+"A tecnologia tem um papel enorme na educação hoje."
+]
+],
+"dicas": [
+"Com esportes não se usa artigo: \"play football\", \"play tennis\". Com instrumentos, o padrão é com \"the\": \"play the piano\".",
+"Esportes que não são jogos com bola costumam usar \"do\" ou \"go\": \"do yoga\", \"go swimming\", não \"play yoga\".",
+"\"Play\" no passado é regular: played (o \"y\" fica, porque vem depois de vogal)."
+],
+"expressoes": [
+[
+"play a role in",
+"ter um papel em"
+],
+[
+"play it by ear",
+"improvisar, ver na hora"
+],
+[
+"play along",
+"entrar no jogo"
+],
+[
+"play down",
+"minimizar"
+],
+[
+"play fair",
+"jogar limpo"
+]
+],
+"data": "2026-11-24"
+},
+"turn": {
+"uso": "\"Turn\" é \"virar\" ou \"girar\": virar à esquerda, girar a chave, virar a página. Também significa \"tornar-se\" com idades e mudanças (\"she turned 30\", \"the leaves turn yellow\").\n\nOs phrasal verbs com turn são essenciais no dia a dia: \"turn on/off\" (ligar/desligar aparelhos), \"turn up/down\" (aumentar/abaixar o volume; aparecer/recusar), \"turn out\" (acabar sendo) e \"turn into\" (transformar-se em). Como substantivo, \"it's your turn\" é \"é a sua vez\".",
+"exemplos": [
+[
+"Turn left at the next corner.",
+"Vire à esquerda na próxima esquina."
+],
+[
+"Can you turn off the lights, please?",
+"Você pode apagar as luzes, por favor?"
+],
+[
+"My son turned ten last week.",
+"Meu filho fez dez anos semana passada."
+],
+[
+"Turn the music down, I'm on the phone!",
+"Abaixa a música, estou no telefone!"
+],
+[
+"The party turned out to be really fun.",
+"A festa acabou sendo muito divertida."
+],
+[
+"The caterpillar turned into a butterfly.",
+"A lagarta se transformou numa borboleta."
+]
+],
+"dicas": [
+"\"Fazer aniversário de X anos\" é \"turn X\": \"I'm turning 40 in May\".",
+"Para aparelhos e luzes, use \"turn on/off\" (ou \"switch on/off\"). \"Open the light\" é erro clássico de brasileiro.",
+"\"It's my turn\" é \"é a minha vez\"; \"take turns\" é \"revezar\"."
+],
+"expressoes": [
+[
+"turn on / turn off",
+"ligar / desligar"
+],
+[
+"turn up",
+"aparecer; aumentar (volume)"
+],
+[
+"turn down",
+"recusar; abaixar (volume)"
+],
+[
+"turn out",
+"acabar sendo; resultar"
+],
+[
+"take turns",
+"revezar-se"
+]
+],
+"data": "2026-11-24"
+},
+"save": {
+"uso": "\"Save\" tem três sentidos principais: \"salvar\" (resgatar alguém de um perigo), \"economizar\" ou \"poupar\" (dinheiro, tempo, energia) e \"guardar\" para depois (\"save me a seat\"). Em computação, \"save a file\" é salvar o arquivo.\n\nPara juntar dinheiro com um objetivo, use \"save up (for)\": \"I'm saving up for a trip\". No futebol, o goleiro \"makes a save\" (faz uma defesa).",
+"exemplos": [
+[
+"The firefighters saved three people from the fire.",
+"Os bombeiros salvaram três pessoas do incêndio."
+],
+[
+"Taking the subway saves me an hour every day.",
+"Pegar o metrô me economiza uma hora por dia."
+],
+[
+"I'm saving up for a new laptop.",
+"Estou juntando dinheiro para um notebook novo."
+],
+[
+"Could you save me a seat?",
+"Você pode guardar um lugar para mim?"
+],
+[
+"Don't forget to save the document before closing it.",
+"Não esqueça de salvar o documento antes de fechá-lo."
+],
+[
+"If we had saved more, we could have bought the house.",
+"Se tivéssemos poupado mais, poderíamos ter comprado a casa."
+]
+],
+"dicas": [
+"\"Save\" economiza; \"spend\" gasta. \"Save money / save time\" é o par oposto de \"spend money / spend time\".",
+"\"Guardar\" no sentido de reservar é \"save\"; no sentido de pôr no lugar é \"put away\": \"Put your toys away\".",
+"\"Savings\" (plural) é a poupança, o dinheiro guardado: \"I used my savings\"."
+],
+"expressoes": [
+[
+"save up",
+"juntar dinheiro"
+],
+[
+"save time",
+"economizar tempo"
+],
+[
+"save face",
+"salvar as aparências"
+],
+[
+"save the day",
+"salvar a pátria"
+],
+[
+"to save someone's life",
+"salvar a vida de alguém"
+]
+],
+"data": "2026-11-24"
+},
+"worry": {
+"uso": "\"Worry\" é \"preocupar-se\". A preposição é \"about\": \"I worry about my kids\". Também existe a forma com \"be worried\" (estar preocupado), que descreve o estado: \"She's worried about the exam\".\n\nComo verbo transitivo, \"worry\" significa \"preocupar alguém\": \"It worries me that he hasn't called\". A frase mais comum de todas é \"Don't worry\" (não se preocupe; relaxa).",
+"exemplos": [
+[
+"Don't worry, everything will be fine.",
+"Não se preocupe, vai dar tudo certo."
+],
+[
+"My mom worries about everything.",
+"Minha mãe se preocupa com tudo."
+],
+[
+"I'm worried about the test tomorrow.",
+"Estou preocupado com a prova de amanhã."
+],
+[
+"What worries me is the cost.",
+"O que me preocupa é o custo."
+],
+[
+"She's been worrying about her job for weeks.",
+"Ela está preocupada com o emprego há semanas."
+],
+[
+"There's nothing to worry about.",
+"Não há com o que se preocupar."
+]
+],
+"dicas": [
+"A preposição é \"about\", não \"with\": \"worry about money\" (preocupar-se com dinheiro).",
+"\"I worry\" descreve um hábito; \"I'm worried\" descreve como você está agora.",
+"Pronúncia: \"uâri\" (como \"hurry\" com w). Passado: worried, com \"i\"."
+],
+"expressoes": [
+[
+"don't worry",
+"não se preocupe"
+],
+[
+"not to worry",
+"não tem problema (britânico)"
+],
+[
+"nothing to worry about",
+"nada com que se preocupar"
+],
+[
+"worry sick",
+"ficar morrendo de preocupação"
+],
+[
+"no worries",
+"de nada; sem problemas (informal)"
+]
+],
+"data": "2026-11-24"
+},
+"hit": {
+"uso": "\"Hit\" é \"bater\", \"acertar\" ou \"atingir\": bater em alguém, acertar um alvo, ser atingido por algo. Serve também para choques e batidas: \"the car hit a tree\".\n\nEm sentido figurado é muito usado: uma crise \"hits\" um país, uma ideia \"hits you\" (vem à cabeça de repente), e você pode \"hit a target\" (bater uma meta). As três formas são iguais: hit, hit, hit.",
+"exemplos": [
+[
+"He hit the ball over the fence.",
+"Ele mandou a bola por cima da cerca."
+],
+[
+"The car hit a tree.",
+"O carro bateu numa árvore."
+],
+[
+"I hit my head on the door.",
+"Bati a cabeça na porta."
+],
+[
+"The storm hit the coast last night.",
+"A tempestade atingiu o litoral ontem à noite."
+],
+[
+"We've finally hit our sales target.",
+"Finalmente batemos nossa meta de vendas."
+],
+[
+"It suddenly hit me that I had left my keys at home.",
+"De repente me dei conta de que tinha deixado as chaves em casa."
+]
+],
+"dicas": [
+"Hit, hit, hit: igual no presente, passado e particípio. O gerúndio dobra o t: hitting.",
+"\"Bater o carro\" pode ser \"crash the car\"; \"o carro bateu em algo\" é \"hit\": \"I hit a pole\".",
+"\"A hit\" também é um sucesso: \"The song was a huge hit\"."
+],
+"expressoes": [
+[
+"hit it off",
+"se dar bem logo de cara"
+],
+[
+"hit the road",
+"pôr o pé na estrada"
+],
+[
+"hit the gym",
+"ir para a academia (informal)"
+],
+[
+"hit the nail on the head",
+"acertar em cheio"
+],
+[
+"hit rock bottom",
+"chegar ao fundo do poço"
+]
+],
+"data": "2026-11-24"
+},
+"buy": {
+"uso": "\"Buy\" é \"comprar\". A estrutura é \"buy something (from someone)\" para indicar de quem se compra, e \"buy someone something\" ou \"buy something for someone\" para presentes: \"I bought my mom flowers\".\n\nNo inglês informal, \"buy\" também quer dizer \"acreditar\" numa história: \"I don't buy it\" (não acredito nisso). E \"buy time\" é ganhar tempo.",
+"exemplos": [
+[
+"I need to buy some bread.",
+"Preciso comprar pão."
+],
+[
+"Where did you buy those shoes?",
+"Onde você comprou esses sapatos?"
+],
+[
+"He bought his wife a necklace for their anniversary.",
+"Ele comprou um colar para a esposa no aniversário de casamento."
+],
+[
+"We bought the car from a neighbor.",
+"Compramos o carro de um vizinho."
+],
+[
+"He said he was sick, but nobody bought it.",
+"Ele disse que estava doente, mas ninguém acreditou."
+],
+[
+"We need to buy some time until the boss arrives.",
+"Precisamos ganhar tempo até o chefe chegar."
+]
+],
+"dicas": [
+"Comprar DE alguém é \"buy from\", não \"buy of\": \"I bought it from a friend\".",
+"Passado: bought (\"bót\"). Não confunda com brought (\"brót\"), passado de bring.",
+"\"Ir às compras\" é \"go shopping\"; \"fazer compras do mês\" é \"do the grocery shopping\"."
+],
+"expressoes": [
+[
+"buy time",
+"ganhar tempo"
+],
+[
+"buy into",
+"acreditar em; comprar a ideia"
+],
+[
+"buy out",
+"comprar a parte de"
+],
+[
+"buy in bulk",
+"comprar no atacado"
+],
+[
+"I'm not buying it",
+"não acredito nisso"
+]
+],
+"data": "2026-11-24"
+},
+"follow": {
+"uso": "\"Follow\" é \"seguir\": ir atrás de alguém, seguir instruções, uma estrada ou uma conta nas redes sociais. Também é \"acompanhar\" ou \"entender\" um raciocínio: \"Sorry, I don't follow\" (desculpe, não estou entendendo).\n\nEm textos, \"as follows\" apresenta uma lista (\"os seguintes\"), e \"follow up\" é dar continuidade, fazer um acompanhamento depois de uma reunião ou contato.",
+"exemplos": [
+[
+"Follow me, I'll show you the way.",
+"Me siga, vou te mostrar o caminho."
+],
+[
+"Just follow the instructions on the box.",
+"É só seguir as instruções na caixa."
+],
+[
+"I've been following her on Instagram for years.",
+"Eu a sigo no Instagram há anos."
+],
+[
+"Sorry, I don't follow. Can you explain again?",
+"Desculpe, não entendi. Pode explicar de novo?"
+],
+[
+"A storm followed the hot weather.",
+"Uma tempestade veio depois do calor."
+],
+[
+"I'll follow up with an email tomorrow.",
+"Amanhã eu mando um e-mail dando sequência."
+]
+],
+"dicas": [
+"\"I don't follow\" é uma forma educada de dizer que não está acompanhando a explicação.",
+"\"Follow\" é transitivo direto: \"follow the rules\", sem preposição.",
+"\"Following\" pode ser \"seguinte\": \"the following day\" (no dia seguinte)."
+],
+"expressoes": [
+[
+"follow up",
+"dar seguimento; fazer o acompanhamento"
+],
+[
+"follow suit",
+"fazer o mesmo"
+],
+[
+"follow in someone's footsteps",
+"seguir os passos de alguém"
+],
+[
+"as follows",
+"conforme abaixo; o seguinte"
+],
+[
+"follow your heart",
+"seguir o coração"
+]
+],
+"data": "2026-11-24"
+},
+"learn": {
+"uso": "\"Learn\" é \"aprender\": um idioma, uma habilidade, uma lição. Para aprender a fazer algo, use \"learn to\" ou \"learn how to\": \"I'm learning to drive\". Também significa \"descobrir\" ou \"ficar sabendo\": \"We learned that the flight was cancelled\".\n\nNo inglês americano o passado é \"learned\"; no britânico também se usa \"learnt\". Os dois estão corretos.",
+"exemplos": [
+[
+"I'm learning English to travel more.",
+"Estou aprendendo inglês para viajar mais."
+],
+[
+"She learned to swim when she was five.",
+"Ela aprendeu a nadar quando tinha cinco anos."
+],
+[
+"We learn something new every day.",
+"A gente aprende algo novo todo dia."
+],
+[
+"I learned about the accident on the news.",
+"Fiquei sabendo do acidente pelo jornal."
+],
+[
+"Have you learned the new words?",
+"Você aprendeu as palavras novas?"
+],
+[
+"He has learned his lesson, I hope.",
+"Ele aprendeu a lição, espero."
+]
+],
+"dicas": [
+"Não confunda \"learn\" (aprender) com \"teach\" (ensinar). \"She taught me English\", nunca \"she learned me English\".",
+"Aprender a fazer algo: \"learn to + verbo\" ou \"learn how to + verbo\".",
+"\"Learn by heart\" é decorar; \"memorize\" também funciona."
+],
+"expressoes": [
+[
+"learn by heart",
+"decorar"
+],
+[
+"learn the hard way",
+"aprender da pior forma"
+],
+[
+"learn from your mistakes",
+"aprender com os erros"
+],
+[
+"learn the ropes",
+"pegar o jeito; aprender como funciona"
+],
+[
+"live and learn",
+"vivendo e aprendendo"
+]
+],
+"data": "2026-11-24"
+},
+"decide": {
+"uso": "\"Decide\" é \"decidir\". As estruturas mais comuns são \"decide to + verbo\" (decidir fazer algo), \"decide on\" (escolher entre opções) e \"decide that…\". Para dizer que ainda não decidiu, use \"I haven't decided yet\" ou \"I can't decide\".\n\nTambém aparece com perguntas: \"decide what/where/whether…\": \"We need to decide where to go\". O substantivo é \"decision\", e \"tomar uma decisão\" é \"make a decision\".",
+"exemplos": [
+[
+"I've decided to study abroad.",
+"Decidi estudar no exterior."
+],
+[
+"We can't decide where to go on vacation.",
+"Não conseguimos decidir para onde ir nas férias."
+],
+[
+"Have you decided on a name for the baby?",
+"Vocês já escolheram um nome para o bebê?"
+],
+[
+"She decided not to accept the job.",
+"Ela decidiu não aceitar o emprego."
+],
+[
+"It's up to you to decide.",
+"Cabe a você decidir."
+],
+[
+"One goal in the last minute decided the match.",
+"Um gol no último minuto decidiu a partida."
+]
+],
+"dicas": [
+"\"Tomar uma decisão\" é \"make a decision\", não \"take a decision\" (esta forma existe no britânico, mas é menos comum).",
+"\"Decide on\" é escolher entre opções: \"We decided on the blue one\".",
+"Negativa com infinitivo: \"decide not to do\" (decidir não fazer)."
+],
+"expressoes": [
+[
+"decide on",
+"escolher, optar por"
+],
+[
+"make up your mind",
+"decidir-se"
+],
+[
+"make a decision",
+"tomar uma decisão"
+],
+[
+"the deciding factor",
+"o fator decisivo"
+],
+[
+"decide for yourself",
+"decida você mesmo"
+]
+],
+"data": "2026-11-24"
+},
+"spend": {
+"uso": "\"Spend\" é \"gastar\" dinheiro e também \"passar\" tempo: \"I spent the weekend at the beach\". A estrutura com tempo é muito usada: \"spend time + verbo-ing\": \"I spend hours reading\".\n\nComo gastar com algo, use \"spend money on something\": \"She spends a lot on clothes\". O contrário é \"save\" (economizar, poupar).",
+"exemplos": [
+[
+"How much did you spend on the trip?",
+"Quanto você gastou na viagem?"
+],
+[
+"We spent the holidays with my grandparents.",
+"Passamos as festas com os meus avós."
+],
+[
+"He spends too much time on his phone.",
+"Ele passa tempo demais no celular."
+],
+[
+"I spent two hours trying to fix the printer.",
+"Passei duas horas tentando consertar a impressora."
+],
+[
+"Don't spend all your money at once.",
+"Não gaste todo o seu dinheiro de uma vez."
+],
+[
+"By the end of the year, we'll have spent over a thousand dollars on repairs.",
+"Até o fim do ano, teremos gasto mais de mil dólares em consertos."
+]
+],
+"dicas": [
+"Gastar EM algo é \"spend on\": \"spend money on food\". Não use \"spend with\".",
+"\"Passar tempo fazendo algo\" pede gerúndio: \"spend time studying\", não \"spend time to study\".",
+"Formas: spend, spent, spent. \"Spent\" também é adjetivo: \"I feel spent\" (estou exausto)."
+],
+"expressoes": [
+[
+"spend time",
+"passar tempo"
+],
+[
+"spend the night",
+"passar a noite; dormir (na casa de alguém)"
+],
+[
+"spend money like water",
+"gastar dinheiro como água"
+],
+[
+"well spent",
+"bem gasto; bem aproveitado"
+],
+[
+"spend a fortune",
+"gastar uma fortuna"
+]
+],
+"data": "2026-11-24"
+},
+"need": {
+"uso": "\"Need\" é \"precisar\" ou \"necessitar\". Funciona com substantivo (\"I need help\") ou com \"to + verbo\" (\"I need to go\"). Na negativa, \"don't need to\" é \"não precisa\": \"You don't need to come\".\n\nUma construção que surpreende brasileiros é \"something needs + -ing\" com sentido passivo: \"The car needs washing\" (o carro precisa ser lavado). Como substantivo, \"need\" é necessidade: \"there's no need\" (não precisa).",
+"exemplos": [
+[
+"I need a coffee.",
+"Preciso de um café."
+],
+[
+"You need to rest more.",
+"Você precisa descansar mais."
+],
+[
+"Do you need any help?",
+"Você precisa de ajuda?"
+],
+[
+"You don't need to bring anything.",
+"Você não precisa levar nada."
+],
+[
+"The walls need painting.",
+"As paredes precisam de pintura."
+],
+[
+"We'll need more chairs if everyone comes.",
+"Vamos precisar de mais cadeiras se todo mundo vier."
+]
+],
+"dicas": [
+"Sem preposição antes do substantivo: \"I need money\", nunca \"I need of money\".",
+"Com verbo, use \"to\": \"I need to study\". \"I need study\" está errado.",
+"\"There's no need to…\" é uma forma gentil de dizer \"não precisa…\": \"There's no need to apologize\"."
+],
+"expressoes": [
+[
+"there's no need",
+"não precisa"
+],
+[
+"in need",
+"necessitado"
+],
+[
+"if need be",
+"se for preciso"
+],
+[
+"need a hand",
+"precisar de uma mãozinha"
+],
+[
+"a friend in need",
+"um amigo nas horas difíceis"
+]
+],
+"data": "2026-11-24"
+},
+"mean": {
+"uso": "\"Mean\" é \"significar\" e \"querer dizer\": \"What does this word mean?\" (o que essa palavra significa?) e \"What do you mean?\" (o que você quer dizer?). Também é \"ter a intenção\": \"I didn't mean to hurt you\" (não foi minha intenção te magoar).\n\nNa fala, \"I mean\" é um marcador muito comum, como o nosso \"quer dizer\" ou \"tipo\". E \"mean\" pode expressar importância: \"It means a lot to me\" (isso significa muito para mim). Como adjetivo, \"mean\" é \"maldoso\".",
+"exemplos": [
+[
+"What does \"saudade\" mean in English?",
+"O que \"saudade\" significa em inglês?"
+],
+[
+"What do you mean by that?",
+"O que você quer dizer com isso?"
+],
+[
+"Sorry, I didn't mean to wake you up.",
+"Desculpa, não foi minha intenção te acordar."
+],
+[
+"Your support means a lot to me.",
+"Seu apoio significa muito para mim."
+],
+[
+"Missing the bus means waiting another hour.",
+"Perder o ônibus significa esperar mais uma hora."
+],
+[
+"I've been meaning to call you for weeks.",
+"Faz semanas que quero te ligar."
+]
+],
+"dicas": [
+"\"What does X mean?\" usa o auxiliar does; não diga \"What means X?\".",
+"\"Mean to + verbo\" é ter a intenção: \"I meant to tell you\" (eu ia te contar).",
+"Pronúncia: \"mín\"; passado meant: \"mént\". Como adjetivo, \"Don't be mean\" é \"não seja maldoso\"."
+],
+"expressoes": [
+[
+"I mean",
+"quer dizer; tipo"
+],
+[
+"mean well",
+"ter boas intenções"
+],
+[
+"mean business",
+"falar sério"
+],
+[
+"be meant to",
+"dever; estar destinado a"
+],
+[
+"you know what I mean?",
+"entende o que eu quero dizer?"
+]
+],
+"data": "2026-11-24"
+},
+"stay": {
+"uso": "\"Stay\" é \"ficar\" ou \"permanecer\" num lugar ou estado: \"stay at home\", \"stay calm\". Também é \"hospedar-se\": \"We stayed at a small hotel\" (nos hospedamos num hotelzinho).\n\nCom adjetivos, mostra que algo continua igual: \"stay awake\", \"stay healthy\". Repare que \"ficar\" com sentido de mudança (\"ficou triste\") NÃO é \"stay\", e sim \"get\" ou \"become\": \"She got sad\".",
+"exemplos": [
+[
+"I'm staying home tonight.",
+"Vou ficar em casa hoje à noite."
+],
+[
+"Stay calm and listen to me.",
+"Fique calmo e me escute."
+],
+[
+"We stayed at my cousin's house in Salvador.",
+"Ficamos na casa do meu primo em Salvador."
+],
+[
+"How long are you staying in London?",
+"Quanto tempo você vai ficar em Londres?"
+],
+[
+"She stayed up all night studying.",
+"Ela ficou acordada a noite toda estudando."
+],
+[
+"Let's stay in touch!",
+"Vamos manter contato!"
+]
+],
+"dicas": [
+"\"Ficar\" no sentido de tornar-se é \"get/become\": \"I got angry\" (fiquei bravo), não \"I stayed angry\" (continuei bravo).",
+"Hospedar-se: \"stay at a hotel\" ou \"stay with friends\" (na casa de amigos).",
+"\"Stay up\" é ficar acordado até tarde; \"stay in\" é ficar em casa, não sair."
+],
+"expressoes": [
+[
+"stay in touch",
+"manter contato"
+],
+[
+"stay up",
+"ficar acordado até tarde"
+],
+[
+"stay in",
+"ficar em casa"
+],
+[
+"stay away from",
+"ficar longe de"
+],
+[
+"stay tuned",
+"fique ligado; não saia daí"
+]
+],
+"data": "2026-11-24"
+},
+"shut": {
+"uso": "\"Shut\" é \"fechar\", muito parecido com \"close\". Costuma soar um pouco mais firme ou informal: \"shut the door\", \"shut your eyes\". Para lojas e empresas, \"shut down\" é fechar de vez ou desligar (um computador, uma máquina).\n\n\"Shut up\" é \"cale a boca\" e é grosseiro em muitos contextos; entre amigos, pode ser só surpresa (\"Shut up! Sério?\"). As três formas são iguais: shut, shut, shut.",
+"exemplos": [
+[
+"Please shut the window, it's cold.",
+"Por favor, feche a janela, está frio."
+],
+[
+"Shut your eyes and make a wish.",
+"Feche os olhos e faça um pedido."
+],
+[
+"The factory shut down in 2019.",
+"A fábrica fechou em 2019."
+],
+[
+"Make sure you shut down the computer before you leave.",
+"Não esqueça de desligar o computador antes de sair."
+],
+[
+"The shops are shut on Sundays.",
+"As lojas ficam fechadas aos domingos."
+],
+[
+"He shut himself in his room all afternoon.",
+"Ele se trancou no quarto a tarde toda."
+]
+],
+"dicas": [
+"\"Shut up\" pode ofender. Para pedir silêncio com educação, diga \"Could you be quiet, please?\".",
+"Shut, shut, shut: igual nas três formas. O gerúndio dobra o t: shutting.",
+"Para negócios e coisas abstratas prefira \"close\": \"close a deal\", \"close an account\". \"Shut\" é mais físico: portas, janelas, olhos, boca."
+],
+"expressoes": [
+[
+"shut down",
+"desligar; fechar de vez"
+],
+[
+"shut up",
+"calar a boca (rude)"
+],
+[
+"shut out",
+"excluir; deixar de fora"
+],
+[
+"shut off",
+"cortar (água, luz); desligar"
+],
+[
+"keep your mouth shut",
+"ficar de boca fechada"
+]
+],
+"data": "2026-11-24"
 }
 }
