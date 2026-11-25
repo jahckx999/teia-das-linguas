@@ -3896,5 +3896,135 @@
         ]
       }
     ]
+  },
+  {
+    "id": "phrasal-verbs-do-dia-a-dia",
+    "nivel": "A2",
+    "titulo": "Phrasal verbs do dia a dia: get up, turn on, pick up e companhia",
+    "resumo": "Os phrasal verbs mais usados na rotina: acordar e levantar, ligar e desligar aparelhos, pegar e devolver coisas. Veja como eles funcionam, onde colocar o objeto e como evitar as traduções literais.",
+    "data": "2026-11-25",
+    "blocos": [
+      {
+        "titulo": "O que é um phrasal verb",
+        "paragrafos": [
+          "Phrasal verb é um verbo acompanhado de uma partícula (up, down, on, off, out, back...) que, juntos, formam um sentido novo. \"Get\" é conseguir, mas \"get up\" é levantar-se. \"Give\" é dar, mas \"give up\" é desistir.",
+          "Por isso não vale traduzir palavra por palavra: aprenda cada phrasal verb como se fosse um verbo novo, sempre dentro de uma frase. Na fala do dia a dia eles são muito mais comuns que os equivalentes formais (\"wake up\" em vez de \"awaken\")."
+        ],
+        "exemplos": [
+          [
+            "I get up at seven every day.",
+            "Eu me levanto às sete todos os dias."
+          ],
+          [
+            "Don't give up! You're almost there.",
+            "Não desista! Você está quase lá."
+          ],
+          [
+            "What time did you wake up?",
+            "Que horas você acordou?"
+          ]
+        ]
+      },
+      {
+        "titulo": "A rotina da manhã à noite",
+        "paragrafos": [
+          "Alguns phrasal verbs contam um dia inteiro: wake up (acordar), get up (levantar), get dressed (vestir-se), go out (sair), come back (voltar), sit down (sentar-se), lie down (deitar-se) e stay up (ficar acordado até tarde).",
+          "Repare na diferença entre wake up e get up: o primeiro é abrir os olhos, o segundo é sair da cama. Dá para acordar às seis e só levantar às sete."
+        ],
+        "exemplos": [
+          [
+            "I wake up at six, but I get up at seven.",
+            "Eu acordo às seis, mas só levanto às sete."
+          ],
+          [
+            "We usually go out on Friday nights.",
+            "A gente costuma sair nas sextas à noite."
+          ],
+          [
+            "What time are you coming back?",
+            "Que horas você volta?"
+          ],
+          [
+            "I stayed up late watching a series.",
+            "Fiquei acordado até tarde vendo uma série."
+          ]
+        ]
+      },
+      {
+        "titulo": "Aparelhos: turn on, turn off, turn up, turn down",
+        "paragrafos": [
+          "Para ligar e desligar luzes, TV, ar-condicionado ou o celular, use turn on e turn off (também switch on/off). Para aumentar e abaixar o volume ou a temperatura, use turn up e turn down.",
+          "Um erro comum é dizer \"open the light\" ou \"close the TV\", copiando o português informal \"abrir/fechar\". Em inglês, luz e aparelho se ligam e desligam: turn on the light, turn off the TV."
+        ],
+        "exemplos": [
+          [
+            "Can you turn on the light, please?",
+            "Você pode acender a luz, por favor?"
+          ],
+          [
+            "Turn off your phone during the movie.",
+            "Desligue o celular durante o filme."
+          ],
+          [
+            "Could you turn the music down a little?",
+            "Você pode abaixar um pouco a música?"
+          ],
+          [
+            "It's cold. Let's turn up the heating.",
+            "Está frio. Vamos aumentar o aquecedor."
+          ]
+        ]
+      },
+      {
+        "titulo": "Onde vai o objeto",
+        "paragrafos": [
+          "Muitos phrasal verbs aceitam o objeto antes ou depois da partícula: \"pick up the kids\" ou \"pick the kids up\" (buscar as crianças), \"put on your jacket\" ou \"put your jacket on\" (vestir a jaqueta).",
+          "Mas, se o objeto for um pronome (it, them, her, him), ele obrigatoriamente fica no meio: \"pick them up\", \"turn it off\", \"put it on\". Dizer \"turn off it\" está errado."
+        ],
+        "exemplos": [
+          [
+            "I'll pick the kids up after school.",
+            "Vou buscar as crianças depois da aula."
+          ],
+          [
+            "Put your coat on, it's raining.",
+            "Vista o casaco, está chovendo."
+          ],
+          [
+            "The TV is too loud. Turn it down!",
+            "A TV está alta demais. Abaixa!"
+          ],
+          [
+            "Where are my keys? I can't find them. Oh, I put them away.",
+            "Cadê minhas chaves? Não acho. Ah, eu guardei."
+          ]
+        ]
+      },
+      {
+        "titulo": "Pegar, devolver e procurar",
+        "paragrafos": [
+          "Mais alguns essenciais: pick up (pegar do chão; buscar alguém), put away (guardar no lugar), give back (devolver), look for (procurar), find out (descobrir uma informação) e try on (experimentar roupa).",
+          "Atenção a look for: ele é inseparável, o objeto vem sempre depois (\"I'm looking for my glasses\"). Já find out é usado para informações: \"I found out the truth\" (descobri a verdade)."
+        ],
+        "exemplos": [
+          [
+            "Can I try this shirt on?",
+            "Posso experimentar esta camisa?"
+          ],
+          [
+            "Please give the book back when you finish.",
+            "Por favor, devolva o livro quando terminar."
+          ],
+          [
+            "I'm looking for a pharmacy. Is there one near here?",
+            "Estou procurando uma farmácia. Tem alguma aqui perto?"
+          ],
+          [
+            "She found out about the party and got upset.",
+            "Ela descobriu sobre a festa e ficou chateada."
+          ]
+        ]
+      }
+    ]
   }
 ]
