@@ -4026,5 +4026,128 @@
         ]
       }
     ]
+  },
+  {
+    "id": "zero-first-conditional-if-unless-when",
+    "nivel": "B1",
+    "titulo": "Zero e first conditional: if, unless, when e as soon as",
+    "resumo": "Como falar de verdades gerais e de consequências prováveis no futuro. Aprenda a regra de ouro (nada de will depois de if), a diferença entre if e when e como usar unless, as soon as e in case.",
+    "data": "2026-11-26",
+    "blocos": [
+      {
+        "titulo": "Zero conditional: o que sempre acontece",
+        "paragrafos": [
+          "O zero conditional descreve fatos, regras e hábitos: sempre que a condição acontece, o resultado também acontece. A estrutura é simples: if + presente simples, presente simples.",
+          "Aqui \"if\" quase significa \"when\" (sempre que). É o tipo de frase usado em ciência, instruções e rotinas: \"Se você aquece gelo, ele derrete.\""
+        ],
+        "exemplos": [
+          [
+            "If you heat ice, it melts.",
+            "Se você aquece gelo, ele derrete."
+          ],
+          [
+            "If I drink coffee at night, I can't sleep.",
+            "Se eu tomo café à noite, não consigo dormir."
+          ],
+          [
+            "Plants die if they don't get water.",
+            "As plantas morrem se não recebem água."
+          ]
+        ]
+      },
+      {
+        "titulo": "First conditional: consequências prováveis no futuro",
+        "paragrafos": [
+          "O first conditional fala de uma situação futura real ou possível e do resultado provável. Estrutura: if + presente simples, will (ou can, may, might, should) + verbo.",
+          "A regra de ouro: depois de \"if\" usamos o presente, mesmo falando do futuro. Em português dizemos \"se chover\", com futuro do subjuntivo; em inglês é \"if it rains\", nunca \"if it will rain\".",
+          "A ordem das orações pode mudar. Quando o \"if\" vem primeiro, use vírgula; quando vem no meio, normalmente não há vírgula."
+        ],
+        "exemplos": [
+          [
+            "If it rains tomorrow, we'll stay at home.",
+            "Se chover amanhã, vamos ficar em casa."
+          ],
+          [
+            "You'll miss the bus if you don't hurry.",
+            "Você vai perder o ônibus se não se apressar."
+          ],
+          [
+            "If she calls, I might go out with her.",
+            "Se ela ligar, talvez eu saia com ela."
+          ],
+          [
+            "If you finish early, you can leave.",
+            "Se você terminar cedo, pode ir embora."
+          ]
+        ]
+      },
+      {
+        "titulo": "If ou when? A diferença está na certeza",
+        "paragrafos": [
+          "\"If\" indica que algo talvez aconteça; \"when\" indica que vai acontecer, só falta o momento. \"If I see John\" (se eu vir o John, pode ser que não) é diferente de \"When I see John\" (quando eu vir o John, eu vou ver).",
+          "As orações de tempo seguem a mesma regra de ouro: depois de when, as soon as, before, after e until, use o presente para falar do futuro."
+        ],
+        "exemplos": [
+          [
+            "When I get home, I'll call you.",
+            "Quando eu chegar em casa, te ligo."
+          ],
+          [
+            "If I get the job, I'll move to São Paulo.",
+            "Se eu conseguir o emprego, vou me mudar para São Paulo."
+          ],
+          [
+            "I'll send you the file as soon as I finish it.",
+            "Vou te mandar o arquivo assim que terminar."
+          ],
+          [
+            "Wait here until the doctor arrives.",
+            "Espere aqui até o médico chegar."
+          ]
+        ]
+      },
+      {
+        "titulo": "Unless, in case e provided that",
+        "paragrafos": [
+          "\"Unless\" significa \"a menos que\" ou \"se não\". Como já é negativo, o verbo que vem depois fica na afirmativa: \"unless you study\" = \"if you don't study\".",
+          "\"In case\" é \"caso\" no sentido de precaução: fazemos algo antes, para o caso de outra coisa acontecer. Já \"provided that\" e \"as long as\" significam \"desde que\" e impõem uma condição."
+        ],
+        "exemplos": [
+          [
+            "You won't pass unless you study.",
+            "Você não vai passar a menos que estude."
+          ],
+          [
+            "Take an umbrella in case it rains.",
+            "Leve um guarda-chuva caso chova."
+          ],
+          [
+            "You can borrow my car as long as you drive carefully.",
+            "Você pode pegar meu carro emprestado desde que dirija com cuidado."
+          ]
+        ]
+      },
+      {
+        "titulo": "Erros comuns de brasileiros",
+        "paragrafos": [
+          "O erro número um é colocar \"will\" depois de \"if\" ou \"when\": \"When I will arrive\" está errado; o certo é \"When I arrive\". Outro deslize é usar \"unless\" com negativa (\"unless you don't call\"), o que cria uma dupla negação.",
+          "Para praticar, complete em voz alta: \"If I have time this weekend, I'll...\" e \"As soon as I get paid, I'll...\". Frases sobre a sua vida fixam a estrutura muito mais rápido."
+        ],
+        "exemplos": [
+          [
+            "When I arrive, I'll text you. (não: When I will arrive)",
+            "Quando eu chegar, te mando mensagem."
+          ],
+          [
+            "I'll be there at eight unless the traffic is terrible.",
+            "Estarei lá às oito, a menos que o trânsito esteja terrível."
+          ],
+          [
+            "If I have time this weekend, I'll visit my grandparents.",
+            "Se eu tiver tempo neste fim de semana, vou visitar meus avós."
+          ]
+        ]
+      }
+    ]
   }
 ]
