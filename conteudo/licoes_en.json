@@ -4149,5 +4149,131 @@
         ]
       }
     ]
+  },
+  {
+    "id": "passiva-de-relato-it-is-said-he-is-thought-to",
+    "nivel": "B2",
+    "titulo": "Passiva de relato: it is said that, he is thought to e companhia",
+    "resumo": "Como contar o que \"dizem por aí\" sem citar a fonte, no estilo do noticiário. Aprenda as duas estruturas (it is said that… e he is said to…), o infinitivo perfeito para o passado e os verbos que mais aparecem nesse uso.",
+    "data": "2026-11-27",
+    "blocos": [
+      {
+        "titulo": "Para que serve: informação sem dono",
+        "paragrafos": [
+          "Em português dizemos \"dizem que\", \"acredita-se que\" ou \"segundo consta\". Em inglês, o equivalente mais elegante é a passiva de relato, muito usada em jornais, relatórios e textos formais quando a fonte é vaga, desconhecida ou não importa.",
+          "Os verbos mais comuns nessa estrutura são say, think, believe, know, report, expect, consider, estimate, allege, claim e understand."
+        ],
+        "exemplos": [
+          [
+            "People say that the mayor is resigning.",
+            "Dizem que o prefeito vai renunciar."
+          ],
+          [
+            "It is said that the mayor is resigning.",
+            "Diz-se que o prefeito vai renunciar."
+          ],
+          [
+            "The mayor is said to be resigning.",
+            "Dizem que o prefeito está renunciando."
+          ]
+        ]
+      },
+      {
+        "titulo": "Estrutura 1: It + passiva + that",
+        "paragrafos": [
+          "A forma mais fácil começa com o sujeito vazio \"it\": It is + particípio + that + oração completa. A oração depois de \"that\" fica exatamente como seria numa frase normal, com o tempo verbal que você precisar.",
+          "Para relatos do passado, basta colocar o verbo de relato no passado: \"It was believed that…\" (acreditava-se que…)."
+        ],
+        "exemplos": [
+          [
+            "It is believed that the painting was stolen last night.",
+            "Acredita-se que o quadro tenha sido roubado ontem à noite."
+          ],
+          [
+            "It is expected that prices will rise next year.",
+            "Espera-se que os preços subam no ano que vem."
+          ],
+          [
+            "It was reported that two people had been injured.",
+            "Foi noticiado que duas pessoas tinham ficado feridas."
+          ],
+          [
+            "It is estimated that millions of birds migrate every year.",
+            "Estima-se que milhões de aves migrem todo ano."
+          ]
+        ]
+      },
+      {
+        "titulo": "Estrutura 2: sujeito + passiva + to + infinitivo",
+        "paragrafos": [
+          "A forma mais compacta coloca a pessoa ou coisa como sujeito: He is said to…, The company is thought to…. Ela soa mais natural no inglês jornalístico e exige escolher bem o infinitivo.",
+          "Use \"to + verbo\" quando o fato é simultâneo ao relato ou futuro: \"She is thought to live in Paris\". Use \"to be + -ing\" para uma ação em andamento: \"He is believed to be hiding abroad\"."
+        ],
+        "exemplos": [
+          [
+            "She is thought to live in Lisbon now.",
+            "Acredita-se que ela more em Lisboa agora."
+          ],
+          [
+            "The suspect is believed to be hiding in the mountains.",
+            "Acredita-se que o suspeito esteja escondido nas montanhas."
+          ],
+          [
+            "The new stadium is expected to open in March.",
+            "A previsão é que o novo estádio seja inaugurado em março."
+          ],
+          [
+            "He is considered to be one of the best surgeons in the country.",
+            "Ele é considerado um dos melhores cirurgiões do país."
+          ]
+        ]
+      },
+      {
+        "titulo": "Falando do passado: to have + particípio",
+        "paragrafos": [
+          "Quando o fato relatado aconteceu antes do momento do relato, use o infinitivo perfeito: to have + particípio. \"He is said to have left\" = dizem que ele foi embora.",
+          "Compare: \"He is said to be rich\" (dizem que ele é rico, hoje) e \"He is said to have been rich\" (dizem que ele foi rico, no passado). Para ação passada em andamento, use \"to have been + -ing\"."
+        ],
+        "exemplos": [
+          [
+            "The thieves are reported to have escaped through the roof.",
+            "Segundo as notícias, os ladrões fugiram pelo telhado."
+          ],
+          [
+            "Shakespeare is known to have written 37 plays.",
+            "Sabe-se que Shakespeare escreveu 37 peças."
+          ],
+          [
+            "The driver is alleged to have been using his phone.",
+            "Alega-se que o motorista estava usando o celular."
+          ],
+          [
+            "The castle was thought to have been built in the 12th century.",
+            "Achava-se que o castelo tinha sido construído no século XII."
+          ]
+        ]
+      },
+      {
+        "titulo": "Cuidados e erros comuns",
+        "paragrafos": [
+          "Não misture as duas estruturas: diga \"It is said that he is rich\" ou \"He is said to be rich\", nunca \"He is said that he is rich\".",
+          "A expressão \"be supposed to\" merece atenção: \"He is supposed to be here\" costuma significar \"ele deveria estar aqui\" (obrigação ou expectativa), não apenas \"dizem que\". E lembre que na fala do dia a dia o mais comum continua sendo \"people say\", \"they say\" ou \"apparently\"; a passiva de relato é marca de registro formal."
+        ],
+        "exemplos": [
+          [
+            "Apparently, they're getting married.",
+            "Pelo visto, eles vão se casar."
+          ],
+          [
+            "You're supposed to be at work by nine.",
+            "Você deveria estar no trabalho às nove."
+          ],
+          [
+            "The minister is understood to have accepted the offer.",
+            "Sabe-se, extraoficialmente, que o ministro aceitou a proposta."
+          ]
+        ]
+      }
+    ]
   }
 ]
