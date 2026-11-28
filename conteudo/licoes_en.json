@@ -4275,5 +4275,143 @@
         ]
       }
     ]
+  },
+  {
+    "id": "verbos-preposicao-dependente-account-for-refrain-from",
+    "nivel": "C1",
+    "titulo": "Verbos com preposição fixa: account for, object to, refrain from e companhia",
+    "resumo": "No nível avançado, o que denuncia o estrangeiro raramente é o vocabulário: é a preposição errada depois do verbo. Veja os verbos de regência fixa mais usados em textos formais, as armadilhas causadas pelo português e o detalhe que mais confunde: quando a preposição é \"to\" e o verbo seguinte vai para -ing.",
+    "data": "2026-11-28",
+    "blocos": [
+      {
+        "titulo": "Por que a preposição não se traduz",
+        "paragrafos": [
+          "Muitos verbos ingleses exigem uma preposição específica antes do complemento, e ela quase nunca coincide com a do português. Dizemos \"depender de\", mas o inglês diz \"depend on\"; dizemos \"consistir em\", e o inglês diz \"consist of\".",
+          "A única estratégia segura é aprender o verbo junto com a preposição, como um bloco: \"account for\", \"insist on\", \"refrain from\". Repare também que, quando a preposição é seguida por um verbo, esse verbo vai sempre para a forma -ing."
+        ],
+        "exemplos": [
+          [
+            "The final price depends on the exchange rate.",
+            "O preço final depende da taxa de câmbio."
+          ],
+          [
+            "The committee consists of seven members.",
+            "O comitê é composto por sete membros."
+          ],
+          [
+            "She insisted on paying for dinner.",
+            "Ela fez questão de pagar o jantar."
+          ]
+        ]
+      },
+      {
+        "titulo": "Verbos de explicação e atribuição",
+        "paragrafos": [
+          "Em relatórios, artigos e reuniões, alguns verbos aparecem o tempo todo. \"Account for\" significa explicar ou justificar e também representar uma parte de um total. \"Attribute something to\" é atribuir algo a uma causa ou pessoa. \"Result in\" indica a consequência, e \"result from\" indica a causa.",
+          "Confundir \"result in\" com \"result from\" inverte o sentido da frase, por isso vale a pena memorizar: a causa vem antes de \"in\", e a consequência vem antes de \"from\"."
+        ],
+        "exemplos": [
+          [
+            "Exports account for 40% of the country's income.",
+            "As exportações representam 40% da renda do país."
+          ],
+          [
+            "How do you account for the delay?",
+            "Como você explica o atraso?"
+          ],
+          [
+            "Experts attribute the drop in sales to higher interest rates.",
+            "Os especialistas atribuem a queda nas vendas aos juros mais altos."
+          ],
+          [
+            "The heavy rain resulted in severe flooding.",
+            "A chuva forte resultou em enchentes graves."
+          ],
+          [
+            "The flooding resulted from weeks of heavy rain.",
+            "As enchentes resultaram de semanas de chuva forte."
+          ]
+        ]
+      },
+      {
+        "titulo": "A armadilha do \"to\" que não é infinitivo",
+        "paragrafos": [
+          "Em alguns verbos, \"to\" é preposição, não a marca do infinitivo. Por isso o verbo seguinte vai para -ing: \"object to working\", \"look forward to seeing\", \"be committed to improving\", \"resort to using\". Dizer \"I look forward to see you\" é um dos erros mais comuns até em níveis avançados.",
+          "Um teste simples: se você consegue colocar um substantivo depois do \"to\" (\"I object to the plan\"), então ele é preposição e pede -ing quando vier um verbo."
+        ],
+        "exemplos": [
+          [
+            "Many employees objected to working on Sundays.",
+            "Muitos funcionários se opuseram a trabalhar aos domingos."
+          ],
+          [
+            "I look forward to hearing from you.",
+            "Fico no aguardo do seu retorno."
+          ],
+          [
+            "The company is committed to reducing its emissions.",
+            "A empresa está comprometida em reduzir suas emissões."
+          ],
+          [
+            "They had to resort to borrowing money from relatives.",
+            "Eles tiveram que recorrer a empréstimos de parentes."
+          ]
+        ]
+      },
+      {
+        "titulo": "Verbos de abstenção e proteção: from",
+        "paragrafos": [
+          "Um grupo grande de verbos usa \"from\" com a ideia de afastar, impedir ou proteger: \"refrain from\" (abster-se de), \"prevent someone from\" (impedir alguém de), \"discourage someone from\" (desencorajar alguém de), \"protect against/from\" e \"benefit from\" (beneficiar-se de).",
+          "\"Refrain from\" é típico de avisos formais e de linguagem institucional; numa conversa, o mais natural seria \"please don't\"."
+        ],
+        "exemplos": [
+          [
+            "Passengers are asked to refrain from smoking.",
+            "Pede-se aos passageiros que se abstenham de fumar."
+          ],
+          [
+            "Nothing will prevent us from finishing on time.",
+            "Nada vai nos impedir de terminar no prazo."
+          ],
+          [
+            "Small businesses will benefit from the new tax rules.",
+            "As pequenas empresas vão se beneficiar das novas regras fiscais."
+          ],
+          [
+            "Her parents discouraged her from studying abroad.",
+            "Os pais a desencorajaram de estudar no exterior."
+          ]
+        ]
+      },
+      {
+        "titulo": "Falsos paralelos com o português",
+        "paragrafos": [
+          "Alguns verbos parecem pedir a preposição do português, mas no inglês ela é outra ou simplesmente não existe. \"Discuss\" e \"enter\" não levam preposição (discutir sobre = discuss; entrar em = enter). \"Approve of\" é aprovar no sentido de concordar com algo; já \"approve\" sem preposição é aprovar oficialmente.",
+          "Outros pares úteis: \"comply with\" (cumprir, obedecer a), \"specialise in\" (especializar-se em), \"cope with\" (lidar com), \"dispose of\" (descartar, livrar-se de) e \"amount to\" (equivaler a, chegar a)."
+        ],
+        "exemplos": [
+          [
+            "We discussed the proposal for two hours.",
+            "Discutimos a proposta por duas horas."
+          ],
+          [
+            "My father doesn't approve of my new job.",
+            "Meu pai não aprova meu emprego novo."
+          ],
+          [
+            "The board approved the budget yesterday.",
+            "A diretoria aprovou o orçamento ontem."
+          ],
+          [
+            "All suppliers must comply with the new safety standards.",
+            "Todos os fornecedores devem cumprir as novas normas de segurança."
+          ],
+          [
+            "His comments amount to an accusation.",
+            "Os comentários dele equivalem a uma acusação."
+          ]
+        ]
+      }
+    ]
   }
 ]
